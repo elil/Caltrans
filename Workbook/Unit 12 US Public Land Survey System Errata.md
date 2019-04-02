@@ -1,5 +1,5 @@
-`On page 17 where is says:
-	Dimensions by inverse:
+`On page 17 where is says:`
+	`Dimensions by inverse:`
 		A.
 		B.
 		C. S89º 31' 7" W
