@@ -1,0 +1,14 @@
+
+Notes for using Scite and regular expressions (and other replacement options):
+CRLF to LF
+replace $ with |
+replace \n with |
+replace |[0-9] with \n
+replace | with \t
+fix misalignments, usually around numbers in the content
+alt-select to vertically reinsert tens digit
+
+
+
+
+
