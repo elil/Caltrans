@@ -1,0 +1,924 @@
+
+0:29		you	
+0:49		welcome to Caltrans lsi TLS exam	
+0:52		preparation course one aid in your	
+0:55		preparation for California licensure	
+0:58		examinations or word of caution don't	
+1:01		use this course as your only preparation	
+1:04		devise and follow a regular schedule of	
+1:07		study which begins months before the	
+1:09		test what many problems in each area not	
+1:14		just those in this courses workbook but	
+1:17		problems from other sources as well	
+1:19		this course is funded by Caltrans but	
+1:23		you and I owe a profound thanks to	
+1:26		others the courses instructors from the	
+1:29		academic community the private sector	
+1:31		other public agencies and from Caltrans	
+1:34		as well we wish you well in your study	
+1:38		toward becoming a member of California's	
+1:40		professional land surveying community hi	
+1:46		welcome to the photogrammetry unit of	
+1:49		the Caltrans video training course my	
+1:53		name is dick burns I'm chief of the	
+1:55		headquarters photogrammetry section for	
+1:57		Caltrans in this training unit we will	
+2:01		be demonstrating or reviewing basic	
+2:04		photogrammetry concepts as applied to	
+2:07		surveying practice definition	
+2:12		photogrammetry is the art science and	
+2:15		technology of obtaining reliable	
+2:17		information about physical objects and	
+2:20		the environment through processes of	
+2:23		recording measuring and interpreting	
+2:26		photographic images and patterns of	
+2:29		electromagnetic radiant energy and other	
+2:32		phenomena this definition is from the	
+2:35		fourth edition manual photogrammetry	
+2:38		published by the American Society of	
+2:40		photogrammetry and remote sensing	
+2:44		applications in the field of land	
+2:47		surveying we are primarily concerned	
+2:49		with the photogrammetric applications	
+2:52		involving aerial photography and mapping	
+2:56		including the ground location of	
+2:58		physical objects lines and points and	
+3:03		the determination of earthward	
+3:05		quantities course objectives the	
+3:10		objectives of this course are to	
+3:12		acquaint the student with the basic	
+3:14		principles of photogrammetry in order to	
+3:16		gain the understanding to plan the	
+3:19		execution of photogrammetric projects as	
+3:21		required on the land surveyors	
+3:23		examination this video will provide the	
+3:28		first step in your understanding of the	
+3:30		photogrammetry process however to be	
+3:34		able to confidently solve the	
+3:35		photogrammetry problems on the land	
+3:38		surveyors test you will need	
+3:40		considerably more study in practice now	
+3:43		let's begin to examine the basic	
+3:45		principles of photogrammetry number one	
+3:49		cameras the aerial camera is a vital	
+3:53		part of the photogrammetric mapping	
+3:55		process the metric quality aerial	
+3:58		cameras use four photogrammetric mapping	
+4:01		are very precise instruments with	
+4:04		virtually no distortion from the object	
+4:06		space ground to the image space	
+4:09		photograph here we see the camera being	
+4:13		loaded and mounted in the aircraft by	
+4:15		the pilot and aerial photographer the	
+4:19		mapping cameras come in several focal	
+4:21		lengths for common focal lengths are	
+4:24		three and a half inch considered in	
+4:27		photogrammetry to be a super wide angle	
+4:30		six inch wide angle eight and a quarter	
+4:34		inch normal angle and the twelve inch	
+4:37		narrow angle with a six-inch camera by	
+4:40		far the most widely used most of the	
+4:44		aerial cameras currently in use are	
+4:46		manufactured in Switzerland and Germany	
+4:48		and new cameras are priced in the	
+4:51		$300,000 range focal length the focal	
+4:57		length of a camera affects the scale of	
+5:00		the photography for a given flying	
+5:02		height and the angle of coverage of the	
+5:04		photograph the three and a half inch and	
+5:07		six inch cameras	
+5:09		would be considered as wide-angle lenses	
+5:11		in a commonly used 35-millimeter camera	
+5:15		while the eight and a quarter-inch would	
+5:18		be the normal lens and the 12-inch would	
+5:21		be more like a telephoto as with	
+5:25		hand-held 35 millimeter cameras the	
+5:28		longer the focal length the greater the	
+5:31		magnification and the smaller the field	
+5:33		of view conversely the shorter focal	
+5:37		length yields less magnification and a	
+5:41		wider viewing angle in this graphic we	
+5:45		see the comparison of the photo scales	
+5:48		of 6 and 12 inch cameras flown from the	
+5:52		same flying height the 12-inch camera	
+5:56		yields a scale twice as large as a	
+5:59		six-inch camera and covers one quarter	
+6:03		of the area here we see the comparison	
+6:06		between the eight and a quarter and	
+6:09		three and a half inch cameras note that	
+6:12		the three and a half inch camera covers	
+6:14		a large area at a small scale similar to	
+6:18		a 35 millimeter wide angle lens flying	
+6:25		height focal length relationship here we	
+6:30		see four cameras flying at different	
+6:32		altitudes but photographing at the same	
+6:36		scale compared to a six-inch focal	
+6:39		length camera a longer focal length lens	
+6:42		will allow a higher flying height and a	
+6:46		shorter focal length lens will allow a	
+6:48		lower flying height all yielding the	
+6:51		same photo scale in this presentation we	
+6:56		will direct your attention to the	
+6:58		six-inch focal length camera due to its	
+7:01		extensive use but you should be aware of	
+7:04		the capabilities of other mapping	
+7:06		cameras format the cameras we will be	
+7:13		concerned with in this presentation will	
+7:16		have a nine inch by nine inch format	
+7:23		all aerial mapping cameras have fiducial	
+7:27		marks usually eight around the perimeter	
+7:30		of the camera frame which appear in the	
+7:32		photographs a small white measurement	
+7:34		points the main purposes of the fiducial	
+7:38		marks are to define the optical center	
+7:40		of the camera lens and to check for film	
+7:42		distortion and film flatness in the	
+7:45		focal plane the cameras are calibrated	
+7:50		by the US Geological Survey for lens	
+7:53		distortion fiducial mark coordinates	
+7:56		model flatness and other parameters	
+8:00		number to scale map and photo scales are	
+8:06		expressed in various forms such as 1	
+8:09		inch equals 250 feet one to three	
+8:14		thousand one inch over 250 feet 100	
+8:20		scale or 1 inch equals 4 miles these	
+8:26		various forms of scale represent units	
+8:29		on the map or photograph in relation to	
+8:32		units on the ground the large scale	
+8:36		small scale relationship can be	
+8:39		confusing for example one inch equals	
+8:43		fifty feet is a larger scale than one	
+8:46		inch equals a hundred feet some methods	
+8:50		to visualize and remember this	
+8:52		relationship are that a building as	
+8:55		shown here would appear larger on a 50	
+8:58		scale map then the same building would	
+9:01		on a hundred scale map or that the ratio	
+9:04		 to 600 representing a 50 scale map is	
+9:08		larger than 1 to 1200 for 100 scale map	
+9:13		to plan a photogrammetric project and	
+9:17		check the photography for usability on	
+9:20		the project the scale relationship must	
+9:23		be understood basic formulas	
+9:29		s equals F over H minus small H where s	
+9:33		equals scale F equals focal length of	
+9:37		the camera H equals flying height above	
+9:40		sea level and small H is the elevation	
+9:44		the mean terrain this is the basic scale	
+9:49		formula and it is derived as shown on	
+9:51		this diagram small D is a distance on	
+9:56		the photograph and D is a corresponding	
+9:59		distance on the ground by corresponding	
+0:04		sides of similar triangles being	
+0:06		proportional small D over D equals F	
+0:11		over H minus small H or since small D	
+0:16		over D equals scale then s equals F over	
+0:23		H minus small H scale is also expressed	
+0:27		as a denominator with 1 as a numerator	
+0:30		such as 1 over 3,000 a ratio 1 of any	
+0:37		unit on the map or photograph equals	
+0:40		,000 of the same units on the ground or	
+0:43		with units such as one inch over 250	
+0:48		feet frequently we know the scale and	
+0:51		need to solve for the flying height	
+0:53		above sea level H therefore we can	
+0:57		convert the basic scale formula as in	
+1:00		the middle equation in the graphic to 1	
+1:04		over x equals F over H minus small H	
+1:08		with X representing the scale	
+1:11		denominator with 1 as the numerator and	
+1:14		solve for H cross multiplying we have H	
+1:20		minus small H equals x times F solving	
+1:24		for H we have H equals x times F plus	
+1:29		small H now let's take time to look at	
+1:33		the diagram again and see that scale can	
+1:37		be in these three forms s equals F over	
+1:41		H minus small a	
+1:43		H equals small D over D and equals when	
+1:49		the numerator is reduced to unity 1 over	
+1:52		X when the scale is reduced to unity 1	
+1:57		over X is actually the reciprocal of	
+2:00		small D over D although it is not shown	
+2:05		on the graphic f is often stated in	
+2:08		millimeters so the number of millimeters	
+2:11		per inch 25.4 is a number which should	
+2:16		be among those committed to memory again	
+2:20		remember that S can be in these three	
+2:24		forms F over H minus small H small D	
+2:30		over D and 1 over X now we will take a	
+2:35		few seconds to absorb these	
+2:37		relationships	
+2:49		number three flying height when planning	
+2:53		a photogrammetric project the flying	
+2:55		heights may be computed by returning to	
+2:57		the basic scale formula or solving	
+3:00		directly for H as shown above for	
+3:03		example to photograph at a scale of 1	
+3:06		inch equals 250 feet with a 6 inch focal	
+3:10		length camera over terrain with a mean	
+3:13		elevation of 1,200 feet what is the	
+3:15		required flying height above sea level H	
+3:19		we can start at the beginning basic	
+3:22		formula and go through all the steps	
+3:25		using these numbers or go to the bottom	
+3:28		formula and solve directly for H let's	
+3:31		do that h equals x times F plus small H	
+3:37		or H equals 250 times 6 which is 1500	
+3:43		plus 1200 the mean terrain elevation so	
+3:47		H equals 2700 feet now we can also solve	
+3:52		the equation by converting all the	
+3:54		numbers to feet if one inch equals 250	
+3:59		feet then one foot on the photo will	
+4:02		equal 12 times 250 or 3000 feet on the	
+4:07		ground here the scale is a ratio of 1 to	
+4:11		,000 the 6-inch focal length will	
+4:15		convert to 0.5 feet the equation will be	
+4:20		H equals x times F plus small H which is	
+4:24		H equals 3,000 times 0.5 plus 1200 or H	
+4:32		equals 1500 plus 1200 and again H equals	
+4:38		,700 feet	
+4:41		to verify that the photography was flown	
+4:44		at the correct altitude for the project	
+4:47		again solve for H if the photography has	
+4:51		pre marks with known coordinates divide	
+4:54		the ground distance in feet D by the	
+4:57		photo distance in inches small D	
+5:00		this is the reciprocal of small D over D	
+5:05		reducing the photo scale to unity and	
+5:08		determining X then multiply the result	
+5:12		by the focal length in inches and add	
+5:15		the mean premark elevation the result of	
+5:20		these calculations is the flying height	
+5:23		above sea level if the control values	
+5:26		for the photograph are not available at	
+5:29		the time of checking the ground distance	
+5:32		between features on the photo can be	
+5:35		determined from a quad map terrain	
+5:38		height terrain height small H is the	
+5:42		mean elevation of the mapping area along	
+5:45		the flightline terrain height is	
+5:48		normally determined from a usgs quad map	
+5:53		or other contour maps c factor c factor	
+5:59		is the flying height above the mean	
+6:02		terrain divided by the contour interval	
+6:04		H minus small H over the contour	
+6:09		interval C factor is the formula to	
+6:12		determine the accuracy of the entire	
+6:14		photogrammetric system including the	
+6:17		flying height the camera the film and	
+6:21		film processing the Daiya positive and	
+6:23		di'ja positive processing the	
+6:27		photogrammetric mapping instrument and	
+6:29		the instrument operator 1500 is a	
+6:34		conservative maximum c factor this means	
+6:38		with the flying height above mean	
+6:41		terrain of 1500 a one foot contour map	
+6:45		may be produced or at 3,000 feet a two	
+6:50		foot contour map some photogrammetry	
+6:54		firms have stated much higher C factors	
+6:57		up to and above 2500 these claims are	
+7:03		made for economic reasons such as fly	
+7:06		higher less ground control and fewer	
+7:09		models etc these are all strong	
+7:13		incentives to state a higher	
+7:14		factor then can be realistically	
+7:17		achieved and the use of C factors higher	
+7:21		than 1500 must be considered on that	
+7:24		basis	
+7:25		flying tolerances an aircraft on an	
+7:29		aerial photography mission cannot fly	
+7:32		exactly at the plan flight line at the	
+7:38		planned altitude and must be given a	
+7:41		reasonable amount of allowable error	
+7:44		Caltrans uses one-half inch at photo	
+7:48		scale on either side of the flight line	
+7:50		for horizontal tolerance and 5% of the	
+7:54		flying height at scales up to and	
+7:58		including 1 inch equal 400 feet and 3	
+8:02		percent of the flying height at scale	
+8:04		smaller than 1 inch equals 400 feet for	
+8:07		vertical tolerance overlap mapping	
+8:13		photography is normally planned at 60%	
+8:15		overlap	
+8:17		0% overlap means that each successive	
+8:21		photograph overlaps the photo before it	
+8:25		by 60% if there is 60% overlap there is	
+8:30		0 percent gain new area photographed	
+8:34		with each successive exposure along the	
+8:37		flight line an aerial photograph is 9	
+8:41		inches 40% of 9 inches is 3.6 inches	
+8:45		therefore 9 inch by 9 inch photography	
+8:49		with 60 percent overlap as a gain of 3	
+8:53		point 6 inches on the photo regardless	
+8:56		of scale here we see the overlap from a	
+9:00		side view	
+9:02		Caltrans overlapped tolerance is from 55	
+9:06		to 65 percent	
+9:19		number five side lap side lap is the	
+9:24		area of side overlap between two	
+9:27		adjacent flight lines and is calculated	
+9:30		the same way as overlap side lap is	
+9:33		normally planned within a range of 25 to	
+9:36		0 percent here we see the side lap	
+9:40		concept from an in view	
+9:52		number six model concept a model is	
+9:56		defined as the area along the line of	
+9:59		flight between centers of two	
+0:02		overlapping aerial photographs and	
+0:04		bounded parallel to the flight line on	
+0:07		each side by a line one inch from the	
+0:11		edges of the photograph this is often	
+0:13		referred to as a neat model the normal	
+0:17		size for a neat model is three point six	
+0:20		inches along the line of flight with a	
+0:23		seven inch width for flight planning	
+0:27		this is reduced to six inches to allow	
+0:30		for horizontal flying tolerance the	
+0:34		length of an eID model will be changed	
+0:36		due to a variation overlap and the width	
+0:39		may be reduced due to crab the camera	
+0:43		not being square to the flight line in	
+0:45		one or both photos stereo vision stereo	
+0:52		vision is achieved by the left eye	
+0:54		viewing the left photograph of the model	
+0:57		and the right eye viewing the right	
+1:00		photograph the ability to see the same	
+1:03		images from different angles with each	
+1:05		eye enables three-dimensional viewing or	
+1:09		stereo vision when viewing the model the	
+1:13		operator sees a measuring or floating	
+1:16		mark which appears to be floating above	
+1:18		on or digging into the ground	
+1:22		the floating mark is used as the point	
+1:25		of measurement in all three axes much	
+1:29		the same as surveying instrument	
+1:31		crosshairs models and flight lines the	
+1:37		concept of a model can be confusing when	
+1:39		planning aerial photography because the	
+1:42		first model doesn't begin until the	
+1:44		center of the first photograph in the	
+1:45		flight line this means that the entire	
+1:48		first half of the first photo and the	
+1:51		last half of the last photo in a flight	
+1:53		line cannot be used for mapping because	
+1:55		these images appear in only one	
+1:58		photograph and will not allow stereo	
+2:00		vision in this diagram we can see the	
+2:03		relationship of the	
+2:05		Photography to the flightline we can	
+2:07		only map an area from the center of the	
+2:10		first photo to the center of the last	
+2:12		photo in a flight line we can also see	
+2:15		that it always takes one more photograph	
+2:18		than models to map a given area along	
+2:21		the flight line in this diagram we see	
+2:25		the flight line shown as models rather	
+2:28		than photographs this is the form used	
+2:31		for flight planning purposes flight path	
+2:35		a flight crew usually consists of a	
+2:39		pilot and an aerial photographer to fly	
+2:42		a flight line the pilot selects	
+2:45		landmarks from the map to orient the	
+2:48		aircraft and selects the correct	
+2:50		altitude using the altimeter a dry run	
+2:55		is often made to make sure the flight	
+2:57		line is correct on the photo run the	
+3:01		photographer is responsible for the	
+3:03		operation of the camera and keeps the	
+3:06		pilot correctly aligned the photographs	
+3:09		are taken at the proper intervals to	
+3:12		ensure correct overlap by a mechanism in	
+3:15		the camera at one inch equals 250 feet	
+3:20		photo scale the aircraft is flying at	
+3:23		500 feet above the terrain taking	
+3:25		photos at 900 foot intervals when the	
+3:29		flight line into the flight line is	
+3:31		reached the pilot will turn the aircraft	
+3:33		in to 180 degree turns and aligned with	
+3:37		the next flight line models and blocks	
+3:42		blocks consist of parallel or nearly	
+3:45		parallel flight lines the photography	
+3:48		from parallel flight lines must have	
+3:50		side lap in order to be usable and	
+3:53		cannot have any gaps the amount of side	
+3:57		lap usually ranges from 25 to 40% to	
+4:03		calculate the photo distance between	
+4:05		flight lines subtract the side lap	
+4:09		percentage from 100% and multiply by	
+4:13		nine the photo size for example 25% side	
+4:20		00% minus 25% equals 0.75 times nine	
+4:28		inches	
+4:29		equals six point seven five inches	
+4:32		between flight lines number seven photo	
+4:37		control a well controlled neat model	
+4:40		requires the following points three well	
+4:44		distributed horizontal control points to	
+4:47		set the model scale occasionally two	
+4:51		horizontal control points are	
+4:52		permissible but the third provides a	
+4:55		check one vertical control point located	
+4:59		at each of the four corners of the neat	
+5:01		model for leveling these points are	
+5:04		commonly referred to as wing points the	
+5:11		photo control for a mapping project is	
+5:13		normally marked by placing cloth or	
+5:16		painted targets over the ground control	
+5:18		points prior to aerial photography this	
+5:22		process is called pre marking and the	
+5:24		targets are called pre marks it is	
+5:28		possible to identify the control points	
+5:31		after the photography is taken this	
+5:33		process is called photo identification	
+5:35		or post identification and is less	
+5:40		certain and accurate than pre marking	
+5:42		pre marking is the preferred method of	
+5:46		photo control arrow triangulation arrow	
+5:51		triangulation is a computerized	
+5:53		procedure used to reduce the number of	
+5:56		pre marked field surveyed control points	
+5:59		necessary to map a project every model	
+6:03		requires four wing points to level and	
+6:05		two or three horizontal points to scale	
+6:09		it using arrow triangulation some of the	
+6:12		points are artificial or plug points	
+6:15		marked on the photos with mathematically	
+6:18		derived positions and elevations instead	
+6:22		of being field surveyed virtually all of	
+6:25		Caltrans mapping is done with arrow	
+6:27		triangulated control mapping control	
+6:31		requirements	
+6:32		very somewhat with the organization's	
+6:35		mapping system and the use of maps at	
+6:38		Caltrans we are concerned with the	
+6:41		vertical accuracy along the roadway and	
+6:44		our standards are conservative in that	
+6:47		respect that is more vertical control	
+6:51		along the flight line	
+6:53		Caltrans control requirements for one	
+6:56		inch equals 50 feet mapping using arrow	
+6:59		triangulation are a pre mark with	
+7:04		horizontal control in each fourth or	
+7:06		fifth model beginning and ending outside	
+7:09		the mapping limits no extrapolation a	
+7:12		minimum of three horizontal points in	
+7:15		each flight liner required including	
+7:18		points common to other flights pre marks	
+7:22		with vertical control along the wing	
+7:24		point lines outside the mapping limits	
+7:27		at approximately 1,800 foot intervals on	
+7:30		alternate sides of the models pre marks	
+7:34		with vertical control in the corners of	
+7:36		each flight line pre marks with vertical	
+7:40		control set at 450 foot intervals within	
+7:44		50 feet of the flight line common	
+7:48		horizontal and vertical pre marks may be	
+7:50		used where two or more flight lines join	
+7:53		to save field costs common horizontal	
+7:57		and vertical pre marks may also be	
+8:00		utilized between parallel flight lines	
+8:03		block photo control block photo control	
+8:08		requirements seemed very considerably	
+8:10		with the organization and the individual	
+8:13		control planner there is one area of	
+8:16		agreement however and it is that the	
+8:19		perimeter of the block should be well	
+8:20		controlled with no extrapolation the	
+8:24		graphic shows a typical example of	
+8:26		blocked photo control	
+8:29		Caltrans because we are mainly concerned	
+8:31		with highways does more single flight	
+8:35		line mapping than block mapping	
+8:40		pre marking pre mark requirements a	
+8:46		symmetrical pattern around the photo	
+8:48		control point is one of the prime	
+8:50		requisites for a photogrammetric pre	
+8:52		mark for large-scale mapping it is	
+8:56		important to have a separation between	
+8:58		the center point of the pre mark and the	
+9:01		legs this configuration allows a	
+9:04		discrete point to be read in the	
+9:06		photogrammetry instruments rather than	
+9:09		guessing at the intersection of a solid	
+9:11		cross cloth pre marks are normally used	
+9:15		on natural ground and painted pre marks	
+9:19		with the same dimensions and a dull	
+9:21		black background are used on pavement	
+9:24		cloth pre marks may also be used on	
+9:27		asphalt pavement or traffic as light	
+9:30		Caltrans pre mark requirements for	
+9:33		various scales are shown in the quick	
+9:36		reference table in your workbook pre	
+9:39		mark placement pre marks must be exactly	
+9:43		centered over the point they identify to	
+9:46		maintain scaling accuracy pre marks are	
+9:49		read to a leased ground reading of a	
+9:52		hundredth of a foot in an analytical	
+9:54		plotter using 1 inch equals 250 foot	
+9:58		photography all pre mark should be	
+0:02		placed in positions which will ensure	
+0:04		their appearance in the models there to	
+0:07		control a pre mark which appears in only	
+0:10		one photo is useless pre mark should be	
+0:14		placed where they are visible in the	
+0:17		photos they control in the Sun at the	
+0:20		time of photography and check to make	
+0:23		sure they're in place immediately prior	
+0:26		to photography accuracy specifications	
+0:32		Caltrans	
+0:34		uses the photogrammetric mapping	
+0:36		accuracy outline in the manual of	
+0:39		photogrammetry under photogrammetry for	
+0:42		highways committee 1968 simply these	
+0:46		accuracy specification state the 90% of	
+0:50		the contours	
+0:51		be within a half a contour interval and	
+0:54		all within one contour interval 90% of	
+0:58		the well defined planimetric features	
+1:00		shall be within one 40th of an inch and	
+1:03		all within one twentieth of an inch and	
+1:06		0% of the spot elevations shall be	
+1:09		within a quarter contour interval and	
+1:11		all within a half a contour interval the	
+1:15		accuracy of photographic work is based	
+1:18		on field surveys which presumably have	
+1:21		no discernable error there is another	
+1:24		similar set of specifications for	
+1:28		general large-scale photogrametry maps	
+1:30		in the manual of photogrammetry fourth	
+1:33		edition both versions of these	
+1:37		specifications are widely used number	
+1:41		nine mapping instruments there are two	
+1:46		general types of photogrammetric	
+1:48		plotters used for mapping the analog	
+1:51		plotters which recreate the	
+1:53		photogrammetry model by positioning the	
+1:55		photographs in the same scale position	
+1:58		with the same tilts existing at the time	
+2:01		of exposure thus creating the model to a	
+2:05		smaller scale the newer type of plotters	
+2:09		called analytic plotters our computer	
+2:12		assisted and create the model by	
+2:14		positioning the photographs in a plane	
+2:16		and using the computer to simulate the	
+2:20		tilts of the photography in space by	
+2:23		computer-controlled incremental	
+2:25		movements in the x and y directions	
+2:30		there are many photogrammetric	
+2:32		instruments available for mapping	
+2:34		purposes in California the most widely	
+2:37		used analog plotters are wild a 10 B 8	
+2:42		Santoni to C Galileo G 6 g8 zeiss plan a	
+2:49		carte Zeiss Jena topo cart the most	
+2:54		widely used analytical plotters are the	
+2:56		Zeiss C 120 and p3 the Kern DSR 11 and	
+3:01		DSR 14 and the wild	
+3:05		like a b c 1 b c 2 and b c 3 base sheets	
+3:12		base sheets are the blank maps which	
+3:15		control the control and the grid ticks	
+3:18		are plotted to provide the horizontal	
+3:20		and vertical datums to set up the models	
+3:23		and begin plotting the maps these maps	
+3:25		provide the points which are located on	
+3:28		the photos as pre marks or pugs and	
+3:30		plotted in the correct coordinate	
+3:33		position on the base sheet to allow the	
+3:35		plot or operator to orient the model to	
+3:38		the ground both horizontally and	
+3:40		vertically and draw the map base sheets	
+3:43		are normally five-time enlargements of	
+3:46		the nominal photography scale daya	
+3:51		positives daya positives are a positive	
+3:55		print of the aerial photographs on	
+3:57		either glass or mylar daya positives are	
+4:00		printed on transparent materials in	
+4:03		order to use them on photogrammetric	
+4:05		plotters the pugs are drilled in the	
+4:09		photographic emulsion of the daya	
+4:11		positives table enlargements	
+4:15		photogrammetric mapping is usually a	
+4:18		-time enlargement of the aerial	
+4:20		photography however with an automatic	
+4:23		table the enlargement ratio can be set	
+4:26		for an enlargement of up to 20 times a	
+4:29		pen or pencil of the table follows the	
+4:32		movement of the plotter measuring mark	
+4:34		at the set enlargement ratio thus	
+4:37		drawing the map computer-aided drafting	
+4:42		and design or CAD mapping	
+4:46		photogrammetric plotters may work in	
+4:48		conjunction with a CAD mapping system to	
+4:51		draw the map directly into the computer	
+4:53		instead of making a hard copy using	
+4:56		conventional methods and manuscript is	
+4:59		created on the plotter and then finished	
+5:02		drafted and finally digitized into the	
+5:05		computer the direct process avoids the	
+5:09		map drafting and map digitizing steps to	
+5:13		create the CAD map here we see the map	
+5:16		that is as it is displayed on the screen	
+5:19		on an editing workstation	
+5:23		photogrammetric project tasks let's go	
+5:27		over the steps necessary to complete a	
+5:30		photogrammetric project number one	
+5:33		mapping limits the first step of the	
+5:37		photogrammetry mapping process is the	
+5:39		determination of the mapping limits the	
+5:42		mapping limits are usually determined by	
+5:44		the engineer requesting the mapping	
+5:48		number two required scale and contour	
+5:51		interval the engineer will usually	
+5:53		request the scale and contour interval	
+5:56		needed for the map the scale and contour	
+5:59		interval is somewhat fixed by the	
+6:01		proposed use of the map and the terrain	
+6:05		number three flight plan the flight plan	
+6:09		gives the length and direction of the	
+6:11		flight lines and the altitudes above sea	
+6:13		level for the pilot and the aerial	
+6:15		photographer to photograph the project	
+6:19		these are templates showing the models	
+6:22		at six inch mapping width	
+6:24		these templates are made for several	
+6:27		mapping scales and are made to be used	
+6:29		on a one inch equals a thousand feet	
+6:33		enlargement of a USGS quad map the	
+6:37		simple template greatly eases the flight	
+6:40		planning process number four	
+6:43		control plan the control plan shows the	
+6:47		surveyors where to place the field	
+6:49		control which through error	
+6:51		triangulation will provide the mapping	
+6:53		control this is the completed flight and	
+6:56		control plan number five place pre marks	
+7:02		the pre marks are placed over the	
+7:05		control using either cloth or paint they	
+7:08		must be precisely placed over the point	
+7:11		and maintained so they're visible at the	
+7:14		time of photography number six survey	
+7:20		pre marks the horizontal and vertical or	
+7:25		vertical only values for the photo	
+7:28		control are tied from the project	
+7:30		control	
+7:31		good surveying procedures must be used	
+7:34		all points must be turned through or	
+7:38		have an independent check surveys do not	
+7:41		have to be completed before the aerial	
+7:44		photography but the pre marks must be in	
+7:47		place	
+7:48		number seven aerial photography aerial	
+7:53		photography should be ordered from the	
+7:55		project site to ensure that the weather	
+7:58		is clear in the area to be photographed	
+8:02		good aerial photography requires a great	
+8:05		deal of skill to accomplish but is done	
+8:08		in a short period of time in relation to	
+8:11		the other tasks number eight survey	
+8:14		calculations survey notes must be	
+8:18		reduced to coordinates and elevations of	
+8:21		the photo control number nine	
+8:24		check aerial photography the aerial	
+8:27		photography is checked for coverage	
+8:30		overlap flying height tilt image motion	
+8:34		and pictorial quality number ten arrow	
+8:39		triangulation arrow triangulation	
+8:42		densifies the skeleton ground control to	
+8:45		provide sufficient photo control to	
+8:47		level and scale the models number eleven	
+8:51		base sheets base sheets are the blank	
+8:54		maps with only the field and arrow	
+8:56		triangulated control plus the grid ticks	
+8:59		plotted the control is used to scale and	
+9:02		level the models and the maps are	
+9:04		compiled on the base sheets number	
+9:07		twelve map compilation the maps are	
+9:11		compiled one model at a time usually on	
+9:14		three model sheets or into a CAD file to	
+9:19		compile plan imagery the operator traces	
+9:22		the feature with the measuring mark on	
+9:23		the surface of the feature for contours	
+9:26		the operator sets the elevation of the	
+9:29		contour in the plotter and traces the	
+9:31		contour with the measuring mark just	
+9:34		skimming the ground number thirteen map	
+9:38		checking map should be independently	
+9:41		checked by either photo dimetric or	
+9:44		field	
+9:44		methods for conformance to	
+9:46		specifications and correct mapping samal	
+9:49		adji map Corrections if the maps do not	
+9:56		meet specification then Corrections are	
+9:58		required number 15 map acceptance the	
+0:03		final maps are accepted when the	
+0:06		required Corrections are completed these	
+0:10		are the 15 steps photogrammetric mapping	
+0:15		normally follows in a production	
+0:17		environment now let's work the	
+0:25		photogrammetry problem on the 1991 land	
+0:28		surveyors test problem statement your	
+0:34		client owns sections 9 and 16 and the	
+0:38		westerly 4,000 feet of sections 10 and	
+0:41		5 Township 4 South Range 23 West san	
+0:48		bernardino basin meridian you have been	
+0:51		asked to provide horizontal and vertical	
+0:53		control for the topographic mapping that	
+0:56		is to be used for planning purposes	
+0:58		vertical photography taken with a 6 inch	
+1:02		focal length camera on a 9 by 9 inch	
+1:05		focal plane is to be used analytical	
+1:09		bridging arrow triangulation is not to	
+1:12		be considered the following factors	
+1:16		control the project make no assumptions	
+1:20		number 1 a 5-foot contour interval is	
+1:23		required number 2 model size is three	
+1:27		point six inches by 7 inches for a	
+1:30		single flight line and three point six	
+1:32		inches by six point three inches for two	
+1:36		or more adjacent flight lines number	
+1:40		three the C factor to be used for this	
+1:43		project is 1,800 number four the map is	
+1:49		to be compiled at a five to one ratio	
+1:52		number five the average terrain	
+1:55		elevation is 2500 feet above	
+1:58		see level number six the minimum target	
+2:02		size to be used for pre marking on the	
+2:05		ground is not to be less than a	
+2:07		thousandth of an inch by a hundredth of	
+2:10		an inch at the photo scale number seven	
+2:14		per a recent record of survey each	
+2:17		section has been found to be of standard	
+2:20		dimensions problem requirements number	
+2:26		one based on the above specification	
+2:29		determine the following show all work a	
+2:33		the minimum number of flight lines	
+2:36		required three points be the required	
+2:40		flying height above sea level three	
+2:43		points see the minimum number of models	
+2:46		required three points D the minimum	
+2:51		number of photographs required three	
+2:53		points e the minimum number of	
+2:57		horizontal and vertical control stations	
+3:00		required to provide adequate checks five	
+3:04		points F the negative scale three points	
+3:09		G the nominal map scale three points H	
+3:13		the minimum length and width of the	
+3:16		target placed on the ground as a pre	
+3:18		mark four points number two give the	
+3:24		accuracy requirements for each of the	
+3:26		following based on the requirements of	
+3:28		the National map accuracy standards a	
+3:32		contours one point B spot elevations one	
+3:37		point C planimetric features one point	
+3:43		problem solution let's start with the	
+3:47		determination of the mapping limits	
+3:50		which are one mile plus four thousand	
+3:53		feet in the easterly direction and two	
+3:56		miles in the northerly direction so the	
+3:59		mapping limits are 90 280 feet by ten	
+4:04		thousand five hundred and sixty feet	
+4:09		now we have to determine the answer to	
+4:11		problem one be the flying height above	
+4:14		sea level using what we have to work	
+4:16		with the contour interval five feet and	
+4:19		the C factor 1800 the C factor equals H	
+4:25		minus small H over the contour interval	
+4:28		when we insert the given numbers we have	
+4:32		800 equals H minus 2500 over five or	
+4:38		solving for H H minus 2500 equals 9000	
+4:44		or H equals 11,500 feet then H minus	
+4:51		small H equals 9,000 feet now we know	
+4:55		the answer to one be H is 11,500 feet	
+5:01		since H minus small H equals 9,000 we	
+5:05		can determine the answer to 1f by using	
+5:08		the scale formula s equals F over H	
+5:12		minus small H or s equals six inches	
+5:17		over 9,000 feet or one over x equals 6	
+5:23		over 9,000 or 6x equals 9,000 or x	
+5:30		equals 1,500 the answer to one F the	
+5:34		negative scale is one inch equals 1500	
+5:38		feet or as a ratio 1 to 18,000 we were	
+5:44		given that the map is a five-time	
+5:46		enlargement of the negative scale	
+5:48		therefore 1 over 1,500 times five equals	
+5:53		one over 300 so the answer to one G the	
+5:58		nominal map scale is one inch equals 300	
+6:02		feet or one to 3,600 now let's look at	
+6:08		the area we can map with one model which	
+6:10		has a three point six inch by 7 inch	
+6:13		size three point six times 1500 equals	
+6:18		fifty 400 feet and seven times	
+6:23		equals 10,500 feet so one model will map	
+6:28		an area 5400 feet by 10,500 feet so two	
+6:34		models flown in the north-south	
+6:37		direction will cover an area of ten	
+6:40		thousand eight hundred feet in the	
+6:42		north-south direction and ten thousand	
+6:45		five hundred feet in the east-west	
+6:47		direction adequately covering our	
+6:50		mapping limits of ten thousand five	
+6:52		hundred and sixty north-south and 90 to	
+6:56		0 feet east-west the answer to one a is	
+7:01		one flight line the answer to one C is	
+7:05		two models and since there is one more	
+7:08		photo than models per flight line the	
+7:11		answer to one D is three photographs we	
+7:16		need to answer one II the minimum number	
+7:20		of horizontal and vertical control	
+7:22		points to provide adequate checks three	
+7:27		vertical control points form a plane so	
+7:31		that that is the minimum number to level	
+7:33		a model and the fourth provides a check	
+7:36		to scale a model requires a minimum of	
+7:39		two points and the third provides a	
+7:42		check let's look at the little diagram	
+7:45		at the top of this graphic in the first	
+7:49		model at the bottom of the little	
+7:51		diagram there are three horizontal	
+7:53		control points and four vertical control	
+7:56		points but two of the horizontal and two	
+8:00		of the vertical control points will also	
+8:02		control the second model for the second	
+8:06		model we need to add one horizontal and	
+8:09		two vertical points for a total of four	
+8:12		horizontal and six vertical this is the	
+8:16		grading plan answer to 1e the planners	
+8:20		at Caltrans would have had vertical	
+8:23		control on the four horizontal control	
+8:25		points and vertical only on the	
+8:28		remaining two points the real world	
+8:31		answer as shown on the little diagram	
+8:33		would have been four points	
+8:35		horizontal and vertical control and two	
+8:38		vertical only points this answer was not	
+8:43		in the grading plan but may have held up	
+8:45		under protest problem 1 H asks for the	
+8:50		minimum length and width of the target	
+8:53		placed on the ground as a pre mark with	
+8:55		given dimensions on the photos since the	
+8:59		photo dimension is 10 times as long as	
+9:01		it is wide and pre marks are usually	
+9:04		crosses this might be better described	
+9:09		as the minimum length and width of a leg	
+9:12		of the target rather than the length and	
+9:15		width of the target anyway the photo	
+9:18		scale is 1 inch equals 1500 feet so a	
+9:22		thousandth of an inch would be 1.5 feet	
+9:27		and a hundredth of an inch would be 15	
+9:30		feet problems 2a 2b and 2c asks for	
+9:40		accuracy requirements for contours spot	
+9:43		elevations and planimetric features	
+9:46		respectively based on the National map	
+9:49		accuracy standards here there is a	
+9:53		problem with the grading plan answers	
+9:55		the answers are contours 90% within 1/2	
+0:00		a contour interval or two and a half	
+0:03		feet spot elevations 90% within a	
+0:07		quarter contour interval or 1.25 feet	
+0:11		and plan imagery 90% within a thirtieth	
+0:15		of an inch or 10 feet 2a and 2b grading	
+0:21		plan answers appear to be from the	
+0:23		reference guide outline the	
+0:26		photogrammetry for highways committee	
+0:28		968 as stated in the fourth edition of	
+0:32		the manual of photogrammetry answer to C	
+0:35		appears to be from the general national	
+0:38		map accuracy standards for publication	
+0:40		scales larger than 1 to 20,000 the old	
+0:45		rd edition of the manual photogrammetry	
+0:48		does have	
+0:49		accuracy standards for highways divided	
+0:51		into two classes one for 40 50 100 and	
+0:56		00 feet to the inch and the other for	
+0:59		00 500 800 and a thousand feet to the	
+1:03		inch the grading plan answers matched	
+1:06		the latter but the 300 scale photography	
+1:10		from the problem doesn't match either	
+1:12		set of standards the grading plan	
+1:15		answers don't seem to fit any of the	
+1:17		accuracy specifications in the final	
+1:21		analysis this is a good practical	
+1:23		photogrammetry problem with a couple of	
+1:25		areas which may require protests this is	
+1:30		not unusual	
+1:32		most of the photogrammetry problems do	
+1:35		have ambiguous parts to the questions	
+1:37		this is sometimes because there are	
+1:41		different planning variations which will	
+1:44		still meet specifications and sometimes	
+1:47		they're just plain wrong your best	
+1:50		defense is to study and understand the	
+1:53		basic principles read the questions	
+1:55		carefully and use calculations based on	
+1:59		the problem information even if it's	
+2:02		wrong or impractical for gross errors or	
+2:05		emissions make assumptions in writing	
+2:08		and be prepared to protest show your	
+2:11		work be careful some problems are tricky	
+2:15		even for us old photogrametry so use	
+2:19		your workbook plus work the problems	
+2:21		from old exams get comfortable with	
+2:24		basic photogrammetry it's not that	
+2:27		difficult there are some relatively easy	
+2:30		photogrammetry points waiting for those	
+2:33		who prepared good luck	
+2:59		you	
+3:06		you 	

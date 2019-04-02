@@ -1,0 +1,1094 @@
+00:00		you	
+00:51		welcome to Caltrans lsi TLS exam	
+00:55		preparation course one aid in your	
+00:58		preparation for California licensure	
+01:00		examinations or word of caution don't	
+01:04		use this course as your only preparation	
+01:06		devise and follow a regular schedule of	
+01:10		study which begins months before the	
+01:12		test what many problems in each area not	
+01:16		just those in this courses workbook but	
+01:19		problems from other sources as well this	
+01:23		course is funded by Caltrans but you and	
+01:26		I owe a profound thanks to others the	
+01:29		courses instructors from the academic	
+01:32		community the private sector other	
+01:34		public agencies and from Caltrans as	
+01:37		well we wish you well in your study	
+01:41		toward becoming a member of California's	
+01:43		professional land surveying community	
+01:47		hello my name is Roy Minich and I'm the	
+01:50		supervisor of the land boundary section	
+01:52		for the California State Lands	
+01:54		Commission for the next hour we're going	
+01:58		to be talking about water boundary	
+02:00		location now property boundary location	
+02:06		along waterways in California is neither	
+02:10		certain nor predictable actually each	
+02:13		situation is settled on its own merit	
+02:17		however there are guidelines these	
+02:20		guidelines are useful to those who are	
+02:23		answering questions on land surveying	
+02:24		examinations this presentation will	
+02:28		cover some basic concepts of property	
+02:31		boundary location along waterways using	
+02:36		these guidelines will not only provide a	
+02:39		valuable test taking aid but also serve	
+02:42		as an introductory foundation to the	
+02:44		study and application beyond the	
+02:46		examination and into real property	
+02:50		boundary surveying now as an overview	
+02:54		for the next few minutes our	
+02:56		presentation is going to cover water	
+02:58		boundary concepts navigable and non	
+03:03		navigable waterways title title tid al	
+03:08		title datums and water boundaries and	
+03:12		factors affecting boundary location and	
+03:16		interlace through all of these we're	
+03:18		going to talk about the methodology that	
+03:21		can be used by surveyors and locating	
+03:24		water boundaries property boundary	
+03:29		location along waterways is probably the	
+03:32		most complex of all property boundary	
+03:35		location water lines naturally fluctuate	
+03:38		and so any boundary dependent on a	
+03:41		fluctuating line must change this is a	
+03:45		natural breeding ground for litigation	
+03:48		among the Toro owners that is owners who	
+03:50		own property along waterways after all a	
+03:53		changing property line causes one person	
+03:56		to lose and another to gain as a result	
+04:02		courts that are rooted in English common	
+04:04		law dating back as far as William the	
+04:07		Conqueror in England courts rooted in	
+04:10		common law have often established	
+04:12		precedence for riparian boundary	
+04:15		location and these precedents are based	
+04:17		upon equity rather than upon a more	
+04:20		precise and scientific location in	
+04:24		recent years courts have modified some	
+04:28		viewpoints and reserved and reversed	
+04:30		itself on others as a result the law	
+04:34		itself appears to be in confusion so	
+04:38		what's all that mean to the surveyor how	
+04:40		does a surveyor begin to understand	
+04:42		riparian boundary location most	
+04:47		importantly what does a surveyor need to	
+04:50		know to pass the land surveying	
+04:51		examination fortunately some basic	
+04:56		principles can be offered with these	
+05:01		even though the legal situation is	
+05:04		confusing the surveyor will be able to	
+05:07		weave his way through boundary location	
+05:12		along waterways now before the	
+05:15		discussion of	
+05:16		ownership and boundaries can begin some	
+05:19		aspects of title have to be considered	
+05:23		as an introduction we have to talk about	
+05:29		title concepts boundary location along	
+05:33		waterways is a marriage of four factors	
+05:37		the first one is land title and the	
+05:44		underlying ownership in waterways the	
+05:49		second is navigable and non navigable	
+05:52		waterways the third is titled atoms in	
+05:55		water boundaries and the fourth and	
+05:58		final with are the factors that affect	
+06:00		property boundaries along waterways now	
+06:05		the title what about the land title TI	
+06:09		tle the land title held by owners of	
+06:12		land along and underneath waterways land	
+06:18		title in California is originally based	
+06:21		upon the United States government all	
+06:23		title is based upon a sovereign and in	
+06:27		the case of California it's based upon	
+06:29		the United States United States as a	
+06:34		result of the Treaty of Guadalupe	
+06:37		Hidalgo which ended the Mexican War in	
+06:39		848 gained title to all of present-day	
+06:45		California it also provided title to	
+06:49		United States for Arizona New Mexico and	
+06:51		other southwestern states as a part of	
+06:56		this treaty the title to lands owned by	
+07:00		the Mexican citizens at the time the	
+07:03		treaty was signed were confirmed	
+07:07		generally these are called Rancho lands	
+07:11		or Mexican land grants it's not correct	
+07:15		to say Spanish land grants Spain was run	
+07:19		out of the picture in the early 1820s	
+07:20		their Mexican land grants if the Rancho	
+07:26		lands or the Mexican land grants	
+07:29		included a waterway then the title to	
+07:33		lands underlying the waterways was	
+07:36		confirmed to the rancho claimant as part	
+07:39		of the patent these waterways are	
+07:42		usually shown without meanders on rancho	
+07:45		patent maps except for navigable	
+07:54		sovereign waterways and swamp and	
+07:56		overflowed grants the remainder of the	
+07:58		land became part of the United States	
+08:00		public domain and was surveyed by public	
+08:03		lands surveyors ultimately the lands	
+08:07		were sold for the township platts that	
+08:10		resulted from the surveys now waterways	
+08:17		lakes rivers some sloughs or examples	
+08:22		waterways that appeared to the United	
+08:25		States deputy surveyor that appeared to	
+08:28		the surveyor substantial enough to be	
+08:31		used for a variety of purposes among	
+08:34		which were commerce navigation and	
+08:36		fisheries were not included within the	
+08:38		public lands on the illustration on the	
+08:41		board on the monitor you can see an	
+08:45		example of lands the public lands and	
+08:49		where they were meandered along	
+08:51		waterways now the uplands were the	
+08:57		uplands the public lands were meandered	
+09:00		amanda was not intended to be a boundary	
+09:04		line as a matter of fact a meander was	
+09:07		only a surveyors device for determining	
+09:10		acreage on the upland after all land was	
+09:14		bought by so much prized so many dollars	
+09:17		per acre the price per acre the meander	
+09:20		line has nothing to do with property	
+09:23		boundaries when someone took title from	
+09:30		the United States they purchased so many	
+09:34		acres and the title extended to the	
+09:38		water line extended to the water line	
+09:43		as we shall see this could come to more	
+09:50		or less than the amount that was	
+09:52		purchased because you remember we're	
+09:53		talking about water lines that is lines	
+09:56		that fluctuate so the actual boundary	
+10:00		line may be seen today gone tomorrow now	
+10:06		various manuals of instructions for	
+10:08		surveys of the public lands gave	
+10:10		different instructions about placing the	
+10:13		Mander line generally this was near the	
+10:17		high-water mark or the edge of	
+10:19		vegetation this varied from manual of	
+10:21		instruction to manual of instruction the	
+10:24		important fact for us to remember here	
+10:27		is that the lands that in the view of	
+10:34		the deputy surveyor were suitable for	
+10:37		commerce navigation and fisheries that	
+10:39		is as public highways these lands were	
+10:43		segregated from the public lands they	
+10:46		were not sold they became part of	
+10:51		state-owned lands lands which the public	
+10:55		has an interest in for a variety of uses	
+10:58		commerce navigation fisheries	
+11:00		recreational uses now generally lands	
+11:07		underneath waterways that work navigable	
+11:11		in the eyes of the deputy surveyor were	
+11:13		generally meandered and they weren't	
+11:15		sold as part of the public domain these	
+11:18		were the sovereign lands it became the	
+11:19		state property upon entry of the Union	
+11:22		entry to the union of United States now	
+11:28		new states such as California in 1850	
+11:30		September 9th 1850 new States entered on	
+11:34		an equal footing with the original	
+11:38		states this so called equal footing	
+11:40		doctrine and the source of this title is	
+11:43		the act of admission to the Union unlike	
+11:47		other property in California there is no	
+11:50		patent from the United States or even a	
+11:54		description of these sovereign lands	
+11:56		there are several thousand miles of	
+11:58		boundary and millions of acres of land	
+12:00		that have no document source of title	
+12:07		sovereign lands in addition are burdened	
+12:10		by a trust on behalf of the general	
+12:13		public California has not sold any of	
+12:16		its sovereign lands since a	
+12:17		constitutional prohibition early in the	
+12:20		0th century some state patents however	
+12:26		were issued to tidelands both on the	
+12:29		open coast and title bays the monitor	
+12:33		shows an example of tide lands in a base	
+12:38		situation such as San Francisco there	
+12:43		were also some sales made in the San	
+12:45		Francisco Bay Area by a so-called Board	
+12:47		of tideland commissioners these while	
+12:50		interesting are usually not part of a	
+12:52		land surveyors examination perhaps	
+12:55		because they are very site-specific and	
+12:57		little is generally known about them	
+12:59		except among a few boundary specialists	
+13:02		now what about swamp and overflowed	
+13:05		lands that's another category of land	
+13:07		which lies along a watercourse swamp and	
+13:12		overflowed lands while not sovereign	
+13:14		generally lay between the United States	
+13:17		public domain and the ordinary high	
+13:20		water mark these were segregated from	
+13:26		the public lands one of two ways the	
+13:30		monitor shows the two ways first if a	
+13:38		entire Township that is a township of	
+13:42		land which contains 36 square miles if	
+13:45		an entire Township or even three	
+13:46		quarters of the township was considered	
+13:50		swamp and overflowed lands that is it	
+13:53		was land which could not be cultivated	
+13:57		could not be cultivated without some	
+14:01		sort of Reclamation or drainage work	
+14:03		then the entire Township was considered	
+14:06		to be swamp and overflowed lands	
+14:09		the other method when perhaps half or	
+14:12		less of one of these townships contained	
+14:15		swamp and overflowed lands the lands	
+14:18		would be segregated and they would	
+14:20		appear to appear on a map or plat very	
+14:22		similar to a meander line they were	
+14:24		simply segregated from the public lands	
+14:28		now these swamplands were a grant a	
+14:32		separate grant from the United States to	
+14:35		the states in late-september 1850 just a	
+14:38		couple of weeks after California became	
+14:40		a state the swamp land the Arkansas	
+14:45		swampland Act was passed and this	
+14:47		operated as a grant of millions of acres	
+14:49		of land from the federal government to	
+14:52		the United States it was an early day	
+14:54		reclamation act if you will the land was	
+14:59		granted to the states in general the	
+15:03		County surveyor's surveyed the lands and	
+15:10		entered a patent or entered a request	
+15:14		for a patent to the states of air to the	
+15:17		state surveyor of California up until	
+15:20		the early 1920s the state surveyor of	
+15:22		California was an elected constitutional	
+15:24		officer like the lieutenant governor or	
+15:26		the governor now when these swamp and	
+15:37		overflowed lands were surveyed they were	
+15:39		surveyed in odd sized parcels and they	
+15:43		were surveyed by metes and bounds they	
+15:46		were not surveyed by Alico parts they	
+15:51		were surveyed by metes and bounds and	
+15:53		from the standpoint of a of a land	
+15:56		surveyors examination the swamp and	
+16:00		overflowed land survey should be	
+16:01		considered as metes and bounds surveys	
+16:04		that is sequence conveyances conveyances	
+16:08		in which there can be junior and senior	
+16:10		rights	
+16:15		swampland zac earth all throughout the	
+16:17		state of California most of the	
+16:19		sacramento-san Joaquin Delta or were	
+16:23		considered and segregated as swamplands	
+16:27		find swamplands in Lake Tahoe and clear	
+16:31		lake along the rivers anywhere where	
+16:35		this reclamation act wanted to operate	
+16:37		the reason we lumped them in with water	
+16:40		boundaries to steady is that they fall	
+16:45		between the public lands and the high	
+16:50		water or the waterway now to summarize	
+16:57		land beneath waterways may be owned by	
+17:01		the adjacent upland owner or it may be	
+17:03		owned by the state sources of title	
+17:06		found along waterways are one lands	
+17:10		confirmed to Mexican citizens that may	
+17:13		or may not include the waterway to	
+17:16		united states public lands that normally	
+17:20		don't conclude don't include a navigable	
+17:22		waterway three swamp and overflowed	
+17:25		lands granted from the United States to	
+17:28		the state who subsequently patented	
+17:31		these two individuals and four and most	
+17:34		important for the remainder of our	
+17:36		discussion lands that the state acquired	
+17:38		as a sovereign tidelands submerged lands	
+17:42		lands in the bed of natural navigable	
+17:44		lakes Bay's sloughs and rivers law both	
+17:53		common and statutory that may be	
+17:55		generally applicable on a state or	
+17:57		national basis or applicable on a	
+17:59		specific water body or even a specific	
+18:03		site along ashore or important for us to	
+18:06		study here statute law in California	
+18:11		provides some guidance but it is not	
+18:15		conclusive it is not conclusive	
+18:18		certainly not as conclusive as many	
+18:20		surveyors would like certainly not	
+18:24		conclusive enough for people taking an	
+18:26		exam but	
+18:28		because statute law leaves many	
+18:30		unanswered questions in any given	
+18:32		situation courts of law have	
+18:35		traditionally been the arena for	
+18:37		settling disputes now some some state	
+18:41		statute law provisions applicable to	
+18:43		water boundaries are and probably the	
+18:46		most important one is section 8 30 of	
+18:49		the California Civil Code it reads	
+18:53		except where a grant under which the	
+18:57		land is held indicates a different	
+18:59		intent the owner of the upland when it	
+19:03		borders on Tidewater takes to the	
+19:05		ordinary high water mark when it borders	
+19:09		on a navigable lake or stream where	
+19:12		there is no tide the owner takes to the	
+19:15		edge of the stream or lake at low water	
+19:18		mark when it borders upon any other	
+19:21		water the owner takes to the threat of a	
+19:25		lake or stream in your exam preparation	
+19:30		that's probably one of the single most	
+19:31		code important code sections that you	
+19:34		need to have a copy of and to recite as	
+19:37		you take the examination much the same	
+19:43		thing is is noted in section 6 70 of the	
+19:46		civil code that has to do with ownership	
+19:50		in the state uses the same terminology	
+19:53		for boundary lines slightly different	
+19:57		but essentially the same is section 2077	
+20:01		of the Code of Civil Procedure this is	
+20:04		this is defined as as construing land	
+20:08		descriptions you will need this for the	
+20:10		test this section not only for water	
+20:13		boundaries but to give you guidance in	
+20:15		writing land descriptions or any of the	
+20:17		other types of exercises that may be	
+20:20		required at the exam now section 101	
+20:26		threw 107 in the harbors and navigation	
+20:30		code is a piece of evidence that recites	
+20:34		waterways that may be navigable that is	
+20:37		sovereign and hence owned by the state	
+20:43		regrettably it's a regulatory provision	
+20:46		and does not specifically carry a	
+20:50		substantial amount of weight and so far	
+20:53		as evidence is concerned to determine	
+20:56		whether a water boundary whether a water	
+20:58		body is navigable and sovereign or	
+21:02		whether it's non-navigable harbors and	
+21:08		navigation code as an example lists	
+21:12		specific waterways and the extent of	
+21:14		navigability at the time the statutes	
+21:17		were enacted which were in a period from	
+21:18		850 through 1870s just to read from one	
+21:22		for example the following streams and	
+21:25		water are also navigable and public ways	
+21:27		Deer Creek between its mouth and the	
+21:31		house of Peter lassen devil slough lying	
+21:34		within the corporate limits of the city	
+21:36		of San Jose as the section explains	
+21:40		these are for regulatory provisions to	
+21:44		keep avenues of Commerce open however	
+21:49		they do provide an hour suggestive of	
+21:53		the navigability of a waterway at the	
+21:55		time the statute was enacted several	
+22:01		whether statute laws exist and they'll	
+22:04		be introduced further into the	
+22:06		discussion in general California Water	
+22:12		boundaries are consistent with common	
+22:15		law court decisions hammered on the	
+22:17		anvil of history for the last 500 years	
+22:20		beginning in England through the	
+22:22		original 13 colonies who became 13	
+22:25		starved sovereign states who finally	
+22:27		became a nation and lastly admitted all	
+22:32		new states such as California on an	
+22:36		equal footing with the original states	
+22:39		now we've talked about navigable and non	
+22:43		navigable waterways what about how do	
+22:47		you tell the difference how do we tell	
+22:49		whether a waterway is navigable or not	
+22:52		first actual uses	
+22:55		actual uses determine the title and	
+22:58		boundary law that will be applied to	
+23:00		each specific waterway or water body all	
+23:05		Tidewater all Tidewater that is lands	
+23:09		subject to Daily tides all Tidewater	
+23:12		belongs to the state of California as	
+23:15		sovereign unless it was sold during one	
+23:17		of these periods of sales in the latter	
+23:20		part of the 19th century the boundary	
+23:26		between the uplands in the state is an	
+23:28		ordinary high water mark all navigable	
+23:32		title waterways are bounded by the	
+23:36		ordinary high water mark we'll talk a	
+23:39		little bit later about how and what the	
+23:42		ordinary high water mark is the boundary	
+23:45		between fee title that is absolute title	
+23:49		absolute title of the upland owners and	
+23:52		the state along non-title but navigable	
+23:55		waterways is the ordinary low-water mark	
+23:57		you'll see on the monitor that the	
+24:01		previous slide on the monitor showed a	
+24:04		breakdown between navigable and non	
+24:07		navigable waterways will have an	
+24:08		opportunity to look at that again and	
+24:11		that an example an example of this type	
+24:17		waterways are Lake Tahoe the Sacramento	
+24:21		River between the head of tide and the	
+24:23		head of navigation now an easement	
+24:29		allowing public use burdens a strip	
+24:31		between the ordinary high water an	
+24:33		ordinary low-water mark we find this	
+24:36		along non-navigable are non-title but	
+24:40		navigable waterways descriptions that a	
+24:48		surveyor prepares in an examination or	
+24:51		elsewhere descriptions and maps need to	
+24:54		make reference to this easement between	
+24:56		ordinary high and ordinary low-water	
+24:58		mark as with any other easement should	
+25:01		be treated as any other easement	
+25:05		now another factor in determining	
+25:10		navigability is physical science the	
+25:13		effect of rainstorms the effect of	
+25:15		rainstorms wet seasons dry seasons and	
+25:19		the years of ordinary rainfall if you'll	
+25:21		notice our water boundaries are water	
+25:23		boundaries used the term ordinary this	
+25:25		is a legal term ordinary not in a period	
+25:28		of drought and not in a period of flood	
+25:30		but in ordinary periods we're talking	
+25:32		means and averages here waterways may	
+25:38		shift sometimes naturally and sometimes	
+25:42		very suddenly and sometimes from human	
+25:45		activities such as building breakwaters	
+25:47		land filling or occasionally diversion	
+25:50		of the waterway for irrigation or	
+25:51		agricultural purposes boundary law	
+25:54		considers averages on the tidelands for	
+25:57		example averages are broken into	
+25:59		approximately eighteen point six years	
+26:02		is this is called a title epic EP och	
+26:06		and tide heights that are used for	
+26:10		boundaries are averages over periods of	
+26:13		time within a title epic with rivers on	
+26:17		the other hand in areas where the state	
+26:19		is the sovereign and there is no tide	
+26:22		the high and low periods are considered	
+26:26		western rivers for example would dry up	
+26:28		during the summer and and and have long	
+26:31		periods of flood season during the	
+26:33		winter and so how do we come up with an	
+26:36		ordinary high or low water mark along a	
+26:38		a non-title but navigable waterway	
+26:44		whatever the decision is reached it	
+26:46		usually involves a study of rainfall	
+26:49		what seasons and dry seasons now	
+26:54		navigable and non navigable waterways	
+26:59		the beds of non-title non navigable	
+27:02		waterways belong to the adjacent upland	
+27:05		owner the beds of navigable waterways	
+27:09		belong to the state how do we determine	
+27:12		navigability navigability is determined	
+27:16		by law	
+27:18		but factors that go into the law to	
+27:22		determine a body of water and its	
+27:25		navigability our first actual use is the	
+27:32		body of water in its natural condition	
+27:36		usable as a highway for commerce	
+27:38		navigation and fisheries did it exists	
+27:43		on September 9th 1850 when California	
+27:46		entered the Union after all if we're	
+27:49		admitted on an equal footing as	
+27:51		California's if we're admitted on an	
+27:53		equal footing then the date of statehood	
+27:58		is an important date in determining	
+28:00		water boundaries determines whether the	
+28:04		water boundary the water body existed in	
+28:08		the state of nature at that time if it	
+28:10		did it could very well be navigable	
+28:13		artificial bodies like reservoirs do not	
+28:16		fit this criteria and so we're not	
+28:18		sovereign lands as a matter of fact we	
+28:21		won't even consider water bodies such as	
+28:24		reservoirs any more on this discussion	
+28:27		traditionally a waterway is considered	
+28:31		navigable when at the time of statehood	
+28:33		the water body was used for commerce	
+28:35		navigation and fisheries from a title	
+28:39		standpoint TI tle from a title	
+28:41		standpoint it doesn't matter if the	
+28:44		waterway supports these uses now that's	
+28:47		peculiarities of California water	
+28:49		boundary law but nonetheless it's	
+28:50		important and essential for someone	
+28:52		preparing for the land surveyors exam to	
+28:55		be aware of for example the san joaquin	
+29:00		river is navigable for land title	
+29:03		purposes as far as the old fort site at	
+29:07		millerton which is now under the waters	
+29:10		behind Friant Dam that's well up into	
+29:12		the foothills if you were to drive	
+29:16		across the San Joaquin River most of the	
+29:18		time now you would say how could this be	
+29:20		a navigable river there's no water in it	
+29:24		our definition is was it natural and	
+29:27		navigable at the time of entry into the	
+29:29		Union and up until a point where an	
+29:31		artificial in	
+29:32		fluence caused a diversion or change in	
+29:35		the natural regime of the water body	
+29:40		unlike any other state in the Union	
+29:42		California follows the last natural rule	
+29:47		the boundary along for example the San	
+29:49		Joaquin River is at the last natural	
+29:53		location of the river just prior before	
+29:56		prior to closing the dam and drawing	
+29:58		down the water that would naturally flow	
+30:00		down the river and use it for irrigation	
+30:04		in effect property lines along waterways	
+30:09		in California become frozen at that last	
+30:12		natural location regardless of whether	
+30:17		they're even near the water now in	
+30:22		recent court decrees beginning with	
+30:24		marks vs. Whitney in 1970 @ tamales Bay	
+30:27		case the allowable uses have been	
+30:30		expanded from the traditional Commerce	
+30:32		navigation and fisheries they've been	
+30:35		included to expand recreational uses	
+30:38		such as recreational fishing	
+30:40		recreational boating or in the words of	
+30:43		the court almost any other use that the	
+30:45		public wishes to make of a water body	
+30:48		scuba snorkeling any of any uses like	
+30:51		this that that may be wished that the	
+30:54		public may wish to use another factor in	
+31:02		navigability determining whether the	
+31:04		state owns the better the waterway or	
+31:05		not is susceptibility to navigation if	
+31:10		at the time of statehood a water body	
+31:13		existed but was not used or perhaps is	
+31:16		not yet used for public uses commerce	
+31:20		navigation fishery or recreational uses	
+31:22		if it has never been used but it's	
+31:29		susceptible to being used then it's	
+31:30		considering a navigable waterway donner	
+31:33		lake is an example northern california	
+31:37		lake tahoe which everyone viewing this	
+31:39		video will probably know where it is	
+31:41		especially if you watch Bonanza TV shows	
+31:43		during the early part of the eight	
+31:45		teen 50s Lake Tahoe was not navigated it	
+31:50		wasn't until the 1860 70s and 80s that	
+31:53		any sort of commercial uses were made of	
+31:57		the lake river packets mail boats and so	
+32:00		on running from north to south lake know	
+32:02		so it was susceptible to navigation that	
+32:04		entire time there are period of perhaps	
+32:06		better there are a series of perhaps Oh	
+32:09		0 lakes in the Sierras that fall into	
+32:12		this category of susceptibility about	
+32:15		six or seven months ago the	
+32:19		susceptibility provision was carried to	
+32:21		even a further extent in a case in	
+32:24		Alaska where if the water body was	
+32:27		susceptible to floating a toothpick it	
+32:31		was a navigable waterway now it doesn't	
+32:34		take much water to flow the toothpick so	
+32:36		you can see how in over 150 years the	
+32:40		definition of navigability has been	
+32:43		broadened to include a much wider	
+32:46		possible much wider possible uses now	
+32:51		what's the effect of navigability on	
+32:54		property boundaries well first of all	
+32:57		the beds of non navigable water bodies	
+33:00		belong to the adjacent upland owners the	
+33:04		underlying fee ownership belongs to the	
+33:08		adjacent upland owners you can look at	
+33:10		it much much as you would a street or an	
+33:15		alley that would be vacated the	
+33:16		reversionary rights in fact for the	
+33:18		examination purposes the the situation	
+33:23		of non navigable waterways can be looked	
+33:27		at much like street you've got to a	
+33:29		portion and the reversionary interest an	
+33:33		ongoing process right now in California	
+33:36		is Mono Lake the lake is gradually	
+33:38		drying up and lands are being	
+33:40		apportioned among the adjacent upland	
+33:42		owners it's not a navigable lake so look	
+33:46		at reversion rights in much the same way	
+33:49		as you would the reversion of streets	
+33:50		and the solution and taking and in test	
+33:53		taking situations is to develop a an	
+33:57		apportionment that	
+33:59		we'll equitably distribute the body of	
+34:01		water in most survey textbooks the	
+34:10		general text books like surveying by	
+34:12		Bouchard and Moffat davison foot	
+34:16		surveying theory and practice these	
+34:19		books will cover two classical methods	
+34:22		for dividing up water bodies one of them	
+34:25		is called the PI method where it's	
+34:26		simply like at the pie shop you can have	
+34:28		a piece of pie you slice the pie up into	
+34:31		seven or eight pieces and the other one	
+34:34		is the Long Lake method both of these	
+34:37		are found on the sketch at the back of	
+34:39		the section on water boundary location	
+34:40		the Long Lake method is one which is	
+34:44		used in the Boundary law books that you	
+34:47		will be studying for the examination	
+34:50		probably the best treatment on water	
+34:52		boundaries is found in in boundary	
+34:55		control and legal principles by Brown	
+34:57		rovol art and Wilson almost as good is	
+35:00		the treatment in Clark on surveying	
+35:02		boundaries no along the navigable water	
+35:08		bodies the land belongs to the state for	
+35:11		property boundary surveyors as well as	
+35:13		those who want to be property boundary	
+35:15		surveyors the determination of	
+35:17		navigability is crucial to the dilemma	
+35:19		to the delineation of the property line	
+35:22		of the client whether it's the state or	
+35:25		private owner it is typically it is	
+35:29		typically not included in the deed by	
+35:32		description although some mention of the	
+35:35		water body but may be made such as a	
+35:37		lake sanchez to the shores of Lake tow	
+35:40		thence along the lake or to the shore of	
+35:45		the Sacramento River that's a long said	
+35:47		River or to the shore of the Pacific	
+35:48		Ocean dense along some Pacific Ocean it	
+35:52		is typically not included in the	
+35:55		description by other than general terms	
+35:57		there is not a list of waterways in	
+36:00		California that are navigable	
+36:04		regrettably no one has ever gotten	
+36:06		around the compiling one it takes years	
+36:08		to determine whether a body of water is	
+36:10		navigable and horn	
+36:12		what's necessary is the broad knowledge	
+36:15		of common law and the specific knowledge	
+36:17		of recent case law and using statute as	
+36:22		guidelines now you need to observe on	
+36:28		the sketch one of the aspects the one	
+36:36		that's on the monitor or in your	
+36:40		notebook either one at the point where	
+36:44		tidewater changes Tidewater ceases and	
+36:48		and the waterway is still navigable at	
+36:54		that point at that point the boundary	
+36:58		shifts from high water to low water	
+37:03		boundaries along navigable rivers lakes	
+37:05		and streams is the ordinary low-water	
+37:08		mark now ordinary means not in a period	
+37:11		of drought and not in a period of flood	
+37:13		the river for example can be dry part of	
+37:15		the year and still be a navigable river	
+37:17		for land title purposes the problem is	
+37:21		to determine how that boundary is to be	
+37:23		located on the ground it isn't enough	
+37:26		just to say ordinary low-water mark what	
+37:29		is the ordinary low-water mark how is it	
+37:32		to be located and how is it to be	
+37:34		described by the surveyor this is the	
+37:37		meat of professional practice and the	
+37:39		grist for examinations now each case is	
+37:44		treated differently some examples	
+37:47		clearlake it's a large lake in northern	
+37:50		california with 115 miles of shoreline	
+37:52		in that case the boundary line has been	
+37:55		established as zero on a so-called	
+37:56		rumsey gage rumsey gauge has an ng VD	
+38:00		elevation of 13 18.6 3 feet it's above	
+38:05		sea level roughly just recently lake	
+38:08		tahoe has had an ordinary high in a	
+38:10		low-water mark elevation decreed as the	
+38:14		boundary the San Joaquin River is	
+38:16		undergoing a steady now perhaps in a few	
+38:19		years we'll have some information for	
+38:20		surveyors along the San Joaquin River	
+38:24		now as mentioned previously an easement	
+38:28		burdens property between the high and	
+38:30		low water mark in non-title but	
+38:35		navigable waterways the ordinary	
+38:37		low-water mark is a line which broadly	
+38:43		defined as the lowest point which the	
+38:47		body of water will go in an ordinary	
+38:49		year in lakes this is usually controlled	
+38:53		by a spillway or natural rim now the	
+39:02		severe needs to consider this easement	
+39:09		that lies between high and low water	
+39:11		mark needs to consider it as an easement	
+39:15		it needs to be described separately on a	
+39:17		land description if you're asked to	
+39:18		prepare a description that involves a	
+39:21		water boundary on the exam then by all	
+39:24		means deal with the easement between	
+39:27		high and low water on non-title but	
+39:30		navigable waterways	
+39:36		now the boundary along title waterways	
+39:39		is the ordinary high water mark ordinary	
+39:43		high water line sometimes it's referred	
+39:46		to as the ordinary high tide line the	
+39:49		ordinary mean high-water mark or the	
+39:51		ordinary high tide line legally it is	
+39:53		referred to as the ordinary high water	
+39:55		mark and in and in an exam situation you	
+39:59		really should refer to it as the	
+40:01		ordinary high water mark this covers the	
+40:04		area along the pacific ocean covers	
+40:06		Bay's inlets estuaries and rivers as far	
+40:09		inland as may be title on rivers we have	
+40:13		a particular problem a particular	
+40:16		uncertainty is introduced with the	
+40:17		boundary changing from high to low when	
+40:21		tidal influence ends if you'll think of	
+40:23		a river for example it seasonally	
+40:25		fluctuates a lot more water comes down	
+40:27		in the spring consequently the title	
+40:31		barrier is moved farther out down	
+40:34		towards the mouth of the river that	
+40:35		point where high in low water changes in	
+40:41		so far as the surveyor is concerned	
+40:43		moves up and down the river with the	
+40:45		season obviously it makes it very	
+40:47		difficult for the surveyor to apply	
+40:50		precise technical survey principles for	
+40:56		test purposes how are we going to handle	
+40:58		that for test purposes it is important	
+41:00		to know that the fee title boundary	
+41:03		changes when Tidewater ceases and in	
+41:07		some fashion depending on the nature of	
+41:09		the question in some fashion work or	
+41:11		factor that information into your answer	
+41:14		now along the high along the ocean along	
+41:18		the Pacific Ocean the ordinary high	
+41:21		water mark may be located as either a	
+41:23		mean high tide line or an ordinary high	
+41:26		water mark why do we have to you why do	
+41:29		we have two terms one is a	
+41:32		scientifically repeatable line and the	
+41:34		other one is a legal boundary the mean	
+41:36		high tide line the mean high tide line	
+41:38		is a scientifically repeatable line okay	
+41:47		ordinary high water mark is a legal	
+41:50		boundary and it is used when the	
+41:53		shoreline is in an artificial condition	
+41:55		and the last natural water line is the	
+41:58		boundary now titled atoms titled atoms	
+42:03		titled atoms and water boundaries the	
+42:07		mean high tide line is an elevation	
+42:09		contour and it can be duplicated at any	
+42:13		time by a surveyor using proper	
+42:16		information it may or may not be the	
+42:18		boundary line in California mean high	
+42:20		tide line may or may not be the boundary	
+42:22		line it is the boundary line in the	
+42:25		event that the shoreline is natural it's	
+42:29		fluctuating naturally titled atoms in	
+42:35		California what kind of titled atoms do	
+42:38		we have do we have just one do we have	
+42:40		only the mean high tide line no we have	
+42:43		a series of titled atoms beginning from	
+42:47		the so called baselines for our nautical	
+42:50		charts at the mean lower low water line	
+42:53		we have mean high tide line mean	
+42:56		high-water line these are all at a	
+42:58		vertical distance above mean lower low	
+43:01		water submerged lands on the west coast	
+43:06		of the United States submerged lands	
+43:08		begin at the mean lower low water and	
+43:10		extend three geographic miles into the	
+43:13		ocean certain islands in this three-mile	
+43:17		belt certain islands have a three-mile	
+43:20		belt around them santa catalina island	
+43:24		is an example the three-mile belt around	
+43:26		santa catalina island so that state	
+43:28		lands are actually in cases 27 25 miles	
+43:34		from the shore certain other situations	
+43:45		occur which is important in occurs on a	
+43:47		land surveyors exam periodically and	
+43:49		that is a rock a wash what is the rock	
+43:52		of our show rock a wash is a rock that	
+43:55		surfaces between the mean lower low	
+43:59		water and	
+44:00		mean high water it surfaces it's a wash	
+44:03		during the period when the tides are	
+44:06		moving up and down within the tidal	
+44:08		range sometimes this is only a rock	
+44:09		that's why it's called the rock awash	
+44:11		theory a rocker wash lying within two	
+44:17		miles of the coast in itself has a	
+44:22		three-mile boundary a three-mile belt	
+44:25		around it and we say belt because	
+44:31		measured from the baseline from from	
+44:34		geographic points there are a series of	
+44:37		envelopes or arcs that are described it	
+44:39		if there are three miles from these	
+44:40		points and this is the offshore boundary	
+44:47		for land title purposes for the state of	
+44:49		california united states rights go out	
+44:53		as far as the united states Mike carries	
+44:55		and these involve fishing rights out to	
+44:57		2 24 and 30 miles and beyond but for	
+45:00		land title purposes the three-mile	
+45:02		boundary is the boundary of the state of	
+45:05		California and its measured from the	
+45:07		baseline called the mean lower low water	
+45:11		mark now how do we treat bays we have	
+45:14		closed Bay's such as San Francisco Bay	
+45:17		which have a line drawn from headland to	
+45:21		headland and this line is a baseline for	
+45:25		the three mile offshore belt in other	
+45:30		areas such as Santa Monica Bay it's	
+45:33		considered an open bay and is treated as	
+45:35		the open ocean but Monterey Bay has a	
+45:37		base line drawn across it and from this	
+45:42		from headland to headland and a	
+45:43		three-mile boundary is measured from the	
+45:46		baseline you say why does anybody care	
+45:49		not much for that for the land severe	
+45:51		examination standpoint but it means an	
+45:53		awful lot in terms of tidelands oil	
+45:55		revenue or offshore oil revenue you see	
+45:58		that in the news oftentimes who gets the	
+46:01		billions of dollars from tidelands oil	
+46:07		now our tidelands run from the	
+46:10		high-water line to the lower low	
+46:13		water line these are so-called tidelands	
+46:16		lanza with which the tides cover and	
+46:19		uncover daily they run from a high water	
+46:22		line to the low water line now our tides	
+46:25		in California are tides in California	
+46:28		are a mixed type of tides we have two	
+46:34		high tides and two low tides every day	
+46:36		and over a monthly cycle the high tides	
+46:41		get higher and the low tides get lower	
+46:43		and so if that's the case how can we	
+46:47		locate that line on the ground well we	
+46:48		don't if you'll notice if you'll notice	
+46:50		the the terminology is mean high water	
+46:55		and mean high tide line we are averaging	
+46:57		The Daily tides over a period over a	
+47:01		period of at least 30 days and hopefully	
+47:05		as long as an 18.6 year title epic now	
+47:12		where does a surveyor find this	
+47:14		information what are you going to say in	
+47:16		an examination well the national	
+47:19		geodetic survey operates a title	
+47:21		benchmark program title observations are	
+47:25		made at numerous stations along the	
+47:28		California coast they're more numerous	
+47:30		as funds permit and less numerous when	
+47:32		funds dry up but we have a network of	
+47:38		title observation stations throughout	
+47:42		the the San Francisco Bay Area and along	
+47:45		the open ocean and in most of the bays	
+47:46		in California San front San Francisco	
+47:49		San Diego bolinas Bay in humble bay all	
+47:54		of these areas have their own title	
+47:57		benchmarks and they simply record to	
+48:00		rise and follow the tide and the machine	
+48:06		that keeps the information provides the	
+48:09		heights reached and these are then	
+48:11		averaged if it's a 30 day series of	
+48:13		observations they're averaged over 30	
+48:16		days and then compared to stations of	
+48:21		longer duration for example the station	
+48:24		at Golden Gate has been in existence	
+48:26		since a	
+48:27		teen 48 it has numerous title epochs and	
+48:29		each title epic will cause a a change of	
+48:32		perhaps a tenth of a foot in vertical	
+48:36		distance it's important for the surveyor	
+48:40		and taking a test to understand that if	
+48:43		the boundary line is the mean high tide	
+48:45		line the information that he will be	
+48:49		given is title benchmark information	
+48:52		which will be measured from the mean	
+49:00		lower low water line ng VD national	
+49:03		geodetic survey title benchmark	
+49:05		information is measured from the mean	
+49:07		lower low water line datum but land	
+49:12		surveyors use elevations above sea level	
+49:15		how do we equate the two in a test	
+49:18		situation that information will be	
+49:19		provided to you in a real-life situation	
+49:21		you simply look it up or call either the	
+49:24		State Lands Commission or the national	
+49:26		geodetic survey in Washington DC they	
+49:29		will equate the elevations above sea	
+49:32		level that is above ng VD to the mean	
+49:35		lower low water mark title datum now	
+49:44		once the elevation is determined once	
+49:49		the elevation is determined for the	
+49:50		boundary line the surveying is simple	
+49:55		all that's necessary is to run a contour	
+49:58		in the ground by whatever means is that	
+49:59		the surveyor would typically run a	
+50:01		contour for example if we have a mean	
+50:06		high-water line that's two feet above ng	
+50:10		VD then the surveyor simply runs either	
+50:13		by transit stadia by aerial photography	
+50:16		by any number of means runs a contour on	
+50:21		the ground you have to remember that	
+50:25		water boundaries particularly where they	
+50:26		are shifting naturally will shift with	
+50:30		time hourly and daily most of most of	
+50:33		the people most of you viewing this will	
+50:35		have stood along the beach in the surf	
+50:37		and felt	
+50:40		the sand go out from under your feet in	
+50:42		just a matter of moments if you'll think	
+50:45		about it that's the elevation and	
+50:46		elevation is changing that rapidly and	
+50:48		so is the location of the boundary line	
+50:51		the mean high tide line on the surface	
+50:55		of the earth in some state in some parts	
+50:57		of the state the difference between	
+50:59		between the mean high tide line even	
+51:04		though it's a constant contour the	
+51:06		difference between a winter beach in the	
+51:08		summer beach is as much as 5 to 600 feet	
+51:12		still the same contour remember it is	
+51:15		still the same contour the same	
+51:16		elevation above sea level or above mean	
+51:20		lower low water now how do we reconcile	
+51:27		legal terminology with scientific	
+51:30		methodology remember that the mean high	
+51:34		tide line is a repeatable line we can go	
+51:36		out and locate that contour in the	
+51:37		surface at any time but in a legal arena	
+51:43		the ordinary high water mark is the	
+51:45		boundary the ordinary high water mark	
+51:48		and the mean high tide line are the same	
+51:50		as long as the beach is in a natural	
+51:51		condition if the beach is not in a	
+51:55		natural condition that is it ceases to	
+51:56		fluctuate daily and hourly then the	
+52:00		ordinary high water mark is the boundary	
+52:02		and as we mentioned earlier that's the	
+52:04		last natural location along the beach	
+52:06		it's the last natural location of the	
+52:09		main high tide line now what do we do	
+52:16		about a non-title non navigable waterway	
+52:19		we've talked some what about that how we	
+52:22		locate boundaries along non-tidal lakes	
+52:24		and rivers we have to divide the bodies	
+52:30		of water in an equitable fashion insofar	
+52:35		as swamplands are concerned swamplands	
+52:38		these we consider as metes and bounds	
+52:40		conveyances and they will fall between	
+52:47		the public lands and the mean high tide	
+52:49		line and the descriptions themselves and	
+52:52		the descriptions and sow	
+52:53		are not specific in fact because of the	
+53:01		nature of the land when the lands were	
+53:02		surveyed swamp and overflowed lands it	
+53:07		was they were subject to reclamation no	
+53:09		surveyor is going to walk around in the	
+53:11		mud and the mock so no monuments were	
+53:14		set these presentes but a very difficult	
+53:17		problem for land surveyors and so far as	
+53:21		a test is concerned you need to remember	
+53:22		that they were metes and bounds	
+53:24		conveyances they lie between the high	
+53:27		and the low between the public lands and	
+53:29		the high-water mark and you find them	
+53:31		throughout the state not just the long	
+53:33		oceans or the Delta now what are some of	
+53:39		the factors that affect property	
+53:41		boundaries along waterways well first is	
+53:46		accretion and erosion is accretion and	
+53:48		erosion accretion when land builds up	
+53:53		imperceptibly over a period of time it	
+53:56		accretes to the upland owner it's one of	
+54:00		the things one of the rights that that	
+54:02		makes water property valuable accretion	
+54:05		slow and imperceptible buildup of land	
+54:09		another term for that is alluvium you'll	
+54:13		see that often oftentimes instead of the	
+54:16		term accretion but the two are	
+54:17		synonymous for our purposes erosion the	
+54:25		gradual and imperceptible removal of	
+54:29		property on the uplands and it becomes	
+54:32		inundated by water the landowner losses	
+54:36		in this case it's one of the hazards of	
+54:38		owning property along waterways you	
+54:40		stand both to gain through accretion	
+54:43		natural processes of slow build-up and	
+54:45		you stand to lose in the event that	
+54:47		there's a slow eroding or wearing away	
+54:50		of your property it's a common law	
+54:53		principle embraced by California now	
+54:58		what about its effect on property lines	
+55:00		we have we have a case of a river for	
+55:05		example that	
+55:07		erodes away over a period of time a	
+55:10		period of some years it roads away some	
+55:12		of the some property and then the river	
+55:17		moves back into its almost into its	
+55:22		earlier location when the water moves	
+55:28		back does the previous lot such as lot	
+55:35		M&N; does the lot re-emerge or is the	
+55:42		title extinguished forever after origin	
+55:44		and the erosion wrote it away all of the	
+55:48		land formerly described by described as	
+55:51		law am or in and then suddenly the river	
+55:54		changes its course and moves backwards	
+55:56		what happens to the what happens to the	
+56:00		title was it extinguished or did or	
+56:03		could it re-emerged now we have no	
+56:06		answer for that some states in the Union	
+56:09		and some common law principles embrace	
+56:11		the title of reemergence others in other	
+56:14		states embrace the opposite that the	
+56:18		title is extinguished and that as the	
+56:21		river moves back it accretes to the new	
+56:24		upland okay now the next major factor	
+56:32		that we need to consider very quickly	
+56:34		for land surveying examinations is the	
+56:38		evolved form I whatever reason a sudden	
+56:48		act and Abbas evac'd sudden and	
+56:50		perceptible the opposite of accretion	
+56:52		and erosion the water line becomes	
+56:54		frozen in its last natural location in	
+56:57		the event of an abandoned or in the	
+57:00		event of a cut-off elbow in the river	
+57:02		very common in rivers in California if	
+57:06		the if the elbow is cut off by an	
+57:11		emulsifying remains frozen in its last	
+57:15		natural location its last natural	
+57:18		location the state sovereign interest is	
+57:20		in its	
+57:20		last natural location this this is a	
+57:24		frequently asked question on the lsit	
+57:28		and land surveyors exam particularly on	
+57:31		the land surveyors exams you need to be	
+57:33		aware that in California will use an	
+57:37		evolved act and artificial ality as a	
+57:41		boundary factor and that the boundary	
+57:43		becomes frozen in its last natural	
+57:47		location no we've covered here very	
+57:51		briefly some things that I hope will	
+57:53		cover will help you steady there are	
+57:58		several other books that may be of	
+58:00		interest to you several or fairly recent	
+58:03		and are not included on the list one of	
+58:05		these is a land surveyor reference	
+58:07		manual authored by our bin buckner it's	
+58:11		a nearly a 500 page book and covers	
+58:14		every topic which you're going to be	
+58:16		talking about in these various	
+58:20		presentations another one if you need to	
+58:23		know a little bit more about title	
+58:25		benchmarks and how to locate for a short	
+58:29		period of time in an area where there	
+58:30		may not be a title benchmark you need to	
+58:33		look at surveying for civil engineers by	
+58:35		kasam it's a mcgraw-hill publication and	
+58:38		can be be used for that it's the only	
+58:42		book that I know of in the market that	
+58:44		talks about how to do a short series of	
+58:48		observations and relate these	
+58:51		observations to ng b title benchmark	
+58:54		information now also remember one last	
+58:57		thing and that is that senior grants	
+59:00		senior grants that is rancher land	
+59:02		grants if they included the waterway the	
+59:07		waterway was not sovereign lands it was	
+59:10		even know it was navigable and could be	
+59:12		used by boats it was not sovereign land	
+59:14		for land title purposes reason for this	
+59:17		is that the rancho was a senior grant	
+59:20		now with that we could probably talk a	
+59:23		lot more hours but you need to get to	
+59:26		studying now and i thank you for your	
+59:28		attention goodbye and good luck	
+59:58		you	

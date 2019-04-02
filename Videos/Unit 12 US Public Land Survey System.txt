@@ -1,0 +1,2745 @@
+00:48		welcome to Caltrans lsit Els exam	
+00:52		preparation course one aid in your	
+00:55		preparation for California licensure	
+00:57		examinations a word of caution don't use	
+01:01		this course as your only preparation	
+01:04		devise and follow a regular schedule of	
+01:07		study which begins months before the	
+01:09		test what many problems in each area not	
+01:14		just those in this courses workbook but	
+01:16		problems from other sources as well	
+01:19		this course is funded by Caltrans but	
+01:22		you and I owe a profound thanks to	
+01:26		others the courses instructors from the	
+01:29		academic community the private sector	
+01:31		other public agencies and from Caltrans	
+01:34		as well we wish you well in your study	
+01:38		toward becoming a member of California's	
+01:40		professional land surveying community	
+01:45		hello my name is Jim McKevitt I'm a	
+01:48		supervisory land surveyor with a branch	
+01:49		of Kedah so survey Bureau of Land	
+01:51		Management I work for the BLM since 1976	
+01:54		I'm also a licensed land surveyor in	
+01:56		California having passed the 1984 exam	
+01:59		I'd like to welcome you to unit 12 of	
+02:01		the Caltrans lsit video training course	
+02:04		of course the United States public land	
+02:07		survey system since I'll be referring to	
+02:09		the United States public land survey	
+02:10		system throughout this course from this	
+02:12		point on I'll shorten it to letters PLSS	
+02:15		in preparing for this course I reviewed	
+02:18		previous Ellis exam questions about the	
+02:20		PLSS the questions focused on three	
+02:23		primary aspects of the PLSS which a	
+02:25		license lands fair is likely to become	
+02:26		involved with the topics are the	
+02:28		dependent resurvey the restoration of	
+02:30		lost corners and the subdivision of	
+02:32		sections if you are familiar with the	
+02:34		basic principles in these three areas of	
+02:36		the PLSS then you should be able to	
+02:38		correctly answer the PLSS questions on	
+02:40		the previous exams the questions	
+02:42		generally do not involve complex tricky	
+02:44		or unusual situations this course then	
+02:47		is designed to present the principles of	
+02:49		dependent resurvey and the basic	
+02:51		procedures used in restoring lost	
+02:52		corners and subdividing sections prior	
+02:55		to the presentations on these these	
+02:56		three topics though	
+02:58		I'll discuss the background information	
+02:59		necessary to understand them I want to	
+03:02		start with a short history of the PLSS	
+03:03		the authority for starting the PLSS was	
+03:06		provided by the land ordinance of 1785	
+03:08		this ordinance provided for the	
+03:10		systematic survey and monumentation of	
+03:12		federal lands into a rectangular system	
+03:14		of townships and sections the state of	
+03:16		Ohio served as a testing ground for this	
+03:18		new type of boundary surveys changes	
+03:21		were made in the method based on the	
+03:22		early experiences in Ohio the major	
+03:25		concepts of our present-day system were	
+03:27		largely in place by 1805 with mostly	
+03:30		minor refinery fineman's being made from	
+03:32		time to time thereafter the intent of	
+03:34		the system was to survey and monument	
+03:35		the western lands prior to the federal	
+03:37		government's patenting the lands to its	
+03:39		citizens the rectangular system provided	
+03:41		standardized parcels of land	
+03:43		interrelated by reference to townships	
+03:45		and initial points simple output part	
+03:47		descriptions divided sections into	
+03:49		halves enforced ad infinitum were all	
+03:51		that were necessary to describe with	
+03:53		certainty a parcel of land the General	
+03:55		Land Office or Gao was created by	
+03:58		Congress in 1812 and was given	
+04:00		jurisdiction over all matters concerning	
+04:02		a survey and sale of the federal lands	
+04:03		in 1946 the geo law was combined with	
+04:07		the grazing service and became the	
+04:08		Bureau of Land Management the BLM as	
+04:11		successor to the GL o still has	
+04:13		responsibility for the survey and	
+04:14		resurvey of federal lands the surveys in	
+04:17		California were initiative initiated in	
+04:19		851 shortly after statehood most the	
+04:23		original surveys were made under the	
+04:24		contract system under this system the GL	
+04:27		o contracted with private individuals to	
+04:28		complete the required surveys millions	
+04:31		of acres of federal lands were surveyed	
+04:32		into the system by good bad and	
+04:34		indifferent surveyors in 1910 act of	
+04:37		Congress however directed that the	
+04:39		surveys and researchers of federal lands	
+04:41		were to be made by such competent	
+04:43		surveyors as the Secretary of the	
+04:44		Interior may select this new system of	
+04:47		making the surveys is called the direct	
+04:49		system it effectively abolished the	
+04:51		contract system see a white in his	
+04:54		history of the rectangular survey system	
+04:56		states that most of the easily surveying	
+04:58		had been done so not even the deputy	
+05:00		surveyors themselves had were sorry to	
+05:02		see the contract method go	
+05:04		in the early days of the PLSS	
+05:06		instructions were issued to field	
+05:08		surveyors was specified which specified	
+05:10		the method of survey and accuracy is	
+05:12		expected it gradually became evident	
+05:14		that a consolidation of officially	
+05:16		authorized surveying procedures was	
+05:17		needed on March 3rd 1851 the Oregon	
+05:21		manual entitled instructions to the	
+05:23		surveyor general of Oregon being a	
+05:25		manual for field operations was issued	
+05:28		supplies to this manual also issued to	
+05:31		the surveyor general California so it	
+05:32		was immediately applicable to California	
+05:34		as well the 1855 manual of survey	
+05:37		instructions and expansion of the Oregon	
+05:40		manual with a few improvements was	
+05:42		issued on February 22nd 1855 subsequent	
+05:46		manuals were issued in 1881 1890 1894	
+05:49		902 1930 1947 and 1973 each slightly	
+05:55		improving the PLSS in both accuracy and	
+05:58		uniformity the current manual of 1973	
+06:01		summarizes itself in Section 1-1 as	
+06:05		describing how cadastral surveys of the	
+06:07		public lands are made in conformance to	
+06:08		statutory law and its judicial	
+06:11		interpretation but I want to stress	
+06:13		about the different manuals is that the	
+06:15		BLM geo surveys were in are established	
+06:18		in accordance with the manual enforce as	
+06:20		of the date of the survey to properly	
+06:22		execute a retracement or we survey today	
+06:24		of older plss surveys it is a must to	
+06:27		have an understanding of the methods and	
+06:29		procedures used to execute these older	
+06:31		surveys this understanding can be gained	
+06:33		from the manuals enforce at the time of	
+06:35		this original survey at a minimum for	
+06:38		the PLSS portion of the ls test your	
+06:42		library should contain the manual of	
+06:43		survey instructions 1973 the official	
+06:48		record of BLM gll surveys usually	
+06:50		consist of a set of field notes and a	
+06:52		plat the field notes are the official	
+06:54		written record of the survey they	
+06:57		identify and describe the land the lines	
+06:59		and corners of survey and procedures by	
+07:01		which they were established or	
+07:02		reestablished the plat is the drawing	
+07:04		which represents the line surveyed or	
+07:06		resurveyed showing the direction and	
+07:08		length of each line the plat furnishes	
+07:10		the basic data for the description of	
+07:12		all areas within a Township this is a	
+07:14		typical plat showing Township 5 South	
+07:16		Range 5 ways	
+07:18		Babla Meridian Hill their Township	
+07:20		Platts like this one	
+07:21		we're often composites to several	
+07:23		different surveys colored lines were	
+07:24		often used to distinguish between the	
+07:26		surveys unfortunately these colored	
+07:28		lines reproduce as shades of grey which	
+07:30		are usually not distinguishable if you	
+07:33		should ever need to determine the color	
+07:34		of certain lines the BLM should be	
+07:37		contacted for help when lands are	
+07:40		patented the plats field notes and marks	
+07:42		of the survey become a part of the	
+07:44		patent and control as far as boundaries	
+07:46		are concerned if evidence of a corner	
+07:48		monumental by a private prior survey	
+07:50		cannot be recovered the field notes and	
+07:52		plat provide the basis for restoration	
+07:54		of the lost corner all the original	
+07:57		California field notes and Platts in	
+07:58		existence at the time were destroyed by	
+08:01		the fire which resulted from the April	
+08:02		8th 1906 San Francisco earthquake the	
+08:06		rectangular Platts were replaced by	
+08:07		copies of the duplicate Platts with Ron	
+08:09		file in Washington DC the field notes	
+08:11		were replaced from one or combination of	
+08:13		the following the triplicates set on	
+08:15		file in the Giotto land office a	
+08:18		transcribed copy of the duplicate set on	
+08:20		file in Washington and copies of unknown	
+08:24		origin the copies of unknown origin were	
+08:27		most likely obtained from state or	
+08:28		county sources these multiple copies	
+08:31		occasionally result in discrepancies	
+08:33		between plots and notes different	
+08:35		versions of the plats and different	
+08:36		versions of the notes in order to	
+08:39		resolve these conflicts is important to	
+08:41		know which generation or version you	
+08:43		have the survey record staff of the	
+08:45		California BLM office can help you	
+08:47		distinguish between the different	
+08:48		generations of field notes and plats the	
+08:51		address and phone number of this office	
+08:52		are 2800 cottage Way room e 2807	
+08:57		Sacramento California 9 5 8 to 5 the	
+09:01		phone number for this office is area	
+09:02		code 9 1990 Lowe surveys in California	
+09:11		are available are available for purchase	
+09:13		from this office the measurement data	
+09:16		reported on GL OB land survey Platts and	
+09:19		infield notes are bearings and distances	
+09:21		the distances by law or horizontal	
+09:24		measurements reported and changed based	
+09:26		on the u.s. survey foot at actual ground	
+09:28		distance	
+09:28		one chain is equal to 66 feet partial	
+09:32		chain measurements are made in links the	
+09:34		chain contains 100 links with one link	
+09:37		being equivalent to 7.9 200 inches 80	
+09:41		chains is equivalent to one mile the	
+09:43		chain unit was devised so that 10 square	
+09:45		chains would be equivalent to 1 acre a	
+09:47		measurement shown on the plat as 80	
+09:49		point 1 to 1 chains is equivalent to 80	
+09:52		chains and 12.1 links for the	
+09:56		directional lines the 1973 manual at	
+09:58		section 2 17 states that the direction	
+10:01		of each line of the public land surveys	
+10:03		is determined with reference to the true	
+10:05		Meridian as defined by the axis of the	
+10:07		Earth's rotation section 219 further	
+10:10		states that current practice is to	
+10:12		determine through asmath by one of the	
+10:14		following methods the first is direct	
+10:16		observation of the Sun Polaris or other	
+10:18		stars	
+10:19		the second is observations with a solar	
+10:21		attachment the third is the turning of	
+10:23		bangles from triangulation stations of	
+10:25		the horizontal control network	
+10:28		historically though many of the early	
+10:30		plss surveys were made with a magnetic	
+10:31		compass the use of the compass was	
+10:33		partially abolished by the 1890 manual	
+10:35		which stated that the survey of all	
+10:37		principle base and meridians standard	
+10:40		parallels and guide meridians and	
+10:41		Township lines must be made with an	
+10:43		instrument operating independently of	
+10:45		the magnetic needle the 1890 manual	
+10:48		further stated that where the needle can	
+10:50		be relied on however the ordinary	
+10:52		compass if provided with a revolving	
+10:54		compass box and variation arc may be	
+10:56		used in subdividing and meandering 1894	
+11:01		manual completely abolished the use of	
+11:02		the magnetic compass by stating the	
+11:04		surveys of the public lands in the	
+11:05		United States embracing the	
+11:07		establishment of baselines principal	
+11:09		meridians standard parallels meander	
+11:11		lines and the subdivision of townships	
+11:13		will be made with instruments provided	
+11:16		with the accessories necessary to	
+11:17		determine direction with reference to	
+11:19		the true Meridian independently of the	
+11:21		magnetic needle in the PLSS lines which	
+11:26		are surveyed due east or west or curved	
+11:28		lines of latitude other than on a	
+11:30		Meridian a line a straight line in the	
+11:32		PLSS survey by flopping the scope of an	
+11:34		instrument and subsequent setups to	
+11:36		establish straight line points is a line	
+11:38		of constantly changing bearing	
+11:40		the graphic now on the screen	
+11:41		illustrates how dramatic this effect can	
+11:43		be this particular example is at a	
+11:46		latitude of 45 degrees thirty four point	
+11:48		five minutes north beginning at a point	
+11:50		on the left side of the screen to line	
+11:52		six miles long or surveyed the top line	
+11:55		is surveyed on a bearing of East on a	
+11:57		true parallel of latitude due to the	
+11:59		shape of the earth this is a curved line	
+12:00		the bottom line is a straight line with	
+12:03		an initial bearing of East after one	
+12:06		mile the straight line is one link south	
+12:08		of the due east line after two miles	
+12:11		four link south after six miles the	
+12:14		bearing of the line is south 89 degrees	
+12:16		4 point seven minutes east a little	
+12:19		over five minutes different and it's 37	
+12:21		lengths southerly of the curved line the	
+12:25		divergence between the two lines is	
+12:26		dependent on the latitude of the lines	
+12:28		the further north you go the difference	
+12:30		has become greater but further south you	
+12:32		go the difference has become less for	
+12:35		resurvey is being made today you need to	
+12:37		be aware that all lines of the PLSS	
+12:38		except for subdivision of section lines	
+12:40		and meridian all lines are curved lines	
+12:43		three methods for correcting the curve	
+12:45		correcting for the curvature of the PLSS	
+12:47		lines are presented in the 1973 manual	
+12:50		in sections 2 76 77 and 78 these are the	
+12:55		solar transit method the tangent method	
+12:57		and the secant method nowadays with	
+13:00		calculators and computers readily	
+13:01		available	
+13:02		these methods are seldom used instead	
+13:04		curvature Corrections for each traverse	
+13:06		leg are computed which are then applied	
+13:08		to the bearing of the traverse leg	
+13:10		these curvature Corrections are	
+13:12		dependent upon the dependent upon the	
+13:15		graph of dependent upon the departure	
+13:17		and mean geographic latitude of each	
+13:19		course this method allows you to	
+13:22		determine your position directly without	
+13:24		having to offset from a tangent or	
+13:26		secant line or using a solar attachment	
+13:28		the PLSS like other branches within the	
+13:32		surveying profession has many unique	
+13:34		terms unto itself understanding the	
+13:36		meanings of these terms is important for	
+13:38		taking the exam and even more important	
+13:40		for later as a practicing professional	
+13:42		land surveyor at this time I'd like to	
+13:44		define some of the terms which will be	
+13:46		used later in this course and that you	
+13:48		should be familiar with	
+13:49		an output part is a portion of a section	
+13:52		maybe by subdividing the section into	
+13:54		halves and force or halves and quarters	
+13:56		excuse me a lot is not considered an	
+13:58		output part when dividing a section into	
+14:00		halves and quarters by federal law area	
+14:02		is not a consideration the surveying	
+14:04		procedures determine the parts a	
+14:06		resurvey will almost always reveal	
+14:08		differences in acreages in halves or	
+14:10		quarters of a section this differs from	
+14:12		California state law well 1/2 is defined	
+14:15		as one-half of the area of a whole as a	
+14:17		professional land surveyor you will have	
+14:19		to make the determination of whether	
+14:20		federal or state the rules apply a	
+14:23		standard corner is a senior corner on a	
+14:26		standard parallel or baseline a closing	
+14:29		corner is a corner established where a	
+14:30		survey line intersects a previously	
+14:32		previously fixed boundary at a point	
+14:35		between corners the position of a	
+14:37		closing corner is located by law at the	
+14:39		actual point of intersection without	
+14:41		regard to its monument in position a	
+14:44		witness corner is a monument at survey	
+14:46		point usually on the line of the survey	
+14:48		and near a corner it is established only	
+14:50		in situations where is impractical to	
+14:52		occupy the side of a corner as an	
+14:55		example a witness corner would be said	
+14:57		on one of the lines leading to the true	
+14:58		corner position when the true corner	
+15:00		position falls on the face of a steep	
+15:02		cliff a patent is a document by which	
+15:05		the United States conveys legal title to	
+15:07		a portion of the federal federal lands	
+15:11		the term lot is currently used in the	
+15:13		PLSS to describe a subdivision of a	
+15:15		section which is not described as an	
+15:17		output part of the section but is	
+15:19		instead designated by number a lot may	
+15:22		be regular or irregular in shape its	
+15:24		acreage varies from that of a normal	
+15:26		forty acre aliquot part an example of	
+15:29		the correct terminology to use in	
+15:31		describing a lot is lot two of section	
+15:33		fourteen Township four North range four	
+15:36		East Mount Diablo Meridian the system	
+15:39		for numbering Lots within a section is	
+15:41		similar to that for numbering sections	
+15:42		you start in the northeast part of the	
+15:44		section and sequentially numbered	
+15:46		westerly through the north quarter tier	
+15:48		of the section then drop subtly to the	
+15:52		next lower quarter tier of the section	
+15:54		and proceed easily to the east boundary	
+15:56		then drop southerly to the next quarter	
+15:59		tier of the section and proceed westerly	
+16:01		to the west boundary then drop again	
+16:03		and proceed easterly through the bottom	
+16:04		quarter tier of the second of the	
+16:06		section in the 1800s some lots were	
+16:10		referenced to a township instead of a	
+16:12		section to describe Ranchos any	
+16:14		reservations Meno surveys and other non	
+16:16		rectangular surveys today similar	
+16:18		parcels would be designated as tracks	
+16:20		instead of Lots surveyors outside the	
+16:22		BLM often refer to pls as Lots as	
+16:25		government Lots in order to distinguish	
+16:27		them from Lots on a subdivision map	
+16:29		filed in a county a tract is a modern	
+16:33		term used to describe an area at large	
+16:35		within a Township more specifically here	
+16:38		is a parcel of land which lies in more	
+16:39		than one section or then that cannot be	
+16:41		completely identified as a part of a	
+16:43		section tracts are numbered with the	
+16:45		next highest unused number or unused	
+16:47		section or tract number for a township	
+16:49		as in tract 37 of Township 4 north range	
+16:52		for East Mount diabla Meridian a bearing	
+16:56		tree is a corner accessory the bearing	
+16:58		and distance to the tree are measured	
+17:00		from the position of the monument and	
+17:01		recorded in the field notes the bearing	
+17:03		tree is usually blazed and inscribed	
+17:05		with marks designating the corner	
+17:06		position the the marks remain as long as	
+17:09		the tree is sound eventually the tree	
+17:11		heals over a video usually leaving an	
+17:13		identifiable scar when necessary to	
+17:16		secure proof of the position of a corner	
+17:18		the overgrowth can be removed to reveal	
+17:20		scribing removing the overgrowth	
+17:22		inflicts severe injury on a tree and	
+17:24		should only be done as a last resort to	
+17:26		conclusively prove the position of a	
+17:28		corner I have with me an example of an	
+17:31		overgrowth removed about 1940 from a	
+17:33		bearing tree scribed in 1867 the reverse	
+17:36		five marks in our 1 w s8 are readily	
+17:40		identifiable the blaze portion was about	
+17:43		four inches into the tree a	
+17:48		parenthetical distance is an implied	
+17:51		survey plat measurement they are used to	
+17:53		indicate the position of unlined amended	
+17:55		points on a line shown on an official	
+17:57		plat parentheses are used where the	
+18:00		distance is not supplied by the field	
+18:01		notes indicating that the distance was	
+18:03		not measured on the ground	
+18:05		most of these terms will be reinforced	
+18:07		eyes later in this course now let's move	
+18:11		on to the general scheme or framework	
+18:13		used for the PLSS in California	
+18:15		knowledge of the scheme is essential in	
+18:17		determining the precedence or importance	
+18:19		of the lines and monuments of the	
+18:21		original surveys a surveys in California	
+18:23		were started using the instructions set	
+18:25		forth in 1851 Oregon manual and then	
+18:27		replaced by the 1855 manual the methods	
+18:30		provided for the surveys in the 1855	
+18:32		manual different in some respects from	
+18:34		those provided in the 1851 oregon manual	
+18:36		the general scheme i'm going to present	
+18:38		is that which is based on the 1855	
+18:41		manual under which most of the control	
+18:43		lines in california were surveyed after	
+18:45		presenting the entire scheme I'll	
+18:47		discuss the primary differences between	
+18:49		the surveys executed under the 1851	
+18:51		oregon manual and those executed under	
+18:53		the 1855 manual the PLSS surveys were	
+18:58		started from initial points california	
+19:00		has three initial points the Mount	
+19:02		Diablo initial point was established in	
+19:04		851 and is located about 30 miles	
+19:07		easterly of San Francisco a San	
+19:09		Bernardino initial point was established	
+19:11		in 1852 and is located about 70 miles	
+19:13		east early of Los Angeles	
+19:15		the final California initial point the	
+19:17		humble was established in 1853 and is	
+19:20		located about 25 miles southerly of	
+19:22		Eureka principal meridians were extended	
+19:25		north and south from these initial	
+19:26		points regular quarter section and	
+19:28		section corners were established in	
+19:30		Monument and alternately at intervals of	
+19:32		forty chains and township corners at 480	
+19:34		chains or six miles baselines were	
+19:38		extended east and west from the initial	
+19:39		points standard quarter section and	
+19:42		section corners were established in	
+19:43		Monument and alternately at intervals of	
+19:45		forty chains and standard township	
+19:47		corners at intervals of 480 chains	
+19:49		because of the shape of the earth	
+19:51		meridian o or north-south lines converge	
+19:54		together as they extend toward the poles	
+19:56		this is illustrated by the graphic now	
+19:58		on the screen to adjust for the	
+20:00		shortening of the east-west lines due to	
+20:01		convergence latitudinal correction lines	
+20:04		called standard parallels a run at	
+20:06		specified distances northerly and	
+20:07		southerly of the initial points this	
+20:11		graphic shows the distance northerly and	
+20:12		southerly of the initial points to the	
+20:14		standard parallels as 24 miles each this	
+20:17		is the current specification for the	
+20:19		973 manual in California correction	
+20:22		lines are every 30 miles northerly and	
+20:24		every 24 mile southerly of the baseline	
+20:26		oddly these distances are opposite of	
+20:28		those specified by the 1851 organ manual	
+20:31		and the 1855 manual both manuals require	
+20:35		correction lines 24 miles northerly and	
+20:37		0 miles southerly of the baselines	
+20:39		standard quarter section and section	
+20:41		corners were established on standard	
+20:43		parallels and monument alternately at	
+20:45		intervals of 40 chains and standard	
+20:47		township corners at 480 chains or 6	
+20:49		miles the principal meridian baseline	
+20:52		and standard parallels formed the	
+20:54		controlling lines for further further	
+20:55		further division into townships and	
+20:57		sections the manual of 1881 required the	
+21:01		running a guide meridians placed at	
+21:02		intervals of 24 miles east and west from	
+21:04		the principal Meridian the guide	
+21:06		meridians are extended north from a	
+21:08		baseline or standard parallel to a	
+21:10		closing corner on the next standard	
+21:11		parallel to the north by 1881 however	
+21:14		most of the primary control for the	
+21:16		surveys in California have been	
+21:17		established	
+21:18		therefore guide meridians were not used	
+21:20		in any great extent here the primary	
+21:22		difference between the range line	
+21:23		surveyed in most of California and guide	
+21:25		meridians as a guide meridians are	
+21:27		double measured the intent of the 1881	
+21:30		manual was to have certain that have the	
+21:32		surveyed baselines and standard	
+21:34		parallels and principal meridian and	
+21:35		guide meridians form quadrangles to	
+21:38		confine errors resulting from	
+21:39		convergence of meridians and	
+21:40		inaccuracies and measurements after the	
+21:43		primary control lines were established	
+21:44		the public lands were subdivided in the	
+21:46		townships about 6 miles square a	
+21:48		township is uniquely identified by	
+21:50		number based on the position north or	
+21:52		south of the base line and east or west	
+21:54		of the principal meridian the	
+21:56		highlighted Township shown is identified	
+21:58		as township to south range to west the	
+22:01		township exteriors were surveyed through	
+22:04		a quadrangle successively in ranges of	
+22:06		townships whenever practical beginning	
+22:08		with the townships on the south an	
+22:10		example of the order in which Township	
+22:12		lines were supposed to be surveyed is as	
+22:14		follows starting at the southwest corner	
+22:16		of Township 1 north range 1 west from	
+22:19		Meridian a boundary or Range line was	
+22:21		surveyed from south to north on a true	
+22:23		Meridian quarter section and section	
+22:25		corners were established that	
+22:26		alternately at 40 chain intervals for a	
+22:29		distance of 480 chains where a temporary	
+22:31		township corner was established a random	
+22:34		a random latitudinal line or Township	
+22:37		line was then run east to the principal	
+22:39		meridian	
+22:40		following north or south of the	
+22:41		previously established northeast	
+22:42		township corner if the errors were	
+22:45		within acceptable limits the true	
+22:47		township line connecting the township	
+22:48		corners was computed permanent quarter	
+22:50		section and section corners were then	
+22:52		monument on the two line at forty chain	
+22:54		intervals the excess or deficiency in	
+22:56		measurement was placed in the westerly	
+22:58		half mile of the Township line this	
+23:01		procedure of surveying the range line	
+23:02		then the random and true Township line	
+23:04		continued northerly to the establishment	
+23:06		of the northwest corner of Township	
+23:08		three North range one west the final	
+23:11		meridian the line was then run on a true	
+23:13		Meridian establishing regular quarter	
+23:15		section in section corners at forty	
+23:17		chain intervals until intersecting the	
+23:19		standard parallel or baseline where a	
+23:21		closing corner was established this	
+23:23		procedure was then repeated for the	
+23:25		adjacent range of townships to the west	
+23:27		once the exterior boundaries of a	
+23:29		Township were established the township	
+23:31		was normally subdivided into 36 sections	
+23:33		of land one mile square containing 640	
+23:37		acres each except along the north and	
+23:39		west boundaries where the excess and	
+23:40		deficiency and measurement was placed	
+23:42		heat section was given an identifying	
+23:44		number according to the scheme shown the	
+23:47		subdivision of a normal Township into	
+23:49		sections was initiated on the south	
+23:50		boundary at the previously established	
+23:52		corner of sections 35 and 36 from this	
+23:56		corner the section line between sections	
+23:58		5 and 36 is surveyed parallel to the	
+24:00		east boundary the 1/4 section corner of	
+24:03		sections 35 and 36 is set at 40 chains	
+24:06		and the corner of sections 25 26 35 and	
+24:09		6 is established at 80 chains the	
+24:12		section line between sections 25 and 36	
+24:15		is then run east on a random line to the	
+24:17		northeast corner of section 36 on the	
+24:19		Range Line and then run back westerly on	
+24:22		the true line the 1/4 section corner of	
+24:24		sections 25 and 36 has established	
+24:26		Midway at Midway or midpoint along the	
+24:29		line this procedure is continued	
+24:32		northerly until section 12 is completed	
+24:34		the section line between sections 1 & 2	
+24:37		is then run on a random line to the	
+24:39		section corner on the north boundary and	
+24:41		finally surveyed southerly on the	
+24:42		truline	
+24:43		/4 section corner of sections 1 & 2 is	
+24:46		established at 40 chains from the corner	
+24:48		of sections 1 to 11	
+24:50		with the excess or deficiency of	
+24:52		measurement being placed in the	
+24:53		northerly half-mile if a Township closes	
+24:57		on a standard parallel to the north	
+24:58		however the section line between	
+25:00		sections 1 & 2 is surveyed parallel to	
+25:02		the east boundary a 1/4 section corner	
+25:04		is established at 40 chains and a	
+25:06		closing corner for sections 1 & 2	
+25:08		established at the intersection with the	
+25:09		standard parallel the survey of the	
+25:11		section lines then continues for the	
+25:13		next tiers of sections to the west has	
+25:15		just described the section lines	
+25:17		connecting with the West boundary such	
+25:19		as the line between sections 30 and 31	
+25:21		I run west on a random line and then	
+25:24		easterly on a true line connecting the	
+25:25		section corners the 1/4 section corners	
+25:28		are established on the true line for two	
+25:30		chains exactly from the east of a	
+25:31		section corners all excess or deficiency	
+25:34		and measurement is placed in the	
+25:36		westerly half mile a procedure I have	
+25:38		just described for the survey of federal	
+25:40		lands and in townships and sections	
+25:42		there's a theoretical or ideal procedure	
+25:45		in reality the lines of the of the	
+25:48		original surveyors may not have been run	
+25:49		in the prescribed manner the order of	
+25:51		the surveys in California was often	
+25:53		determined by settlement or development	
+25:55		pressures the demand for surveys on	
+25:57		valuable agricultural timber and mineral	
+25:59		lands greatly influenced the progression	
+26:01		of the surveys extremely rugged terrain	
+26:04		then thought impossible and impractical	
+26:06		to survey also necessitated departures	
+26:09		from the general scheme only by	
+26:14		acquiring and researching the pertinent	
+26:15		field notes and plats of the original	
+26:16		surveys can you positively determine how	
+26:19		the original surveys were made and	
+26:20		determine the precedents of lines for	
+26:22		present-day resurvey California surveys	
+26:25		on the Oregon manual between 1851 and	
+26:28		855 differ from subsequent surveys in	
+26:31		three ways first the 1/4 section corners	
+26:34		angle and section corners established	
+26:36		along the baselines were common to the	
+26:38		townships both north and south of the	
+26:40		baseline there were no closing corners	
+26:43		on the baselines as per the 1855 and	
+26:45		subsequent manuals second standard	
+26:48		parallels lying south of the baseline	
+26:49		constitute the base for the townships to	
+26:52		the south in other words the standard	
+26:54		corners apply only to the townships and	
+26:56		sections south of the Sante parallel	
+26:58		closing corners were established where	
+27:00		the township and section lines to the	
+27:02		north intersected the standard	
+27:03		although this is the reverse of the	
+27:06		present practice third for townships	
+27:09		south of the baseline the range lines	
+27:11		are run from north to south where	
+27:15		standard township or section lines	
+27:17		intersecting the animal bodies of water	
+27:18		meander corners are established	
+27:20		navigable bodies of water and other	
+27:23		important rivers and lakes were meander	
+27:25		through that through a township by the	
+27:26		original surveyors a meander line is a	
+27:29		traverse of the mean high-water line of	
+27:31		the body of the water a meander line is	
+27:34		not run to define the boundaries of a	
+27:35		parcel its purpose is to determine the	
+27:38		quantity of land in a parcel the body of	
+27:41		water is the actual boundary line the	
+27:44		original surveyors were required to	
+27:45		monument all section and 1/4 section	
+27:47		corners the survey is executing the	
+27:49		eighth in the 1800s general use	
+27:51		materials needed to the area survey for	
+27:53		monumentation such as a large mark stone	
+27:56		and a mound of smaller stones or a	
+27:58		marked wooden post and a mound of earth	
+28:01		not your group marks were made on a	
+28:03		stone or post monuments by the original	
+28:05		surveyors to identify the corner where	
+28:08		possible corner accessories such as	
+28:10		bearing trees were taken the original	
+28:13		surveyors were also required to note all	
+28:15		objects and features on and along the	
+28:17		survey lines trees which were	
+28:19		intersected by survey lines were hacked	
+28:21		or notched with an axe	
+28:23		twice on each side of the tree these	
+28:26		trees are called line trees	
+28:27		topographical features such as creeks	
+28:30		ravines ridges canals washes and so on	
+28:33		are noted on line objects and features	
+28:36		were reported and described in the field	
+28:39		notes that measure distances to key	
+28:41		points which you should remember	
+28:42		regarding plss surveys are first that	
+28:45		the boundaries of the boundaries and	
+28:47		subdivisions of the federal lands aren't	
+28:49		changeable after the passing a title by	
+28:51		the United States and second that the	
+28:53		original Township section quarter	
+28:55		section and other monuments as	
+28:57		physically evidence must stand as the	
+28:59		two corners of the subdivisions which	
+29:01		they were intended to represent and will	
+29:03		be given controlling preference over the	
+29:05		recorded directions and lengths of the	
+29:07		lines as I mentioned earlier the XS are	
+29:12		deficiency and measurement in a regular	
+29:13		surveyed Township is placed along the	
+29:15		north and west or north	
+29:17		boundaries of the township the graphic	
+29:19		now on the screen illustrates a normal	
+29:21		planning of sections five six seven and	
+29:23		eight the usual deficiency in area which	
+29:25		results from convergence II of the	
+29:27		meridians is placed in fractional areas	
+29:29		called Lots	
+29:30		along the west boundary the surplus or	
+29:32		deficiency an area which results from	
+29:34		the discrepancy in Meridiana	
+29:35		measurements between the exterior	
+29:37		boundaries and the sub-divisional lines	
+29:38		is placed in faction fractional Lots	
+29:40		along the north boundary once the public	
+29:43		lands were surveyed and the plats	
+29:45		created an approved a parcel land could	
+29:47		be described with certainty section	
+29:50		fourteen will be used to illustrate the	
+29:51		nomenclature which is used to describe	
+29:53		an output part or legal subdivision of a	
+29:55		section the parcel at the top left of	
+29:58		the section is described as the	
+30:01		northwest 1/4 northwest 1/4 of section	
+30:03		4 immediately below is the parcel	
+30:06		described as the southwest 1/4 northwest	
+30:08		/4 of section 14 and below that the	
+30:12		pasta described as the North 1/2	
+30:13		Southwest 1/4 of section 14 locating	
+30:17		aquapark descriptions such as these is	
+30:19		often easier if read backwards	
+30:21		for example the southwest 1/4 Northwest	
+30:25		/4 would be pictured first as the	
+30:27		Northwest 1/4 then as the southwest 1/4	
+30:30		of that North West 1/4 in this	
+30:32		illustration section 14 is made	
+30:34		fractional by a lake and - non non	
+30:36		output parts of a section were created	
+30:38		these two parcels adjoining the lake are	
+30:41		described as lot 1 and lot 2 of section	
+30:43		4 subdivision of section corners have	
+30:46		been given specific names if you are	
+30:48		given a 16th section corner name or	
+30:50		designation you should be able to	
+30:52		quickly visualize the location of that	
+30:54		corner in relation to the section the	
+30:58		example shown is of the Northwest	
+30:59		quarter of a section the northwest	
+31:01		quarter has shown subdivided into	
+31:03		quarter quarter or 16 sections percent a	
+31:06		quarter of the section shown at the	
+31:08		lower right of the screen and	
+31:09		abbreviated se C 1/4 is normally	
+31:12		established at the intersection of	
+31:13		straight lines between the opposing 1/4	
+31:15		section corners the sixteenth	
+31:17		controlling the subdivision of Northwest	
+31:19		quarter the north 1/16 the West 116 the	
+31:23		seven north 1/16 and the center west	
+31:25		/16 are established either Midway or in	
+31:28		the case of sections that had joined the	
+31:29		north or west boundaries of a town	
+31:31		at the proper proportional distance	
+31:33		between the pertinent section or 1/4	
+31:35		section corners long line the northwest	
+31:39		/16 shown in the center of the quarter	
+31:41		section and abbreviated as northwest	
+31:43		/16 is usually established at the	
+31:45		intersection of straight lines between	
+31:47		the opposing controlling 1/16 corners if	
+31:51		you're not familiar with these corner	
+31:52		designations and their approximate	
+31:54		location in a section you should have	
+31:56		used sections 4 38 and 439 of the 1973	
+31:59		manual this concludes the background	
+32:03		background material on the PLSS which I	
+32:05		wanted to provide I'd now like to move	
+32:08		on to a plss subject which are very	
+32:10		likely to encounter on the LS exam this	
+32:12		subject is the subdivision of sections	
+32:15		lands were patented or conveyed to	
+32:17		individuals from the federal government	
+32:19		under various settlement laws such as	
+32:21		the Homestead Act under these laws	
+32:24		patents were issued for output parts or	
+32:26		lots of a section private surveyors are	
+32:29		now often called upon to determine the	
+32:31		boundaries of a patented or these	
+32:32		patented sectional parts in mostly the	
+32:36		original surveys by the Geo low the only	
+32:38		boundaries which were surveyed by the	
+32:39		federal government were the exterior	
+32:41		boundaries of the sections on the	
+32:43		official pilot of the surveys though the	
+32:45		federal government's plan for the	
+32:46		subdivision of section lines was	
+32:47		protracted this was usually done by	
+32:49		showing dashed lines on the plat these	
+32:54		dashed lines do not contain measurements	
+32:56		this graphic shows the protracted lines	
+32:59		for typical plotting of sections five	
+33:00		six seven and eight sections shown on	
+33:03		the plat containing 640 acres such as	
+33:06		section eight in this graphic were	
+33:08		protracting in the quarter sections	
+33:11		usually by dash straight lines	
+33:13		connecting opposite 1/4 section corners	
+33:15		for normal section such as this the	
+33:18		boundaries of the quarter quarter	
+33:19		sections were not protracted because	
+33:21		such subdivisions are output parts of a	
+33:23		section and are based on midpoint	
+33:25		positions for the sixteenth corners	
+33:27		sections five six and seven contain	
+33:30		additional lines protracted on the plats	
+33:31		to indicate the boundaries of the Lots	
+33:33		this is typical for sections which	
+33:36		adjoined the north or west boundaries of	
+33:37		a township where the excess or	
+33:39		deficiency in measurement was placed	
+33:40		using the tractive subdivision plan	
+33:43		shown on the original plaid and the laws	
+33:45		and regulations of the federal	
+33:46		government the procedure to use and	
+33:48		subdividing a section can be determined	
+33:50		before a section can be subdivided	
+33:52		though the positions for the corners on	
+33:55		the section boundaries have to be	
+33:56		located this includes establishing the	
+33:58		positions for the sixteenth corners if	
+34:00		necessary once this is done the section	
+34:02		can be subdivided the procedures to	
+34:05		subdivide sections which I'll now	
+34:06		discuss are for the first survey of the	
+34:09		subdivision of a section consider divide	
+34:13		a section in the quarter sections the	
+34:15		center lines are run from the	
+34:16		established 1/4 section corners to the	
+34:18		opposite quarter section corners this is	
+34:21		illustrated by the protracted center	
+34:22		lines in sections 5 6 7 & 8	
+34:25		the point of intersection of the center	
+34:27		lines of the section will be the corner	
+34:29		common to the four quarter sections here	
+34:31		is a legal center of the section and as	
+34:33		I mentioned earlier is called the center	
+34:35		/4 of the section the position for the	
+34:38		center one quarter section corner can	
+34:39		easily be determined by using a bearing	
+34:41		bearing intersection calculation to	
+34:44		subdivide a quarter section into quarter	
+34:45		quarter sections the center lines of the	
+34:48		quarter section will be run straight	
+34:49		between opposing corresponding sixteenth	
+34:51		corners this principle does apply to the	
+34:55		quarter sections along the north and	
+34:56		west boundaries of the township even	
+34:58		though it may not appear that way from	
+34:59		the protracted lines for example in	
+35:02		section 7 along the line between Lots 3	
+35:04		& 4 s detracted this line is actually	
+35:07		the west half of the east-west center	
+35:09		line of the southwest quarter the	
+35:11		southeast corner of lot 3 which is	
+35:14		identical with the northeast corner of	
+35:15		lot for his determined by the	
+35:17		intersection of the certain lines of the	
+35:18		southwest quarter the point of	
+35:21		intersection is the legal center of the	
+35:22		Southwest quarter and is called the	
+35:24		southwest 1/16 section corner of section	
+35:27		 in order to subdivide sections which	
+35:29		join the north and west boundaries into	
+35:31		quarter quarter sections parenthetical	
+35:33		distances usually have to be determined	
+35:35		as we defined earlier a parenthetical	
+35:38		distance as an implied survey plat	
+35:39		measurement has an example of why it's	
+35:42		necessary to be able to determine	
+35:43		parathe to determine parenthetical	
+35:45		distances let's again focus on the	
+35:47		southwest corner of section Southwest	
+35:50		quarter of sections	
+35:52		in order to determine the location of	
+35:54		the north-south centerline the positions	
+35:56		of the West 116th along the south	
+35:58		boundary and the center west 116th along	
+36:01		the east and west centerline have to be	
+36:03		determined the West 116th is not at	
+36:05		midpoint between the south quarter and	
+36:07		the southwest corner of the section nor	
+36:09		was the center west 116th that midpoint	
+36:11		between the center one-quarter and the	
+36:13		West one-quarter the fractional	
+36:15		measurements in the last quarter mile	
+36:16		make it necessary to determine the	
+36:18		parenthetical distances in order to	
+36:20		place the sixteenths at the correct	
+36:22		proportions along the lines a	
+36:24		parenthetical distance is not in the	
+36:26		field notes which indicates that the	
+36:28		distance was not measured on the ground	
+36:30		parenthetical distances are used to	
+36:32		determine where certain points not	
+36:33		monument and by the original survey are	
+36:35		to be established they may or may not be	
+36:38		shown on a planet if shown they are	
+36:40		usually in parentheses if not shown they	
+36:43		are implied by the principles used to	
+36:44		lot sections and can be calculated they	
+36:47		are considered as part of the record	
+36:49		because parenthetical distances were	
+36:52		used to calculate the area visit areas	
+36:53		of a section there are also used to	
+36:56		protract but excuse me they are also	
+36:58		used to protect such areas by means of	
+37:00		proportionate measurements to determine	
+37:02		the position of previously owned	
+37:03		monument points to clear up any	
+37:06		confusion about parenthetical distances	
+37:08		let's look at an example	
+37:09		this section is an example of padding	
+37:12		along the west boundary of a normally	
+37:13		surveyed Township the section is	
+37:15		protracted into two 160-acre aliquot	
+37:18		parts the northeast and southeast	
+37:20		corners of the section quarters of the	
+37:21		section 280a core adequate parts the	
+37:24		east one-half northwest 1/4 and the east	
+37:27		one-half Southwest 1/4 and along the	
+37:29		West boundary lots 1 2 3 & 4 the lot	
+37:33		number is usually stacked above the area	
+37:34		in acres of the lot in this example plot	
+37:37		one contains 40 2.75 acres and lot to 42	
+37:41		point six five acres along the south	
+37:44		boundary of this section normally the	
+37:46		only distance measurement given is the	
+37:47		overall distance in this case eighty one	
+37:50		point two zero chains the implied	
+37:53		measurements from east to west are forty	
+37:55		change to the monument in south 1/4	
+37:57		Corner 20 change to the unmonitored west	
+37:59		/16 and the remainder along the south	
+38:02		boundary of lot four	
+38:03		twenty-one point two zero chains the	
+38:07		West 116th corner along the south	
+38:08		boundary this section will be	
+38:10		established using the proportional	
+38:11		elements twenty and twenty-one point two	
+38:14		zero between the South 1/4 section	
+38:16		corner and the Southwest section corner	
+38:18		the position of the west 1/16 on the	
+38:21		north boundary of the section is	
+38:22		determined in the same manner along the	
+38:25		north boundary the applied measurement	
+38:26		for lot one is twenty-one point four	
+38:28		zero change the measurement along the	
+38:33		west boundary of the section is 80	
+38:34		chains the West boundaries of lots one	
+38:37		through four are implied to be	
+38:39		equidistant or 20 chains each in a	
+38:42		normal original survey the east battery	
+38:44		the section is also 80 chains these	
+38:46		boundaries the lots one through four	
+38:47		then are also 20 chains each since each	
+38:51		of the Meridian the lines of the lot is	
+38:52		0 chains an easy way to calculate the	
+38:55		north boundary of lot four is to	
+38:59		subtract the distance along the south	
+39:01		boundary from the acreage forty-two	
+39:04		point four five minus twenty-one point	
+39:06		two zero is equal to 21 point two five	
+39:09		chains along the north boundary of lot 4	
+39:12		similarly the north boundary of lot	
+39:14		three can be computed forty two point	
+39:17		five five minus twenty one point two	
+39:19		five equals twenty one point three zero	
+39:21		chains the north boundary a lot two is	
+39:24		forty two point six five - twenty one	
+39:26		point three zero or twenty one point	
+39:28		three five chains as a check the north	
+39:31		boundary of lot one is determined in the	
+39:33		same manner forty two point seven five	
+39:35		minus twenty one point three five	
+39:37		matches the remainder distance of twenty	
+39:39		one point four zero although in this	
+39:42		case the distances could have been	
+39:43		calculated directly by averaging the	
+39:45		remainder distances along the north and	
+39:47		south boundaries of the section here's a	
+39:49		good idea to check the areas to make	
+39:51		sure that of the planning and ten and	
+39:52		that there are no computational errors	
+39:54		once the parenthetical distances have	
+39:58		been cut have been calculated the center	
+40:00		west one sixteenth can be established	
+40:01		along the east and west center line the	
+40:05		center west one sixteenth will be	
+40:06		established a proportion between the	
+40:08		center 1/4 and 1/4 corner on the west	
+40:10		boundary using the proportional elements	
+40:12		twenty and twenty-one point three zero	
+40:15		now let's move on to a more difficult	
+40:17		section this isn't normally applied at	
+40:20		section six being allotted against the	
+40:22		North and West boundaries although it	
+40:24		looks more complicated the analysis and	
+40:26		methods used to calculate the	
+40:27		parenthetical distances are the same all	
+40:30		excess or deficiency measurement is	
+40:32		placed to the north on the meridian on	
+40:33		the line or to the west on the	
+40:35		latitudinal line let's look at each of	
+40:37		the boundaries of the section and	
+40:38		determine the implied measurements along	
+40:41		the South boundary the applied	
+40:42		measurements from east to west are forty	
+40:44		twenty and eighteen point four zero	
+40:46		chains along the west boundary the	
+40:49		eighty chains implies that the West	
+40:51		boundaries of lots four five six and	
+40:53		seven are 20 chains each along the East	
+40:57		boundary of the section implied	
+40:58		measurements from south to north are	
+41:00		forty twenty and nineteen point oh six	
+41:03		chains and along the north parent of the	
+41:06		section the implied measurements for	
+41:08		lots one two and three are twenty chains	
+41:10		with the deficiency a measurement of	
+41:12		9.00 chains being placed along the	
+41:15		north boundary of lot four from this	
+41:17		analysis you can determine that the	
+41:19		parenthetical distances along the east	
+41:21		and west boundaries of lots five six and	
+41:23		seven are twenty chains each also you	
+41:26		can determine that the parenthetical	
+41:27		distances along the North and South	
+41:29		bounders of lots one two and three are	
+41:31		twenty chains each therefore to	
+41:34		calculate the remaining parenthetical	
+41:35		distances of the lots the same method	
+41:37		used in the previous example will work	
+41:40		the north bound is a lot seven six and	
+41:42		five can be determined by subtracting	
+41:44		the distance from the acreage for the	
+41:47		north boundary of Lot seven thirty six	
+41:49		point nine five minus eighteen point	
+41:51		four zero equals eighteen point five	
+41:53		five chains the calculation would	
+41:56		continue northward to the north boundary	
+41:58		of lot five which would equal eighteen	
+42:00		point eight five chains then you would	
+42:03		determine the West boundaries the lots	
+42:05		one two and three in a similar manner	
+42:07		for the west boundary of lot one take	
+42:09		the acreage for lot 1 of thirty eight	
+42:11		point three five and subtract the	
+42:13		distance of nineteen point O six along	
+42:15		the east boundary of lot one this works	
+42:17		out to be nineteen point two nine chains	
+42:19		similarly for the west boundary of lot	
+42:21		two 38.82 minus suggest calculated	
+42:25		nineteen point two nine equals nineteen	
+42:27		point five three chains	
+42:29		and finally for the West boundary of Lot	
+42:31		three thirty nine point two nine minus	
+42:33		nineteen point five three equals	
+42:35		nineteen point seven six chains as a	
+42:39		check	
+42:40		you should mean the opposing boundaries	
+42:41		of lot four and then multiply them times	
+42:43		each other to get the acreage of lot	
+42:45		four in this case the North and South	
+42:47		boundaries of lot for our 19.00 and	
+42:50		eighteen point eight five change	
+42:52		respectively	
+42:52		which means eighteen point nine to five	
+42:55		chains the east and west boundaries of	
+42:57		lot for lot for our 20 and nineteen	
+43:00		point seven six chains which means in	
+43:02		nineteen point eight eight chains then	
+43:06		multiplying the means of eighteen point	
+43:07		nine to five and nineteen point eight	
+43:09		eight gives you three hundred seventy	
+43:11		six point two square chains or thirty	
+43:13		seven point six two acres piss checks	
+43:16		within a hundredth of the plaited	
+43:17		acreage which is acceptable when	
+43:20		originally calculated the mean of the	
+43:22		north-south north and south boundaries	
+43:23		of lot four were probably were probably	
+43:25		rounded from eighteen point nine twenty	
+43:27		five to eighteen point nine three to	
+43:30		make the multiplication easier using	
+43:32		eighteen point nine three for the check	
+43:34		the acreage actually works out to thirty	
+43:36		seven point six three which is the same	
+43:38		as shown on the graphic these example	
+43:43		the examples provide you with the basics	
+43:45		necessary to analyze and determine	
+43:46		parenthetical distances for most most	
+43:49		normally surveyed sections adjoining the	
+43:51		north and west boundaries of a township	
+43:53		three important rules to remember about	
+43:55		parenthetical distances are number one	
+43:58		they are considered as part of the	
+43:59		official plat record number two areas	
+44:02		shown on the plat or based on	
+44:04		parenthetical measurements and number	
+44:06		three they must be used to determine the	
+44:08		record patent boundaries now let's move	
+44:12		on to the subdivision of a fractional	
+44:13		section a section is considered	
+44:15		fractional if the regular boundaries are	
+44:17		not completed because of an intervening	
+44:18		body of water a senior boundary or an	
+44:21		uncompleted survey a section is	
+44:23		fractional if it cannot be completed	
+44:25		because of a private land grant boundary	
+44:27		such as one of the many ranches in	
+44:28		California or an Indian Reservation	
+44:30		boundary as shown here the north and	
+44:33		east boundaries of section four were	
+44:34		terminated at their intersection with a	
+44:36		senior Indian reservation boundary	
+44:38		closing corns were established at the	
+44:40		intersection	
+44:41		points as you can see there's not a	
+44:45		North 1/4 section corner to determine	
+44:47		the direction of the north-south	
+44:47		centerline fractional sections may be	
+44:51		created against the meandered body of	
+44:52		water as in this example along the Smith	
+44:54		River the north and west 1/4 section	
+44:57		corners of section 32 were not said	
+44:59		fractional sections could also result	
+45:01		from uncompleted surveys in this example	
+45:04		the section lines of sections 8 & 9	
+45:06		could not be completed most likely due	
+45:09		to unsurvivable terrain on the survey	
+45:11		Platts acreages were returned for	
+45:13		certain output parts of the section	
+45:15		adjoining surveyed lines as an example	
+45:18		the southwest quarter of section 9	
+45:20		pulling 160 acres was returned to	
+45:23		surveyed the north and east boundaries	
+45:26		were not surveyed and the north east	
+45:28		south east and north west quarters are	
+45:30		not considered surveyed since the north	
+45:32		and west 1/4 section corners were not	
+45:34		established the section is shown here	
+45:36		would be considered fractional sections	
+45:39		which are not in alignment on opposite	
+45:41		sides of meandering rivers our	
+45:42		fractional and for a final example	
+45:44		sections which border large bodies of	
+45:46		water are considered fractional by law	
+45:49		where opposite quarter section corners	
+45:51		have not been fixed the subdivision of	
+45:53		sections will be run from the	
+45:56		established corners north south east or	
+45:58		west to the boundary or body of water	
+46:00		that caused the opposite fractional	
+46:03		exterior the law presumes section lines	
+46:07		are north south east or west to carry	
+46:10		out the spirit of the law mean courses	
+46:13		for the subdivision of section lines	
+46:14		must be adopted or parallel lines run as	
+46:17		conditions may require now shown are two	
+46:20		situations where parallel courses would	
+46:22		be used to survey the center lines in a	
+46:24		situation on the left of the screen the	
+46:26		section was made fractional and a normal	
+46:28		north boundary does not exist therefore	
+46:30		the east-west hemline of the section or	
+46:33		the center lines of the quarter sections	
+46:34		will be surveyed parallel to the south	
+46:36		boundary of the section in the situation	
+46:38		on the right of the screen where the	
+46:40		section is partially unsurveyed and the	
+46:42		east or and north boundaries not yet	
+46:44		established parallelism would be used to	
+46:46		determine the courses of the center	
+46:48		lines mean courses are necessary to	
+46:50		subdivide fractional sections in the two	
+46:52		situations now shown	
+46:53		both situations are similar in the one	
+46:56		of the 1/4 section corners is	
+46:58		non-existing but both portions of the	
+47:00		corresponding section lines exist in the	
+47:03		section shown on the left of the screen	
+47:05		the east-west center line would be	
+47:07		surveyed on an on the mean bearing of	
+47:08		the north-south center or north and	
+47:10		south boundaries of the section if the	
+47:12		section shown on the right in the	
+47:14		section shown on the right the	
+47:15		north-south Stern line will be surveyed	
+47:17		on the mean bearing of the East and West	
+47:18		boundaries of the section where two	
+47:21		adjacent quarter section corners are	
+47:22		non-existent the portions of all the	
+47:24		exterior boundaries of the section exist	
+47:26		again mean courses will be adopted thus	
+47:30		far we've identified situations where	
+47:33		mean courses would be adopted to	
+47:34		subdivide a section there are three	
+47:36		different ways to calculate a mean	
+47:37		course conditions found in the	
+47:39		fractional section will determine the	
+47:41		method used to determine the bearing of	
+47:43		the main course first is the arithmetic	
+47:45		mean the arithmetic mean is used where	
+47:47		opposite section lines are relatively	
+47:49		equal in length as shown in this example	
+47:51		the east and west section lines are	
+47:54		about equal in length therefore the	
+47:56		center line is surveyed on an ear on the	
+47:57		arithmetic mean of the bearing of the	
+47:59		east and west boundaries of the section	
+48:02		the second type of mean course is the	
+48:04		weighted mean the weighted mean is used	
+48:06		where opposite section lines differ	
+48:08		greatly in length has Illustrated here	
+48:10		the weighted mean bearing to survey the	
+48:12		center line is developed based on the	
+48:13		ratio of the lengths of the two section	
+48:15		lines the third type of mean course is	
+48:19		the weighted mean for a nun centered	
+48:20		centreline situation an example where	
+48:23		this might have where this may occur is	
+48:25		along the west boundary of a Township as	
+48:28		you can see from this example the north	
+48:30		and south centerline of the section is	
+48:31		not since we're located in this case a	
+48:34		mean course would be developed based on	
+48:36		the ratio of the distances from the east	
+48:38		and west section lines to the uncentered	
+48:40		center lines now let's look at an actual	
+48:44		cut right at at actual calculations	
+48:46		necessary to determine the mean course	
+48:48		is to run in these three different types	
+48:49		of situations the arithmetic mean will	
+48:53		be used in this fractional section	
+48:54		situation since the East and West	
+48:56		boundaries of the section are of about	
+48:58		equal lengths and the centre line is	
+49:00		centrally located in the section first	
+49:02		determine the difference between the	
+49:03		bearings of the West boundary and the	
+49:05		bearing of the east	
+49:06		which is 58 minutes next divide the	
+49:08		differences by 2 the result is 29	
+49:11		minutes which is the amount to be	
+49:12		subtracted from the bearing of the West	
+49:14		boundary as shown here the arithmetic	
+49:16		mean bearing to survey the north-south	
+49:18		centerline is sal's zero degrees Oh nine	
+49:20		minutes West the 29 minutes could also	
+49:23		be added to the bearing of the East	
+49:24		boundary which would give the same	
+49:26		result the survey of the north-south	
+49:27		centerline would start at the known	
+49:29		position of the North one-quarter corner	
+49:31		and run south zero degrees Oh nine	
+49:33		minutes west to intersect the south	
+49:35		boundary of the fractional section the	
+49:38		weighted mean would be used to determine	
+49:39		the east-west center line of this	
+49:40		section	
+49:41		since the north and southbound is a	
+49:42		section or significantly different in	
+49:44		length the easiest way to determine the	
+49:48		weighted mean bearing for the east-west	
+49:49		center line is to first break the	
+49:51		bearings and distances of each line into	
+49:53		latitudes and departures the latitude of	
+49:55		the North line plus one point four seven	
+49:58		three five is then added to the latitude	
+50:00		of the South line plus zero point one	
+50:02		three six seven to give a total attitude	
+50:05		of plus one point six 102 similarly the	
+50:10		departures are added together to give a	
+50:11		psalm of plus ninety three point three	
+50:14		six seven eight the total latitude and	
+50:16		departure is then converted to polar	
+50:18		coordinates which yields a bearing of	
+50:20		North 89 degrees zero zero minutes and	
+50:22		3 seconds east this is the way to mean	
+50:25		bearing to use for the survey of the	
+50:26		east-west center line a survey of the	
+50:28		east-west center line would start at the	
+50:30		known position of the West one quarter	
+50:31		section corner and run on the weighted	
+50:33		mean bearing to intersect the East	
+50:35		boundary the fractional section a way to	
+50:39		mean bearing four for a nun center line	
+50:41		a way to mean bearing for an uncentered	
+50:43		centerline situation is necessary to	
+50:45		determine the bearing for the north and	
+50:47		south centerline of this section	
+50:48		basically the mean bearing will be	
+50:51		determined by by proportion by the	
+50:53		proportion of the lengths of the	
+50:54		segments of the south boundary the first	
+50:56		step is to determine the length and	
+50:57		departure of the east and west segments	
+50:59		of the south boundary and add them	
+51:01		together for a total departure of the	
+51:03		line in this case the departures are	
+51:05		given is forty point two three and seven	
+51:07		point two one which tall a forty seven	
+51:09		point four four chains next determined	
+51:12		the difference in minutes between the	
+51:14		east and west boundaries which is 66	
+51:16		minutes a proportion is then set up as	
+51:18		follows	
+51:19		the partial departure of 7.21 is divided	
+51:22		by the total departure of 47 point 4 4	
+51:24		to give a proportion factor which is	
+51:27		labeled as K on the graphic the	
+51:29		proportion factors in multiplied by the	
+51:31		difference in bearing of 66 minutes	
+51:32		which yields a result of 10 minutes the	
+51:35		0 minutes is then subtracted from the	
+51:37		bearing of the West boundary which gives	
+51:39		a weighted mean course for the	
+51:40		north-south line of north steel degrees	
+51:42		Oh two minutes east as a check the	
+51:45		partial departure of 40 point 2 3 is	
+51:47		divided by the total departure of 47	
+51:49		point four four and multiplied times the	
+51:51		difference in bearing of 66 minutes	
+51:53		which will yield a result of 56 minutes	
+51:56		the 56 minutes isn't subtracted from the	
+51:59		bearing of the East boundary to give the	
+52:01		same way to give the same way to mean of	
+52:04		north zero degrees Oh two minutes east	
+52:05		the survey of the north-south centerline	
+52:08		would start then start at the South	
+52:10		quarter corner of the section and run	
+52:12		north zero degrees Oh two minutes east	
+52:13		on the weighted mean bearing to	
+52:15		intersection with the boundary which	
+52:16		made the section fractional in the	
+52:19		preceding cases involving fractional	
+52:20		sections the recommended procedures for	
+52:22		subdividing fractional sections have	
+52:24		been demonstrated as a word of caution	
+52:26		when subdividing a fractional section	
+52:28		strong consideration must be given to	
+52:31		any existing collateral evidence which	
+52:33		was established in good faith acceptable	
+52:36		collateral evidence would preempt any of	
+52:37		the recommended procedures to conclude	
+52:39		this discussion on subdivision of	
+52:41		sections I'd like to remind you all to	
+52:43		always analyze the BLM's yellow plots of	
+52:46		a section prior to subdividing only by	
+52:48		doing so can you ensure that you've	
+52:49		adopted the correct procedures to	
+52:51		subdivide a section at this point we're	
+52:54		about midway through the through u12 of	
+52:56		the PLSS course this is a good place for	
+52:59		you to stop and review the material	
+53:00		discussed so far so let's take a break	
+53:10		welcome to the second half of unit 12 of	
+53:13		the Caltrans LS lsit video training	
+53:15		course during the second half of this	
+53:17		course will be discussing the principles	
+53:19		of the dependent resurvey restoration of	
+53:22		lost corners and going over several	
+53:24		questions from previous LS exams now	
+53:26		let's start by defining five terms which	
+53:28		will need to be understood for	
+53:29		subsequent discussions there is much	
+53:32		confusion in the profession about these	
+53:33		definitions to be successful on the	
+53:36		exams you must understand them although	
+53:39		they're sometimes used as if they were	
+53:41		interchangeable the term corner and	
+53:43		monument are not synonymous a corner may	
+53:46		be monumental but a monument may not be	
+53:48		a corner a corner is a point determined	
+53:51		by the surveying process a monument is	
+53:53		the object or physical structure that	
+53:55		marks the corner point the corners of	
+53:58		the PLSS are those points that determine	
+54:00		the boundaries of the various	
+54:01		subdivisions represented on the plats	
+54:03		examples are the township corner the	
+54:06		section corner the 1/4 section corner	
+54:08		and a subdivision of section corner	
+54:10		palaces corners may or may not be	
+54:12		monument 'add monuments of the PLSS have	
+54:15		included mark trees mark stones mark	
+54:18		wooden stakes and metal post monuments	
+54:20		in use today accessories such as bearing	
+54:23		trees are aids in identifying the corner	
+54:25		position in their body significance the	
+54:28		accessories are a part of a corner	
+54:29		monument recovered original monuments	
+54:33		are corners of the PLSS monument	
+54:36		subsequently set during resurvey zorse	
+54:37		uh division of sections surveys may or	
+54:39		may not be plss corners subsequently set	
+54:42		monuments whose positions were	
+54:43		established using proper procedures and	
+54:46		where the original evidence was not	
+54:48		overlooked all corners of the PLSS if	
+54:51		evidence of the original survey monument	
+54:53		was overlooked by the resurvey the	
+54:55		resurvey monument would not be the	
+54:57		corner in this latter case the resurvey	
+55:00		monument is just a monument because the	
+55:03		monument said subsequent to the original	
+55:05		survey may not be a PLSS corner is	
+55:08		extremely important to verify the	
+55:09		acceptability of a monument as appeals	
+55:12		at PLSS corner never use a monument	
+55:15		based solely on another surveyor	
+55:16		statement that it is a corner make that	
+55:19		determination for yourself examine the	
+55:21		position and history of a monument to	
+55:23		the extent possible	
+55:24		make sure evidence of the original	
+55:26		survey was not overlooked a professional	
+55:28		surveyor should be skeptical of a	
+55:30		monument until it can be determined that	
+55:32		the monument is acceptable as the corner	
+55:35		an existing corner is one whose position	
+55:37		can be identified by verifying the	
+55:40		evidence of the monument or its	
+55:41		accessories by reference to the	
+55:43		description attica that is contained in	
+55:45		the field notes or where the point can	
+55:47		be located by an acceptable supplemental	
+55:49		survey record some physical evidence or	
+55:51		testimony an obliterated corner is one	
+55:55		where no traces of the monument or its	
+55:56		accessories remain but whose location	
+55:59		has been perpetuated or may be recovered	
+56:01		beyond reasonable doubt by the acts and	
+56:03		testimony of interested landowners	
+56:05		competent surveyors or other qualified	
+56:07		local authorities or witnesses or by	
+56:11		some acceptable record evidence a lost	
+56:14		corner is a point of survey whose	
+56:16		position cannot be determined the	
+56:18		unreasonable doubt either from traces of	
+56:20		the original marks or from acceptable	
+56:22		evidence or testimony that bears upon	
+56:24		the original position and whose location	
+56:27		can be restored only by reference to one	
+56:28		or more interdependent corners the terms	
+56:32		justifying are commonly used in relation	
+56:34		to the PLSS when a corner monument	
+56:37		existing corner obliterated corner or	
+56:39		lost corners referred to you should	
+56:42		immediately know what is meant by the	
+56:43		term	
+56:43		now let's discuss resurvey the subject	
+56:47		of resurvey is found in Chapter six of	
+56:48		the 1973 manual for the ls exam sections	
+56:52		 through 32 of this chapter should be	
+56:54		studied the discussion on resurvey is	
+56:57		which I'm going to present is based on	
+56:58		this chapter of the manual there are two	
+57:01		types of resurface the dependent and the	
+57:03		independent an independent research a is	
+57:05		a new survey which supersedes the prior	
+57:07		official survey insofar as the remaining	
+57:10		public lands are concerned patent and	
+57:12		lands are not affected as to location	
+57:14		the authority to make independent	
+57:16		resurface of the federal lands whereas	
+57:18		only with the Bureau of Land Management	
+57:19		since an independent research a is	
+57:22		solely the function of the BLM I will	
+57:24		not discuss it now you should know that	
+57:27		in that independent research exists and	
+57:29		look for them when you are researching a	
+57:31		project	
+57:32		a deep entry survey is defined in the	
+57:34		973 manual at section 6-4 the section	
+57:39		states that a dependent resurvey is a	
+57:41		retracement and reattachment of the	
+57:42		lines of the original survey in their	
+57:45		true original positions according to the	
+57:47		best available evidence of the position	
+57:48		of the original corner has a	
+57:51		professional license land surveyor any	
+57:53		job you do involving the PLSS will	
+57:56		invariably involve depend leery	
+57:57		surveying section or Township lines for	
+58:00		this reason it is very important to	
+58:01		understand where the dependent resurvey	
+58:03		is and what it is not a dependent	
+58:06		resurvey is first two retracement to	
+58:08		identify original corners and other	
+58:10		acceptable points of control second it	
+58:13		restores lost corners by proportionate	
+58:14		measurement in accordance with the	
+58:16		record of the original survey the	
+58:18		purpose of a dependent resurvey is not	
+58:20		to correct the original survey by	
+58:22		determining where a new or exact running	
+58:23		of the line would locate a particular	
+58:25		corner it is instead used to determine	
+58:28		where the corner was established by the	
+58:29		original survey a popular executed	
+58:32		dependent resurvey protects existing	
+58:34		rights acquired under the original	
+58:36		survey in the matter of location on the	
+58:38		Earth's surface an important point to	
+58:40		remember is that the boundaries of	
+58:42		sections based on an original survey are	
+58:44		identical to the boundaries of those	
+58:46		same sections based on a properly	
+58:48		executed dependent resurvey the guidance	
+58:52		given by the courts and retracing lines	
+58:53		of previous surveys is to follow in the	
+58:56		footsteps of the original surveyor to be	
+58:59		able to follow in the footsteps through	
+59:00		cars requires knowledge of the	
+59:02		procedures and instruments which the	
+59:04		original surveyor used to make the	
+59:05		surveys as I mentioned in the first	
+59:07		portion of this course some of this	
+59:09		knowledge can be gained from the manual	
+59:10		and forest as of the date of the survey	
+59:13		the courts have attached major	
+59:15		importance to evidence relating to the	
+59:17		position of the original corner the	
+59:20		location of the original corners are	
+59:21		given much more weight than record	
+59:23		bearings and distances of the lines	
+59:25		existing corner exist in original	
+59:28		corners are fixed in position and are	
+59:30		unchangeable as a part of the	
+59:32		retracement an exhaustive search must be	
+59:35		made for all existent evidence of the	
+59:37		pls amount monuments and their	
+59:38		accessories the evidence recovery can be	
+59:41		expected to range from that which is	
+59:42		inconclusive today	
+59:44		which is unquestionable the need for	
+59:47		cooperative evidence is therefore in	
+59:48		direct proportion to the uncertainty of	
+59:51		the evidence the evidence should agree	
+59:53		with the record field notes of the	
+59:54		survey with allowance for natural	
+59:56		changes topographic calls made by the	
+60:00		original surveyor should be located	
+60:02		during the retracement topographic calls	
+60:04		are often very useful in locating	
+60:06		original corners they also may help	
+60:08		prove or disprove questionable corner	
+60:10		evidence for a subject to only one	
+60:12		interpretation topographic calls may fix	
+60:15		the position of a missing corner beyond	
+60:17		a reasonable doubt to fix the position	
+60:19		of a missing corner the topographic call	
+60:21		should have only one reasonable	
+60:23		interpretation it should result in a	
+60:25		definite location utley okis within a	
+60:28		small area and it should not be	
+60:30		contradicted by other topographic calls	
+60:32		or by evidence of a higher class even	
+60:36		questionable evidence of the original	
+60:38		corner or its accessories substance	
+60:40		substantiated by topographic calls	
+60:41		provides a much more defendable corner	
+60:44		position than from topographic calls	
+60:46		alone but questionable topo graphic	
+60:49		calls are the only indication of a	
+60:51		corner position he is ordinarily better	
+60:53		to establish the position by	
+60:54		proportionate measurement after we	
+60:59		tracing the lines of an original survey	
+61:00		and identifying existent original	
+61:03		controlling corners lost corners are	
+61:05		then reestablished the restoration of	
+61:08		lost or obliterated corners is discussed	
+61:10		in chapter 5 of the 1973 manual for the	
+61:13		ALS exam is important at this chapter be	
+61:15		studied again my discussion on the	
+61:17		subject for restoration of lost corners	
+61:19		is based on this chapter in the 1973	
+61:21		manual on the topic of reestablishing	
+61:24		lost corners I also highly recommend	
+61:26		this informative pamphlet of 40 pages	
+61:28		it's titled restoration of lost or	
+61:31		obliterated corners and subdivision of	
+61:32		sections a guide for surveyors it's	
+61:35		issued by the BLM as a supplement to the	
+61:37		manual of survey instructions	
+61:38		I recommend that it be included in your	
+61:40		Els exam library the pamphlet discusses	
+61:44		the fundamental practices of the two	
+61:45		subjects mentioned in the title from the	
+61:48		viewpoint of the BLM the camp the	
+61:51		pamphlet can be obtained from the US	
+61:52		Government Printing Office whose address	
+61:54		is listed in the workbook	
+61:56		for the Ellis exam and for the	
+61:59		professional practicing surveyor	
+62:00		involved in resources of the PLSS it is	
+62:03		important to know how the restoration	
+62:05		procedures are computed even more	
+62:07		important though the professional	
+62:09		surveyor must know when the use of a	
+62:10		certain restoration procedure is	
+62:12		appropriate fernette and analogy of the	
+62:15		situation let's look at the medical	
+62:16		medical profession a doctor is highly	
+62:19		educated to know what medicines are	
+62:21		available and how they work more	
+62:23		importantly though the doctor must know	
+62:25		when a particular medicines use is	
+62:27		necessary and warranted again I want to	
+62:30		stress that you should not only learn	
+62:31		how to do the calculations for a	
+62:32		restoration procedure but learn in what	
+62:35		situations the restoration procedure is	
+62:37		appropriate the rules for the	
+62:40		restoration of lost corners should not	
+62:41		be applied until all original and	
+62:43		collateral evidence has been developed	
+62:45		where these means have been exhausted	
+62:48		the surveyor will turn the proportionate	
+62:50		measurement this method of	
+62:51		reestablishment harmonizes surveying	
+62:53		practice with legal and equitable	
+62:55		considerations proportionate measurement	
+62:58		is always employed to reestablish the	
+62:59		position of a lost corner unless how way	
+63:02		by conclusive evidence of the original	
+63:03		survey a proportion of measurement is	
+63:06		one that gives equal relative weight to	
+63:08		all parts of the line the excess or	
+63:10		deficiency between two existing corners	
+63:12		is distributed in proportion to the	
+63:14		record measurements of the line in	
+63:17		reestablishing lost corners the PLSS	
+63:20		consideration must be given to the	
+63:21		precedents for importance of the lines	
+63:23		the type of proportionate measurement to	
+63:26		be employed is dependent on the	
+63:27		procedures used to establish the	
+63:29		original survey as I stressed in the	
+63:31		first half of this video is extremely	
+63:33		important to acquire and analyze the	
+63:35		original survey records to determine how	
+63:38		the original survey was established in	
+63:40		general bas corners on standard	
+63:42		parallels are given precedents in the	
+63:44		order of reestablishment over lost	
+63:46		corners on other Township lines lost	
+63:48		Township corners are given precedence	
+63:50		over section corners and lost section	
+63:52		corners re-established before lost one	
+63:54		quarter section corners the recommends	
+63:57		of record measurements to use in any	
+63:58		proportioning are from the latest	
+64:00		acceptable survey for example if the	
+64:03		original survey of a Township was made	
+64:05		in 1875 and subsequent researchers were	
+64:08		made in 1917	
+64:09		967 the net the measurements from the	
+64:12		967 resurvey would ordinarily be used	
+64:16		967 measurements are of a higher	
+64:18		accuracy than the 1875 and 1917	
+64:20		measurements and are more likely to	
+64:22		reestablish the last corner in his true	
+64:24		position record measurements to use in	
+64:27		proportioning can be made up of a	
+64:28		combination of surveys for example the	
+64:30		lines to the south and east of a law	
+64:32		section corner may have been surveyed in	
+64:34		867 and the lines of north and west in	
+64:36		885 in this instance both records would	
+64:40		be used for the proportional elements	
+64:43		the two most commonly used forms of	
+64:45		proportionate measurement are the single	
+64:46		and double proportion typically a double	
+64:49		proportion is employed to reestablish	
+64:51		the lost corner of four townships or a	
+64:53		lost corner of four sections the double	
+64:56		proportion is made between the nearest	
+64:57		identified corners to the north and	
+64:59		south and to the east and west of the	
+65:01		lost corner in the graphic shown the	
+65:04		identified controlling corners are at a	
+65:06		B C and D the township corner at X has	
+65:09		been determined to be lost the position	
+65:11		in latitude labelled e to reestablish	
+65:14		the lost corner is determined by	
+65:15		proportion between corners a and B the	
+65:19		position in departure labelled F to	
+65:21		reestablish the lost corner is	
+65:23		determined by proportion between corner	
+65:25		C and D the reestablished position x is	
+65:29		located at the latitude and departure	
+65:31		determined from the double proportion in	
+65:34		a double proportion a lost corners	
+65:36		reestablished on the basis of	
+65:37		measurement only disregarding the record	
+65:39		directions the manual in section 5 - 25	
+65:43		States lengths of proportion lines are	
+65:46		comparable only when reduced to their	
+65:47		Cardinal equivalents what this means is	
+65:50		that the latitudes of the record	
+65:52		meridian or record meridian on	
+65:53		measurements are used and the departures	
+65:56		of the record latitudinal measurements	
+65:59		this is an example of a latitudinal line	
+66:01		with a record measurement of north 86	
+66:03		degrees east 80 point o 7 chains for a	
+66:07		double proportion the departure of the	
+66:09		line is used as a record proportional	
+66:11		element in this case the departures used	
+66:13		is seventy nine point eight seven five	
+66:15		chains this is an example of a Meridian	
+66:20		aligned with vector measurements of	
+66:21		north two degrees	
+66:22		eighty point zero zero for a double	
+66:25		proportion the latitude of the line is	
+66:27		used as the record proportional element	
+66:29		in this case the departure to use is	
+66:32		seventy nine point nine five worn chains	
+66:34		the lengths of the record lines are	
+66:36		broken into latitudes and departures so	
+66:39		that lines with bearings varying greatly	
+66:40		from cardinal directions are not given	
+66:42		excess proportional furnishes where the	
+66:45		record lines are all very close to	
+66:47		cardinal directions it may not make much	
+66:49		difference whether you use the latitude	
+66:51		or departure of the line however using	
+66:54		the latitude and departures is the is	
+66:56		the technically correct procedure to use	
+66:58		and where other than cardinal directions	
+67:00		cardinal bearings exist will make some	
+67:02		difference also if you don't use the	
+67:05		latitudes and departures for the record	
+67:07		lines on the last exam question you	
+67:09		should lose points for an incorrect	
+67:11		procedure let's look at an actual	
+67:14		example of a double proportion and work	
+67:16		through the numbers the record	
+67:18		measurements shown are from an 1880	
+67:20		survey the diamonds are the existent	
+67:22		controlling corners with the circle	
+67:24		being the last section corner to be	
+67:26		reestablished	
+67:26		the first step in our double proportion	
+67:29		is to determine the latitudes of the	
+67:30		record Meridian on lines and the	
+67:32		departures of the record latitudinal	
+67:34		lines the latitude and departure show'em	
+67:37		will be used to form the record	
+67:38		proportional elements the coordinates	
+67:40		shown at each of the controlling corners	
+67:42		are the coordinates from the current	
+67:43		retracement of the lines for a Meridian	
+67:46		aligned a proportion is set up as shown	
+67:48		the partial record latitude is to the	
+67:52		total record latitude as to the partial	
+67:55		retracement latitude L is 2 the total	
+67:59		retracement latitude using algebraic	
+68:02		procedures the formula can be	
+68:03		manipulated to determine L directly	
+68:06		similarly the departure can be	
+68:09		determined the northern coordinate to	
+68:11		restore the last corner is determined as	
+68:13		follows the partial latitude L is first	
+68:16		determined by dividing the partial	
+68:17		record distance latitude partial record	
+68:20		latitude excuse me of 40.00 chains by	
+68:24		the total record latitude of forty plus	
+68:26		forty point one nine five chains or	
+68:28		eighty point one nine five chains the	
+68:32		result is multiplied by the current	
+68:33		retracement northing between the	
+68:35		radiomics	
+68:35		in corners which is 80 point zero zero	
+68:38		change this provides the latitude north	
+68:40		of a subtly controlling corner to	
+68:42		restore the lost corner this latitude is	
+68:45		then added to the northern coordinate of	
+68:46		the southerly controlling corner which	
+68:49		is zero in this case to give the	
+68:51		northern coordinate of the wrist average	
+68:53		corner which is thirty nine point nine	
+68:55		oh three the eastern coordinate to	
+68:59		restore the lost corner is then	
+69:00		determined in a similar manner as shown	
+69:02		they calculate a partial departure of	
+69:05		forty point one two one chains is added	
+69:07		to the easting coordinate of the	
+69:09		westerly controlling corner in this case	
+69:11		zero to give the eastern coordinate of	
+69:13		the reestablished corner which is forty	
+69:15		point one to one the corpus to	
+69:19		reestablish the last section corner are	
+69:21		thirty-nine point 903 chains north and	
+69:23		forty point one to one chains east in	
+69:27		this case these coordinates can then be	
+69:29		inversed with the controlling corners to	
+69:31		give the berries of the reestablish	
+69:32		lines in a case where controlling line	
+69:34		extends beyond another lost section	
+69:36		corner the additional law section corner	
+69:38		would also have to be reestablished	
+69:39		before you could inverse to get the	
+69:41		bearing of the section line that's an	
+69:43		example say the nearest controlling	
+69:45		corner to the east of the showing	
+69:46		reestablish corner have been two miles	
+69:48		or to section corners away instead of	
+69:50		one	
+69:51		the additional intermediate section	
+69:53		corner would also have to be	
+69:54		reestablished by double proportion	
+69:55		before the bearing of the section line	
+69:57		between them can be determined a double	
+70:01		proportion to determine two or more lost	
+70:02		section corner positions is made using	
+70:05		essentially the same techniques as	
+70:06		discussed earlier essentially a double	
+70:12		proportion is to single portions one in	
+70:15		the north-south direction to determine	
+70:16		the latitude of the position to	
+70:18		reestablish a corner and another in an	
+70:20		east-west direction to determine the	
+70:22		departure of the position to reestablish	
+70:23		a corner now let's look at an example of	
+70:26		a single proportion a single proportion	
+70:28		is used to determine one or more	
+70:30		positions on a line with one continuous	
+70:32		record bearing in this example the	
+70:34		diamond show the controlling section	
+70:36		corners and the last one quarter section	
+70:38		corner of sections 3 and 10 is shown as	
+70:40		a circle the record measurements are	
+70:43		north 88 degrees east 80 point 1 0	
+70:46		chains	
+70:47		the current retracement measurements are	
+70:49		north 87 degrees east 80 point five	
+70:51		seven chains in a single proportion is	
+70:55		not necessary to break the record	
+70:56		measurements into latitudes or	
+70:57		departures the record and measure	
+70:59		distances between the controlling	
+71:01		monuments are what's important and they	
+71:03		are directly comparable the single	
+71:06		proportion is set up similarly to that	
+71:07		of the double proportion the partial	
+71:10		record distance of forty point zero five	
+71:11		chains is divided by the total record	
+71:14		distance of 80 point one zero chains and	
+71:16		multiplied by the total measured length	
+71:18		of 80 point five 17 chains the result is	
+71:22		forty point two eight five chains which	
+71:24		is a distance from the section corners	
+71:26		section corners to the re-establish	
+71:28		position for the 1/4 section corner sum	
+71:31		Township boundaries were not established	
+71:33		on one continuous bearing these are	
+71:35		termed irregular exteriors sean is an	
+71:38		example of such a situation the south	
+71:41		boundary of the township along sections	
+71:43		4 and 35 was surveyed in 1863 the	
+71:47		record bearing of the lines is West a	
+71:49		completion survey of the South boundary	
+71:51		was made in 1879 using a random and true	
+71:53		line the record bearing of the South	
+71:55		boundary of section 33 is north 88	
+71:57		degrees 14 minutes west	
+71:59		false corners along this Township line	
+72:01		would be reestablished using a modified	
+72:03		form of single proportionate measurement	
+72:05		in order to restore one or more lost	
+72:07		corners on such irregular exteriors a	
+72:09		retracement is made between the nearest	
+72:11		acceptable corners to the east or west	
+72:13		of the lost positions the retracement	
+72:16		determines the direction and length of	
+72:17		the closing distance of the measurements	
+72:19		of the retracement verses the	
+72:21		measurements of the record in a	
+72:24		latitudinal line such as this the	
+72:26		position in easting is determined by	
+72:27		using an ordinary single proportion of	
+72:29		the record and retracement departures	
+72:31		the position in northern is determined	
+72:34		using the differences in latitude of the	
+72:36		record and retrace measurements the	
+72:40		difference in latitude is distributed to	
+72:41		each line between controlling corners in	
+72:43		proportion to the length of each course	
+72:48		on meridian o irregular boundaries the	
+72:52		position in northern and eastern to	
+72:53		reestablish the lost corner would be	
+72:54		determined in reverse of those for the	
+72:57		latitudinal irregular boundaries	
+72:59		this modified singing proportion is	
+73:01		commonly called an irregular boundary	
+73:02		adjustment it is also applicable to a	
+73:05		section line or a Township line she	
+73:07		ought to be shown to be irregular by a	
+73:08		previous retracement this discussion on	
+73:11		the irregular boundaries is intended to	
+73:12		make you aware that they exist hopefully	
+73:14		if an irregular boundary situation is	
+73:16		encountered you will be able to identify	
+73:18		it and realize that a modified form of	
+73:20		single proportion is required I haven't	
+73:23		used any numbers for a step-by-step	
+73:24		irregular boundary problem solution so	
+73:27		to clear up any confusion which may	
+73:29		exist problem 4 in the workbook for this	
+73:31		course involves an irregular boundary	
+73:33		the solution for the irregular	
+73:35		boundaries worked out step by step by	
+73:38		line has not been surveyed in one	
+73:40		direction from a lost Township or	
+73:41		section corner	
+73:42		the record distance will be used to the	
+73:44		nearest identified corner in the	
+73:45		opposite direction in the example shown	
+73:48		the sections to the north have not been	
+73:50		surveyed the position in northern of a	
+73:52		lost corner is determined by the	
+73:54		cardinal equivalent of the record	
+73:55		distance to the controlling corner to	
+73:57		the south for instance if the 1/4	
+74:00		section corner of sections 35 and 36 is	
+74:03		the control to the south and the record	
+74:05		measurements are south 40.00 chains then	
+74:09		the last corner will be reestablished at	
+74:10		0.00 chains in latitude north of the	
+74:14		/4 section corner the position in the	
+74:17		east thing is determined by single	
+74:18		proportioning the record departures	
+74:20		between the nearest controlling corners	
+74:22		to the east and west of the lost corner	
+74:23		notice that in this case it is again	
+74:26		necessary to use cardinal equivalents of	
+74:28		the record east-west measurements where	
+74:31		last corner was established from two	
+74:32		directions only the record measurements	
+74:34		to the nearest existing corners on the	
+74:36		two surveyed lines will control the	
+74:38		position of the reestablishment shown as	
+74:40		an example where the lines to the north	
+74:42		and east of the northeast corner of	
+74:44		section 10 were not surveyed the	
+74:46		northeast corner of section 10 is	
+74:48		determined to be lost the position and	
+74:50		latitude to reestablish the lost corner	
+74:52		is the cardinal equivalent of the record	
+74:54		line or lines from the nearest	
+74:56		controlling corner to the south the	
+74:59		position in easting to reestablish the	
+75:01		lost corner is the cardinal equivalent	
+75:04		from the nearest controlling corner to	
+75:05		the west where a lost corner was	
+75:08		established from one direction only it	
+75:10		should be restored at the record bearing	
+75:12		and distance	
+75:12		from the nearest controlling corner in	
+75:14		the example shown the East one-quarter	
+75:16		section corner of section three is lost	
+75:18		it was established at the terminus of	
+75:21		the section line surveyed from the south	
+75:23		if the original southeast corner of	
+75:25		section three is recovered then the lost	
+75:27		one quarter section corner will be	
+75:29		re-established at record bearing and	
+75:31		distance from the southeast corner of	
+75:33		section three this is commonly called	
+75:35		reestablishment by one point control the	
+75:38		applicable section of the 1973 manual is	
+75:40		five - forty five if sufficient lines of	
+75:43		the record survey have been retraced to	
+75:45		conclude that a consistent difference	
+75:47		exists between the record measurements	
+75:49		and the current retracement measurements	
+75:50		then an index correction should be	
+75:53		applied to the record measurement used	
+75:54		in reestablishing the corner this is	
+75:57		another example of where a line has been	
+75:59		terminated with measurement in one	
+76:00		direction only if lost in this situation	
+76:03		the meander corns will ordinarily be	
+76:05		restored by record bearing and distance	
+76:06		from the nearest controlling corner	
+76:08		again an index correction for average	
+76:11		error if applicable should be applied	
+76:14		where lost man the corners were	
+76:16		originally established on a line	
+76:17		projected across a manual block mandible	
+76:19		body of water it will ordinarily be	
+76:22		relocated by single proportionate	
+76:24		measurement in both situations involving	
+76:26		meander corners though under favorable	
+76:28		conditions it lost me in the corner may	
+76:30		be restored by treating the shoreline as	
+76:32		an identifiable natural feature in the	
+76:35		event of extensive obliteration of the	
+76:37		original corners within the locality of	
+76:39		the lost meander corner this method may	
+76:41		be preferable to one obtained by record	
+76:43		bearing a distance or proportionate	
+76:45		measurement a lost corner a lost closing	
+76:48		corner is reestablished on the line	
+76:50		closed upon had single proportionate	
+76:52		distance between the nearest acceptable	
+76:53		corners to the right and left shown as	
+76:56		an example of a lost closing corner the	
+76:58		East boundary of section nine was	
+77:00		originally closed on the Rancho boundary	
+77:01		the position of the closing corner is	
+77:04		reestablished by a single proportionate	
+77:05		measurement between miles five and five	
+77:08		and a half on the Rancho boundary where	
+77:10		monument set for a closing corner are	
+77:12		recovered off the line closed upon they	
+77:14		determine the direction of the closing	
+77:15		line but do not determine the terminus	
+77:18		of the line	
+77:20		the correct position for the terminus of	
+77:22		the line is at the intersection of the	
+77:23		closing line with the line closed upon	
+77:25		closing corners are examples in the PLSS	
+77:28		of monumental which are not necessarily	
+77:30		the corner on this graphic recovered	
+77:34		monuments are shown with diamonds and	
+77:35		triangles on the west boundary of	
+77:37		section three the closing corner	
+77:39		monument is recovered north of the line	
+77:40		closed upon the true point for the	
+77:42		closing corner is located on on the line	
+77:45		between the recover and closing corner	
+77:46		Monument and the West one-quarter corner	
+77:48		of section three where it intersects the	
+77:50		North line of the section the North half	
+77:53		of the west of a section line is section	
+77:54		three terminates at the true point for	
+77:57		the closing corner on the east boundary	
+78:00		of section three the closing corner	
+78:02		monument is recovered to the south of	
+78:04		line closed upon the North half of the	
+78:06		Easterday section line of section three	
+78:08		actually extends from the East	
+78:09		one-quarter corner of section three	
+78:11		through the recovered closing corner	
+78:13		monument to its intersection with the	
+78:15		North line of the section the true point	
+78:17		for the closing corner is at this	
+78:18		position any new monuments for the	
+78:21		closing corners will be placed at the	
+78:22		point of intersection at the true point	
+78:24		of intersection the recovered off line	
+78:26		monuments should then be marked a.m. for	
+78:28		a mini monument when off line original	
+78:32		closing corner monument is recovered the	
+78:34		recovered original position is used in	
+78:36		proportioning to reestablish the loss	
+78:38		corners or two proportions sixteenth	
+78:40		section or lock corners on the closing	
+78:42		section line let's look at an example of	
+78:45		this shown is the original record of the	
+78:48		north half of a typical closing section	
+78:50		on a standard parallel the parenthetical	
+78:52		distances to establish the North 116th	
+78:54		section corner are from the one-quarter	
+78:57		corner 20 and 18 chains a resurvey made	
+79:01		to locate the position of north 116th	
+79:03		section corner reveals that the original	
+79:05		closing corner monument is actually 37	
+79:08		chains north of the recovered 1/4 corner	
+79:10		and 18 changed north of the standard	
+79:12		parallel the distance from the	
+79:15		one-quarter corner to the North 116th	
+79:17		corner is determined by proportioning	
+79:19		between the recovered 1/4 corner and the	
+79:21		recovered original closing corner	
+79:22		Monument the partial parenthetical	
+79:24		distance of 20.00 chains is divided by	
+79:28		the total of the parenthetical distances	
+79:29		which is 38 point 0 0 chains	
+79:32		and the result multiplied by the	
+79:33		retracement distance between recovered	
+79:35		monuments of 37 of 37 chains the	
+79:39		proportionate distance from the	
+79:40		one-quarter corner to place to north	
+79:42		16th corner then is nineteen point four	
+79:44		seven four chains this would place at	
+79:47		north of the standard parallel as shown	
+79:49		by the retracement distance to the	
+79:50		standard parallel of 19.00 chains this	
+79:54		resurvey reveals that lots one and four	
+79:56		shown on the preceding graphic and the	
+79:58		north 116th do not exist a section line	
+80:02		actually terminates at the standard	
+80:03		parallel this is a dramatic example of	
+80:11		how the recovered original closing	
+80:13		corner is used to position a 1/16	
+80:15		section corner enclosing sections the	
+80:20		practice and older surveys was not to	
+80:22		Monument 1/4 section corners between the	
+80:23		closing section corners in such cases	
+80:26		the 1/4 and 1/16 section corners of the	
+80:28		closing section along the line closed	
+80:30		upon will ordinarily be established by	
+80:32		proportionate measurement based upon the	
+80:34		parenthetical distances the areas of the	
+80:37		lot should confirm the parenthetical	
+80:39		distances in the example shown section 5	
+80:42		closes on a standard parallel the 1/4	
+80:45		section corner section 5 only between	
+80:47		the closing section corners was not	
+80:49		monumental surveys this position is	
+80:52		shown as a half circle on the graphic if	
+80:55		hired by a client to determine the	
+80:56		boundaries of lot 3 section 5 you will	
+80:59		need to determine the positions of the	
+81:00		/4 and west 1/16 section corners of	
+81:03		section 5 only on the standard parallel	
+81:05		these corners will be established using	
+81:07		single proportionate measurement between	
+81:09		the two points for the closing corner of	
+81:11		closing corners closing section corners	
+81:14		of section 5 the first step then is to	
+81:17		determine the true positions of the	
+81:18		closing corners the true positions are	
+81:21		as I previously discussed at the	
+81:23		intersection of the closing section line	
+81:24		with the standard parallel in a normally	
+81:27		surveyed section 5 the parenthetical	
+81:29		distances along the north boundary of	
+81:31		Lots 1 through 4 are all 20.00 chains	
+81:34		since the north boundaries of the lots	
+81:36		are all 20.00 chains a single proportion	
+81:39		to determine the position of the 1/4	
+81:41		corner would place it at midpoint	
+81:43		therefore the 1/4 section corner will be	
+81:46		established on the standard parallel at	
+81:48		midpoint apart in departure between the	
+81:50		two points for the closing section	
+81:52		corners the West 116 corner of section 5	
+81:56		only will be established similarly on	
+81:58		the standard parallel at midpoint	
+82:00		between the closing section corner to	
+82:02		the west and the just determined 1/4	
+82:04		corner of section 5 only the section can	
+82:08		then be subdivided to determine the	
+82:10		remaining boundaries a lot 3 if this	
+82:13		example have been a section 6 instead of	
+82:15		section 5 then the 1/4 corner 1/4	
+82:18		section corner of section 6 only most	
+82:20		likely would not have been at midpoint	
+82:21		and departure between the closing	
+82:23		section corners this is because of the	
+82:25		fractional measurement in the town in a	
+82:27		township being placed against the west	
+82:28		boundary the parenthetical distances	
+82:31		along the north bound of Lots 1 through	
+82:32		 would meet would need to be determined	
+82:34		and the positions of the 1/4 and 1/16	
+82:38		section corners of section 6 only	
+82:39		established in the right proportion	
+82:41		between the closing corners and on the	
+82:43		standard parallel now let's discuss	
+82:46		situations where a recovered goodness	
+82:48		Corner is used as a control - as used as	
+82:50		control to establish a corner or to	
+82:52		reestablish a corner the first step is	
+82:55		to closely analyze the platen feel note	
+82:57		records of the witness corner from this	
+82:59		analysis make a determination as to	
+83:01		whether the witnessed corner was	
+83:02		originally established on the line of	
+83:04		the survey or as an offline witness	
+83:06		corner shown is mean as is an example of	
+83:10		a recovered witness corner which is was	
+83:12		originally established on a section line	
+83:13		a section corner to the west is	
+83:16		established by double proportionate	
+83:17		measurement if no complications arise	
+83:19		using the recovered witness corner as a	
+83:21		controlling corner in this example a	
+83:24		witness corner not originally	
+83:26		established on the line of the survey is	
+83:28		recovered in this instance the true	
+83:31		point for the section corner would be	
+83:33		established at record bearing and	
+83:34		distance from the recovered witness	
+83:35		corner a definitely identifiable line	
+83:39		tree is a monument of the original	
+83:40		survey it is used as a control point in	
+83:43		the reestablishment lost corners by the	
+83:45		appropriate method of proportionate	
+83:47		measurement	
+83:48		to be acceptable a recovered line tree	
+83:51		must be positively identifiable it also	
+83:53		must have been on the true line of the	
+83:55		original survey on latitudinal section	
+83:57		lines it was not uncommon for line trees	
+83:59		to have been established on the random	
+84:00		line instead of the true line and so	
+84:03		recorded in the field notes on the	
+84:04		random line again the record field notes	
+84:08		must be analyzed in the example shown a	
+84:12		positively identifiable line tree is	
+84:15		recovered south of a lost Section corner	
+84:16		this line trait is used as at the	
+84:19		control corner to the south for the	
+84:21		re-establishment of a loss of the last	
+84:23		section corner by double proportionate	
+84:25		measurement the line tree becomes an	
+84:27		angle point in the section line in the	
+84:30		graphic now on the screen a positively	
+84:32		identifiable line tree is recovered	
+84:34		south of a loss X 1/4 section corner the	
+84:38		line tree is used as the control to the	
+84:40		south to reestablish the loss 1/4	
+84:42		section corner by single proportionate	
+84:44		measurement again the line tree becomes	
+84:46		an angle point in the section line on	
+84:49		many Township lines and section lines	
+84:50		two sets of corners have been	
+84:52		established one set of corners applies	
+84:54		to the township to the north and once	
+84:56		that once that applies to the township	
+84:58		to the south which corners control	
+85:00		depends on how the line was surveyed	
+85:02		there are three common situations the	
+85:05		first situation as shown here is where a	
+85:08		single set of cornice was established in	
+85:10		the survey of a line Colten corners were	
+85:12		later established for the sections on	
+85:13		one side of the line the corners first	
+85:16		established are the senior corners and	
+85:18		control both the alignment and any	
+85:19		proportional measurements along the line	
+85:21		a standard parallel is an example of	
+85:23		this first situation the standing	
+85:27		corners are the senior corners of the	
+85:28		line the second situation is where two	
+85:32		sets of corners were established by	
+85:33		measurement along the line in a single	
+85:36		survey both sets of corners would have	
+85:38		equal status for both alignment and any	
+85:40		proportional measurements along the	
+85:41		lines this situation is not common in	
+85:44		the PLSS an example of how this type of	
+85:47		situation occurs is on the original	
+85:50		survey of a Township line were number	
+85:52		one the surveys of the sections to north	
+85:54		and south are to be initiated from the	
+85:57		Township line and number two	
+86:00		because of existing conditions the	
+86:02		section corners are to be offset the	
+86:04		third situations where a set of corners	
+86:06		was established for one side of the line	
+86:08		during the course of a survey and a	
+86:10		second set of corners established for	
+86:12		the other side during a later resurvey	
+86:14		the corners established by the first	
+86:16		survey are considered senior and control	
+86:19		the direction of the line if both sets	
+86:22		of monuments are both sets of monuments	
+86:24		along the line are recovered a junior	
+86:26		corner lying off line is treated in the	
+86:28		same manner as a closing corner insofar	
+86:30		as alignment of the subject line is	
+86:32		concerned concerned since the junior	
+86:35		corners were established during a	
+86:36		resurvey of the line it can be used for	
+86:39		control to determine the Cardinal	
+86:40		equivalent in reestablishing a lost	
+86:42		corner along the line by proportionate	
+86:44		measurement the lost corner is then we	
+86:46		established at the proportional Cardinal	
+86:48		equivalent and on the line controlled by	
+86:50		the senior corners this concludes the	
+86:53		discussions on dependent reserve aids	
+86:54		and restoration on lost corners in order	
+86:57		to demonstrate the principles discussed	
+86:58		in this video I selected a few problems	
+87:00		from past LS exams let's take a look at	
+87:04		the first one problem a5 of the 1991	
+87:08		California LS exam was worth 36 points	
+87:14		shown is a depiction of the diagram	
+87:16		provided in the exam for the problem the	
+87:19		diagram is titled plat approved April	
+87:21		rd 1893 the legend which is not shown	
+87:25		states that the filled in circles are	
+87:27		found original government monuments the	
+87:30		X's are positions which were searched	
+87:31		for but not found the legend further	
+87:34		states that all distances and bearings	
+87:35		shown our record the problem statement	
+87:39		says you have been commissioned to serve	
+87:41		a fractional section aid Township for	
+87:43		South Range six west as shown on the	
+87:46		official plat which was approved on	
+87:47		April 3rd 1893 your client has requested	
+87:52		that all corners be monument in the	
+87:54		first problem requirement is to identify	
+87:56		the method and the positions and or	
+87:58		monuments you would hold for control to	
+88:00		establish six listed corners the first	
+88:03		corner listed to be determined is the	
+88:06		Southwest for a section corner the first	
+88:08		thing to look for in determining the	
+88:09		correct procedure to use is whether all	
+88:11		four section lines into	
+88:12		corner had been surveyed in this case	
+88:15		they have therefore the correct	
+88:16		procedure to use in reestablishing law	
+88:18		section corner is double proportionate	
+88:20		measurement the controlling corners to	
+88:22		use for the double proportion are the	
+88:24		one-quarter corners to the north east	
+88:26		south and west of the law Southwest	
+88:29		southwesterly corner of Section eight	
+88:31		these corners of the nearest recovered	
+88:33		corners in all four directions from the	
+88:35		lost position the second corner to be	
+88:45		determined is the north west of the	
+88:46		corner of section 8 from the plat you	
+88:49		can see that section eight is made	
+88:50		fractional because it closes on a senior	
+88:53		Rancho boundary line thus the northwest	
+88:56		corner of section 8 is a closing corner	
+88:57		which in this case is lost the closing	
+89:00		corner would be reestablished by single	
+89:02		proportioning along the Rancho line the	
+89:04		controlling corners for the single	
+89:05		proportion are the Rancho corners shown	
+89:07		to the southeast and northwest of the	
+89:09		lost position the third corner to be	
+89:13		determined is the closing subdivision a	
+89:15		section corner of the north-south	
+89:17		centerline of the section to clarify to	
+89:19		clarify this position on the graphic	
+89:21		it's the intersection of the -	
+89:22		north-south center line and the Rancho	
+89:24		boundary located just below the hm	
+89:26		Rancho to establish this corner the	
+89:29		north-south center line of the section	
+89:30		has to be surveyed the first thing you	
+89:32		should notice is that the section is	
+89:33		fractional and that the north	
+89:35		one-quarter corner of the section does	
+89:37		not exist this indicates that a mean	
+89:39		bearing is to be used to survey the	
+89:41		north-south centerline but what type of	
+89:43		mean bearing post at the centerline is	
+89:45		centrally located within the section	
+89:47		about midway between the East and West	
+89:49		Center LA or the West lines of the	
+89:50		section also notice that the east and	
+89:54		west lines of the section of about equal	
+89:55		length as we discussed earlier in the	
+89:58		video a video and arithmetic mean	
+90:00		bearing is the appropriate type to use	
+90:02		the mean bearing of the north-south	
+90:03		centerline would then be surveyed from	
+90:06		the South one-quarter corner to	
+90:07		intersection with a Rancho boundary the	
+90:09		intersection point is the closing	
+90:11		subdivision of section corner the fourth	
+90:13		corner to be determined is the northeast	
+90:15		corner of the section since that section	
+90:17		is fashioned along the north boundary	
+90:18		this corner is a closing corner has	
+90:21		shown in the graphic the original	
+90:23		closing corner monument	
+90:24		was recovered north of the ranch align	
+90:26		the intersection of the Rancho boundary	
+90:28		and the line between the southeast	
+90:30		section corner and the recovered closing	
+90:32		corner hits a true point for the closing	
+90:34		corner the fifth corner to be determined	
+90:37		is the east 1/4 corner of section 8 this	
+90:40		position is shown to be lost the east	
+90:42		/4 corner is reestablished by single	
+90:44		apportioning between the southeast	
+90:46		section corner and the recovered	
+90:48		original closing corner monument	
+90:49		remember recovered original closing	
+90:52		corners are used for proportioning along	
+90:53		the closing section line the 6th and	
+90:56		last corner the problem asked you to	
+90:58		determine is a center 1/4 section corner	
+91:01		of section 8 this position is at the	
+91:03		intersection of north-south and	
+91:04		east-west and aligns the east-west	
+91:07		center line is a straight line between	
+91:09		the East and West 1/4 corners of the	
+91:11		section the north-south centerline is	
+91:13		run from the south 1/4 Corner northerly	
+91:16		on the arithmetic mean bearing of the	
+91:18		east and west lines of the section the	
+91:21		second problem requirement is to cite	
+91:23		the governing reference that verifies	
+91:25		the method of establishing the corners	
+91:26		the site is either the manual of survey	
+91:29		instructions or the manual supplement	
+91:30		the restoration of lost and obliterated	
+91:33		corners and subdivision of sections	
+91:34		pamphlet the third and final problem	
+91:36		requirement is to calculate the	
+91:38		coordinates for the southwest of the	
+91:39		corner of section 8 and show all work a	
+91:42		double proportion is the procedure to	
+91:44		use here	
+91:45		as determined in the first problem	
+91:46		requirement the controlling corners for	
+91:49		the double proportion are the 1/4	
+91:50		corners to the north east south and west	
+91:54		the coordinates shown on these points	
+91:56		are the current retracement coordinates	
+91:57		the first step in the dough proportion	
+92:00		process is to break down the record	
+92:02		bearings and distances into their	
+92:03		appropriate Cardinal equivalents the	
+92:06		record bearings aligns to the east south	
+92:08		and west our Cardinal	
+92:10		so the actual distances is the departure	
+92:12		of those lines the line to the north is	
+92:15		on a bearing of North steel degrees 0 1	
+92:17		minutes west however the Cardinal	
+92:24		equivalent of that line is 39.99 for	
+92:27		chains the cognitive equivalent of 39.99	
+92:30		 is to be used in a north-south portion	
+92:32		of the double-double proportion instead	
+92:35		of the distance of 40 chains	
+92:37		let's step through the determination of	
+92:39		the eastern coordinate as out of the	
+92:40		southwest corner one way to determine a	
+92:43		sting coordinate is as follows first	
+92:45		take the parcel departure of the	
+92:46		westerly line which is 40 chains and	
+92:48		divided by the total departure of the	
+92:50		latitudinal line which is 80 chains the	
+92:53		result is 1/2 which is the record	
+92:55		east-west proportional factor the	
+92:57		difference in retracement eastings of	
+92:59		the controlling latitude latitudinal	
+93:00		corners which is seven thousand six	
+93:03		hundred sixty nine point seven six feet	
+93:04		minus two thousand three hundred sixty	
+93:07		point zero zero feet equals five	
+93:09		thousand three hundred nine point seven	
+93:11		six feet they're then multiplied by the	
+93:14		record proportional factor this yields a	
+93:17		result of two thousand six hundred fifty	
+93:19		four point eight eight feet of	
+93:20		proportional departure which in this	
+93:22		case is then added to the easting of the	
+93:24		westerly one-quarter corner the result	
+93:26		is in eastern coordinate of five	
+93:27		thousand zero one four point eight eight	
+93:30		feet for the southwest corner as you	
+93:34		probably noticed it's okay to use chains	
+93:36		for figuring the record proportional	
+93:37		factor and feet for measured distances	
+93:39		the northern coordinate is in is	
+93:42		determined in the north-south proportion	
+93:43		in a similar manner to that just	
+93:45		described for the eastern coordinate	
+93:46		remember to use the cardinal equivalent	
+93:48		of 39.99 for chains for the line to the	
+93:52		north though instead of the forty chain	
+93:53		distance	
+93:56		now let's discuss another problem	
+93:58		problem a-one from the nineteen ninety	
+94:00		california exam was worth twenty seven	
+94:02		points shown is a portion of an 1860	
+94:05		plan the distances are in chains and the	
+94:08		basis of bearing is a solar observation	
+94:09		the problem statement is that rancho	
+94:12		leonardo is shown in part on the plat	
+94:14		dated 1860 the ranch will follow	
+94:16		sectional lines end of statement since	
+94:19		the ranch will follow sectional lines we	
+94:21		can assume in this problem that the	
+94:22		rancher lines do not have any seniority	
+94:24		over any of the other sectional lines	
+94:27		along the screen the rancher lines are	
+94:29		highlighted the rancher lines will be	
+94:31		determining are denoted as a b and c	
+94:34		here is a portion of the south boundary	
+94:36		of the section b is the north and south	
+94:39		center line of the southwest corner a	
+94:41		Southwest one-quarter of the section and	
+94:43		see is the westerly quarter of the	
+94:45		east-west center line of the	
+94:46		the problem requirement is to calculate	
+94:49		the bearings and distances of a B and C	
+94:51		based on the retracement of the section	
+94:53		and identify identify the methods used	
+94:55		to determine the required bearings and	
+94:58		distances it is necessary to determine	
+95:00		the positions of the west 1/16 section	
+95:02		corner on the south boundary of the	
+95:03		section and the center west 1/16 section	
+95:06		corner the retracement situation which	
+95:09		you are given is as shown the squares	
+95:12		are recovered original corners	
+95:14		coordinates were provided on the exam	
+95:16		for each recovered corner but are not	
+95:18		shown here the position of the West	
+95:20		one-quarter section corner is	
+95:22		established at the record bearing in	
+95:23		distance from the thumb the recovered	
+95:25		bearing tree what I'm going to present	
+95:28		is the step by step procedures to use in	
+95:31		determining the required lines this	
+95:33		problem is included in the workbook	
+95:34		along with the solution in its entirety	
+95:36		the first step is to calculate the	
+95:39		coordinates of the lost corner positions	
+95:40		on the exterior boundary of section 14	
+95:42		of which there are two the southwest	
+95:45		corner needs to be reestablished so that	
+95:48		the position of the west 1/16 section	
+95:49		corner on the south boundary of section	
+95:51		4 can be determined the north 1/4	
+95:54		section corner needs to be reestablished	
+95:56		to control the direction of the	
+95:58		north-south centerline of the section	
+96:01		section lines were surveyed in all four	
+96:03		directions from the Southwest section	
+96:04		corner therefore the cornice of this	
+96:07		position will be determined by double	
+96:08		proportioning between the controlling	
+96:10		corners the controlling corners for the	
+96:12		double portion are the filled in squares	
+96:15		once the coordinates of the south	
+96:17		southwest corner have been calculated	
+96:19		the north 1/4 corner is determined the	
+96:22		cornice of the north 1/4 corner are	
+96:24		calculated by single proportioning	
+96:25		between the northeast and northwest	
+96:27		corners of northwest section corners the	
+96:30		filled in squares represent the	
+96:31		controlling corners with the position of	
+96:35		the north one quarter corner now	
+96:36		calculated the positions of all four	
+96:38		when quarter corners for the section are	
+96:40		known the center lines of the section	
+96:42		can now be determined the north-south	
+96:44		centerline is a straight line between	
+96:46		the South and North 1/4 corners the	
+96:49		east-west center line is a straight line	
+96:50		between the East and West 1/4 cross	
+96:52		section corners the bearings and	
+96:54		distances of both bottom lines are	
+96:56		readily determined by inversing the	
+96:58		coordinates of the appropriate	
+96:59		when quarter-section corners the	
+97:01		intersection of the two center lines is	
+97:03		a position of the center 1/4 the	
+97:07		position of both needed 16 corners can	
+97:08		now be calculated as shown in this case	
+97:11		the West 116th corner is a midpoint	
+97:14		between the South one-quarter corner and	
+97:16		the reestablish southwest corner the	
+97:19		center west 1/16 is a midpoint between	
+97:21		the west 1/4 corner and the center 1/4	
+97:24		and on the east west center line once	
+97:27		the sixteenth corner 16 corners have	
+97:30		been established the north-south	
+97:31		centerline of the southwest corner can	
+97:33		then be determined this centre line is a	
+97:35		straight line between the two sixteenths	
+97:36		the bearing and distance are calculated	
+97:39		by inversing the coordinates of the	
+97:40		sixteenth positions the Barisan	
+97:43		distances of the other two lines needed	
+97:44		for the problem solution can then be	
+97:46		determined by inversing the coordinates	
+97:48		between the pertinent corners now let's	
+97:51		discuss the final problem problem b3	
+97:53		from the 1990 exam was worth 16 points	
+97:56		showing out of the two sketches provided	
+97:58		by the problem the top sketch is	
+98:01		compiled from compiled from geo plat and	
+98:03		field notes dated July 26 1879 the	
+98:07		lowest sketch shows the results of a	
+98:08		field survey performed in January 1990	
+98:12		the first problem requirement is	
+98:14		described to describe how you would	
+98:15		reestablish the missing 1/4 corner	
+98:18		monument position the 1990 survey	
+98:21		recovered a black oak tree with scribing	
+98:22		the black chalk black oak tree was 12	
+98:25		inches in diameter larger in 1990 than	
+98:28		in 1879 the scribing was found about 6	
+98:31		inches deep into the tree which is why	
+98:33		you would expect to find it based on the	
+98:34		current and record diameters of the tree	
+98:37		therefore it is apparent that in that an	
+98:40		original black oak bearing tree was	
+98:41		recovered the answer then is that the	
+98:44		/4 corner would be reestablished	
+98:46		at record bearing a distance from the	
+98:48		recovered bearing tree which is north 40	
+98:51		degrees west 30 lengths the second	
+98:55		problem requirement is to assume that in	
+98:57		addition to the recovered black oh you	
+98:59		found a blazed 18 inch living pine tree	
+99:01		without visible scribing near the	
+99:04		location called in the record notes for	
+99:06		the 18 inch pine burning tree now how	
+99:09		would you how would the missing 1/4	
+99:11		corner be	
+99:11		established they further ask you to	
+99:14		explain your answer the first thing to	
+99:18		do is to examine this new evidence	
+99:19		they've given us the Pinetree they asked	
+99:21		us to assume found in 1990 is 18 inches	
+99:24		the original field notes call for the	
+99:26		pine tree to be 18 inches in 1879	
+99:29		there's no visible scribing in 1990 I	
+99:31		believe the answer that the examiners	
+99:34		are looking for is that the missing 1/4	
+99:36		corner or missing 1/4 corner would be	
+99:39		still be reestablished at record bearing	
+99:41		and distance from the recovered 24 inch	
+99:43		black oak bearing tree the 18 inch pine	
+99:46		tree would be rejected because the 1990	
+99:48		diameter is the same as in 1879 but the	
+99:52		tree is still alive and no scribing is	
+99:53		visible ordinarily a pine tree usually	
+99:56		grows significantly in diameter in 111	
+99:58		years as a word of caution regarding the	
+100:01	8 inch pine the original surveyors did	
+100:03		make mistakes when writing up field	
+100:05		notes it's possible that the actual	
+100:07		diameter measured by the original	
+100:08		surveyor was significantly less than	
+100:10		reported you should be certain that the	
+100:13		pine recovered by the 1990 survey could	
+100:15		not have existed in 1879	
+100:18		if in doubt the tree should be board to	
+100:20		determine the age based on the Rings as	
+100:23		I mentioned at the beginning of this	
+100:24		video	
+100:24		pass pls has problems on the else exam	
+100:27		generally do not involve complex tricky	
+100:29		or unusual situations don't be	
+100:32		overwhelmed by the entire problem at	
+100:33		once break appeal that says problem in	
+100:35		two parts where possible as we did in	
+100:38		the first and second example LS problems	
+100:39		which I presented be familiar with	
+100:42		pillars has plss reference books like	
+100:44		the manual so if you need guidance on a	
+100:46		particular area you can quickly look it	
+100:48		up the PLSS topics and procedures	
+100:51		discussed in this video should provide a	
+100:53		good foundation for the ls test however	
+100:55		you should not rely solely on this video	
+100:58		in your PLSS studies for the exam the	
+101:01		pertinent portions of the 1973 manual	
+101:03		such as chapters 5 & 6 should be read	
+101:06		and understood there are also other	
+101:09		advised readings on the PLSS which are	
+101:11		mentioned in the workbook in closing I	
+101:14		wish you success on the exam and your	
+101:17		PLSS related activities	
+101:46		you	

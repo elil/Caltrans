@@ -1,0 +1,1141 @@
+
+00:49		welcome to Caltrans lsit LS exam	
+00:53		preparation course one aid in your	
+00:56		preparation for California licensure	
+00:58		examinations a word of caution don't use	
+01:02		this course as your only preparation	
+01:04		devise and follow a regular schedule of	
+01:08		study which begins months before the	
+01:10		test what many problems in each area not	
+01:14		just those in this courses workbook but	
+01:17		problems from other sources as well	
+01:20		this course is funded by Caltrans but	
+01:23		you and I owe a profound thanks to	
+01:26		others the courses instructors from the	
+01:29		academic community the private sector	
+01:32		other public agencies and from Caltrans	
+01:35		as well we wish you well in your study	
+01:39		toward becoming a member of California's	
+01:41		professional land surveying community	
+01:44		well my name is Luke Wilson I'm a land	
+01:49		surveyor with Caltrans geometrics branch	
+01:51		in Sacramento	
+01:52		my associates Eadie Zimmerman CJ	
+01:55		Vandegrift	
+01:56		and I will be presenting this unit of	
+01:58		the Caltrans land surveyor examination	
+02:02		preparation course on route surveying	
+02:04		I'll begin our presentation with an	
+02:07		introduction to the topic and the route	
+02:10		surveying process and then Eadie will	
+02:13		discuss horizontal curves followed by	
+02:15		CJ's discussion of vertical curves after	
+02:18		that I'll be back to discuss a recent	
+02:21		land surveyor exam problem route	
+02:24		surveying includes all surveying	
+02:26		necessary for designing and constructing	
+02:29		engineering works here at Caltrans we	
+02:32		normally think of route surveying in	
+02:34		relation to road construction projects	
+02:36		in fact highway construction probably	
+02:41		accounts for the bulk of route surveying	
+02:43		work	
+02:44		other examples of route surveying are	
+02:46		surveys for railroads pipelines	
+02:49		transmission lines canals and airport	
+02:52		runways other civil engineering projects	
+02:56		like subdivision design grading plans	
+02:58		and site plans though not route survey	
+03:01		per se utilize the basic techniques of	
+03:04		the route surveyor the route surveying	
+03:07		system includes four steps	
+03:11		reconnaissance and planning design	
+03:15		right-of-way acquisition and	
+03:17		construction during the planning stage	
+03:21		alternate routes are identified from	
+03:24		small-scale mapping then preliminary	
+03:26		studies are undertaken to determine	
+03:29		potential engineering problems	
+03:31		environmental concerns and to estimate	
+03:33		costs of various alternatives the	
+03:36		planning process culminates with the	
+03:38		selection of a preferred alternative the	
+03:41		design phase of the project is	
+03:43		undertaken with large-scale mapping	
+03:45		generally produced by photogrammetric	
+03:48		methods traditionally designers have	
+03:51		used paper maps and designs have been	
+03:53		done on hard copies but this method is	
+03:56		being rapidly replaced by the use of	
+03:58		three-dimensional digital terrain models	
+04:00		and computer-aided design and drafting	
+04:03		systems the first step in the design	
+04:06		phase of the project is to determine in	
+04:09		alignment this requires the survey of a	
+04:13		preliminary alignment either on the	
+04:15		ground or using large-scale mapping or	
+04:19		in the CAD system the second step is to	
+04:23		design a typical finished cross-section	
+04:25		for the work the typical section is	
+04:28		compared to each actual ground cross	
+04:30		section and earthwork quantities are	
+04:32		computed the alignment is then adjusted	
+04:35		until an optimal design for safety	
+04:38		economy and utility is obtained the next	
+04:43		phase of the project is the right-of-way	
+04:45		phase surveys are undertaken to develop	
+04:49		survey information needed to acquire	
+04:51		property rights for the project	
+04:53		right-of-way surveying problems are	
+04:55		covered in our units on boundary	
+04:58		surveying and legal description writing	
+05:01		the construction phase is the final	
+05:05		phase of route surveying in this phase	
+05:07		land surveyors are called upon to set	
+05:09		points on the ground to control the work	
+05:12		of building the project	
+05:15		in the course of computing the location	
+05:17		of improvements in the setting of	
+05:19		construction stakes conditions are often	
+05:22		found that required design revisions	
+05:25		this is a favored source of exam	
+05:28		questions routes are described in	
+05:32		relation to a control line for a highway	
+05:36		the control line is typically the	
+05:37		centerline distances are measured along	
+05:41		the centerline from the beginning of the	
+05:43		project in units called stations each	
+05:47		full station is 100 feet distances are	
+05:51		given along the centerline in stations	
+05:53		plus feet between stations for instance	
+05:57		if the measurement along the control	
+05:59		line is 1,050 feet from the beginning of	
+06:02		the project the station would be 10 plus	
+06:06		0 which is 1,050 divided by 100 plus	
+06:11		the remainder distances measured	
+06:15		perpendicularly or radially from the	
+06:18		control line are called	
+06:19		offsets offsets are generally generally	
+06:23		designated as left or right of the	
+06:25		centreline left and right are determined	
+06:28		by your view of the project if you are	
+06:31		standing on the centerline looking in	
+06:34		the direction of travel or increasing	
+06:35		stationing normally offsets to one side	
+06:40		of the control line are given negative	
+06:42		values while offsets to those of the	
+06:45		other side are given positive values	
+06:48		together stationing and offsets define a	
+06:52		plane coordinate system for the project	
+06:54		any point within the project can be	
+06:57		easily located by station and offset	
+07:01		elevations are added to the system to	
+07:04		give it three dimensions elevations are	
+07:06		either referred to a standard data like	
+07:09		the north american vertical datum of	
+07:11		929 or to the control line when	
+07:15		referred to the control line elevations	
+07:18		are given as cuts and fills cuts and	
+07:22		fills are differences in elevation	
+07:24		between I an identified point on the	
+07:28		wine and any other point in the project	
+07:30		a cut from the control line to another	
+07:34		point is a decrease in elevation while a	
+07:37		fill is an increase in elevation during	
+07:40		the route surveying process elevations	
+07:43		are generally used to begin with	
+07:46		while cuts and fills are the reference	
+07:49		system used when the process moves from	
+07:52		design into the construction stage most	
+07:57		questions on the land surveyor exams	
+07:59		focus on the design and construction	
+08:01		portions of the route surveying process	
+08:04		so let's walk through the design and	
+08:07		construction phases of a typical project	
+08:09		project reconnaissance and initial	
+08:14		studies for our highway project have	
+08:16		identified the saddle shown here on our	
+08:19		large-scale aerial mapping as a portion	
+08:22		of the route the first step in the	
+08:25		design process is to construct a	
+08:28		preliminary horizontal alignment this is	
+08:32		done by laying out tangents as shown	
+08:34		here changes in direction of the route	
+08:37		are designated as pis or points of	
+08:40		intersection positioning of these	
+08:42		preliminary tangents is determined by	
+08:45		typography and the change in elevation	
+08:47		between the various pis in our example	
+08:51		the P I at the top of the hill in the	
+08:54		saddle is placed along with the other	
+08:57		pis	
+08:58		along the route so that changes in	
+09:01		elevation between them meet design	
+09:03		criteria elevations for the pis	
+09:07		are measured in the field or are	
+09:10		obtained from a map or digital terrain	
+09:12		model and grades are calculated between	
+09:15		pis grades express the change in	
+09:19		elevation along a line and are	
+09:22		quantified as a percentage of slope the	
+09:25		relationship is change in elevation	
+09:27		divided by length of the line a change	
+09:31		in elevation of one foot between two pis	
+09:35		that are 100 feet apart would yield a	
+09:38		grade of 1% one foot /	
+09:42		feet if elevation increases with	
+09:45		increasing stationing grade is expressed	
+09:48		as a positive value if elevation	
+09:50		decreases with increasing stationing	
+09:53		grade is expressed as a negative value	
+09:56		next horizontal curves are designed to	
+10:00		provide a transition for each change in	
+10:02		direction design considerations such as	
+10:05		sight distance and speed of travel	
+10:07		determine the selection of radius length	
+10:10		for the curve using the mathematics of	
+10:13		circular curves which ed is going to	
+10:15		discuss the length between the P I and	
+10:18		the beginning and end of the curve that	
+10:20		is the BC and EC of the curve and the	
+10:23		distance along the curve can be	
+10:25		determined with this information	
+10:28		stationing can be calculated along the	
+10:30		curve next elevations on the ground are	
+10:34		plotted along the alignment this can be	
+10:38		done by staking the alignment and	
+10:40		running levels or by plotting the	
+10:43		intersection of the alignment with	
+10:44		contours from a map or a digital digital	
+10:47		terrain model what you get is a ground	
+10:51		profile with elevation plotted in	
+10:53		relation to station like the ones shown	
+10:57		next a vertical alignment is plotted to	
+11:01		fit the ground profile in the case shown	
+11:04		here the positive grade line coming up	
+11:07		the hill into the saddle intersects the	
+11:09		negative grade line going on down the	
+11:11		slope out of the saddle the point where	
+11:15		these design grades intersect is called	
+11:17		the point of vertical intersection or	
+11:19		PVI for design considerations such as	
+11:23		site distances smooth parabolic	
+11:26		transition curves called vertical curves	
+11:28		are designed to connect the grades at	
+11:32		the beginning station bvc and ending	
+11:35		station EVC of the curve and elevations	
+11:38		along the curve are calculated and	
+11:41		plotted on the profile using the	
+11:43		mathematical relationships that CJ will	
+11:46		be explaining rarely is an alignment	
+11:49		designed in a direct linear fashion the	
+11:53		method is more of a suit	
+11:55		series of loops in which information	
+11:56		obtained in one step is fed back into	
+11:59		the process requiring changes to other	
+12:02		steps adjusting pie locations changing	
+12:07		curve radii and changing grades and	
+12:09		lengths of vertical curves all demand	
+12:12		and intimate knowledge of route	
+12:14		surveying calculations the alignment	
+12:18		when complete is a mathematical	
+12:19		relationship based on tangents curves	
+12:23		grades and vertical curves when the	
+12:27		alignment is complete and stationed the	
+12:30		second part of the design process begins	
+12:32		a typical cross-section for the work is	
+12:35		designed the typical cross section	
+12:38		represents a view of the finished work	
+12:40		at right angles or radially to the	
+12:42		control line shown here is the typical	
+12:46		section for our highway project	
+12:48		dimensions or offsets are given from the	
+12:50		centerline to hinge points or changes in	
+12:53		grade on the section typical hinge	
+12:56		points shown here moving from right to	
+12:58		left are located at the top of cut flow	
+13:02		line of ditch centerline shoulder and	
+13:04		toe fill elevations of the hinge points	
+13:08		can be calculated by using the elevation	
+13:10		of the centerline from the vertical	
+13:12		alignment and changes in elevation shown	
+13:15		on or calculated from the typical	
+13:17		section the change in elevation from the	
+13:20		centerline to the left shoulder in our	
+13:22		example could be shown as a grade from	
+13:24		the centerline in this case grade x	
+13:27		offset distance will equal the change in	
+13:30		elevation slopes like the side slope	
+13:33		shown on the right side of the section	
+13:35		are typically noted as ratios for	
+13:39		instance a one to one ratio indicates	
+13:42		that for each one foot increase in	
+13:44		offset there is a 1 foot change in	
+13:47		elevation ratios and grades shown on the	
+13:51		cross section can be used in conjunction	
+13:53		with offset distances to calculate cuts	
+13:56		and fills in relation to the control	
+13:59		line after the typical cross section is	
+14:02		developed ground cross-sections are	
+14:05		plotted from direct measurements in the	
+14:08		field	
+14:08		or are generated from paper maps or	
+14:10		digital terrain models at given stations	
+14:14		the ground cross section in the typical	
+14:16		design cross section are plotted	
+14:18		together like the one shown here at this	
+14:21		particular station there's an area that	
+14:23		represents material that will have to be	
+14:25		removed during construction here labeled	
+14:28		the cut area some of this material can	
+14:30		be used to place the embankment	
+14:32		necessary in the necessary in the area	
+14:35		shown as fill area volumes of earth work	
+14:39		can be computed using these cut and fill	
+14:42		areas on this sketch the red lines	
+14:46		represent the ground cross section while	
+14:48		the yellow lines represent the typical	
+14:50		design section this case is an example	
+14:54		of a through cut which is a section	
+14:56		without embankment only excavation	
+14:58		quantities are calculated by first	
+15:01		computing the areas of sections a sub 1	
+15:04		and a sub 2 this can be done by using	
+15:08		the coordinate method for computing the	
+15:09		area of a polygon corners of the polygon	
+15:13		are defined by hinge points grade breaks	
+15:16		in the ground cross section and catch	
+15:18		points which are at the intersections of	
+15:20		the typical section and the ground cross	
+15:22		section the volume is calculated by	
+15:26		multiplying the average end areas by the	
+15:29		difference in stationing the formula	
+15:32		shown will yield an area in cubic yards	
+15:37		after volumes are calculated for the	
+15:40		route adjustments are made to the	
+15:42		alignment and the volumes are computed	
+15:44		again this process is repeated until the	
+15:47		design is optimized when the design is	
+15:51		complete the construction phase of the	
+15:54		project begins construction slope stakes	
+15:57		are set at catch points at the	
+15:59		intersection of the design section side	
+16:02		slopes and the ground section position	
+16:06		of the slope stakes can be approximated	
+16:07		graphically from the sections or	
+16:10		computed by solving an intersecting line	
+16:12		problem because ground lines are usually	
+16:16		measured to the nearest few tenths of a	
+16:18		foot normally adjustments to the	
+16:20		calculated positions	
+16:22		must be made in the field when the	
+16:23		stakes are set you should be thoroughly	
+16:27		familiar with alignment earth work and	
+16:29		slope staking problems the lsit exam	
+16:33		typically has a question on each of	
+16:36		these computations the LS exam you take	
+16:40		will probably have at least one problem	
+16:42		that will require use of several of	
+16:45		these computations I'll return to	
+16:48		discuss a typical exam LS exam problem	
+16:52		but first ed and CJ will review the	
+16:55		problems posed by alignment design	
+17:05		thank you for the introduction Luke and	
+17:07		welcome viewers to this segment of the	
+17:09		Caltrans Route surveying video I'm a	
+17:13		licensed land surveyor in work in the	
+17:16		survey section of the geometrics branch	
+17:18		at Caltrans headquarters in Sacramento	
+17:20		in the past I have worked both for a	
+17:23		private surveying firm and for the city	
+17:26		of Sacramento I also teach surveying at	
+17:29		Sacramento City College where highway	
+17:32		curves are among my favorite subjects	
+17:35		and now to the business at hand	
+17:37		understanding and most importantly	
+17:39		simplifying and working with horizontal	
+17:43		curves I want to emphasize that I will	
+17:46		only address simple constant radius	
+17:48		curves however an understanding of the	
+17:51		simple curve its basic geometry	
+17:54		calculation methods and stakeout	
+17:56		procedure is necessary to understand the	
+17:59		more complex forms of curves that you	
+18:02		will eventually encounter in your survey	
+18:04		and career horizontal or circular curves	
+18:07		lie in a horizontal plane and are used	
+18:10		to connect tangents tangents are used	
+18:13		for control and alignment of straight	
+18:16		sections of various public works such as	
+18:20		streets and highways railroads pipelines	
+18:22		and canals it is important to remember	
+18:25		that all points lying on a circular	
+18:28		curve or a constant distance or radius	
+18:31		from a central locating point known as	
+18:34		the radius point consider any horizontal	
+18:37		curve as a portion of a complete circle	
+18:40		the math computations required for	
+18:44		solutions of circular curves is not	
+18:45		difficult almost all curve problems and	
+18:49		solutions can be done using basic	
+18:51		principles of trig algebra and/or	
+18:54		geometry the trigonometry involved in	
+18:58		most curve computations and solutions is	
+19:01		based largely on the sides and angles of	
+19:04		a right triangle all the curve formulas	
+19:08		and equations to follow are presented in	
+19:10		a format handy for use of an electronic	
+19:13		handheld calculator handhelds should be	
+19:16		capable of trigonometric functions	
+19:18		including radian conversion the simplest	
+19:22		form of a circular curve and the one	
+19:24		most often encountered in surveying is	
+19:27		tangent to and connects two tangent	
+19:29		sections of a route alignment the basic	
+19:33		components will be shown the next few	
+19:35		graphics there is no universally	
+19:37		accepted terminology for the parts of a	
+19:40		curve in surveying practice every	
+19:43		surveying company or public agency seems	
+19:46		to have different curve terms and	
+19:48		abbreviations therefore I will be using	
+19:51		terminology and notation that I am	
+19:53		comfortable with having lived with them	
+19:56		for the last 30 or 40 years let's first	
+19:59		look at the intersection of back and	
+20:01		forward tangents of assumed to be formed	
+20:04		circular curve keeping in mind that in	
+20:09		our example the direction of travel	
+20:10		and/or stationing is from left to right	
+20:13		the tangent to the left of the point of	
+20:16		intersection or pi is called the back	
+20:19		tangent the tangent to the right is the	
+20:22		forward tangent back and forward	
+20:25		tangents intersected the PI forming a	
+20:28		deflection angle eye deflection angle I	
+20:31		between the tangents is generally	
+20:33		measured in the field or computed	
+20:35		usually the PI will have either an	
+20:38		assigned or measured station designation	
+20:41		as part of the preliminary survey the	
+20:44		next element of our curve to think about	
+20:46		is the radius or dimension of sharpness	
+20:49		of the curve for any pair of tangents an	
+20:54		infinite number of curves may be	
+20:55		designed field conditions generally	
+20:58		dictate the choice of size or radius of	
+21:01		the curve for instance a larger radius	
+21:04		curve would be required for a high-speed	
+21:07		highway allowing traffic to comfortably	
+21:10		negotiate the turn mountainous terrain	
+21:13		considerations may limit curves to	
+21:16		smaller radii with a corresponding	
+21:18		decrease in speed as shown on the screen	
+21:22		two lines are generated from the center	
+21:25		of the curve or radius point and connect	
+21:27		to the beginning of curve BC	
+21:30		and to the end of curve ec the radius or	
+21:33		r is the distance from the center of the	
+21:36		curve or radius point to any point on	
+21:39		the arc of the curve since a curve is	
+21:42		always symmetrical around the P I	
+21:45		distances from the PI to the BC and EC	
+21:49		are equal and are called sub tangent	
+21:51		distances or T for a particular curve in	
+21:56		this next graphic we have added	
+21:58		additional basic components of our curve	
+22:01		note that the central angle or Delta for	
+22:04		the curve is an angle included between	
+22:06		the two radial lines the Delta angle is	
+22:10		always equal to angle I at the PIO	
+22:13		and radial lines from the BC and EC are	
+22:17		always perpendicular to the tangents	
+22:19		some highway agencies and railroads use	
+22:23		the degree of curve definition rather	
+22:26		than radius to define the sharpness of	
+22:29		circular curves	
+22:30		since degree of curve frequently appears	
+22:33		in many land surveyor examinations I	
+22:36		will give you a brief look at this	
+22:38		definition and its relationship to	
+22:40		radius the two definitions of degree a	
+22:44		curve are art definition and chord	
+22:46		definition first let's look at the art	
+22:49		definitions highway surveying practice	
+22:54		defines degree of curve by art	
+22:56		definition as shown in this graphic this	
+22:59		is the definition most commonly used as	
+23:02		shown this definition of degree a curve	
+23:05		is the central angle of an arc of curve	
+23:09		subtended by an arc 100 feet in length	
+23:12		it is identified as D or degree a curve	
+23:16		by our definition degree of curve	
+23:19		expressed by arc definition can be	
+23:22		converted to a radius distance by the	
+23:24		formula shown on the graph a 5729 point	
+23:28		8 divided by degree of curve D is	
+23:32		always expressed in degrees and decimals	
+23:35		of degrees when used in this operation	
+23:38		the second definition of degree of curve	
+23:41		is by core definition	
+23:43		as shown in the next graphic the court	
+23:47		definition is most often used by	
+23:49		railroads and is defined as the central	
+23:53		angle of an arc of curve subtended by a	
+23:56		curve with a cord a 100 feet long it is	
+24:00		defined as D or a degree of curve by	
+24:03		cord definition degree of curve by cord	
+24:06		definition is converted to radius	
+24:09		distance by using the formula shown in	
+24:12		the graphic now on screen radius equals	
+24:16		0 divided by the sine of one-half the	
+24:18		degree of curve D is always expressed in	
+24:22		degrees and decibels of degrees for this	
+24:24		formula although the degree of curve and	
+24:28		radius are mathematically related and	
+24:30		both define sharpness of the curve the	
+24:34		radius definition of circular curves is	
+24:36		more prevalent in modern survey practice	
+24:39		and will be used in the example	
+24:40		calculations for the rest of this	
+24:43		presentation at this point let's drop	
+24:47		back and review two basic facts of	
+24:49		horizontal curves as shown in this	
+24:53		graphic angle I always equals Delta or	
+24:57		central angle and radial lines from the	
+25:01		BC and EC are always perpendicular to	
+25:04		the tangents let's move on to the next	
+25:08		sketch note that the line from the	
+25:11		radius point to the PI bisects all	
+25:14		related lines and angles now let's start	
+25:18		some calculation procedures by	
+25:20		determining sub tangent distances for	
+25:22		our curve as shown on the screen the	
+25:26		formula for this particular computation	
+25:28		is sub tangent distance equals tangent	
+25:32		of one-half Delta times radius in the	
+25:37		sketch note the right triangle formed by	
+25:39		a line from the radius point to the PIO	
+25:42		or midpoint of curve hypotenuse a radial	
+25:46		line to the BC adjacent side and the	
+25:50		backs sub tangent opposite side	
+25:54		the next thing to do is determine the	
+25:56		station of the BC easily done simply	
+26:00		subtract the sub tangent distance from	
+26:02		the preliminary station of the P I the	
+26:06		length of Arc or actual distance	
+26:08		traveled around the curve from BC to EC	
+26:12		is computed next to find this distance	
+26:16		multiplied Delta expressed in radians by	
+26:20		the radius distance to determine the	
+26:23		station of the EC ad the length of Arc L	
+26:26		to the station of the previously	
+26:28		calculated BC the use of Radian measure	
+26:32		rather than degrees minutes and seconds	
+26:34		greatly simplifies calculations for our	
+26:37		claims most held hand-held electronic	
+26:40		calculators will perform this conversion	
+26:44		the next element of a circular curve is	
+26:47		the length of the long cord or LC the LC	
+26:53		length of long cord is shown in this	
+26:55		screen and is a straight line connecting	
+26:58		the bc and the EC note the right	
+27:01		triangle formed by the midline of the	
+27:03		curve the long cord and the radial line	
+27:07		to the BC as shown in the sketch now on	
+27:10		screen the formula for computing the LC	
+27:14		is twice the radius times sine of half	
+27:18		Delta the graphic now on screen is used	
+27:23		to show the angle identified in the	
+27:25		sketch as the total deflection angle in	
+27:28		its angular relationship to both the	
+27:31		angle at I and the Delta angle a survey	
+27:35		instrument setup at the BC zeroed on the	
+27:38		P I and then turn to the EC will read	
+27:41		one half of the angular value for angle	
+27:44		I the total deflection angle will always	
+27:48		equal 1/2 Delta since sub tangent	
+27:51		distances are identical triangle bc p i	
+27:55		ec is considered an isosceles triangle	
+27:59		note that in the preceding graphics and	
+28:02		discussion each curve though complete	
+28:05		within itself is a portion or	
+28:07		Ark of a complete circle therefore all	
+28:11		elements of a particular curve or arc	
+28:13		have a strict geometrical relationship	
+28:16		to each other and are unique to a curve	
+28:20		a certain radius and central angle if	
+28:24		any two of the curves elements are known	
+28:27		the remaining elements can be calculated	
+28:29		from the two known values this graphic	
+28:33		is used to show how a particular arc of	
+28:36		curve can be divided into a sub arc	
+28:38		length L sub one sub arc one starts the	
+28:42		VC and runs along the curve to POC sub 1	
+28:47		therefore sub arc 1 will have among its	
+28:50		other elements Delta sub 1 long cord sub	
+28:54		 and deflection angle sub 1 these	
+28:58		values are always unique to their	
+29:01		particular arc before proceeding into	
+29:04		curve layout computations and layout	
+29:06		procedure let's take a look at some	
+29:09		other elements of a circular curve	
+29:11		keeping in mind that all elements of a	
+29:14		curve are mathematically related this	
+29:17		graphic shows the external distance this	
+29:21		curve element is the distance from the	
+29:23		midpoint of the arc outwards to the	
+29:25		curves P I the computation to determine	
+29:29		this dimension is performed as shown on	
+29:32		screen determine the quantity 1 over the	
+29:36		cosine of 1/2 Delta subtract 1 from it	
+29:40		and then multiply the difference by the	
+29:43		radius of curve the next curve element	
+29:47		is shown on this graphic and is called	
+29:50		the mid ordinate distance this is the	
+29:52		distance from the midpoint of the long	
+29:54		cord to the midpoint of the arc this	
+29:57		measurement is determined by multiplying	
+29:59		the quantity 1 minus the cosine of half	
+30:03		Delta by the radius distance now on with	
+30:07		the business of computing and laying out	
+30:09		individual points on a curve the	
+30:12		deflection angle between the back	
+30:14		tangent and a line or sub chord drawn	
+30:17		from the BCE to a point on the curve	
+30:20		POC is the deflection angle for that	
+30:23		particular POC or station if a	
+30:28		particular POC or station's deflection	
+30:31		angle and sub court distance are known	
+30:34		layout of the station from the BC is	
+30:37		easily accomplished after the design	
+30:40		elements of a curve have been finalized	
+30:42		deflection angles for each station on	
+30:45		the curve that are required to be laid	
+30:47		out are computed let's take a look at	
+30:50		the complete curve ready for stake out	
+30:52		and compute some deflection angles and	
+30:56		sub chords to layout the curve the	
+30:59		radius of this curve is 550 feet and the	
+31:02		central angle is 28 degrees 35 minutes 0	
+31:06		seconds the total deflection angle for	
+31:09		the complete curve is 1/2 Delta or 14	
+31:13		degrees 17 minutes in 30 seconds	
+31:17		calculation of the total arc length is	
+31:19		shown on this graphic the computation is	
+31:23		total arc equals 550 feet times 28	
+31:27		degrees 35 minutes and 0 seconds	
+31:30		expressed in radians or zero point four	
+31:34		nine eight eight seven three this equals	
+31:38		70 for point 38 feet considering the	
+31:44		sub arc defined as L sub one we	
+31:47		determined it has an arc length of 40	
+31:49		feet this is based on the stationing of	
+31:53		the BC being 21 plus 80 and the station	
+31:57		of POC sub 1 being 22 plus 23	
+32:04		calculations are shown on this sketch	
+32:06		the determination of Delta sub 1	
+32:09		determination of half Delta and or	
+32:12		deflection sub 1 for the same arc sub 1	
+32:14		and determination of the chord sub 1 for	
+32:18		the same arcs sub 1 l sub one's central	
+32:22		angle or Delta is determined of by	
+32:26		dividing L sub 140 feet by the radius	
+32:30		50 feet which equals	
+32:33		zero point zero seven two seven two	
+32:35		seven radians or four degrees	
+32:39		ten minutes in one second deflection	
+32:43		angle sub one D sub 1 equals four	
+32:46		degrees 10 minutes 1 second over to or	
+32:51		two degrees and five minutes next L C	
+32:55		sub one is determined by twice the	
+32:57		radius times sine of half Delta or 1,100	
+33:02		feet times zero point zero three six	
+33:06		three five eight which equals 39.99 feet	
+33:12		therefore using a theodolite set up at	
+33:15		the bc and zero to the pi deflection	
+33:19		angle D sub one is set off to the right	
+33:21		in the distance 39.99 feet is measured	
+33:25		laid out from the BC on the line	
+33:28		produced from BC to POC sub 1 or long	
+33:33		cord sub 1 correctly placing station	
+33:37		200 in its position on the arc of the	
+33:40		curve this method of curve layout by	
+33:44		deflection angles can be used to stake	
+33:46		any portion of a curve on the ground now	
+33:52		for the final portion of our curve	
+33:54		discussion let's take a look at	
+33:56		computing and laying out a curve by	
+33:58		using coordinates and inversing between	
+34:01		coordinates of required curve stations	
+34:03		and a setup point remote from the curve	
+34:07		combining the computing powers of	
+34:09		today's electronic calculators and	
+34:12		state-of-the-art electronic total	
+34:14		stations it can be more efficient to lay	
+34:17		out a curve using coordinate coordinates	
+34:19		and inverse methods in this approach to	
+34:23		curve lay out a centrally located or	
+34:26		convenient set up station is selected	
+34:28		this point is not necessarily located on	
+34:31		the curve but is selected to allow all	
+34:34		points of the curve to be staked out	
+34:36		from the one set up a scene in this	
+34:38		graphic the set up station is not	
+34:40		located on the curve but is tied to the	
+34:43		BC and EC	
+34:44		by bearing and distance or coordinates	
+34:47		with all elements of the curve	
+34:49		located on a coordinate system	
+34:51		calculations for the curve data and also	
+34:54		the actual layout are reduced to routine	
+34:56		inverse calculations this provides	
+34:59		stakeout data for bearing and distance	
+35:02		layout of all required curve points	
+35:04		using a single setup location in	
+35:08		practice the setup point is selected and	
+35:11		tied to the curves control system either	
+35:13		in the field by actual measurement or by	
+35:16		office calculation as shown in this	
+35:19		graphic the BC R P EC and set up	
+35:23		stations all have coordinate values to	
+35:27		determine a coordinate for POC sub one	
+35:30		first determine L sub one by station	
+35:32		differences as in the deflection angle	
+35:34		method just discussed and then calculate	
+35:37		Delta sub one by the same process used	
+35:40		in the deflection method for example if	
+35:43		the BC station is 12 + 46 feet and the	
+35:47		station that POC sub 1 is 12 + 80 feet L	
+35:52		sub 112 + 80 minus 12 plus 46 equals 34	
+35:59		feet assuming a radius of 550 feet	
+36:04		Delta sub 1 equals L sub 1 34 feet	
+36:08		divided by radius 550 feet equals zero	
+36:13		point zero six one eight one eight	
+36:15		radians which converts to 3 degrees 32	
+36:20		minutes and 31 seconds applying Delta	
+36:24		sub one to the bearing RP BC the bearing	
+36:29		RP p OC sub one is determined using the	
+36:35		coordinates of the RP the coordinate of	
+36:38		P OC sub 1 is computed inversing between	
+36:42		the setup point and p OC sub one	
+36:45		determines the bearing and distance to	
+36:47		be laid out to correctly position p OC	
+36:50		sub 1 on the arc coordinates are	
+36:54		calculated for each p OC that is to be	
+36:56		set to define the curve	
+36:58		by using the bearing and radius radius	
+37:00		from the radius point the bearing of	
+37:03		each sub POC is determined by applying	
+37:06		its sub Delta to the bearing of line RP	
+37:10		BC the result the resulting coordinates	
+37:14		of individual POC stations are used to	
+37:17		obtain bearings and distances to the	
+37:19		POCs from the setup point by the inverse	
+37:23		generation process all calculations	
+37:26		should be done in a logical sequence and	
+37:28		be neatly tabulated there is an	
+37:31		increased time increase in computation	
+37:35		time for the coordinate method when	
+37:37		compared to the deflection angle method	
+37:39		but this increase is more than made up	
+37:41		for by the decrease in time required for	
+37:44		field layout	
+37:46		well I've pretty well used up my	
+37:48		allotted time discussing the basics of	
+37:50		circular curves I realize that only the	
+37:53		bare necessities have been addressed in	
+37:55		my presentation hopefully with study	
+37:58		aids such as the workbook and reference	
+38:01		books listed in the bibliography you	
+38:04		will be able to cope with the mysteries	
+38:05		of circular curve computation and layout	
+38:09		thanks for your attention and I	
+38:11		sincerely hope that I was able to make	
+38:13		the horizontal curve process a little	
+38:15		more user-friendly good luck with your	
+38:18		surveying career in general and with the	
+38:21		land surveyors examination processes in	
+38:23		particular I now want to introduce CJ	
+38:27		Van de Graaff a land surveyor for	
+38:29		Caltrans	
+38:30		who will discuss the aspects of vertical	
+38:33		or parabolic curve computation CJ it's	
+38:37		all yours	
+38:45		thanks ed and hello viewers my name is	
+38:48		CJ Vandegrift	
+38:49		I am a surveyor at the hilltop field	
+38:52		office in district 4 I've been surveying	
+38:55		for approximately 12 years and have been	
+38:57		licensed since 1987 I will be presenting	
+39:01		vertical curves as a portion of the	
+39:02		route surveying unit simply put vertical	
+39:06		curves are parabolic curves that lie in	
+39:09		the vertical plane vertical curves are	
+39:12		used in design to transition from one	
+39:14		grade line to another in order to	
+39:17		maintain safe size distances for passing	
+39:20		and stopping and to provide comfortable	
+39:22		riding conditions the geometry of	
+39:25		parabolic curves allows easy computation	
+39:28		of elevations at any point on the	
+39:30		vertical curve field applications of	
+39:33		vertical alignments usually requires	
+39:35		that elevations be calculated for	
+39:38		specific stations or at regular	
+39:40		intervals these values may be derived by	
+39:44		either the tangent offset method or the	
+39:46		parabolic curve equation both methods	
+39:50		are based on the following properties	
+39:52		the offsets from a tangent to a parabola	
+39:55		are proportional to the squares of the	
+39:59		distances from the point of tangency	
+40:01		this presentation will only discuss the	
+40:04		parabolic curve equation it is less	
+40:07		complex and well suited to computer and	
+40:09		calculator use other curve computation	
+40:12		methods are no less correct and some	
+40:15		familiarity with them is encouraged most	
+40:17		of the sources listed in the workbook	
+40:19		cover both methods this graphic shows	
+40:23		the two classifications of vertical	
+40:25		curves curve a points upwards from its	
+40:29		point of beginning or bvc and is called	
+40:32		a sag curve curve B moves downwards from	
+40:37		its point of beginning or B VC and is	
+40:39		called a summit or crest curve the	
+40:43		elements of a symmetrical or equal	
+40:45		tangent curve are as follows B VC is the	
+40:51		beginning of vertical curve sometimes	
+40:54		shown as PVC or point of vertical	
+40:57		curvature	
+40:59		EVC is the end of vertical curve	
+41:02		sometimes shown as Pvt or point of	
+41:05		vertical tangency P VI is the point of	
+41:09		vertical intersection of the incoming	
+41:11		and outgoing tangents capital L is the	
+41:16		length of the curve in stations measured	
+41:18		on the horizontal plane one full station	
+41:21		equals 100 feet the distance from the	
+41:25		bvc to the P VI is always 1/2 the length	
+41:29		of the curve small l is not shown here	
+41:33		but it is often used to define the	
+41:35		distance from the BBC to a station of	
+41:38		interest on the curve G sub 1 and G sub	
+41:43		 are the grade rates in percentages	
+41:45		with attention to algebraic sign G 1	
+41:49		refers to the tangent grade entering the	
+41:51		curve and G 2 refers to the tangent	
+41:54		grade leaving the curve little R is the	
+41:58		rate of change for a vertical curve and	
+42:00		is found by subtracting G 1 from G to	
+42:04		preserving algebraic signs and dividing	
+42:07		by L the length in full stations for	
+42:12		example a vertical curve where the	
+42:14		incoming G 1 equals plus 2.75% and the	
+42:20		outgoing G 2 equals minus 4.25 percent	
+42:24		with a length of 800 feet little R would	
+42:28		equal minus 0.875 percent per full	
+42:33		station the rate of change is always	
+42:37		negative for a crest curve and positive	
+42:40		for a SAG curve the value of little R is	
+42:43		the rate of change of the slope in	
+42:46		percent per station since the rate of	
+42:49		change for a symmetrical vertical curve	
+42:51		is a constant the following equation can	
+42:54		be derived the equation states the	
+42:58		elevation of any given station is equal	
+43:01		to 1/2 the rate of change times the	
+43:05		distance to the given station from the	
+43:07		BBC squared plus G 1 times the distance	
+43:11		to the	
+43:12		station plus the elevation at the BBC	
+43:15		this next graphic shows where the	
+43:18		elements of the equation come from begin	
+43:22		with the elevation at the BBC	
+43:24		then add algebraically the beginning	
+43:27		grade multiplied by the stations along	
+43:30		the curve then add algebraically the	
+43:33		offset from the tangent to the curve for	
+43:37		example let's say the equation the	
+43:40		station at the BBC of our curve is 10 +	
+43:44		 0 and the elevation is 100 feet the	
+43:47		elevation at station 12 plus 50 would	
+43:51		equal minus 0.875 percent divided by 2	
+43:58		multiplied by 2.5 squared + 4 point 2 5	
+44:03		times 2 point 5 + 100 feet which equals	
+44:10		07 point eight nine in practice it's	
+44:14		not always critical to know all the	
+44:16		equations we often just plug numbers	
+44:18		into computers and record answers but	
+44:21		this one relatively simple equation will	
+44:23		allow you to compute grades at any	
+44:26		station on a vertical curve questions	
+44:29		involving vertical curve computations	
+44:31		are very common on both the lsit	
+44:33		and the LS exam since the computations	
+44:36		are quite simple the critical elements	
+44:39		to solve the vertical curve are often	
+44:41		hidden in with lots of unneeded data	
+44:43		always identify which of the basic	
+44:46		components are given and which are	
+44:48		required to find we've just looked at	
+44:50		finding an elevation on a vertical curve	
+44:52		given the curve length the tangent	
+44:55		grades and the stationing a problem on	
+44:59		the 1991 exam was presented as such a 12	
+45:03		inch water pipe was found at station 18	
+45:06		plus 50 the top of the pipe elevation at	
+45:10		centre line was given as 730 point nine	
+45:13		two feet required was to design a	
+45:16		vertical curve to clear the water pipe	
+45:19		carefully using all the information	
+45:21		given the length of the curve became the	
+45:24		only unknown	
+45:26		it is helpful when setting up an	
+45:27		equation to list what is known and	
+45:29		therefore identify what must be solved	
+45:31		for in our example question the elements	
+45:35		given are as follows G 1 equals plus	
+45:41		.75%	
+45:42		G 2 equals minus 1.5 zero percent the	
+45:47		BBC station is 16 plus 50 and the BBC	
+45:51		elevation equals 7 to 0.23 the elevation	
+45:57		needed to clear the water pipe at	
+45:58		station 18 plus 50 is 734 0.32 and	
+46:03		little l equals 2.0 stations from the	
+46:07		BBC to the water pipe left to fine the	
+46:11		length of the curve if we plug these	
+46:14		values into the basic parabolic equation	
+46:17		it looks like this some basic algebra	
+46:22		shows the value of L in this case	
+46:25		rounded to be 6.0 stations or 600 feet	
+46:30		the final aspect I want to cover is	
+46:33		locating the station and elevation of	
+46:36		the highest and lowest point of the	
+46:37		vertical curve this can be very helpful	
+46:40		when checking profiles for conflicts	
+46:42		like our water pipe at the higher low	
+46:45		point the slope of the tangent to the	
+46:47		curve equals 0 0 therefore the value of	
+46:52		little L the stations from the BBC to	
+46:55		the higher low point is equal to G 1	
+46:58		divided by the rate of change changing	
+47:02		the sign of this value will always yield	
+47:04		a positive number this provides a good	
+47:07		check that all the algebraic signs have	
+47:09		been carried correctly using the values	
+47:12		for our water pipe problem the rate of	
+47:15		change equals minus one point 708 little	
+47:20		L then equals 5 point 1 2 2 0 stations	
+47:24		from the BBC therefore the high point	
+47:27		station is 21 plus 62 point 20 the	
+47:32		elevation can then be calculated using	
+47:34		the parabolic equation the elevation of	
+47:36		the high point in this case does equal	
+47:39		seven 42.6 four feet this concludes my	
+47:43		portion and I want to wish you all	
+47:45		success in your pursuits as professional	
+47:47		land surveyors now back to you Luke	
+47:51		thanks CJ now we're going to discuss	
+47:54		problem b5 from the 1990 land surveyors	
+47:57		exam the problem is in your workbook	
+48:01		we're provided with information in the	
+48:03		form of a Street centerline profile a	
+48:05		street section and the site plan you see	
+48:09		which I've modified for our use we're	
+48:12		required to answer five questions about	
+48:14		the site plan if you want you can stop	
+48:17		the tape now and solve the problem on	
+48:20		your own then turn the tape back on and	
+48:22		compare your method against mine this	
+48:26		site plan problem can be solved using	
+48:29		route surveying methodology because it	
+48:32		is based on a control line in this case	
+48:35		the centerline of the street the first	
+48:38		step in the solution is to read and	
+48:40		study the whole problem the problem	
+48:45		statement you have been provided design	
+48:48		criteria as shown on the diagrams below	
+48:51		in on the facing page problem	
+48:54		requirement answer the following	
+48:57		questions using the information provided	
+48:59		in the diagrams 1 determine the ground	
+49:03		elevations of the back of sidewalk at	
+49:05		the following locations driveway	
+49:08		centerline southeasterly property Corner	
+49:11		southwesterly property corner to provide	
+49:15		the grade percentage between Point C and	
+49:17		the building pad 3 what is the slope	
+49:21		ratio from point A to the toe of slope 4	
+49:25		calculate the cut from the back of the	
+49:28		sidewalk to the sewer lateral invert at	
+49:30		the property line and 5 calculate the	
+49:34		distance from the north property line to	
+49:36		the toe of slope at point B notice that	
+49:41		questions 1 & 4 require back of walk	
+49:45		elevations and that the other three	
+49:47		questions require use of these back of	
+49:50		walk elevations to develop their answers	
+49:53		to solve questions 1 & 4	
+49:56		calculate elevations on the centerline	
+49:59		of the street for stations that	
+50:02		correspond to the Southwest property	
+50:04		corner driveway centerline southeast	
+50:06		property corner and sewer lateral to do	
+50:10		this first stations on the property	
+50:12		corners must be calculated property	
+50:15		corner stations can be calculated using	
+50:17		the station on the driveway centerline	
+50:19		the dimension given from the driveway	
+50:21		centerline to the West properly aligned	
+50:24		and the width of the lot the elevations	
+50:28		can all be calculated using the street	
+50:31		profile that is given to of these	
+50:33		elevations are in a vertical curve	
+50:35		section so you must be familiar with	
+50:37		vertical curves to solve the problem	
+50:39		from the street section we find it there	
+50:42		is a 0.33 foot fill from the center line	
+50:48		to the back of the walk	
+50:50		adding 0.33 feet to the center line	
+50:55		elevations for each station will give us	
+50:57		the answer to question one question four	
+51:01		asks for the difference in elevation	
+51:03		from the back of the walk to the invert	
+51:06		of the sewer because we planned ahead	
+51:09		and already know the back of walk	
+51:11		elevation at station 12 plus 67 we need	
+51:16		only know the invert of the pipe at the	
+51:19		back of the walk we're given the invert	
+51:22		of the pipe two feet from the house and	
+51:24		the grade on the pipe so we only need	
+51:27		the distance from the position of the	
+51:29		given invert elevation to the back of	
+51:31		the walk to figure the difference in	
+51:33		elevation we need the site plan shows	
+51:36		the Swale as being five feet from the	
+51:39		house and 25 feet from the back of the	
+51:41		walk with this information we can	
+51:44		determine the distance from our given	
+51:46		invert to the back of the walk which is	
+51:48		8 feet next calculate the invert of the	
+51:53		pipe and then the cut to the invert of	
+51:55		the pipe questions two three and five	
+51:59		all require elevations along the Swale	
+52:02		will do question two first because to do	
+52:06		it	
+52:06		we will have to figure elevations at	
+52:08		each grade break in the Swale needed to	
+52:11		solve both questions three and five we	
+52:16		begin with the elevation we obtained in	
+52:18		question one at the back of the walk and	
+52:20		the centerline of the driveway dimension	
+52:23		and grade from this point to the Swale	
+52:25		grade break in the driveway is given so	
+52:29		we can calculate an elevation at the	
+52:31		Swale grade break at the center of the	
+52:33		drive the elevation of the flow line at	
+52:36		Point D can be computed from the grades	
+52:39		and dimensions given on the plan finding	
+52:43		the distance from the Swale grade break	
+52:45		in the driveway to point F at the flow	
+52:48		line of the Swale is a bit tricky here	
+52:50		is where you can use your years of	
+52:52		experience poring over architects plans	
+52:55		that always seem to admit key dimensions	
+52:58		the the dimension from the west property	
+53:01		line to the center of the Swale at the	
+53:04		center of the drive can be calculated	
+53:05		and is 35 feet the Swale on the east	
+53:09		side of the lot is 5 feet from the	
+53:11		property line therefore we can add these	
+53:14		two distances 5 feet and 35 feet and	
+53:17		subtract the sum from the width of the	
+53:20		lot to obtain the distance necessary to	
+53:22		calculate the elevation at grade break F	
+53:25		in the Swale from point F distance and	
+53:29		grade shown on the plan	
+53:31		give us the elevation at Point E now for	
+53:34		Point C with elevations at D and E and	
+53:38		grades given from these two points to	
+53:41		the grade break in the Swale at C we can	
+53:44		solve for the elevation at C in the	
+53:47		following way we can write equations for	
+53:51		the elevation of C from both point D and	
+53:54		point E the equation from point D is the	
+53:59		elevation of C equals the elevation of D	
+54:02		plus 0.01 5 times the distance D C the	
+54:09		equation from point E is the elevation	
+54:12		of C equals the elevation of e plus 0.02	
+54:18		times the distance C	
+54:20		II we know that distance dc+ distance c	
+54:26		e equals 120 feet so distance D C equals	
+54:31		20 feet	
+54:33		- distance C e now we can rewrite our	
+54:37		equation for C from point D by	
+54:41		substituting 120 feet	
+54:43		- distance ce4 distance D C giving us	
+54:48		elevation of C equals the elevation of D	
+54:51		plus 0.01 5 times 120 feet minus the	
+54:59		distance C e now we can combine the two	
+55:03		equations as shown and solve for	
+55:07		distance C e with distance C E and the	
+55:12		grade of 2% we can easily calculate the	
+55:15		elevation at gray brakes C and from that	
+55:19		the grade to the building pad after	
+55:23		question 2 question 3 is a breeze it	
+55:27		takes it asks for the slope from point A	
+55:30		to the toe we know the elevation of	
+55:34		point F at the flow line of the Swale	
+55:36		from our work on question 2 and the fact	
+55:40		that the top of the slope and point a	
+55:42		are one foot above the flow line from	
+55:44		the plan we've already computed the back	
+55:47		of walk elevation at the southeast	
+55:49		property corner for question 1 so we	
+55:52		know the change in elevation from the	
+55:55		site plan we know that the dimension	
+55:57		from the back of walk to flow line is 25	
+56:00		feet and at the top of the slope is 5	
+56:03		feet from the flow line and the toe of	
+56:05		the slope is 1 foot from the back of the	
+56:08		walk	
+56:08		this leaves 19 feet for slope the grade	
+56:13		is the difference in elevation between	
+56:15		point a and the elevation of the	
+56:17		southeast property corner divided by the	
+56:20		distance allowed for slope on the site	
+56:22		plan the last question number 5 asks for	
+56:28		the distance from the north property	
+56:30		line to the toe of slope at point B	
+56:33		the elevation of the toe of slope is	
+56:35		given on the site plan the top of the	
+56:38		slope is one foot above the flow line of	
+56:40		the Swale at Point E which we calculated	
+56:43		for question number two the change in	
+56:46		elevation is easily obtained as the	
+56:48		difference between the elevation of top	
+56:50		and toe the ratio of the slope is given	
+56:53		as two to one so the distance from the	
+56:56		top to the toe is two times the change	
+56:59		in elevation from the site plan the	
+57:03		distance from the top of slope to the	
+57:05		property line is 20 feet so the	
+57:09		dimension from the property line to the	
+57:11		toe is 20 minus 2 times the change in	
+57:14		elevation between the top and the toe as	
+57:18		you can see a lot of time and effort can	
+57:21		be saved by proper planning and	
+57:23		organization the method you use is very	
+57:26		important efficient method can be the	
+57:29		difference between success and failure	
+57:31		in your day to day practice as a land	
+57:33		surveyor on the exam correct method	
+57:36		becomes all-important because of time	
+57:38		restraints in efficiency on the job	
+57:41		might cause evening or weekend shifts	
+57:44		but on the test situation it can cause	
+57:48		failure without in mind I wish you good	
+57:52		planning	
+58:21		you 	

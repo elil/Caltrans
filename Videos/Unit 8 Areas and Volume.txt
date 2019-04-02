@@ -1,0 +1,696 @@
+
+00:50		welcome to Caltrans lsit Els exam	
+00:53		preparation course one aid in your	
+00:57		preparation for California licensure	
+00:59		examinations or word of caution don't	
+01:02		use this course as your only preparation	
+01:05		devise and follow a regular schedule of	
+01:08		study which begins months before the	
+01:11		test work many problems in each area not	
+01:15		just those in this courses workbook but	
+01:18		problems from other sources as well	
+01:21		this course is funded by Caltrans but	
+01:24		you and I owe a profound thanks to	
+01:27		others the courses instructors from the	
+01:30		academic community the private sector	
+01:32		other public agencies and from Caltrans	
+01:35		as well we wish you well in your study	
+01:39		toward becoming a member of California's	
+01:41		professional land surveying community	
+01:46		hello my name is dawn hunter I work with	
+01:51		Caltrans in the headquarters office of	
+01:53		geometry niché's during this session	
+01:56		we'll be covering areas and volumes	
+01:59		we'll begin our discussion with a	
+02:01		definition of area area is defined as	
+02:06		the surface within a set of lines the	
+02:10		area within a triangle is the surface	
+02:12		within three sides the area of a circle	
+02:16		is the surface within the circumference	
+02:19		now area is expressed in square units	
+02:23		square inches square feet square miles	
+02:27		etc one object of land surveys is to	
+02:32		determine the area of a parcel the area	
+02:35		may be determined by any of the	
+02:38		following methods one by plotting	
+02:41		boundaries to scale and excuse me by	
+02:48		plotting the boundaries to scale the	
+02:50		area of a parcel may be found by use of	
+02:52		a plan emitter or it may be calculated	
+02:55		by dividing the parcel into triangles	
+02:58		quadrilaterals and computing their areas	
+03:00		math	
+03:01		matically two four parcels with	
+03:04		irregular or curved boundaries the area	
+03:08		may be determined by the trapezoid rule	
+03:11		or Simpsons one-third rule three by	
+03:16		calculating the area from coordinates or	
+03:21		meridian distances and parallel	
+03:23		distances of the corners of the parcel	
+03:27		by calculating the area by double	
+03:30		Meridian distance and the latitudes of	
+03:33		the sides of the parcel just now	
+03:38		accuracy basically the accuracy of any	
+03:43		of the results of these four methods are	
+03:47		in order in which they were presented to	
+03:50		you the most accurate would be by the	
+03:53		coordinate method any of the three which	
+03:56		we will be covering later the following	
+03:59		figures and formulas appear in appendix	
+04:04		F 1 through F 3 and G 1 through G 2 of	
+04:10		the caltrans survey manual here we have	
+04:17		the area of a circle PI R squared R of	
+04:22		course being the radius of the circle	
+04:29		now we see a sector of a circle the	
+04:34		formula there is area equals PI R	
+04:38		squared times theta over 360 the central	
+04:44		angle or theta is in degrees and decimal	
+04:48		of a degree a segment the area is equal	
+04:54		to PI R squared theta over 360 just as	
+04:59		it was in the sector of a circle but we	
+05:02		add minus R squared sine theta over to	
+05:08		here again the central angle in degrees	
+05:12		and decimal of a degree	
+05:14		a polygon a closed plane figure bounded	
+05:22		by straight lines or scythes	
+05:24		here we have two examples of a polygon	
+05:28		one a triangle and one a square with all	
+05:32		sides equal the area for the solution of	
+05:36		this type of a figure is one-quarter n s	
+05:45		squared where n is the number of sides	
+05:49		and s is the length of the side times	
+05:53		the cotangent of 180 over n here are two	
+06:01		more examples of a regular polygon all	
+06:05		sides equal same formula here we have a	
+06:14		triangle which is a three-sided polygon	
+06:17		the area of a triangle is one-half base	
+06:22		times the height now there's a second	
+06:25		formula for the area of a triangle as	
+06:27		shown in the graphic this is when we do	
+06:30		not have any angles but we know all of	
+06:33		the sides of the triangle and that is	
+06:35		the square root of s times the quantity	
+06:39		s minus a times the quantity s minus B	
+06:43		times the quantity quantity X s minus C	
+06:48		this formula is used only when the three	
+06:53		sides of a triangle are given here are	
+06:58		two more examples of triangles assuming	
+07:01		all sides are known the right triangle	
+07:04		on the Left could be solved by the	
+07:06		formula a equals one-half base times	
+07:10		height since the base and the height are	
+07:13		known sides of the triangle the triangle	
+07:16		on the right would be solved by the	
+07:18		formula the square root of s times s	
+07:23		minus a times the quantity s minus B	
+07:25		times the quantity estimate	
+07:27		see because the height H must be	
+07:30		calculated and the information to do so	
+07:33		is not given a paragraph paragraph is a	
+07:42		quadrilateral with opposite opposite	
+07:44		sides equal and parallel and the formula	
+07:48		for getting the area is base times the	
+07:52		height a rectangle is a parallelogram	
+07:59		with 90-degree angles a parallelogram	
+08:04		which is also a quadrilateral with	
+08:06		opposite sides equal and parallel and	
+08:08		has 90-degree angles the next figure is	
+08:17		a square which like a rectangle has	
+08:21		opposite sides equal and parallel with	
+08:24		0-degree angles but added to that all	
+08:27		sides are of equal length	
+08:32		our next figure is a trapezoid the	
+08:37		solution for the area of a trapezoid is	
+08:39		H times the quantity B sub 1 plus B sub	
+08:46		 over 2 the B sub 1 plus B sub 2 over 2	
+08:56		will give you the average length of the	
+08:59		base basis times the height the next	
+09:04		figure is a trap by Z 'm which is a	
+09:09		quadrilateral without any parallel sides	
+09:13		and the formula for computing the area	
+09:17		of a trapezoid is the quantity one half	
+09:23		of d h+ within brackets 1/4 b times the	
+09:30		quantity h sub 1 plus h sub 2	
+09:38		now that we have reviewed the methods of	
+09:41		determining the area of a geometric	
+09:44		figure let's put the formulas to work	
+09:46		for us here we have an exercise find the	
+09:52		acreage of parcel a there are a number	
+09:56		of methods we could use to determine the	
+09:58		acreage of the parcel I would like you	
+10:00		to turn off the video refer to the	
+10:02		diagram in your workbook and determine	
+10:04		the method you would use to solve this	
+10:06		problem when you have determined the	
+10:15		method you would use turn the video on	
+10:17		and we will review the method I	
+10:20		recommend did you come up with a method	
+10:26		let's run through my recommended	
+10:28		solution and see how we compare here we	
+10:34		have our parceling in our first step is	
+10:38		to circumscribe the parcel with a	
+10:41		rectangle with at least one side of the	
+10:44		parcel coincident with the side with a	
+10:47		side of the rectangle and a maximum	
+10:49		number of angle points of the parcel on	
+10:51		the perimeter of the rectangle the	
+10:54		orientation of the rectangle must be	
+10:56		such that the lengths of the sides of	
+10:58		the rectangle can easily be determined	
+11:01		step 2 is to determine the dimensions of	
+11:06		the rectangle side ad is the length 220	
+11:14		feet plus 280 feet equaling 500 feet the	
+11:21		side a B is 70 feet plus 225 feet plus	
+11:28		20 feet that is the 120 feet is the	
+11:32		radius of the circle giving a total of	
+11:35		15 feet the area of erect of the	
+11:39		rectangle is 500 feet times 415 feet	
+11:44		equaling 207 thousand five hundred	
+11:48		square	
+11:49		feet the next step in the solution is to	
+11:56		determine the area of geometric figures	
+11:58		between the perimeter of the parcel and	
+12:01		the constructed rectangle the first area	
+12:07		we will deal with is the shaded portion	
+12:10		of the diagram designated number one	
+12:13		since this is a right triangle the base	
+12:15		and the height is given this diagram	
+12:22		shows the solution of the problem if the	
+12:25		triangle was not a right triangle or if	
+12:27		we did not know it was we would have to	
+12:31		use the second formula shown in the	
+12:35		diagram the next area to calculate is	
+12:39		the shaded area 2 which is a square	
+12:42		minus the sector with a radius of 120	
+12:46		feet	
+12:48		here's the solution determine the area	
+12:51		of area to area 2 equals area of the	
+12:57		area of the square minus the area of the	
+13:00		sector solving for the square we have	
+13:03		20 feet times 120 feet for 14,400 feet	
+13:09		for the sector we have PI R squared	
+13:13		times x over 360 x equals degrees and	
+13:20		decimal equivalent of minutes and	
+13:22		seconds so therefore from the given we	
+13:25		know it's a 90-degree Delta the sector	
+13:29		would be 3.1416 or pi times 120 squared	
+13:35		the radius times 90 over 360 which would	
+13:42		give us 11 thousand three hundred and	
+13:45		nine point seven six square feet now	
+13:48		taking the area of the square the 14,400	
+13:52		feet minus eleven thousand three hundred	
+13:55		and nine point seven six feet we come up	
+13:58		with three thousand ninety point to four	
+14:02		square feet four	
+14:03		or the area of this sector area 3 on our	
+14:10		diagram is a rectangle designated a B C	
+14:16		and D here's the solution for area 3	
+14:24		side a B is 160 feet long which is we	
+14:31		get that from the radius of the circle	
+14:33		adjacent to it on the lower side side ad	
+14:38		equals 415 feet - 125 feet plus 160 feet	
+14:48		or 130 feet the area of the rectangle	
+14:54		would be then 160 feet times 130 feet or	
+14:59		0 thousand 800 square feet area 4 is	
+15:08		another rectangle shown as ABCD on the	
+15:11		diagram and here is the solution of area	
+15:17		for the side a B is 500 feet minus the	
+15:24		quantity 120 feet plus 150 feet plus 160	
+15:30		feet we can get this right off of the	
+15:33		off of the diagram which would equal 70	
+15:38		feet side ad is 415 feet - the cone 125	
+15:47		feet or 290 feet and the area would be	
+15:52		0 feet times 290 feet equaling 20	
+15:57		thousand 300 square feet now the last	
+16:03		area is area 5 it is a segment of a	
+16:08		circle with a radius of 160 feet	
+16:12		here we see the solution for area 5 and	
+16:17		the square footage of twenty thousand	
+16:22		one hundred and six point two for square	
+16:25		feet we have calculated the areas of for	
+16:31		each of the five parcels now we add them	
+16:33		to get a total excess which is seventy	
+16:37		one thousand nine hundred and ninety six	
+16:39		point four eight square feet now we can	
+16:42		determine the area of parcel a we take	
+16:47		the area of the large rectangle	
+16:50		circumscribing the parcel a which has	
+16:53		two hundred and seven thousand five	
+16:55		hundred square feet and subtract the	
+16:57		total area of parcels one two three four	
+17:01		and five which is an area of seventy one	
+17:06		thousand nine hundred and ninety six	
+17:08		point four eight square feet this leaves	
+17:11		a remainder of one hundred and thirty	
+17:13		five thousand five hundred and 3.52	
+17:16		square feet if we divide the remainder	
+17:20		by 43,560 square feet we will arrive at	
+17:25		three point one one acres for parcel a	
+17:33		next we will calculate the area of a	
+17:37		parcel within a rith and irregular	
+17:39		boundary we will calculate the same area	
+17:43		three times by the same basic method but	
+17:46		the last to buy more we buy a more	
+17:48		refined formula at the end we'll compare	
+17:51		the results the area formed between the	
+17:57		traverse line and the lake will be	
+17:59		determined by calculating the areas of	
+18:01		the triangles the trapezoids formed by	
+18:03		the traverse line the offset lines and	
+18:06		the edge of the lake the area on the	
+18:09		other side of the traverse line may be	
+18:11		determined by a number of different	
+18:12		methods	
+18:13		if the Traverse and the offsets are	
+18:16		accomplished by a field survey the	
+18:18		area's calculated will be satisfactory	
+18:21		for most requirements if the Traverse	
+18:23		and the offsets are plotted and scale	
+18:26		in an office without the benefit of a	
+18:28		field survey the accuracy of the areas	
+18:30		determined will be limited in their	
+18:33		usefulness this figure shows the	
+18:38		stations and offsets what we have to	
+18:41		calculate using this data is from left	
+18:44		to right a triangle five trapezoids and	
+18:47		another triangle turn the video off and	
+18:50		work this problem the information on	
+18:53		this screen is also in your workbook	
+18:54		after you have completed the problem	
+18:56		turn the video back on and we'll compare	
+18:59		notes okay	
+19:08		let's compare our results on the diagram	
+19:11		shown we have the triangle with a square	
+19:16		footage of 3454 square feet and the five	
+19:23		trapezoids with 8287 0.50 square feet	
+19:31		130 five point zero zero square feet	
+19:34		etc etc etc down to the triangle the	
+19:39		last triangle having a area of seventeen	
+19:43		hundred and ninety seven point seven	
+19:45		five square feet for a total of 32,000	
+19:50		seventy two point seven five square feet	
+19:59		here is a second approach to this same	
+20:02		problem using the same area offsets	
+20:06		adding at regular intervals this is	
+20:09		called the trapezoidal rule the offsets	
+20:12		may be established at any desired	
+20:14		interval 25 50 100 feet etc the denser	
+20:19		the offsets the more accurate the	
+20:21		results this type of solution would be	
+20:23		based on field survey data the formula	
+20:29		as shown on the diagram is the area	
+20:34		equals s times the quantity o sub one	
+20:38		over two plus	
+20:39		oh sub 2 plus Rho sub 3 plus Oh sub 4 on	
+20:45		until we get to the end of the	
+20:49		trapezoids in this formula s equals the	
+20:53		regular offset interval oh the offset	
+20:56		distance the formula shown here appears	
+21:03		in your workbook along with the stations	
+21:05		and offsets for this problem turn the	
+21:08		video off and work the problem after you	
+21:11		have completed working the problem turn	
+21:13		me back on and we'll compare results	
+21:19		thanks for turning me back on it was	
+21:21		getting lonesome lonely in here well	
+21:24		let's compare results I have thirty	
+21:27		three thousand one hundred and 1.50	
+21:29		square feet and the breakdown is as	
+21:34		shown on the diagram we have one	
+21:38		triangle with fourteen hundred and forty	
+21:41		three point seven five square feet and	
+21:43		the regular trapezoids 20 we're using	
+21:48		the formula we have twenty five times	
+21:51		the quantity fifty two point five over	
+21:54		two plus 88 plus eighty seven and on and	
+22:00		on and ending with sixty eight feet over	
+22:06		two and the parentheses then we have	
+22:09		another trapezoid well going back to the	
+22:13		regular trapezoid I neglected to say	
+22:16		that the total square footage where that	
+22:18		formula is twenty seven thousand two	
+22:20		hundred and six point two five square	
+22:22		feet the second trapezoid and the reason	
+22:26		we must calculate it independently is	
+22:30		because it has a different base the	
+22:34		difference between the stationing there	
+22:36		you will notice thirty eight feet so we	
+22:38		have to calculate it separately since it	
+22:41		isn't part of the regular trapezoids and	
+22:43		it has an area of twenty six hundred and	
+22:47		forty-one square feet the last triangle	
+22:51		is 71 feet	
+22:53		times 51 feet over to or an area of 1810	
+22:58		.50 square feet	
+23:00		totaling 33,000 101.5 Oh square feet the	
+23:12		same stations and the same offsets as	
+23:14		the previous problem	
+23:15		all of which you found in your workbook	
+23:18		this formula will also be found there	
+23:22		with this information solve for the area	
+23:25		using Simpsons one-third rule so turn me	
+23:29		off so I can get a little rest and work	
+23:31		the problem too when you get done come	
+23:34		back and we'll compare results well how	
+23:43		did it go I got thirty three thousand	
+23:46		two hundred and six point six six square	
+23:47		feet let's review the formula and plug	
+23:50		in the values in their proper niches	
+23:52		refer the formula in your workbook s3	
+23:56		where s equals the regular interval or	
+24:00		5 C feet inside the bracket zero one	
+24:04		equals 52 point 5 feet the offset	
+24:08		distance for the first interval at	
+24:10		Station O+ 5502 equals 68 feet the	
+24:16		offset distance for the last interval at	
+24:19		station five plus oh five inside the	
+24:24		first parenthesis summation of the even	
+24:27		offset distances station oh plus 80 the	
+24:30		second offset equals 88 feet plus	
+24:35		Station one plus 30 the 44th offset	
+24:39		seventy eight point five feet plus the	
+24:41		offset of the sixth 8/10 and on through	
+24:46		to station four plus 80 the 18th offset	
+24:51		or which has which is forty six feet	
+24:55		inside the second parenthesis summation	
+24:58		of the odd offset distances we start	
+25:01		with station 1 plus O five the third	
+25:04		offset with	
+25:06		it is 87 feet we don't incorporate the	
+25:09		first odd offset because we use that at	
+25:12		the beginning of the formula and we have	
+25:15		plus the next station is the fifth	
+25:19		station one plus 55 with an offset of 69	
+25:24		point five plus the seventh station at	
+25:27		two plus O five which is has an offset	
+25:31		of fifty point five and on through the	
+25:33		seventeenth station four plus 55 which	
+25:37		has an offset of twenty-seven feet	
+25:39		we don't incorporate the 19th also odd	
+25:44		offset because this also was used in the	
+25:47		second term of the formula remember we	
+25:50		have two triangles and the oddball	
+25:52		trapezoid to calculate and add the	
+25:56		results of the formula let's compare the	
+26:00		results of the three methods method one	
+26:03		was thirty two thousand seventy two	
+26:07		seventy five square feet method true to	
+26:10		the trapezoidal rule was thirty three	
+26:13		thousand 101.5 Oh square feet	
+26:16		method 3 Simpsons one-third rule was	
+26:21		thirty three thousand two hundred and	
+26:24		six point six six square feet	
+26:26		hypothetically method three would be the	
+26:29		most accurate let's move on now to other	
+26:35		and more accurate methods of determining	
+26:38		area determining area by use of	
+26:44		coordinates here we have a parcel with	
+26:48		coordinates each corner using the	
+26:50		coordinates we will determine the length	
+26:52		of the sides of various geometric	
+26:54		figures around the perimeter of the	
+26:56		parcel and by the methods used in the by	
+27:00		the method used in the very first	
+27:02		example and arrive at the area of the	
+27:06		parcel step one circumscribe the parcel	
+27:12		with a rectangle the size of the	
+27:14		rectangle must be due north and south	
+27:17		and east and west the west side of the	
+27:20		rectangle must run through the most	
+27:22		westerly corner of the parcel in a	
+27:25		north-south direction the north side of	
+27:28		the rectangle must run through the most	
+27:30		northerly corner of the parcel in an	
+27:32		east-west direction the east side runs	
+27:36		through the most easterly corner in a	
+27:39		north-south direction and the south side	
+27:42		through the most southerly corner in an	
+27:45		east-west direction the second step is	
+27:48		to determine the area of the large	
+27:51		rectangle one two three four from the	
+27:54		differences in coordinates the third	
+27:58		step is to calculate the area of	
+28:01		triangle a B a rectangle small a B small	
+28:09		B one the triangle large B small B large	
+28:15		see around the print etc around the	
+28:20		perimeter of the parcel then determine	
+28:23		the area of the parcel turn off the	
+28:26		video and work the problem using the	
+28:28		diagram in your handbook and come back	
+28:31		when you're finished I make the area	
+28:38		forty three thousand three hundred and	
+28:40		twenty-five square feet	
+28:42		let's review the process the area of the	
+28:47		rectangle one two three four take the	
+28:51		easting of the most westerly coordinate	
+28:53		the corner Point a which is nineteen	
+28:57		hundred and ten from the easting of the	
+29:00		most easterly corner point E which is	
+29:04		twenty-two hundred and sixty this equals	
+29:07		three hundred and fifty feet	
+29:08		next take the northing of the most north	
+29:12		southerly corner point G which is	
+29:15		fifteen hundred from the northing of the	
+29:18		most northerly corner Point C which is	
+29:22		seventeen hundred and ten this equals	
+29:25		two hundred and ten feet therefore	
+29:29		the area of rectangle one-two-three-four	
+29:33		has 350 feet on one side times 210 feet	
+29:42		on the other side equaling 70 3,500	
+29:47		square feet next calculate the area of	
+29:51		triangle large a large B small a take	
+29:56		the northing of a 1600 from the northing	
+30:00		of B 1670 this equals 70 feet one leg of	
+30:06		the right triangle then take the easting	
+30:09		of a 1910 from the easting of B 1945	
+30:14		this equals 35 feet the second leg of	
+30:18		the right triangle therefore the area of	
+30:21		the right triangle large a large B small	
+30:25		a is 1/2 times the base times the base	
+30:30		times the height or one half of seventy	
+30:34		times thirty five four twelve hundred	
+30:37		and twenty-five square feet	
+30:39		calculate the balance of the triangles	
+30:43		and rectangles using the same method to	
+30:46		determine the lengths of the legs when	
+30:49		you add all of the areas of these	
+30:52		triangles and rectangles together	
+30:55		you should get 30,000 175 square feet	
+31:00		take 30,000 175 square feet from the	
+31:05		area of the large rectangle 1 2 3 4	
+31:09		which equals 70 3,500 square feet and	
+31:13		you will have 43,000 325 square feet the	
+31:18		area of the parcel the next method we	
+31:23		will use to determine the area of the	
+31:25		same parcel with the same coordinate	
+31:27		values is known as the coordinate method	
+31:30		there's a rule and it states multiplied	
+31:35		the northing of each corner by the	
+31:37		difference between the eastings of the	
+31:40		following	
+31:42		the end the preceding corners always	
+31:45		algebraically subtracting the following	
+31:48		from the preceding 1/2 of the algebraic	
+31:52		sum of the resultant products is the	
+31:55		area the formula for this method is	
+31:59		shown on the screen and also in your	
+32:01		workbook use this formula to determine	
+32:04		the area of the parcel turn off the	
+32:07		video and work the problem and then come	
+32:10		back when you're done that formula is	
+32:19		kind of nasty to you worked it a couple	
+32:21		of times well I got forty three thousand	
+32:24		three hundred and twenty five square	
+32:25		feet for the parcel let's review the	
+32:28		problem and see how I got that answer	
+32:31		you start with any corner but to keep it	
+32:34		simple as possible let's start with	
+32:36		corner a from the formula n sub one	
+32:40		times the quantity e sub n minus e sub	
+32:45		two let's change that to fit our parcel	
+32:48		so that becomes n sub a time's the	
+32:51		quantity e sub G minus e sub B or the	
+32:58		northing of a 1,600 times the quantity	
+33:03		the easting of G - thousand - the	
+33:08		easting of B 1945 is a plus fifty five a	
+33:13		plus 1,600 times a plus fifty five	
+33:18		equals a plus a t-888 thousand square	
+33:23		feet this put this in the plus column	
+33:27		next n sub 2 times the quantity e sub n	
+33:33		- e sub three becomes n B times n sub B	
+33:42		times the quantity e sub a - e sub C or	
+33:48		670 the northing of B times the	
+33:52		quantity 1910	
+33:55		the easting of a - - 2040 the easting of	
+34:01		C this is a - 130 a + 1670 NB x a - 130	
+34:14		which is this product of which is the	
+34:18		product of e sub a - e sub C equals a	
+34:22		minus 27 20 21 270 1,100 square feet	
+34:29		put this in the minus column continue	
+34:32		around the parcel to Point G which would	
+34:34		be n G times the quantity e sub F - e	
+34:41		sub a watch the algebraic signs of the	
+34:44		product and enter in the proper con	
+34:47		column either plus or minus when you	
+34:50		have found all the products you will	
+34:52		have a column of pluses and a column of	
+34:54		minuses at each column then take the	
+34:57		smaller from the larger divide the	
+34:59		remainder by 2 and you have your error	
+35:01		area simple huh the last method we will	
+35:09		discuss to determine area is double	
+35:12		Meridian distance for DMD this method	
+35:16		uses the latitude and departures of a	
+35:18		calculated traverse that determines the	
+35:20		coordinates of the angle points of the	
+35:24		of a closed Traverse here again we have	
+35:27		some rules	
+35:29		number one start DMD calculations from	
+35:34		the most westerly point in the traverse	
+35:36		to the DMD of the first course is equal	
+35:41		to the departure of the first course	
+35:44		three the DMD of the second course	
+35:48		through the next-to-last course is equal	
+35:51		to the DMD of the preceding course plus	
+35:55		the departure of the preceding course	
+35:58		plus the departure of the course itself	
+36:01		sounds good to me	
+36:03		algebraic signs must be considered	
+36:07		for the DMD of the last course is equal	
+36:11		to the departure of the last course with	
+36:14		the opposite sign 5 DM DS are run	
+36:19		clockwise hen when working with DMD s it	
+36:24		is best to set up a form to keep track	
+36:26		and see what you're doing the diagram	
+36:30		above shows this form the first column	
+36:35		is your line under this heading list are	
+36:41		listed in a column the lines of the	
+36:44		traverse a B C D etc the second column	
+36:49		is labeled latitude under this heading	
+36:52		list in the column the latitude for the	
+36:54		corresponding line opposite line a	
+36:57		b-list plus 70 for the latitude plus	
+37:02		because it is headed northerly for line	
+37:04		C D minus 30 because it is heading	
+37:09		heading southerly the third column	
+37:12		labeled departure under this heading	
+37:15		listing column the departure for the	
+37:17		corresponding line opposite line a	
+37:20		b-list plus 35 for the departure plus	
+37:24		because it is heading easterly for line	
+37:27		EF minus because it is heading westerly	
+37:33		the fourth column lists DM d under this	
+37:40		heading listing column the DM d for the	
+37:43		corresponding line the fifth column is	
+37:49		square feet or double area under this	
+37:53		air heading you will have two columns	
+37:56		plus and a minus under the appropriate	
+37:59		column plus or minus lists the double	
+38:02		area for the corresponding line ok turn	
+38:07		off the video use using the information	
+38:10		in your workbook determine the area of	
+38:12		the parcel and then turn us back on for	
+38:14		a review	
+38:22		by the DMD method the area of the parcel	
+38:26		is 43,000 325 square feet let's review	
+38:31		the procedure the DMD of line a B is	
+38:36		plus 35 by rule number 2 the double area	
+38:42		is the latitude of a be plus 70 times	
+38:46		the DMD plus 35 or plus 20 450 the DMD	
+38:53		of line BC is plus 35 DMD first line	
+38:59		plus plus 35 departure first line plus	
+39:05		5 departure of the line itself this	
+39:11		equals plus one six five the double area	
+39:17		is the latitude of the BC of BC plus 40	
+39:22		times the DMD plus 165 or plus 60 600	
+39:30		proceed through the Travers in this same	
+39:33		manner watching the signs then add the	
+39:37		pluses of the double areas and all the	
+39:39		minuses of the W double areas take the	
+39:42		algebraic difference and divide by 2	
+39:45		and you have your square feet you will	
+39:49		note that all the answers for all three	
+39:52		coordinate methods came out the same 40	
+39:57		325 square feet so it really doesn't	
+40:01		matter which system we use of	
+40:03		coordinates they're all as equally	
+40:07		accurate so when we always want to use	
+40:10		the simplest one that we can now we're	
+40:16		going to get into the area of volumes	
+40:19		first we'll define volume it is the	
+40:22		amount of material occupying a certain	
+40:26		space measured in cubic units of inches	
+40:29		feet or yards	
+40:32		now the geometric figures and volumes	
+40:35		volume formulas will see these figures	
+40:39		and formulas appear in the appendix H -	
+40:43		 + H - 2 of the Caltrans	
+40:47		survey manual this diagram shows a	
+40:51		parallel o pipette a six-sided solid all	
+40:56		sides of parallelograms and the opposite	
+40:59		sides of parallel a right rectangular	
+41:03		prism a parallelepiped agrees for either	
+41:11		of these two figures the volume is	
+41:14		calculated by multiplying the base times	
+41:18		B times H where B equals the area of the	
+41:22		base and H the height this diagram shows	
+41:29		a prism a solid whose two ends are	
+41:32		parallel similar and equal and whose	
+41:36		sides are parallelogram the next diagram	
+41:42		shows a prison a solid whose two ends	
+41:45		are parallel similar and equal and whose	
+41:49		sides are parallelograms a	
+41:52		parallelepiped is a prism my god I think	
+41:55		I finally pronounced it right the volume	
+41:58		of a prism is calculated by taking the	
+42:01		area of the base times the height here	
+42:08		we have a practical application of	
+42:10		computing volume this drawing represents	
+42:13		a section of proposed roadway the	
+42:18		centerline of the roadway is shown and	
+42:20		cross-sections at two stations a1 and a2	
+42:23		are also shown to compute the volume in	
+42:28		cubic yards we would calculate the area	
+42:31		of the cross sections in square feet by	
+42:34		a method discussed in the area segment	
+42:36		of this presentation the method	
+42:41		typically used is the coordinate method	
+42:44		the coordinate method formula given	
+42:46		previously can be adapted by	
+42:48		substituting offset distances and	
+42:51		elevations or cuts and fills for the	
+42:54		northings and eastings for all of the	
+42:56		points on the session that define the	
+42:59		polygon add the two cross section areas	
+43:04		and divide by two to get the average end	
+43:07		area next multiply the distance along	
+43:11		the centerline between the two cross	
+43:14		sections to get the volume in cubic feet	
+43:18		we then have to divide the cubic feet	
+43:21		volume by 27 to get the cubic yard value	
+43:25		now this represents the amount of	
+43:28		material in cubic yards that has to be	
+43:30		excavated	
+43:39		that concludes the presentation on areas	
+43:42		and volumes however I would like to take	
+43:45		a moment to talk to you about the LSI T	
+43:47		or LS examination whichever your taking	
+43:50		I would urge you to solve problems that	
+43:56		with areas or volumes in them because	
+44:00		they are a very economical way of	
+44:03		accruing points	
+44:04		I say economical meaning the time	
+44:07		expended for the amount of points given	
+44:10		the one thing you must know is that are	
+44:13		the formulas and also recognize the	
+44:16		problem for what it is and what formulas	
+44:18		you have to use to solve it above all	
+44:21		else	
+44:22		you must be accurate in your	
+44:24		calculations because this is the exact	
+44:28		science portion of surveys rather than	
+44:32		the art so in any of your endeavors in	
+44:35		the LS or lsit I wish you the very best	
+44:39		of luck	
+44:48		you	
+45:00		you 	

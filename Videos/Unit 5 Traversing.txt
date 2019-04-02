@@ -1,0 +1,1361 @@
+00:49		welcome to Caltrans lsit LS exam	
+00:53		preparation course one aid in your	
+00:56		preparation for California licensure	
+00:58		examinations or word of caution don't	
+01:02		use this course as your only preparation	
+01:04		devise and follow a regular schedule of	
+01:08		study which begins months before the	
+01:10		test what many problems in each area not	
+01:14		just those in this courses workbook but	
+01:17		problems from other sources as well	
+01:20		this course is funded by Caltrans but	
+01:23		you and I owe a profound thanks to	
+01:26		others the courses instructors from the	
+01:29		academic community the private sector	
+01:32		other public agencies and from Caltrans	
+01:35		as well we wish you well in your study	
+01:39		toward becoming a member of California's	
+01:41		professional land surveying community hi	
+01:45		my name is les Carter I'm an associate	
+01:48		land surveyor for the city of San Diego	
+01:49		and I've been a licensed land surveyor	
+01:51		in the state of California for the past	
+01:53		two years this section of the Caltrans	
+01:55		lsit LS review preparation video course	
+01:58		covers the basic principles of	
+02:01		traversing this video and the	
+02:03		accompanying workbook will provide you	
+02:04		with an overview of the subject of	
+02:06		performing survey traverses and will	
+02:08		help you identify further areas of study	
+02:10		traversing is an integral part of every	
+02:12		aspect of land surveying whether you are	
+02:15		surveying for sectionalized lands or to	
+02:17		establish horizontal control for	
+02:19		construction projects taking before	
+02:21		viewing the videotape I recommend that	
+02:24		you take the time to read the course	
+02:25		outline your surveying experience will	
+02:28		dictate at what point in the video you	
+02:29		will want to begin our review of	
+02:32		traversing will include obtaining and	
+02:34		adjusting angle and distance	
+02:35		measurements performing field and office	
+02:38		computations and a final adjustment of	
+02:40		the data after viewing the video and	
+02:43		working the self-test portion of the	
+02:45		workbook you'll you should have a	
+02:47		working knowledge of the following	
+02:48		topics related to traversing the key	
+02:51		terms used in traversing the various	
+02:54		purposes and applications for the	
+02:55		traverse the different types of	
+02:58		traverses	
+02:59		for angle and distance measurements	
+03:02		basis of bearings the different	
+03:05		reference datum for California	
+03:07		coordinate Lambert's coordinates the	
+03:10		standards of accuracy used to determine	
+03:11		the order of classifications for the	
+03:13		work being completed I want to emphasize	
+03:16		that this exam preparation will provide	
+03:19		you with an opportunity to review your	
+03:20		personal knowledge related to traversing	
+03:23		and help you identify areas of further	
+03:25		study I recommend that you take the time	
+03:28		to familiarize yourself with the key	
+03:30		terms and general topics that will be	
+03:32		covered I also recommend that after	
+03:34		viewing the video you should complete	
+03:37		each of the problems in the sample tests	
+03:38		questions section of the workbook if	
+03:40		there are problems in the workbook that	
+03:42		you have difficulty in solving continue	
+03:44		to study that topic using one or more of	
+03:47		the recommended references at the end of	
+03:49		the workbook there is no substitute for	
+03:51		thoroughly studying the material and	
+03:53		working practice problems if you make	
+03:56		the commitment to a disciplined well	
+03:58		organized comprehensive set schedule of	
+04:01		Stealth study you will be successful we	
+04:06		need to begin our review by forming a	
+04:08		definition of traversing Webster's	
+04:11		dictionary lists many definitions for	
+04:13		the term trevor's the one most familiar	
+04:15		is simply aligned surveyed across a plot	
+04:17		of ground this definition may be	
+04:20		adequate for the layperson but leaves	
+04:22		out many aspects for the surveyor will	
+04:24		use the following definition traversing	
+04:27		is a method of surveying in which the	
+04:30		lengths and directions of lines between	
+04:31		points on the earth are obtained by	
+04:33		field measurements and used in	
+04:35		determining points the positions of the	
+04:37		points by performing the Traverse and	
+04:40		related computations the surveyor	
+04:43		determines the relative positions of the	
+04:44		Traverse points and when the points are	
+04:46		referenced to control stations on a	
+04:48		specified datum the positions can be	
+04:50		referred to that Dedham examples of this	
+04:53		are geographic coordinates nad27 or	
+04:56		nad83 coordinates survey traverses are	
+04:59		classified in a variety of ways	
+05:01		according to methods used as in transit	
+05:04		and EDM Traverse according to the	
+05:06		quality of results as in second order	
+05:08		class one Traverse and according to the	
+05:11		purpose served	
+05:12		as in aerial control traverse for	
+05:14		photogrammetry Trevor surveys can be	
+05:17		defined in the following way	
+05:19		surveys are based on the historical	
+05:22		record and depending on the purpose of	
+05:24		the traverse the survey may require the	
+05:26		actual field measurements are performed	
+05:28		or the Traverse may be a mathematical	
+05:31		survey based solely on the record data	
+05:33		in either case the survey data is	
+05:36		related mathematically to a commonly	
+05:37		defined horizontal datum well	
+05:40		established surveying procedures and	
+05:41		legal rules are used to analyze evidence	
+05:44		uncovered by the survey and relate it to	
+05:46		the historical record each survey is	
+05:49		checked mathematically to discover and	
+05:51		eliminate blunders and distribute random	
+05:54		errors results of surveys are	
+05:56		incorporated into the historical record	
+05:58		in the form of field notes record Maps	
+06:00		legal descriptions and the survey	
+06:03		monuments that mark the locations of	
+06:04		property corners and rights-of-way	
+06:06		incident to the above record documents	
+06:08		as surveyors it is your primary	
+06:10		responsibility to keep this in mind when	
+06:12		performing the survey your work will	
+06:15		become part of that historical record	
+06:17		during this video presentation we will	
+06:19		review various Traverse activities and	
+06:21		discuss the definitions of many keywords	
+06:24		and phrases related to performing the	
+06:26		Traverse both the student and the	
+06:28		practicing surveyor must be familiar	
+06:30		with the vernacular of surveying some	
+06:33		examples are closed figure traverse	
+06:36		radial Traverse Zenith angle instrument	
+06:41		collimation precision and accuracy basis	
+06:46		of bearings grid distance combination	
+06:51		factor some of these terms may be new to	
+06:54		you like you whenever I encounter new	
+06:57		words or phrases I am compelled to	
+07:00		pursue an understanding of their meaning	
+07:01		and usage if you hear words or terms	
+07:04		that are not familiar to you I recommend	
+07:06		that you note them and review the	
+07:09		references in the bibliography the	
+07:11		manual of surveying terms and	
+07:12		definitions published by the American	
+07:14		Congress of surveying and mapping is an	
+07:16		excellent reference traverses are	
+07:20		performed for many reasons and simply	
+07:22		stated the primary purpose of traversing	
+07:25		is	
+07:26		to calculate search for establish and or	
+07:29		extend survey control to determine the	
+07:31		position of points on the surface of the	
+07:32		earth these points may be horizontal	
+07:35		control points that are part of a	
+07:37		high-precision geodetic network or they	
+07:39		may be construction stakes that mark the	
+07:41		location of the improvements in a	
+07:43		subdivision	
+07:43		however traverses may also be purely	
+07:46		mathematical that is Traverse	
+07:49		calculations based solely on record data	
+07:59		traversing is and will remain a	
+08:01		convenient efficient method of	
+08:02		establishing control points for a	
+08:03		variety of surveying activity examples	
+08:06		of this are establishing survey control	
+08:10		for construction projects aerial surveys	
+08:13		hydrographic surveys and boundary or	
+08:16		ordered control surveys also the	
+08:19		calculation of D closures Improvement	
+08:22		Plan checks subdivisions parcel Maps	
+08:24		records of survey and rights-of-way	
+08:27		drawings another example of survey	
+08:32		Traverse is the establishment of control	
+08:34		for construction staking on these types	
+08:37		of surveys the random control points are	
+08:39		Traverse stations are usually located on	
+08:42		or near the area in locations that	
+08:45		provide safety and convenience for the	
+08:47		surveyor the majority of mapping done	
+08:52		today is accomplished by aerial	
+08:53		photogrammetry when photographic methods	
+08:56		require the establishment of	
+08:57		registration points which are more	
+08:59		commonly referred to as aerial control	
+09:01		points these ground control points have	
+09:04		coordinate and elevation values and	
+09:06		provide the reference datum for the	
+09:08		photogrammetry this enables the	
+09:10		photogrammetry to generate horizontal	
+09:12		and vertical coordinate values on any	
+09:14		topographic feature within a stereo	
+09:15		model the foundation for the relative	
+09:18		accuracy of the photogrammetry still	
+09:20		mapping files is the horizontal and	
+09:23		vertical control established by the	
+09:25		surveyor in the field it is essential	
+09:28		that the surveyor identify the	
+09:29		appropriate accuracy for the survey and	
+09:32		adhere to accepted standards when	
+09:34		performing the work the surveyor is	
+09:37		responsible for this determining the	
+09:39		appropriate act	
+09:39		to satisfy the requirements of the	
+09:41		survey and balance these needs with the	
+09:43		economic realities of the project as we	
+09:48		discussed earlier the primary purpose of	
+09:50		each type of survey is to establish	
+09:51		extend or perpetuate the survey control	
+09:54		for the project in question it is	
+09:56		therefore essential at the character	
+09:58		that is the description of the monuments	
+10:00		be clear and adequately documented this	
+10:03		will ensure that future surveyors are	
+10:04		able to identify any found monuments and	
+10:06		thereby continue the chain of history of	
+10:09		how they were set and completing our	
+10:12		review of the various purposes and	
+10:13		applications of traverses we can observe	
+10:15		the following advantages traversing	
+10:19		provides a flexible efficient method for	
+10:21		establishing survey control for a wide	
+10:23		range of surveying activity it requires	
+10:25		a minimum of reconnaissance in planning	
+10:27		the survey and is easily adaptable to	
+10:29		varying field conditions in our review	
+10:33		of the various purposes of traverses we	
+10:36		noted that each survey must satisfy the	
+10:38		specific needs for establishing control	
+10:40		in the given project area and given the	
+10:43		specific project requirements contract	
+10:45		constraints for time and the	
+10:47		availability of personnel and equipment	
+10:49		the surveyor must determine the best	
+10:51		type of Traverse to accomplish this the	
+10:54		various types of traverses are the	
+10:57		closed figure traverse the closed linear	
+11:00		traverse the open or continuous traverse	
+11:04		and radial surveys for each type of	
+11:08		traverse it is presumed that the control	
+11:10		stations are compatible that is that the	
+11:12		points are established on the same datum	
+11:16		the closed figure Trevor starts and ends	
+11:19		at the same point the benefits of a	
+11:22		closed figure Traverse are angle and	
+11:24		distance measurements are easily	
+11:25		adjusted by computations to minimize the	
+11:27		effect of random errors also mistakes	
+11:30		and blunders can be readily detected by	
+11:32		review of the raw data computations and	
+11:35		resultant values it is important to note	
+11:38		that systematic errors should have been	
+11:39		minimized prior to performing the field	
+11:41		survey by checking and adjusting the	
+11:43		instruments random errors can be	
+11:45		distributed by adjustment the closed	
+11:50		linear traverse starts and ends at	
+11:52		different points of known	
+11:53		you and normally includes a closed	
+11:55		station azmuth marked for angular	
+11:57		closure when no azmuth mark is available	
+12:00		the determining factor to the accuracy	
+12:02		of the survey is the positional error of	
+12:05		closure the open or continuous Traverse	
+12:12		starts at known or assumed coordinates	
+12:13		but does not close on a known value open	
+12:19		traverses do not provide checks for	
+12:21		blunders or the opportunity to	
+12:23		distribute errors in the fieldwork and	
+12:25		for this reason are not recommended for	
+12:27		most survey projects an open traverse	
+12:32		can be useful when it is not necessary	
+12:34		to generate accurate coordinates of the	
+12:36		points being located and even though the	
+12:38		open traverse is not recommended when	
+12:41		the surveyor follows standard guidelines	
+12:42		that is turning sets of angles to the	
+12:44		Traverse stations checking the observed	
+12:46		distances he or she can be assured	
+12:49		results commensurate with the precision	
+12:51		of the equipment being used and of the	
+12:53		relative accuracy will for the project	
+12:55		the radial Traverse is something of an	
+12:59		oxymoron in that making radial ties to	
+13:02		eccentric points is not of itself	
+13:04		traversing the following is an example	
+13:06		of a radial trevor's a set of field	
+13:10		observations obtained from a single	
+13:12		Trevor station which locates the	
+13:14		eccentric Trevor stations is used often	
+13:17		referred to as a radial Traverse in the	
+13:20		example we observe that to found	
+13:22		monuments are used for the basis of	
+13:24		bearings and coordinates station a1 was	
+13:27		set from station a and the remaining	
+13:29		radial ties and asmath checks are made	
+13:32		it is important to note that field ties	
+13:34		performed in this manner are subject to	
+13:37		blunders that might not be caught and it	
+13:39		is essential to incorporate asmath and	
+13:41		distance checks whenever possible this	
+13:45		method is most helpful when used where	
+13:47		the surrounding area is open with few	
+13:49		restrictions to the line of sight the	
+13:51		radial survey method of locating points	
+13:53		is also referred to as side shooting and	
+13:56		is used frequently in performing	
+13:57		topographic surveys any boundary ties	
+14:02		made in this manner must be checked	
+14:03		against the record data and their	
+14:05		relationship to other located	
+14:07		calculated points the positions of	
+14:09		control used point positions of control	
+14:12		points located from radial surveys	
+14:14		cannot be adjusted unless filled ties	
+14:17		are made from two Traverse stations in	
+14:20		the following example we can see that	
+14:23		when radial survey is performed	
+14:24		additional cross ties for angle and/or	
+14:27		distance can be added to strengthen the	
+14:29		correlation of the measurements and	
+14:30		facilitate adjustment of random errors	
+14:33		this is referred to as building a survey	
+14:35		Network cross ties and additional	
+14:38		measurements made in a network like the	
+14:40		one shown provide the redundancy needed	
+14:44		for least squares adjustments in	
+14:47		completing our review of the various	
+14:49		types of traverses it is apparent that	
+14:51		for each survey there are many options	
+14:52		for the types of traverses and/or	
+14:55		combinations of traverses the surveyor	
+14:57		can choose from our next topic is angle	
+15:02		and distance measurement the precision	
+15:05		of modern surveying instruments makes it	
+15:07		possible to obtain consistently precise	
+15:09		field measurements however it is often	
+15:11		taken for granted that the instruments	
+15:13		are in proper adjustment whether you are	
+15:16		using a theodolite and EDM or total	
+15:18		station it is essential that you	
+15:20		regularly check for calibration and	
+15:22		collimation adjustment this should also	
+15:25		include all equipment that affects the	
+15:27		observation data such as prism poles	
+15:29		Tribe racks and optical plummets there	
+15:32		are several methods for determining	
+15:34		Traverse angles angles can be read by	
+15:37		deflection and determining deflection	
+15:41		angles to the right or left the	
+15:42		instrument operator will orient the	
+15:44		horizontal circle on the backside plunge	
+15:46		or flop the scope and then observe and	
+15:48		record the right or left deflection	
+15:50		angle in the example you will note that	
+15:53		the instrument orientation is the	
+15:54		direction from point A to point B more	
+15:59		commonly angles are measured directly to	
+16:01		the right or left either with the	
+16:02		repeating method or the direction method	
+16:04		the repeating method utilizes the	
+16:06		horizontal circle to collect the	
+16:07		summation of repeated angle measurements	
+16:09		the observed angle is the mean of the	
+16:11		several readings for observing the right	
+16:14		or left direction angles the horizontal	
+16:16		circle of the instrument is set to	
+16:17		approximate zero on the backside this	
+16:19		backside orientation	
+16:21		recorded and the scope is then turned to	
+16:23		the foresight and a direct reading taken	
+16:24		and recorded the scope is plunged and a	
+16:27		reverse reading is taken on the back	
+16:28		sight and the foresight the observed	
+16:31		angle is the average of the difference	
+16:32		between the foresight and back sight	
+16:34		readings for both the direct and reverse	
+16:35		position of the scope and traversing we	
+16:39		must determine our angular error of	
+16:41		closure to facilitate this in a closed	
+16:43		figure traverse the sum of the angles is	
+16:46		checked for mathematical closure	
+16:48		depending on the surveyors preference	
+16:50		the angles can be turned and recorded as	
+16:53		internal or external angles normally the	
+16:56		Traverse angles are observed as angles	
+16:58		right and the procedures for observing	
+17:01		and recording direct angles are used	
+17:03		angles may also be in the form of direct	
+17:06		Asmus the horizontal circle is oriented	
+17:10		on the backside with the record or	
+17:12		calculated asmath between the instrument	
+17:14		station and the backside station any	
+17:17		direct readings from the horizontal	
+17:18		circle are then direct as myths a method	
+17:23		of determining direction that is seldom	
+17:24		used today but may be useful is	
+17:26		determining the direction of a line by	
+17:28		magnetic bearing there are numerous	
+17:34		types of surveying equipment available	
+17:36		today that enable the surveyor to	
+17:37		determine highly accurate angle and	
+17:40		distance measurements for the majority	
+17:42		of control traverses performed today an	
+17:44		EDM is used errors that can adversely	
+17:47		affect EDM distant distances such as	
+17:50		incorrect parts-per-million Corrections	
+17:52		and correct prism constants and	
+17:54		instrument setup or optical plummet	
+17:56		errors can be eliminated by the use of	
+17:59		standard procedures for instrument setup	
+18:01		there are many references available for	
+18:04		the student who wishes to develop his or	
+18:05		her personal background of the various	
+18:07		surveying equipment for observing and	
+18:09		recording angle and distance information	
+18:11		the Caltrans surveys manual chapter 5	
+18:13		sections 1 and 2 provides an excellent	
+18:16		reference for further study in this area	
+18:18		it is also important for the student and	
+18:21		practicing surveyor to be aware of the	
+18:22		need for being proficient in	
+18:24		calculations and feet and meters	
+18:31		our next section is basis of bearings	
+18:35		for every survey the surveyor must	
+18:38		establish or assume a meridian this is a	
+18:40		quote from evidence and procedure by	
+18:42		Brown Robillard and Wilson by this brief	
+18:45		statement the authors have acknowledged	
+18:47		the significance of the basis of bearing	
+18:48		as the primary reference for the survey	
+18:51		the basis of bearings can be either a	
+18:53		reference to a previously recorded map	
+18:55		derived from direct astronomical	
+18:58		observation obtained from calculations	
+19:01		based on published geodetic or state	
+19:03		plane coordinate values or when	
+19:05		appropriate determined by magnetic	
+19:06		observation in either case the surveyor	
+19:09		must place an appropriate note on the	
+19:11		plat to explain how the basis of bearing	
+19:13		was determined for the majority of field	
+19:16		surveys a record bearing between found	
+19:19		monuments which were set for a	
+19:21		subdivision map parcel map or record of	
+19:23		survey is the most commonly used basis	
+19:26		of bearing in the following example we	
+19:28		see that two found points of record are	
+19:31		required however when control stations	
+19:33		are not within the immediate project	
+19:35		area determining a basis of bearings by	
+19:37		astronomical observations should always	
+19:39		be considered a viable option the two	
+19:42		monuments could represent an ad	
+19:43		eighty-three station for the instrument	
+19:45		setup and the azimuth mark could be the	
+19:48		Sun if the survey covers a large area	
+19:52		many record maps and adjacent deeds may	
+19:54		be involved that can have different	
+19:56		basis of bearings in this case it is	
+19:58		necessary to reconcile these differences	
+20:00		the principle that must be applied is to	
+20:03		maintain the record angular	
+20:04		relationships that is the record	
+20:06		geometry between the various record map	
+20:09		boundaries in our example the boundary	
+20:16		of track 1-2-3 differs from track four	
+20:18		five six by fifteen minutes	
+20:20		the reason for this is that the maps had	
+20:23		different basis of bearings to hold our	
+20:26		basis of bearings per tract one two	
+20:29		three	
+20:29		we must rotate the bearings of track	
+20:31		four five six clockwise by fifteen	
+20:34		minutes	
+20:34		by doing this we will generate competi	
+20:37		bearings and maintain the record angular	
+20:40		relationships within map four five six	
+20:45		if an inverse from coordinates of	
+20:48		published control points is used to	
+20:50		generate a basis of bearings for the	
+20:52		survey the surveyor must show the datum	
+20:54		that is whether this is nad27 or nad83	
+20:57		and how the survey was tied to the	
+20:59		coordinate basis also the surveyor must	
+21:02		show the mapping or convergence angles	
+21:04		today it is simple for the practicing	
+21:07		surveyor to determine the true asmath	
+21:08		from observations on the Sun or stars	
+21:10		the calculations are based on plane and	
+21:13		spherical trigonometry and utilize	
+21:15		tables and formula published annually in	
+21:17		ephemeris available from various firms	
+21:19		specifically for surveying applications	
+21:23		while magnetic bearing orientation is	
+21:25		not often used it is an excellent tool	
+21:28		for approximating directions one example	
+21:31		of this is foresight reconnaissance in	
+21:32		remote locations another would be to	
+21:35		follow in the footsteps of the original	
+21:36		surveyor when retracing government notes	
+21:43		our discussion of coordinates will be a	
+21:46		brief review of the general differences	
+21:48		in coordinate dadums and will focus	
+21:50		primarily on a computation of nad83	
+21:52		station coordinates of Traverse points	
+21:54		Lambrecht coordinate computations are	
+21:56		covered in depth in another module of	
+21:58		the training video the North American	
+22:01		datum of 1927 was established by the US	
+22:04		coast and geodetic survey and was based	
+22:07		on the Clarke spheroid of 1866 the point	
+22:10		of origin was Point Meads Rantz Kansas	
+22:12		nad27 the North American datum of 1983	
+22:17		has been established by the National	
+22:19		geodetic survey and is based on the	
+22:22		center of ellipsoid of the earth as	
+22:23		established by the geodetic reference	
+22:25		system of 1984 section 80 801 of the	
+22:29		public resources code of the state of	
+22:31		California after January 1st 1995 all	
+22:35		state plane coordinates generated after	
+22:37		this date must be referenced to the	
+22:39		nad83 data	
+22:45		our next topic topics are precision and	
+22:49		accuracy these two topics are the	
+22:51		subject of much misunderstanding and the	
+22:53		surveying community and our review will	
+22:56		probably generate further discussion it	
+22:59		is important to note that while the	
+23:00		error of closure of a traverse may	
+23:02		indicate a high measure of precision it	
+23:04		may have little if any relationship to	
+23:06		the accuracy of the survey this is	
+23:09		because the accuracy of your survey is	
+23:11		attained at all points along the	
+23:13		traverse the term precision is	
+23:16		traditionally applied to methods and	
+23:17		equipment used in attaining results of a	
+23:19		high order of accuracy an example of	
+23:22		this would be that many optical and	
+23:23		digital field lights are capable of	
+23:25		displaying readings to the second but	
+23:28		these instruments have varying precision	
+23:29		tolerances while some are rated at plus	
+23:32		or minus one second others are rated at	
+23:34		plus or minus five seconds this is	
+23:36		because the seconds are doubtful to	
+23:38		within the range of precision specified	
+23:40		all surveys must be performed with a	
+23:42		degree of precision which ensures that	
+23:44		the required accuracy is attained in	
+23:47		addition to conforming to the applicable	
+23:50		standards of precision and accuracy	
+23:51		field surveys which are to be classified	
+23:54		as ordered must used field procedures	
+23:57		that meet or exceed the requirements for	
+23:59		the specified classification	
+24:01		measurements and results should be	
+24:03		stated in terms that reflect the	
+24:04		precision used to maintain to attain the	
+24:07		results a logical but not always valid	
+24:09		assumption is that with modern surveying	
+24:12		technology angle and distance	
+24:14		measurements are made with the same	
+24:15		precision in the following example we	
+24:19		see a graphic representation of	
+24:20		precision precision refers to the	
+24:24		closeness to one another of a set of	
+24:27		repeated observations precision is	
+24:29		observed when a set of measurements are	
+24:31		very closely grouped however as shown in	
+24:34		our example while meeting prescribed	
+24:36		standards of precision these closely	
+24:39		grouped observations may not reflect an	
+24:41		accurate value of the quantity being	
+24:43		observed precision can also be described	
+24:47		as the quality and consistency that is	
+24:50		the refinement of the methods and the	
+24:52		equipment used to obtain to obtain the	
+24:55		raw field data	
+24:59		accuracy while precision is defined as a	
+25:03		measure of the closeness of a set of	
+25:05		repeated measurements to each other	
+25:07		accuracy is the nearness of a given	
+25:10		observation to the true value examples	
+25:13		of accuracy standards are an exact value	
+25:16		such as the sum of three angles of a	
+25:18		plane triangle equals 180 degrees or an	
+25:22		established value for a unit of measure	
+25:24		such as one mile contains exactly 5,280	
+25:27		feet a value that has been determined by	
+25:31		established procedures and thereby	
+25:33		observed to be of suitable accuracy to	
+25:36		be used as control for comparison of	
+25:39		subsequently computed values is also a	
+25:41		standard of accuracy in the following	
+25:45		example we can see that the measurements	
+25:48		are closely grouped and are also very	
+25:51		near the true value many factors affect	
+25:56		accuracy	
+25:57		these include instrument precision field	
+26:00		procedures and environmental factors	
+26:02		earlier we reviewed how poor instrument	
+26:05		adjustment also adversely affects the	
+26:07		accuracy of field data when equipment of	
+26:10		the necessary precision is used and	
+26:12		appropriate procedures are adhered to	
+26:14		the results of the field survey	
+26:16		traverses can be consistently achieved	
+26:18		at the desired levels of accuracy	
+26:21		accuracy can be further defined as the	
+26:24		measure of quality of the results	
+26:26		obtained when performing field traverses	
+26:28		the two primary observable quantities	
+26:31		that determine accuracy of a trevor's	
+26:33		are the angle and distance closures	
+26:36		while the advances in technology of	
+26:39		today's surveying equipment make it	
+26:40		possible to obtain consistently precise	
+26:43		distance measurements far exceeding	
+26:45		those of twenty years ago it is	
+26:47		important to understand that without	
+26:49		adhering to sound surveying procedure	
+26:51		you may have a very precise data and	
+26:54		very inaccurate results the following	
+26:58		slide which is a table of allowable	
+27:00		horizontal and angular error by order of	
+27:02		survey is an example of this	
+27:08		in the example we can see that if you	
+27:11		want to achieve first order accuracy you	
+27:14		must follow the specified procedure and	
+27:16		use an instrument that is able to	
+27:17		redirect to two tenths of a second you	
+27:21		must turn 16 cents of horizontal angles	
+27:23		also the standards specify a rejection	
+27:26		limit of 4 seconds this means that no	
+27:28		one set of angles can exceed 4 seconds	
+27:31		of angular deviation from the mean of	
+27:33		the angles for the set the manual of	
+27:36		surveying terms and definitions	
+27:37		published by the American Congress of	
+27:39		surveying and mapping is an excellent	
+27:41		reference for the student and practicing	
+27:43		surveyor and should be viewed as an	
+27:45		essential reference our next topic will	
+27:49		be the types of errors in traversing	
+27:51		systematic errors given the same set of	
+27:55		conditions systematic errors occur as a	
+27:57		constant quantity follow a definable	
+28:00		pattern and have the same algebraic sign	
+28:03		systematic errors can be minimized by	
+28:05		following sound surveying procedures and	
+28:08		once detected systematic errors can be	
+28:11		applied as an adjustment to a given set	
+28:13		of measurements systematic errors occur	
+28:20		and once detected systematic errors can	
+28:24		be applied as an adjustment to the given	
+28:26		set of measurements systematic errors	
+28:30		can be caused by the observer as in the	
+28:33		case of the instrument operator not	
+28:35		setting the correct Park	
+28:36		parts-per-million	
+28:37		or prism constants subsequent	
+28:40		measurements would be effected	
+28:41		consistently by the incorrect settings	
+28:43		or by the equipment as in the case of a	
+28:47		theodolite try brac and optical plummet	
+28:50		that is out of adjustment in this case	
+28:52		each instrument setup is subject to have	
+28:54		a position error equal to the radius of	
+28:56		the plummet error which will be	
+28:58		dependent on the height of the	
+28:59		instrument the instrument collimation	
+29:02		error is another type of systematic	
+29:04		error and is normally accounted for by	
+29:06		the averaging of direct and reverse	
+29:08		observations of horizontal and vertical	
+29:10		angles detecting and minimizing	
+29:13		systematic errors can be extremely	
+29:15		difficult it is therefore essential as a	
+29:17		surveyor be able to recognize	
+29:19		deficiencies and the field procedure	
+29:21		and or equipment that may cause these	
+29:24		errors to ensure confidence that your	
+29:27		results will be consistent a good rule	
+29:29		of thumb is to verify and document	
+29:31		instrument adjustment at least every	
+29:33		three months accidental and random	
+29:39		errors do not always follow a fixed	
+29:41		pattern in response to the conditions or	
+29:43		circumstances of performing the survey	
+29:46		examples of this are small compensating	
+29:48		errors such as estimating between the	
+29:50		marks on a tape or not setting up	
+29:53		exactly over the point it is important	
+29:55		to understand that these errors can be	
+29:58		minimized but never completely	
+29:59		eliminated blunders are human mistakes	
+30:04		and as such are not defined as errors	
+30:07		unless the erroneous data becomes a part	
+30:09		of the historical record and is	
+30:11		subsequently used for reference or in	
+30:13		computations examples of blunders	
+30:16		include transposition of numbers	
+30:18		neglecting to level the instrument	
+30:20		missed understanding another survey crew	
+30:22		member and writing down the wrong number	
+30:25		blunders our surveyors worst enemy but	
+30:28		they can be detected and eliminated by	
+30:31		following sound procedures by this I'm	
+30:38		simply referring to being alert making	
+30:41		checks on the observation and	
+30:43		measurement data and we're possible	
+30:49		reviewing the work of other crew members	
+30:54		our previous review of the types of	
+30:57		errors and traversing focus primarily on	
+30:58		the angle and distance data necessary to	
+31:01		perform the traverse computations	
+31:03		another area of potential error and one	
+31:06		particularly pertinent to the lsit or LS	
+31:08		exam is the reference material that may	
+31:11		be used to supplement the field data	
+31:13		such as a record maps rights-of-way	
+31:15		drawings and/or deed documents I should	
+31:18		include in this other surveyors notes as	
+31:21		surveyors and professionals we refer to	
+31:24		the work of other surveyors but we may	
+31:26		not want to rely on it without	
+31:27		evaluating its correctness for the exam	
+31:30		and for your surveying career in general	
+31:33		you will always want to review the data	
+31:35		you are provided and attempt to identify	
+31:37		any obvious conditions that will affect	
+31:39		your computations if you are given a map	
+31:42		deed or other parcel description you	
+31:45		should form the habit of reviewing the	
+31:47		data from an analytical perspective and	
+31:49		by this I mean that you should subject	
+31:50		any information you receive to a certain	
+31:52		critical analysis by following this	
+31:56		approach in all phases of research and	
+31:59		calculations you will ensure that your	
+32:01		solution will be baked based on correct	
+32:03		information we have reviewed topics	
+32:10		relative to generating the raw field	
+32:11		data the remaining portion of the video	
+32:14		will focus on the areas of computations	
+32:16		and Traverse adjustments there are three	
+32:19		primary areas of activity related to	
+32:21		performing Traverse computations these	
+32:23		are generating the raw field data	
+32:28		processing the raw data to adjust for	
+32:31		systematic errors such as incorrect tape	
+32:35		Corrections in correct temperature	
+32:36		Corrections when taping another example	
+32:40		is to distribute random error and	
+32:42		identify blunders and finally performing	
+32:47		coordinate computations to determine	
+32:48		final Traverse stations positions we	
+32:53		have reviewed the first two topics as	
+32:55		Lambrecht coordinate computations are	
+32:57		covered in depth in another module of	
+32:59		the training video we will not review	
+33:02		these at length however because the	
+33:05		calculations of coordinates is an	
+33:07		essential aspect of performing the	
+33:09		Traverse we will review the basic	
+33:10		concepts used in calculating coordinates	
+33:14		on the exam you will be required to know	
+33:17		how to determine the following grid or	
+33:20		geodetic asmath the convergence or	
+33:23		mapping angle reduction to sea level or	
+33:26		elevation factor and the combination	
+33:29		factor which is the sea level factor x	
+33:31		scale factor	
+33:36		I recommend that you devote adequate	
+33:38		study time to each of these areas they	
+33:40		are an integral part of performing the	
+33:42		Traverse and associated calculations the	
+33:47		first step in Traverse calculations is	
+33:49		to balance the field angles you must	
+33:51		adjust the angles proportionately to	
+33:53		eliminate the angular error of closure	
+33:55		this is part of the standard methodology	
+33:57		of calculating Trevor stationed	
+33:59		coordinates and Traverse closure using	
+34:01		Ennis in our example the compass	
+34:04		adjustment method the following	
+34:06		conditions equations apply to closed	
+34:09		figure traverses the sum of interior	
+34:13		angles of a Traverse must equal the	
+34:16		number of sides minus 2 times 180	
+34:19		degrees or when the exterior angles have	
+34:24		been observed the formula is in plus 2	
+34:27		times 180 degrees an example of this	
+34:32		would be what is the sum of the interior	
+34:35		angles in a traverse of five sides the	
+34:40		answer would be 540 degrees in the case	
+34:45		of a closed linear Traverse the observed	
+34:47		angular miss close as determined by the	
+34:50		computed check asmath on the closed	
+34:52		station for site or azimuth mark would	
+34:55		be proportioned equally to each of the	
+34:56		Traverse station angles we will begin	
+35:02		our review of distance measurements by	
+35:04		acknowledging that presently the United	
+35:06		States uses the foot standard for	
+35:08		measurements the future trend is towards	
+35:10		the meter standard it is therefore	
+35:13		essential that the student and	
+35:14		practicing land surveyor developed	
+35:16		precision proficiency and foot and meter	
+35:18		conversions the following formulas	
+35:21		reflect the basic conversion factors	
+35:23		used to convert u.s. survey feet to	
+35:25		meters and/or meters to feet to obtain a	
+35:30		relationship between meters and feet we	
+35:32		observe the relationship in inches and	
+35:34		compute the following constant to	
+35:37		convert u.s. survey feet to meters	
+35:39		multiply the distance in feet by the	
+35:41		derived constant to convert meters to	
+35:46		u.s. survey feet multiply the distance	
+35:48		in meters	
+35:49		derive constant presently NGS publishes	
+35:55		all California coordinate nad83 control	
+35:59		station data and meters and the state	
+36:02		plane coordinate system of nad83	
+36:03		is defined in meters it is likely that	
+36:07		you will see a problem on the exam that	
+36:09		will require you be proficient at making	
+36:11		the conversion when calculating	
+36:16		coordinates the distance must be grid	
+36:18		distance to obtain grid distances it is	
+36:21		necessary to apply the sea-level	
+36:24		reduction to sea level and the	
+36:27		projection scale factor to horizontal	
+36:29		distances before using the distances and	
+36:31		calculations of Lambert coordinates	
+36:33		normally these adjustments are expressed	
+36:35		in a single term known as the	
+36:36		combination factor currently the	
+36:43		computation of latitudes and departures	
+36:45		is seldom required for surveying	
+36:46		applications however there are instances	
+36:48		where being able to compute station	
+36:50		coordinates using this method may prove	
+36:52		beneficial you should be familiar with	
+36:55		the following formulas the latitude of a	
+36:59		line is equal to the cosine of the	
+37:01		bearing times the length of the course	
+37:04		the departure of a line is equal to the	
+37:07		sine of the bearing times the length of	
+37:08		the course it is also necessary to keep	
+37:13		track of the algebraic sign of the	
+37:15		quadrant the bearing is in	
+37:22		the tangent of the bearing is the	
+37:26		departure divided by the latitude which	
+37:29		can also be stated as the tangent of the	
+37:31		bearing equals the difference in	
+37:33		eastings divided by the difference in	
+37:35		northings the length of a line can then	
+37:42		be determined by the following formula	
+37:44		the length of a line equals the square	
+37:47		root of the difference of the easting	
+37:49		squared plus the difference in the	
+37:51		northern squared developing and	
+37:56		maintaining a sound understanding of	
+37:57		these fundamental concepts will provide	
+37:59		you with a better foundation for passing	
+38:01		the exam it is important to note that	
+38:03		while a calculator PC will provide an	
+38:05		answer and will certainly do so very	
+38:06		quickly to as many decimal places as you	
+38:09		can display it will be your knowledge of	
+38:12		fundamental geometric relationships and	
+38:14		trigonometric functions that will enable	
+38:16		you to observe whether your answer	
+38:17		appears correct that is is the value in	
+38:21		the correct quadrant as a surveyor you	
+38:25		must develop an analytical perspective	
+38:26		that will enable you to always be on	
+38:29		guard for results that simply don't look	
+38:31		right with the use of program	
+38:35		programmable handheld calculators to	
+38:37		generate coordinates that would seem to	
+38:39		be no need for being proficient at	
+38:41		longhand computation to generate	
+38:43		coordinates even so there are times from	
+38:45		being able to perform these computations	
+38:47		is helpful if not necessary while there	
+38:53		is little likelihood of your being	
+38:55		required to do longhand latitude and	
+38:57		departure computations in practice for	
+38:59		the exam the possibility does exist and	
+39:02		certainly it is better to be prepared	
+39:03		the following is an example of a	
+39:06		straightforward cookbook method of	
+39:07		calculating and adjusting a Traverse	
+39:09		using latitudes and departures in the	
+39:12		following example we observe a closed	
+39:14		linear Traverse with three sides you can	
+39:18		presume that all angles shown have been	
+39:20		reviewed and correctly represent the	
+39:22		field observations but have not been	
+39:24		adjusted and all distances shown have	
+39:27		been reduced to grid distances note that	
+39:29		at point one the closing angle was	
+39:32		turned from point three back	
+39:34		in 2.11 this provides a check on the	
+39:37		angular closure for the traverse and is	
+39:39		necessary for the angles to be correctly	
+39:41		adjusted often in interest of time	
+39:46		position closure is calculated while the	
+39:49		instrument is at Station three and if	
+39:52		the calculated position closure is	
+39:53		satisfactory the party chief may decide	
+39:57		to not observe the closing angle while	
+40:00		this is a common practice it does leave	
+40:01		room for errors that could be readily	
+40:03		identified and eliminated by performing	
+40:05		the angular closure the first step in	
+40:08		the computation of Traverse station	
+40:10		coordinates is balancing the angles the	
+40:13		formula for determining angular arrow	
+40:14		closure when the external angles have	
+40:17		been observed is as we reviewed the	
+40:19		number of sides in the figure plus two	
+40:21		times 180 degrees the sum of the	
+40:24		external angles in our example should be	
+40:26		00 degrees from the field data we	
+40:32		observe that the angular air of closure	
+40:34		is 6.3 seconds since technically we have	
+40:41		three angles external to the figure each	
+40:43		of the external angles would be	
+40:46		increased by 2.1 seconds in the	
+40:50		following example we can see that the	
+40:51		initial and closing angles turned at	
+40:53		point one would receive a proportionate	
+40:56		amount of the correction notice that by	
+41:01		observing the proportionate	
+41:02		relationships the amount of adjustment	
+41:04		that the independent angles at point one	
+41:06		receive is readily computed once the	
+41:11		angles have been adjusted it is possible	
+41:13		to compute the bearings of the traverse	
+41:15		lines in the following example we have	
+41:17		created a table of the adjusted angles	
+41:19		and bearings the initial backside	
+41:24		bearing from point 1 to point 11 was	
+41:27		north 49 degrees 59 minutes fifty three	
+41:30		point five seconds west in the example	
+41:33		we see the adjusted angles and	
+41:34		subsequent bearings and that the	
+41:36		adjusted angles of our Traverse	
+41:37		mathematically close back on the basis	
+41:39		of bearings	
+41:45		it is essential that the surveyor	
+41:48		incorporate ways to identify angle	
+41:49		errors such as checking some of interior	
+41:53		angles in the case of a closed figure	
+41:54		traverse or observing an asmath mark as	
+41:57		a check on performing a linear Traverse	
+42:00		incorporating checks for angle and	
+42:02		distance closures into the standard	
+42:04		methodology of performing the survey is	
+42:05		essential without these checks the	
+42:08		possibility of errors cannot be avoided	
+42:12		after the angles have been adjusted any	
+42:14		slope distances must be reduced to	
+42:16		horizontal distances normally when the	
+42:19		slope distance is measured the zenith	
+42:20		angle will be observed the formulas that	
+42:24		apply are shown in the following example	
+42:28		where vertical angles are observed the	
+42:32		horizontal distance equals the slope	
+42:33		distance times the cosine of the	
+42:35		vertical angle where the zenith angles	
+42:39		are observed the horizontal distance	
+42:40		equals the slope distance times the sine	
+42:42		of the zenith angle previously we	
+42:47		observed that for computation of Lambert	
+42:49		coordinates it is necessary to calculate	
+42:51		the elevation factor scale factor and	
+42:54		apply these Corrections in the form of	
+42:55		the combination factor to the observed	
+42:57		ground distances to obtain grid	
+42:59		distances it is important to keep in	
+43:02		mind that this is necessary calculation	
+43:05		and that the combination factor be	
+43:07		applied prior to calculating latitudes	
+43:09		and departures for traverse courses when	
+43:12		generating Lambert coordinates	
+43:21		latitudes and departures are expressed	
+43:23		as values associated with a rectangular	
+43:27		coordinate system latitude is the value	
+43:31		that reflects the magnitude of change in	
+43:32		position along the north-south axis and	
+43:34		is computed by multiplying the cosine of	
+43:36		the bearing times the length of the	
+43:38		traverse course departure is the change	
+43:41		in position along the east-west axis and	
+43:43		is computed by multiplying the sine of	
+43:45		the bearing times the length of the	
+43:47		traverse course in the following example	
+43:51		we have computed the latitudes and	
+43:53		departures of our Traverse we observe	
+43:58		that the sine of the functions of the	
+44:00		bearings have given the latitudes and	
+44:02		departures a plus or minus value in the	
+44:09		next example we have calculated the	
+44:11		values needed to compute our Traverse	
+44:13		closure these are the summation of	
+44:18		horizontal Traverse distance the	
+44:20		latitude and departure miss closures the	
+44:23		linear miss closure which equals the	
+44:25		square root of the sum of squares of a	
+44:27		latitude and departure miss closures and	
+44:29		the Traverse closure accuracy ratio	
+44:31		which is equal to 1 over the quotient of	
+44:33		the summation of horizontal Traverse	
+44:35		distances divided by the linear miss	
+44:37		closure the computation of latitudes	
+44:45		departures may seem extraneous in an age	
+44:47		of handheld calculators that make	
+44:49		calculating and adjusting coordinates	
+44:51		seem almost effortless but if you period	
+44:53		are periodically review these	
+44:56		fundamental calculations you'll be	
+44:58		assured to never be caught off guard	
+44:59		with your batteries down to begin our	
+45:07		review of the various types of	
+45:08		adjustments for Traverse closures it is	
+45:11		important for the student and the	
+45:13		practicing surveyor to understand that	
+45:15		an observed linear closure such as a	
+45:17		mathematical Traverse closure of one	
+45:19		00,000 by itself is relatively	
+45:22		meaningless at best it is only an	
+45:25		indication of the precision of the	
+45:26		survey and may have little if any	
+45:28		relationship to how accurate the survey	
+45:30		truly is measurements are not exact and	
+45:33		due to instrument and human error	
+45:35		traverses do not close exactly in the	
+45:38		case of the compass adjustment the	
+45:40		linear area of closure is simply	
+45:42		distributed throughout the Traverse it	
+45:45		is important to keep in mind that only	
+45:47		when the appropriate procedural	
+45:49		standards have been adhered to is the	
+45:51		surveyor able to have confidence that	
+45:53		the observed linear closure is	
+45:54		representative of the accuracy of the	
+45:56		survey the various types of Traverse	
+46:00		adjustments are the arbitrary method the	
+46:06		transit rule method the Crandall rule	
+46:08		method compass rule and least squares	
+46:12		method	
+46:16		the arbitrary method of Traverse	
+46:18		adjustment has no set of fixed rules and	
+46:20		those standard equations apply the	
+46:23		surveyor uses his or her logical	
+46:24		assessment of the field conditions to	
+46:26		form a professional opinion of where the	
+46:28		closure errors are most likely to have	
+46:30		occurred if there were extremely short	
+46:33		traverse legs the party chief could	
+46:34		choose to apply a larger angle	
+46:36		correction at that instrument station	
+46:38		this method is simple to perform and is	
+46:41		based solely on the individual surveyors	
+46:42		personal judgement the transit rule	
+46:46		method of Traverse adjustment presumes	
+46:48		that angles are more accurate than	
+46:49		distances the Crandall rule method also	
+46:53		is based on the assumption of higher	
+46:54		angle accuracy but is a more rigorous	
+46:56		calculation neither the transit rule or	
+46:59		Crandall rule method of adjustment are	
+47:01		used frequently today however it is	
+47:04		important to understand these basic	
+47:05		concepts and keep in mind that either	
+47:07		method of adjustment might be viable	
+47:09		given a certain set of conditions the	
+47:15		compass rule method of adjustment was	
+47:17		developed on the basis that the	
+47:18		precision of the angles and distances in	
+47:20		the Traverse is the same each leg of the	
+47:23		Traverse receives a proportionate	
+47:24		correction to the latitudes and	
+47:25		departures for that leg of the traverse	
+47:27		the correction that is applied to the	
+47:29		latitude and departure for each leg of	
+47:31		the Traverse is the ratio of the length	
+47:33		of each leg to the summation of	
+47:35		distances for the perimeter of the	
+47:37		Traverse the most comprehensive method	
+47:43		for Traverse adjustment is the least	
+47:45		squares method the least squares method	
+47:47		of adjustment can be expressed as a	
+47:49		method of placing the errors where they	
+47:51		are statistically most likely to have	
+47:53		occurred the least squares method of	
+47:57		adjustment uses the error residual as a	
+47:59		means of measuring the relative accuracy	
+48:00		of the observations the error residual	
+48:05		is equal to the best value which is the	
+48:08		arithmetic mean of a series of	
+48:09		observations minus the observed value	
+48:17		the more complex the field data that is	
+48:20		when we have multiple control stations	
+48:22		independent angle or distance ties the	
+48:26		more complex the test of correlating all	
+48:28		the data and maintaining that correct	
+48:30		geometric conditions within the survey	
+48:31		while conducting the debt adjustment in	
+48:35		the example we can see that by using a	
+48:39		least squares adjustment method to	
+48:41		distribute random errors and identify	
+48:44		and eliminate blunders the surveyor	
+48:47		achieves a true best fit adjustment of	
+48:50		the survey control network that	
+48:52		reconciles the error of closure and also	
+48:55		minimizes the adjustments to the	
+48:57		original field data as we reviewed	
+49:01		previously it is necessary to adjust	
+49:03		observed angles to correct for angular	
+49:05		miss closure of the traverse the basic	
+49:08		rule for balancing angles is to adjust	
+49:10		each angular measurement equally to	
+49:12		eliminate the angular error of closure	
+49:14		this is based on the theory that the	
+49:17		accuracy of the angular measurements is	
+49:19		the same for each angle and that there	
+49:21		is no basis for presuming that any one	
+49:23		of the angles contains more or less of	
+49:25		the total angular error than any other	
+49:27		angle the following steps are required	
+49:30		for balancing the survey using a compass	
+49:32		adjustment computing the angular error	
+49:36		of closure and adjusting each field	
+49:38		angle computing the bearings of each leg	
+49:41		of the Traverse and computing the	
+49:43		latitudes and departures also we must	
+49:46		compute the error of closure and ratio	
+49:47		of air compute the latitude and	
+49:50		departure Corrections adjust the	
+49:53		latitudes and departures and calculate	
+49:56		final station coordinates we have	
+50:00		completed our review of the first three	
+50:01		topics and will now review the topics	
+50:03		related to adjustments the actual error	
+50:09		within each Traverse Lake cannot be	
+50:10		determined however the total error of	
+50:12		closure and ratio of error are readily	
+50:14		computed the compass rule method of	
+50:17		Traverse adjustment proportions this	
+50:19		miss closure throughout the Traverse	
+50:20		this is referred to as balancing the	
+50:23		Traverse and balancing the Traverse we	
+50:26		determine and apply the appropriate	
+50:27		Corrections to the latitudes and	
+50:29		departures	
+50:30		each Traverse course in the following	
+50:33		example the latitude correction for	
+50:35		Traverse line 1/2 is shown the	
+50:41		adjustment in latitude to traverse leg	
+50:43		point 1 to point 2 divided by the	
+50:46		Traverse miss closure in latitudes is	
+50:49		proportional to the length of leg point	
+50:52		 point 2 divided by the total length of	
+50:55		the Traverse and we can note that it is	
+50:59		important to keep track of the algebraic	
+51:00		sign of the functions you are using once	
+51:05		you have calculated the latitude and	
+51:06		departure Corrections you would apply	
+51:08		these Corrections to each leg of the	
+51:10		Traverse by applying the latitude and	
+51:12		departure values to your start point	
+51:13		coordinates you will compute that	
+51:16		individual Traverse station coordinates	
+51:22		in the following example the corrections	
+51:24		to latitude and departure and final	
+51:26		station coordinates of point 2 are shown	
+51:28		it is important to apply the corrections	
+51:31		algebraically the adjusted latitude and	
+51:37		departure for line 1 is added to the	
+51:39		beginning coordinate of point 1 to	
+51:41		obtain the final station coordinates for	
+51:43		point 2 once the adjustment to latitude	
+51:46		and departure have been applied to each	
+51:47		traverse leg the station coordinates	
+51:50		have been calculated and the bearings	
+51:52		and distance of the Traverse courses	
+51:54		must be recalculated periodic review of	
+51:58		this relatively simple procedure will	
+51:59		ensure that you are never caught off	
+52:00		guard should your calculator blow a fuse	
+52:11		we have observed that when we perform	
+52:14		subsequent traverse computations we are	
+52:16		able to find and correct blunders adjust	
+52:19		for systematic errors and distribute	
+52:21		random error the question I want to pose	
+52:24		to each of you is how are we as a group	
+52:27		and my reference is to all surveyors	
+52:29		whether you work for a municipal agency	
+52:31		or the private sector how are we as a	
+52:33		group able to provide consistently	
+52:35		accurate survey data for the specific	
+52:37		surveying applications in question the	
+52:40		answer is simply that we must adhere to	
+52:42		standard procedural methodologies that	
+52:44		will ensure the desired results the	
+52:47		surveyor must strive to establish the	
+52:49		personal habit of conducting a	
+52:51		comprehensive analysis of all the	
+52:52		related components of performing the	
+52:55		trevor's these include the condition of	
+52:57		the field equipment the completeness of	
+52:59		the reference data and field conditions	
+53:02		that will affect traverse results in	
+53:05		every aspect of our profession we are	
+53:08		continually made aware that we must	
+53:09		conform to varying standards of accuracy	
+53:12		as a profession we accomplish this by	
+53:14		adhering to standard procedures and	
+53:16		methods when we think of this in terms	
+53:19		of performing the individual activities	
+53:20		related to traversing the term	
+53:23		methodology takes on a much less	
+53:24		abstract meaning when you establish work	
+53:28		habits such as regularly checking the	
+53:30		optical plummet or rod bubble or when	
+53:34		you perform specific computations such	
+53:36		as balancing angles reduction of slope	
+53:38		distance or calculation of the	
+53:40		combination factor you are employing a	
+53:43		procedural methodology and whether you	
+53:46		are in the field or the office	
+53:48		time-consuming mistakes can be easily	
+53:50		avoided by establishing personal work	
+53:52		habits which incorporate making a	
+53:54		reasonable number of checks while the	
+53:55		work is progressing some of the	
+54:02		activities that make up a procedural	
+54:04		methodology are project planning and	
+54:08		lays on to define the specific project	
+54:11		requirements verifying instrument	
+54:14		adjustment and calibration assembling	
+54:17		and reviewing all pertinent references	
+54:19		for the survey	
+54:21		performing a field reconnaissance and	
+54:25		incorporating checks on angle and	
+54:28		distance data when you perform	
+54:34		reductions of the adjustment and	
+54:35		adjustment of the angle and distance	
+54:36		measurements you want to be sure to	
+54:38		balance your angles apply temperature	
+54:41		corrections apply parts-per-million	
+54:43		Corrections this will route these	
+54:47		procedures allow you to calculate your	
+54:49		area of closure perform Traverse	
+54:51		adjustments and calculate your final	
+54:53		Amber coordinates in planning for our	
+55:00		Traverse we must define a basis of	
+55:02		bearing for the survey we noted that	
+55:04		this could be based on a variety of	
+55:05		reference points that is record map	
+55:07		bearing between two found monuments or	
+55:10		astronomical observation an effective	
+55:13		field procedure to ensure consistency of	
+55:15		results is to layout the Traverse so	
+55:17		that the traverse legs are balanced that	
+55:19		is of approximately equal length between	
+55:21		instrument setup stations this will	
+55:23		minimize the effect of sighting and	
+55:25		instrument adjustment errors when	
+55:32		conducting reference research and	
+55:34		certainly during the exam verifying your	
+55:36		reference documentation will be an area	
+55:38		for primary consideration you'll be	
+55:41		required to analyze the information you	
+55:42		are presented with state all pertinent	
+55:44		factors affecting their survey and that	
+55:49		were used in determining a valid	
+55:51		solution prior to performing any	
+55:53		calculations all available survey	
+55:55		references for the project area must be	
+55:57		compiled and as I stated earlier when	
+56:00		performing a survey the surveyor relies	
+56:03		on the historical record it is important	
+56:05		to note that each severe must also	
+56:07		determine if the historical record is	
+56:09		correct prior to utilizing this	
+56:11		information in the current survey I feel	
+56:14		this topic cannot be overemphasized as	
+56:16		you prepare to take the exam it should	
+56:18		be one of your most important areas for	
+56:20		study and must be applied in problem	
+56:23		solving and in practice	
+56:32		by establishing personal policies of	
+56:34		following consistent problem-solving	
+56:36		procedures that is develop a standard	
+56:38		format and sequence for doing the	
+56:40		calculations and identifying the	
+56:42		specific requirements of the survey you	
+56:45		will ensure that your results will be	
+56:49		correct we have completed our review of	
+56:56		the trevor's and I would like to take	
+56:58		the opportunity to offer my personal	
+56:59		perspective on the future of land	
+57:01		surveying relative to the need for	
+57:03		performing field survey traverses and	
+57:05		related computations in the past few	
+57:08		years the profession has seen many	
+57:09		developments being made in the area of	
+57:10		GPS applications and those who feel GPS	
+57:14		will ultimately replace conventional	
+57:15		surveying in its entirety GPS is without	
+57:18		question a very efficient method for	
+57:19		establishing high accuracy survey	
+57:21		control and while there are different	
+57:23		schools of thought about as to the	
+57:25		ultimate feature of land surveying	
+57:26		conventional field survey traverses	
+57:28		offer certain advantages because of the	
+57:33		versatility and relative convenience of	
+57:35		performing the conventional field	
+57:37		Traverse and relative computations and	
+57:39		ease of relative computations the	
+57:43		Traverse will continue to remain a	
+57:44		fundamental aspect of surveying and an	
+57:46		area of knowledge and skill that the	
+57:48		land surveyor must possess and it	
+57:49		certainly will remain an essential topic	
+57:51		of study for those of you preparing for	
+57:52		the lsit and Ellis exam regardless of	
+57:55		the development of technology traversing	
+57:57		is and will continue to remain the heart	
+57:59		of the surveying profession good luck on	
+58:02		the exam and your career in land	
+58:04		surveying	
+58:32		you	

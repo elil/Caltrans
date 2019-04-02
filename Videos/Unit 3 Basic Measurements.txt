@@ -1,0 +1,2277 @@
+00:48		welcome to Caltrans lsit Els exam	
+0:52		preparation course one aid in your	
+0:55		preparation for California licensure	
+0:57		examinations or word of caution don't	
+1:01		use this course as your only preparation	
+1:03		devise and follow a regular schedule of	
+1:07		study which begins months before the	
+1:09		test work many problems in each area not	
+1:14		just those in this courses workbook but	
+1:16		problems from other sources as well	
+1:19		this course is funded by Caltrans but	
+1:22		you and I owe a profound thanks to	
+1:25		others the courses instructors from the	
+1:28		academic community the private sector	
+1:31		other public agencies and from Caltrans	
+1:34		as well we wish you well in your study	
+1:38		toward becoming a member of California's	
+1:40		professional land surveying community	
+1:44		welcome to unit 3 of the Caltrans ls	
+1:48		lsit video exam preparation course for	
+1:52		the next couple of hours we will be	
+1:53		discussing basic survey measurements my	
+1:57		name is jeremy evans and i am a land	
+1:59		surveyor licensed in California since	
+2:01		983 I work in the Costa Mesa office of	
+2:05		tsoumas & Associates or I am the	
+2:07		technical manager of the survey	
+2:08		department this unit will serve two	
+2:11		purposes first of all for those of you	
+2:14		studying for the land surveyor and	
+2:16		training exam this unit should prepare	
+2:18		you for about two-thirds of the material	
+2:21		you will find on the exam for those of	
+2:24		you studying for the land surveyors exam	
+2:26		the information presented here	
+2:28		concerning measurement analysis and	
+2:30		error theory will be helpful there is a	
+2:34		second benefit to this tape the	
+2:37		information presented here is a bit dry	
+2:39		and not real exciting this allows you to	
+2:43		use this tape as a shear cure for	
+2:45		insomnia can't sleep just pop this tape	
+2:49		in the VCR and I guarantee you that	
+2:51		you'll be asleep by the middle of	
+2:53		precision vs. accuracy okay seriously	
+2:57		again Phillip kisum in his book survey	
+3:00		practice defined surveying as the art	
+3:03		science and technology of making such	
+3:07		measurements as are necessary to	
+3:09		determine the relative positions of	
+3:11		points above on or beneath the surface	
+3:15		of the earth or to establish such points	
+3:19		in a specified position the key terms in	
+3:22		the above definition are art science	
+3:26		technology and most importantly to us	
+3:30		measurements the science and technology	
+3:33		of survey are easy to recognize the	
+3:37		science includes the laws of mathematics	
+3:38		and physics that we use every day while	
+3:42		making measurements technology includes	
+3:45		the instrumentation calculation devices	
+3:48		and mapping technologies better known as	
+3:52		computer aided drafting and design or	
+3:54		CAD that have become a necessity in	
+3:58		current survey practice the art of	
+4:01		surveying is a little harder to find but	
+4:04		includes the use of judgment gained	
+4:07		through experience that allows us to	
+4:09		choose the technologies and procedures	
+4:11		to do a project correctly and	
+4:14		efficiently measurements are the	
+4:16		cornerstones upon which the surveyor	
+4:18		builds is experienced without a thorough	
+4:21		understanding of the basic survey	
+4:24		measurements a surveyor cannot expect to	
+4:26		move on to the more complicated	
+4:28		technical issues nor on to the	
+4:30		professional issues this unit of the	
+4:33		training program will deal with the	
+4:35		basic survey measurements of distance	
+4:37		direction and elevation we will also	
+4:41		spend time dealing with errors and how	
+4:43		they affect our measurements I would	
+4:45		suggest that you take a few minutes now	
+4:48		to review the learning objectives and	
+4:50		key terms that will be presented in this	
+4:52		unit of study will now begin our study	
+4:57		of measurements by reviewing the basic	
+4:59		principles of measurement in surveying	
+5:02		we deal with five basic types of	
+5:04		measurement they include horizontal	
+5:07		angles indicated by the angle at O	
+5:10		subtended from A to B horizontal	
+5:14		distances	
+5:14		indicated by the lines from o to a Oh to	
+5:18		B and A to B vertical angles indicated	
+5:22		by the angle at O subtended from A to C	
+5:26		vertical distances indicated by the line	
+5:30		from A to C and last but not least slope	
+5:34		distances indicated by the line from o	
+5:36		to C again these five basic survey	
+5:41		measurements that you must understand	
+5:43		how to measure or calculate before you	
+5:45		can move on to the higher technical	
+5:47		issues in California the basic units in	
+5:52		surveying our feet and hundreds of a	
+5:54		foot for linear measurement or length	
+5:56		this can be horizontal distances	
+5:59		vertical distances or slope distances	
+6:02		degrees minutes and seconds for angular	
+6:05		measure which includes both horizontal	
+6:08		angles and vertical angles area is	
+6:11		expressed in square feet or acres while	
+6:14		volume generally used in excavation is	
+6:17		expressed in cubic yards another basic	
+6:21		mathematical concept you should be	
+6:23		familiar with is significant figures in	
+6:26		recording measurements an indication of	
+6:29		the accuracy attained is the number of	
+6:32		digits or significant figures recorded	
+6:35		the number of significant figures in any	
+6:38		measurement includes the certain or	
+6:41		definite digits plus one and only one	
+6:44		estimated digit which is questionable if	
+6:47		a number is recorded is 129 point eight	
+6:51		five feet as shown here in the sixth	
+6:54		numerical value the measurement has five	
+6:57		significant figures of which the first	
+7:00		four are certain and the last digit is	
+7:03		estimated making it questionable in the	
+7:06		field it is important that measurements	
+7:08		be recorded with the correct number of	
+7:10		significant figures if fewer significant	
+7:13		figures are recorded then the accuracy	
+7:16		is lessened and the time spent acquiring	
+7:18		the data is wasted too many significant	
+7:22		figures leads to false accuracies and	
+7:25		problems with future computations	
+7:27		the number of significant figures is	
+7:30		often confused with a number of decimal	
+7:32		places while decimal places may have to	
+7:35		be used to maintain the correct number	
+7:37		of significant figures they do not	
+7:39		themselves indicate the number of	
+7:42		significant figures as can be seen here	
+7:44		in the number zero point zero zero zero	
+7:46		two one three which has only three	
+7:50		significant figures exact numbers such	
+7:53		as 5,280 feet in a mile have an infinite	
+7:57		number of significant figures in survey	
+8:00		computations it is important that	
+8:02		calculations be consistent with measured	
+8:05		values again we do not want to indicate	
+8:08		false accuracies and our answers in the	
+8:12		addition problem shown here the answer	
+8:15		must be rounded to the rightmost column	
+8:16		that has significant figures for all the	
+8:19		values being added in other words the	
+8:22		four in the value 1.4 the answer must be	
+8:26		rounded to the tenths place since this	
+8:28		is the rightmost column that has a	
+8:30		significant figure for each value being	
+8:33		added in the in the multiplication	
+8:36		problem shown the answer must be rounded	
+8:39		to the least number of significant	
+8:42		figures found in any factor in this case	
+8:44		the answer must be rounded to three	
+8:47		significant figures since this is the	
+8:49		number of significant figures in the	
+8:51		factor 2.16	
+8:53		at this point you may want to stop the	
+8:57		tape and try the significant figure	
+8:59		problems found in your workbook one last	
+9:03		comment about significant figures it is	
+9:06		common practice in survey computations	
+9:08		to carry one more digit than is required	
+9:11		in the answer and then round to the	
+9:13		correct number of significant figures	
+9:17		measurements can be direct or indirect	
+9:20		direct measurements are simply that they	
+9:23		are made directly on the ground	
+9:24		they include taping or measuring a	
+9:27		distance with an EDM measuring an angle	
+9:30		with a Fiat alight or determining an	
+9:33		elevation with a level on the other hand	
+9:36		indirect measurements involves some type	
+9:38		of mathematical computations	
+9:41		examples include area calculations from	
+9:44		measured field data or intersection	
+9:46		calculations like a bearing bearing	
+9:48		intersection used to determine the	
+9:51		center of a section in public land	
+9:53		surveying many indirect measurements are	
+9:56		made in surveying therefore a thorough	
+9:59		knowledge of geometry and trigonometry	
+0:01		is essential this brings us to one of	
+0:05		the most important and yet most	
+0:07		overlooked topics and surveying the	
+0:09		analysis of measurements more commonly	
+0:12		called error theory now don't let the	
+0:15		word Theory scare you the analysis of	
+0:18		measurements is not that difficult to	
+0:20		understand and the mathematics are	
+0:22		relatively simple you must understand	
+0:25		that above everything else a surveyor	
+0:27		does he is an expert in measurement as a	
+0:32		matter of fact in a court of law	
+0:34		the only area of expertise that a	
+0:36		surveyor can testify to is that of	
+0:39		measurements while the surveyor may be	
+0:42		the best available source of knowledge	
+0:43		on boundary determination he is not	
+0:47		considered an expert on the subject	
+0:49		since the ultimate decision on boundary	
+0:53		disputes lies with the court itself	
+0:56		getting back to measurements the best	
+0:59		way I know to define measurement is to	
+1:01		compare it with counting counting is an	
+1:04		absolute I have five fingers on my hand	
+1:07		I have thirty two cents in my pocket	
+1:10		these two values are not approximate	
+1:13		values they are absolutes measuring on	
+1:17		the other hand is an estimate of a value	
+1:19		and always contains some error I can	
+1:23		estimate that I am approximately fifteen	
+1:25		feet from the camera this distance is an	
+1:28		estimate and is obviously not very exact	
+1:31		it does contain error if I used a tape	
+1:35		to measure my distance to the camera I	
+1:38		would get a better estimation of the	
+1:40		distance but it would still be an	
+1:42		estimate and there is still some error	
+1:44		in the measurement no matter how	
+1:46		carefully you measure something it will	
+1:49		always be an estimate measurements are	
+1:52		not exact	
+1:53		all measurements contain some error any	
+1:56		surveyor who tells you that his	
+1:58		measurements are right on really doesn't	
+2:01		understand what he is saying being an	
+2:04		expert in measurement means not only	
+2:06		being able to make a measurement in the	
+2:08		field or a calculation in the office but	
+2:11		also understanding the quality of the	
+2:14		measurement made and being able to	
+2:16		determine the equipment and procedures	
+2:18		necessary to achieve a required accuracy	
+2:22		without understanding these basic	
+2:24		principles a surveyor cannot move on to	
+2:27		the higher technical issues and	
+2:28		surveying as I mentioned before all	
+2:32		measurements contain some error and	
+2:34		therefore no measurement is exact also	
+2:37		the true value of any measurement is	
+2:40		never known and therefore the exact	
+2:42		error present is always an unknown with	
+2:47		this in mind let's look at the formula	
+2:49		for determining error the error in any	
+2:52		measurement is equal to the measured or	
+2:55		observed value minus the true value now	
+2:59		I just stated that the true value is	
+3:01		never known so how can it be used in	
+3:04		this equation	
+3:05		our job as surveyors is to estimate a	
+3:09		most probable value for this true value	
+3:12		this most probable value is usually the	
+3:15		mean of a series of measurements we'll	
+3:19		get back to most probable values in a	
+3:21		few minutes what I'd like to talk about	
+3:24		now is the sources of error in surveying	
+3:27		natural errors include the effects of	
+3:30		wind temperature humidity refraction	
+3:34		gravity and magnetic declination an	
+3:38		example would be heat waves that caused	
+3:40		a target to jump while looking through	
+3:42		an instrument on a hot day instrumental	
+3:46		errors are called caused by the	
+3:47		imperfections in the construction of a	
+3:50		survey instrument the graduations on the	
+3:53		circle of a theodolite may not be spaced	
+3:55		evenly which can cause an error in	
+3:58		reading the instrument most instrument	
+4:01		errors can be eliminated by correct	
+4:03		survey procedures like measuring all	
+4:06		angles twice	
+4:07		once with the telescope of the	
+4:08		instrument in the direct direct position	
+4:12		and once with the telescope in the	
+4:14		plunged or reversed position personal	
+4:17		errors arise principally from the	
+4:19		limitations of the human senses of sight	
+4:22		and touch examples include the ability	
+4:25		to estimate a value on a scale or not	
+4:28		being able to hold a rod vertically each	
+4:31		of these will introduce a small error to	
+4:33		the measurement now that we know the	
+4:36		sources of errors in our measurement	
+4:38		let's discuss the type of errors there	
+4:42		are actually only two error sources and	
+4:44		survey measurements systematic errors	
+4:47		and random errors systematic errors	
+4:51		follow mathematical and physical laws	
+4:54		their magnitude and algebraic sign can	
+4:58		be determined and therefore systematic	
+5:00		errors can be removed from survey	
+5:03		measurements by applying Corrections or	
+5:05		using field procedures that remove the	
+5:08		error or applying corrections to the	
+5:11		measurements after they are made	
+5:12		examples include removing the effect of	
+5:15		temperature from taping measurements by	
+5:18		using a correction formula or removing	
+5:20		the effect of an instrumental error by	
+5:23		measuring an angle twice with the	
+5:25		telescope in both the direct and plunged	
+5:27		positions random errors are the errors	
+5:31		that remain after systematic errors are	
+5:33		removed from the measurement remember	
+5:36		that no measurement is exact it will	
+5:38		always contain some error random errors	
+5:42		are caused by factors beyond the control	
+5:44		of the surveyor and follow the laws of	
+5:47		probability the magnitudes and algebraic	
+5:50		signs of random errors are a matter of	
+5:53		chance	
+5:53		the errors tend to be small and	
+5:56		compensating in nature and while they	
+5:58		cannot be eliminated from the	
+6:00		measurements with some experience the	
+6:03		surveyor can estimate their value our	
+6:06		discussion of measurement analysis is a	
+6:08		study of these random errors there is	
+6:12		another type of error that is really not	
+6:14		an error at all but still must be	
+6:17		mentioned here this is the blunder or	
+6:19		miss	
+6:20		these are personal in nature and include	
+6:24		writing down the wrong measurement or	
+6:26		writing down the measurement incorrectly	
+6:29		transposition of figures is probably the	
+6:32		most common mistake a surveyor makes	
+6:35		mistakes can be detected by making	
+6:37		repeated measurements of the same value	
+6:40		when a mistake is detected the	
+6:43		measurement should be repeated one last	
+6:47		area of confusion we need to clear up	
+6:49		before we get to measurement analysis is	
+6:51		the difference between accuracy and	
+6:53		precision the best way to define these	
+6:56		two is to use the classical example of a	
+7:00		bull's-eye suppose you take your gun to	
+7:03		the shooting range for some practice you	
+7:05		aim very carefully at the bullseye	
+7:08		take a deep breath exhale and then take	
+7:12		the ten shots shown here your shots are	
+7:16		very close together but they missed the	
+7:18		bullseye	
+7:19		your shots are very precise in other	
+7:22		words close together but not very	
+7:25		accurate they miss the bullseye your gun	
+7:28		is some type of aiming problem this	
+7:30		problem can be fixed so it can be	
+7:33		considered a systematic error now	
+7:36		suppose you have your gun fixed and go	
+7:38		back to the range this time you're not	
+7:41		quite as careful with your aiming before	
+7:44		you take your 10 shots the result is	
+7:47		shown here the shots are scattered	
+7:50		around the target but are centered	
+7:52		around the bullseye these shots are not	
+7:55		as precise as before but are considered	
+7:58		more accurate as you have seen precision	
+8:02		does not necessarily equate with	
+8:04		accuracy	
+8:05		you may tape a distance very carefully	
+8:08		and get very precise results but if you	
+8:11		fail to take into account the tape is	
+8:14		short by five hundredths of a foot you	
+8:16		will not be accurate the goal of the	
+8:19		surveyor and this is very important is	
+8:22		to always get accurate results with the	
+8:25		precision necessary for the project at	
+8:27		hand your precision does not have to be	
+8:30		as high for say topo work	
+8:33		as it does for boundary control work	
+8:35		again let me emphasize that your work	
+8:38		must always be accurate or you have	
+8:41		wasted your time	
+8:42		but the precision can vary depending on	
+8:45		the project at hand this brings us to	
+8:48		the study of error theory before we can	
+8:51		begin looking at a series of	
+8:52		measurements to define their precision	
+8:55		and accuracy all systematic errors and	
+8:58		mistakes or blunders must be eliminated	
+9:01		from the measurements remember that	
+9:04		systematic errors have magnitudes and	
+9:06		algebraic signs that can be determined	
+9:09		and therefore can be removed from the	
+9:11		measurements mistakes or blunders must	
+9:15		be detected and removed and then the	
+9:17		measurement should be made again let's	
+9:20		look at a group of measurements and	
+9:22		begin our study of random errors shown	
+9:26		here is a set of 12 measurements of the	
+9:28		same angle in other words we've measured	
+9:31		the angle 12 times as you can see the	
+9:34		values for the individual measurements	
+9:36		differ slightly all systematic errors	
+9:40		and mistakes have been eliminated our	
+9:43		first task is to determine the most	
+9:44		probable value for the annual in	
+9:47		surveying we generally use the mean as	
+9:49		the most probable value the mean is	
+9:53		defined as the summation of all the	
+9:56		measurements divided by the number of	
+9:59		measurements in our example the number	
+0:02		of measurements would be 12 at this	
+0:05		point I would like for you to stop the	
+0:07		tape and determine the mean of the 12	
+0:10		measurements since all the measurements	
+0:12		have the same value for the degree in	
+0:15		minute portion I would suggest you work	
+0:17		only with the seconds portion of the	
+0:20		measurement let's look at the results of	
+0:24		determining the mean as you can see I've	
+0:27		added up the second portion of each	
+0:29		measurement and with the result being a	
+0:32		value of 540 when I divide this number	
+0:36		by the number of measurements in this	
+0:39		case 12 I get an answer of 45 the mean	
+0:43		of this set of measurements is 56	
+0:45		degrees	
+0:47		3 minutes 45 seconds this is the most	
+0:51		probable value for the set of angles	
+0:55		remember that the true value can never	
+0:58		be actually determined the beat the mean	
+1:01		is our best estimation of this value our	
+1:05		next step is to determine the precision	
+1:07		of the set of measurements to determine	
+1:09		the precision we must first determine	
+1:12		the residual for the 12 individual	
+1:14		measurements a residual is defined as	
+1:18		the difference between the value of each	
+1:20		individual measurement and the mean of	
+1:23		all the measurements is shown by the	
+1:25		formula residuals are theoretically	
+1:28		identical to errors except that the	
+1:31		residual can be calculated and errors	
+1:34		cannot take time now to determine the	
+1:37		residual for each measurement in our	
+1:40		example and note them in the column	
+1:42		under the small R here is the result of	
+1:47		calculating the residual for each	
+1:49		measurement for measurement number one	
+1:51		the observed value minus the mean equals	
+1:55		zero for measurement number two the	
+1:58		residual equals one and so on down the	
+2:01		line if you total the residuals for each	
+2:04		measurement the answer should be	
+2:06		approximately zero in our example the	
+2:10		sum actually is zero this indicates that	
+2:13		the residuals or errors are in fact	
+2:16		compensating and tend to be small values	
+2:19		at this time it's usually a good idea to	
+2:23		create a histogram from the information	
+2:25		we have calculated so far a histogram	
+2:28		gives us a graphical representation of	
+2:31		the precision of our work in the	
+2:34		histogram we plot the value of the	
+2:36		residual shown along the bottom line	
+2:39		versus the frequency of each value here	
+2:43		shown along the left side the negative	
+2:46		two residual occurs one time the	
+2:49		negative one value three times and so on	
+2:52		when you connect the location of each	
+2:55		value with a smooth curve the result is	
+2:58		the standard probability curve	
+3:00		this graphical representation will	
+3:02		highlight any values that might contain	
+3:05		a systematic error or a blunder that	
+3:08		were not removed prior to determining	
+3:10		the mean these will appear as spikes or	
+3:13		valleys in the histogram if these are	
+3:16		present they should be removed and the	
+3:19		mean and residuals recalculated	
+3:21		steep-sided curves indicate high	
+3:24		precision the residuals are grouped	
+3:26		closely together	
+3:27		shallow cited curves indicate low	
+3:29		precision the residuals are more spread	
+3:32		out after you have completed this course	
+3:36		you may want to take some survey data	
+3:37		and determine the mean and residuals and	
+3:40		then plot the histogram to compare	
+3:42		Precision's to accurately determine the	
+3:45		precision of the data we must next	
+3:47		determine the standard deviation or	
+3:49		standard error as it's sometime call for	
+3:52		our measurement data here is the formula	
+3:56		for calculating the standard deviation	
+3:58		the standard deviation or error equals	
+4:02		plus or minus the square root of the sum	
+4:04		of the residuals squared divided by the	
+4:08		number of measurements minus one the	
+4:11		result is plus or minus because the	
+4:13		algebraic sign of a random error cannot	
+4:15		be determined the sum of the residuals	
+4:18		squared is determined by squaring each	
+4:21		residual than adding up the results this	
+4:25		formula is a standard formula used to	
+4:27		determine the precision of any group of	
+4:30		measurements and is developed from	
+4:32		statistical analysis take time now to	
+4:35		determine the standard deviation for the	
+4:37		example let's see how you did here I	
+4:42		determine the residual squared for each	
+4:45		residual I've totaled these values and	
+4:47		gotten 14 by inserting this value along	
+4:51		with the number of measurements into the	
+4:53		formula for standard deviation I've come	
+4:56		up with a value of plus or minus one	
+4:58		point one three seconds which can be	
+5:01		rounded to plus or minus one second	
+5:03		remember that all random errors have a	
+5:06		plus or minus value since the algebraic	
+5:08		sign cannot be determined the standard	
+5:11		deviation establishes the limits	
+5:14		within which measurements are expected	
+5:16		to fall sixty-eight point three percent	
+5:18		of the time understand that this 68.3%	
+5:22		value is a constant established by the	
+5:26		laws of probability and we will accept	
+5:28		it without any further discussion	
+5:30		because if I try to explain how it was	
+5:32		determined we'd be here for the next	
+5:34		three weeks therefore in our example of	
+5:37		twelve measurements it would be expected	
+5:40		that eight of the twelve measurements	
+5:42		would fall within the range of 56	
+5:45		degrees 23 minutes 44 seconds to 56	
+5:49		degrees 23 minutes 46 seconds while for	
+5:54		the measurements would be outside the	
+5:56		limits in our example 10 of the	
+5:59		measurements actually fall within the	
+6:01		plus or minus one second range another	
+6:05		interpretation could be that if one or	
+6:08		more measurements were made it would	
+6:10		have a 68.3% chance of falling within	
+6:13		the standard deviation range a third	
+6:16		interpretation would be that the true	
+6:18		value and remember that we cannot	
+6:21		actually measure the true value has a	
+6:23		sixty-eight point three percent chance	
+6:25		of falling within the standard deviation	
+6:28		range you should be able to see that the	
+6:31		standard deviation is a comparison of	
+6:34		the mean to the individual measurements	
+6:36		that it was established from by	
+6:39		comparing the mean to the individual	
+6:41		measurements we have determined the	
+6:43		precision of our measurements this is	
+6:46		the most important thing to remember	
+6:47		about standard deviation it is a measure	
+6:50		of the precision of the measurement we	
+6:52		are making as a surveyor you probably	
+6:57		wouldn't want to tell your client that	
+6:59		you're only 68.3% certain about the	
+7:03		results of your measurements a 90% or	
+7:06		5% level of confidence would be much	
+7:09		better you can determine different	
+7:12		levels of confidence by multiplying the	
+7:15		standard deviation by a constant that	
+7:17		again has been determined by the laws of	
+7:20		probability shown here are the three	
+7:23		most common levels of confidence that a	
+7:25		surveyor should be familiar with	
+7:27		the 50% error or a sub 50 is the	
+7:31		so-called probable error it establishes	
+7:34		the limits within which the measurement	
+7:37		should fall 50% of the time in other	
+7:40		words a measurement has the same chance	
+7:42		of falling within the limits as it has	
+7:45		falling outside the limits the 50% error	
+7:48		is calculated by multiplying the	
+7:50		standard deviation by 0.67 4/5 in the	
+7:56		past the 50% error was used extensively	
+7:59		in the discussion of random error but is	
+8:02		seldomly used today however it does	
+8:05		occasionally show up on the LS or lsit	
+8:08		exam the 90% error or a sub 90	
+8:13		establishes the limits within which the	
+8:16		measurement should fall 90% at a time it	
+8:19		is calculated by multiplying the	
+8:21		standard deviation by 1 point 6 4 4 9 in	
+8:26		our example the 90% error would be plus	
+8:29		or minus 1 point 1 3 seconds times 1	
+8:33		point 6 4 4 9 which equals plus or minus	
+8:37		 point 8 6 seconds which is then	
+8:40		rounded to plus or minus two seconds	
+8:43		referring back to our example you will	
+8:46		see that all the residuals fall within	
+8:48		this limit the 90% error is the standard	
+8:52		used today in the survey industry	
+8:54		another statistical value that we should	
+8:57		be aware of is the standard error of the	
+9:00		mean the mean or most probable value has	
+9:04		some error with respect to the true	
+9:06		value of a measurement this difference	
+9:09		is determined by calculating the	
+9:12		standard error of the mean in this	
+9:14		formula the standard deviation or	
+9:17		standard error is divided by the square	
+9:19		root of the number of measurements again	
+9:22		this is a plus or minus value since the	
+9:25		sign of a random error cannot be	
+9:27		determined if the standard deviation is	
+9:30		not required you can calculate the	
+9:33		standard error of the mean directly from	
+9:35		the measurements by taking the square	
+9:37		root of the sum of the residuals squared	
+9:40		/ the number of measurements times the	
+9:43		number of measurements - one of course	
+9:46		this is a plus or minus value in our	
+9:49		problem the standard deviation which is	
+9:52		one point one three is divided by the	
+9:55		square root of the number of	
+9:57		measurements and is equal to plus or	
+9:59		minus 0.33 seconds since we are	
+0:03		comparing the mean to the true value	
+0:05		here it can be said that the mean value	
+0:09		in our example has a sixty-eight point	
+0:11		three percent chance of falling within	
+0:14		plus or minus zero point three three	
+0:16		seconds of the true value of the angle	
+0:19		by using the 90 percent error in the	
+0:22		standard error of the mean equation we	
+0:24		will get the 90 percent standard error	
+0:27		of the mean value comparing the mean to	
+0:30		the true value is a measure of accuracy	
+0:33		therefore the most important thing to	
+0:35		remember here is that the standard error	
+0:37		of the mean is a measure of accuracy of	
+0:40		the figure being measured again I must	
+0:43		emphasize that if any systematic error	
+0:46		or mistake exists in the measurement	
+0:49		data then these calculations of the	
+0:52		standard deviation and the standard	
+0:53		error of the mean are invalid so far we	
+0:58		have been discussing the error found in	
+1:01		a single value that has been measured	
+1:03		numerous times seldomly if ever is a	
+1:07		survey project made up of a single	
+1:09		measurement our projects are usually	
+1:12		made up of numerous measurements of	
+1:14		distance direction and elevation let's	
+1:18		now see how the errors within the	
+1:20		individual measurements propagate	
+1:22		through a series of measurements	
+1:25		sometimes a series of similar quantities	
+1:28		such as the angles of a traverse are	
+1:31		read with the same care each measurement	
+1:34		will be an error by about the same	
+1:36		amount the total error in the sum of all	
+1:39		measured quantities of such a series is	
+1:42		called the error of the series and is	
+1:45		designated by the e sub series if the	
+1:49		error e is the same in each measurement	
+1:52		and there are n number	
+1:54		measurements then the air in the series	
+1:57		will be plus or minus e times the square	
+2:00		root of n suppose that when a party	
+2:03		chief and is chained then use a	
+2:05		hundred-foot tape there is a plus or	
+2:08		minus 0.02 foot error from all the error	
+2:11		sources what would be the error if this	
+2:15		team had to measure a 5,000 foot	
+2:17		distance in this case the number of tape	
+2:21		lengths in this 5,000 foot distance is	
+2:24		0 and the error of this series would be	
+2:27		equal to plus or minus the error which	
+2:30		is 0.02 feet times the square root of	
+2:33		the number of measurements which is 50	
+2:36		the answer would be plus or minus 0.1	
+2:39		for feet using a similar technique for	
+2:43		each of the 50 tape lengths in a 5,000	
+2:45		foot distance will produce an error of	
+2:47		plus or minus 0.1 for feet this answer	
+2:51		illustrates that random errors tend to	
+2:54		be compensating if each tape length	
+2:57		definitely contains 0.02 feet of error	
+3:00		then the total error in 5,000 feet would	
+3:04		be 1 foot this is the product of 0.02	
+3:08		times the 50 lengths however in random	
+3:12		errors errors have a plus or minus value	
+3:15		and therefore they tend to compensate	
+3:17		over the 5000 foot distance therefore	
+3:21		the error in the 5,000 foot distance is	
+3:23		less than the absolute maximum error of	
+3:26		 foot and in this case is plus or minus	
+3:29		.1 for feet one other point needs to be	
+3:33		made here if you want to determine the	
+3:36		precision of your 5,000 foot measurement	
+3:38		then you use the standard deviation or	
+3:41		0% error for the value of e in the	
+3:44		equation if you want to determine the	
+3:46		accuracy of your 5,000 foot distance	
+3:49		then you should use the standard error	
+3:51		of the mean or the 90% standard error	
+3:54		for the value of e it is important to	
+3:57		identify what it is you're trying to	
+3:59		determine either precision or accuracy	
+4:01		before you do your calculations so that	
+4:05		the correct formula is in	
+4:07		teachers are used a special type of	
+4:09		error in a series is the error found in	
+4:12		electronic distance measurement or EDM	
+4:15		measurement as you all are aware EDM s	
+4:20		are used for most distant measurements	
+4:22		today we'll discuss the specifics of EDM	
+4:25		is a little later on right now we'll	
+4:28		discuss the error found in EDM	
+4:29		measurements here we have the formula	
+4:32		for determining the error and medium	
+4:34		measurement in the specifications that	
+4:37		were sent with the EDM there is a value	
+4:40		given for the accuracy of the instrument	
+4:42		for the giotto meter 410 this value is	
+4:46		plus or minus five millimeters which is	
+4:49		equal to 0.01 six feet plus five parts	
+4:54		per million this equation indicates that	
+4:58		there is an error of plus or minus five	
+5:00		millimeters in every measurement	
+5:02		regardless of the length of the line	
+5:04		plus an additional error which is	
+5:07		dependent on the length of the line this	
+5:10		additional error is a proportion to the	
+5:13		value of five parts in a million what	
+5:16		this means is that if we could measure 1	
+5:19		million feet with this EDM it would	
+5:22		create a 5-foot error by proportioning	
+5:25		this ratio to the length of the line	
+5:27		being measured we can determine the	
+5:29		total error in this example shown here	
+5:33		we have measured a line one mile or	
+5:36		,280 feet long with an EDM the total	
+5:40		error for this line would be equal to	
+5:42		the plus or minus 0.01 six-foot error	
+5:46		found in every measurement plus five	
+5:49		parts times the ratio of 5,280 to 1	
+5:53		million this proportion is equal to zero	
+5:56		point zero two six feet the total error	
+5:59		would therefore be plus or minus zero	
+6:02		point zero one six feet plus zero point	
+6:05		zero two six feet which equals plus or	
+6:08		minus zero point zero four two feet for	
+6:11		the one-mile line this error is a	
+6:14		standard error of the mean value and is	
+6:17		therefore a measure of accuracy	
+6:19		the next type of error propagation that	
+6:22		you should be familiar with is the error	
+6:24		in a sum in this case we are determining	
+6:27		the error of a group of measurements	
+6:30		that do not have the same error for each	
+6:32		measurement our formula shows that the	
+6:35		error in a sum is equal to plus or minus	
+6:38		the square root of the Aeron in	
+6:40		measurement a squared plus the error in	
+6:44		measurement B squared plus the error in	
+6:47		measurement C squared etc suppose that	
+6:51		we measure each angle in a triangle	
+6:53		under varying conditions the air in	
+6:56		angle a is plus or minus ten seconds the	
+6:59		air in angle B is plus or minus two	
+7:02		seconds and the air and angle C is plus	
+7:05		or minus five seconds the total error	
+7:08		for the angles in this triangle is equal	
+7:11		to plus or minus the square root of 10	
+7:13		squared plus two squared plus five	
+7:17		squared which is equal to plus or minus	
+7:19		eleven point four seconds this answer	
+7:22		demonstrates that the total error in a	
+7:25		group of measurements having varying	
+7:27		errors is only as strong as its weakest	
+7:30		link or angle in this case measuring the	
+7:34		other two angles more precisely than the	
+7:36		weakest angle does not improve the	
+7:38		overall precision of the sum of the	
+7:41		errors you now have the tools necessary	
+7:44		to begin determining the error in most	
+7:47		of your survey measurements take time	
+7:50		now and try to solve the point location	
+7:53		problem in your workbook let's see how	
+7:57		you did in determining the positional	
+7:59		error in Point C first we'll determine	
+8:03		the error in the distance measurement	
+8:05		we've measured a distance of four	
+8:07		thousand three hundred and fifty feet	
+8:09		using an EDM that had an accuracy of	
+8:13		plus or minus 0.01 six feet plus five	
+8:17		parts per million substituting this data	
+8:21		into the formula for EDM measurement we	
+8:24		get plus or minus 0.01 six feet plus	
+8:28		five times the ratio of four thousand	
+8:31		three hundred and fifty	
+8:32		over 1 million which works out to be	
+8:35		plus or minus 0.03 8 feet now solving	
+8:40		for the error in the angle we can use	
+8:43		simple trigonometry the linear error	
+8:46		value is equal to the tangent of 10	
+8:49		seconds which is the error in our angle	
+8:51		times the length of the line	
+8:54		350 feet which equals plus or minus 0.2	
+8:58		/1 feet remember that the tangent of an	
+9:02		angle is equal to the opposite side	
+9:05		which is the error amount divided by the	
+9:08		adjacent side which is the length of the	
+9:10		line by rearranging this formula we get	
+9:14		the error at Point C equals the tangent	
+9:17		of the angular error times the distance	
+9:19		of the line now since we have two error	
+9:22		sources with different values we can use	
+9:25		the error in a sum to determine the	
+9:28		positional error of Point C with respect	
+9:31		to point a this is equal to plus or	
+9:34		minus the square root of 0.038 squared	
+9:38		plus 0.2 1 1 squared which equals plus	
+9:42		or minus 0.2 1/4 feet remember that if	
+9:47		we want to determine the precision of	
+9:49		our measurements from A to C then the	
+9:52		angular error and distance error must be	
+9:54		the standard deviation or 90% error if	
+9:56		we want to determine the accuracy of	
+9:59		Point C then the angular error and the	
+0:03		distance error must be the standard	
+0:04		error of the mean or the 90% error of	
+0:07		the mean let's take this idea of error	
+0:11		propagation one step farther you can use	
+0:14		the study of errors to predetermine the	
+0:16		outcome of a survey take time now to try	
+0:19		the estimated traverse closure problem	
+0:21		in your workbook in this problem we know	
+0:27		the positional error for each side of	
+0:28		the traverse and we can therefore	
+0:31		determine the positional error for the	
+0:33		entire traverse or as it's more commonly	
+0:35		known the error of closure	
+0:39		here I have calculated the positional	
+0:42		error for each side of the traverse	
+0:43		based on the data	
+0:45		given since each of the values is	
+0:47		different we must use the error of a sum	
+0:50		to calculate the total error for the	
+0:52		Traverse this is equal to plus or minus	
+0:55		the square root of zero point two one	
+0:57		two squared plus zero point one seven	
+1:00		six squared plus zero point one four	
+1:03		four squared plus zero point two three	
+1:07		au squared which is equal to plus or	
+1:09		minus zero point three eight seven feet	
+1:12		this would be the expected closure of	
+1:14		the Traverse based on the data given if	
+1:17		you calculate the actual error of	
+1:20		closure it is zero point three one one	
+1:22		feet since the actual closure is better	
+1:26		than the estimated closure the work was	
+1:29		done correctly and there probably are no	
+1:32		mistakes in the field data you can also	
+1:35		use this estimated error to determine	
+1:37		the equipment and procedures necessary	
+1:40		to have a survey conformed to a	
+1:42		classification of accuracy in your	
+1:46		workbook you'll find the classifications	
+1:48		of accuracy from the Caltrans survey	
+1:50		manual in Table four - oh four - B there	
+1:55		is an accuracy requirement for	
+1:57		second-order modified travers that	
+2:00		states that the positional closure after	
+2:02		asmath adjustment will not exceed one	
+2:05		point six seven feet times the square	
+2:08		root of the length of the traverse in	
+2:09		miles or one part in ten thousand	
+2:12		whichever is smaller if you are planning	
+2:15		a traverse that is two miles long	
+2:17		then by the requirements mentioned above	
+2:20		the survey must have an error of closure	
+2:22		of not greater than 1.0 six feet by	
+2:26		knowing this and the approximate	
+2:28		dimensions of the sides of the traverse	
+2:30		you can determine the equipment and	
+2:33		procedures necessary to achieve this	
+2:35		requirement for a complete study of this	
+2:38		subject of error propagation and	
+2:40		estimating survey requirements get a	
+2:42		copy of bend Buckner's book survey	
+2:45		measurements and their analysis which is	
+2:47		noted in the bibliography in your	
+2:49		workbook the last topic we need to touch	
+2:52		on before we move on to different types	
+2:54		of survey measurements is the different	
+2:56		types of adjustments	
+2:58		we can use to ensure that our surveys	
+3:01		are mathematically correct in some types	
+3:04		of surveys the sum of several	
+3:06		measurements must equal a fixed value	
+3:08		for example the sum of the interior	
+3:11		angles of a triangle has to total 180	
+3:15		degrees in practice therefore the	
+3:18		measured angles of a triangle are	
+3:20		adjusted to make them add up to the	
+3:22		required total correspondingly distances	
+3:26		may be altered slightly to meet certain	
+3:28		requirements in making these adjustments	
+3:31		the principles of probability are most	
+3:34		important the most common type of survey	
+3:37		adjustments are the proportional or	
+3:39		linear adjustment this is an adjustment	
+3:42		used in simple level circuits and	
+3:44		traverses in adjusting the survey data	
+3:47		the adjustment is simply a proportion of	
+3:50		the total error total distance ratio for	
+3:54		example if a simple level circuit has a	
+3:57		closure error of 0.25 feet and is 5	
+4:01		miles long then a benchmark at the 1	
+4:04		mile mark will get 1/5 of the adjustment	
+4:07		or 0.05 feet the compass rule and	
+4:12		transit rule adjustments used in the	
+4:14		adjustment of Travers data are also	
+4:16		proportional adjustments level	
+4:19		adjustments and Traverse adjustments are	
+4:21		dealt with in detail in their	
+4:23		appropriate unit of this review course	
+4:26		the most important thing to remember	
+4:28		about these adjustments is that the	
+4:30		errors are considered to be equal for	
+4:32		each leg of the level circuit or	
+4:34		Traverse there cannot be any other error	
+4:37		considerations with proportional or	
+4:39		linear adjustments it is evident that	
+4:42		some measurements are more precise than	
+4:44		others because of better equipment	
+4:46		improved techniques and superior field	
+4:49		conditions in this situation it is	
+4:52		better to assign relative weights to the	
+4:55		individual measurements when this is	
+4:58		done the stronger measurements receive	
+5:00		the least amount of adjustment while the	
+5:03		weaker measurements receive the greater	
+5:05		amount of adjustments this is the theory	
+5:08		behind using weighted means and least	
+5:10		squares adjustment	
+5:12		least-squares is an adjustment where the	
+5:15		sum of the residuals squared for the set	
+5:17		of measurements is minimized it is a	
+5:20		statistical analysis where each	
+5:23		measurement is weighted and all	
+5:25		measurements are adjusted simultaneously	
+5:27		the result is considered a superior	
+5:30		adjustment to proportional or linear	
+5:32		adjustments the study of weighted means	
+5:35		and least squares is a class all by	
+5:38		itself and we won't go any farther here	
+5:40		it should be realized however that any	
+5:43		adjustment beyond the very simplest	
+5:46		should be done by a least squares	
+5:48		adjustment with the new least squares	
+5:50		adjustment packages on the market today	
+5:52		which make the input and adjustment	
+5:55		relatively simple least squares	
+5:58		adjustment is becoming a very common	
+6:00		very common method of adjustment of	
+6:03		almost all survey measurements it is	
+6:08		time now to begin our study of the	
+6:10		different types of measurements we have	
+6:12		in surveying we'll begin our study of	
+6:15		survey measurements with that of	
+6:16		distance to review three types of	
+6:20		distance distances that we are	
+6:22		interested in our horizontal distances	
+6:24		shown here by the lines a - OH	
+6:27		B - oh and a to be vertical distances	
+6:32		shown here by the line AC and slope	
+6:36		distances shown here by line OC distance	
+6:40		measurement is the basis of all	
+6:42		surveying in plane surveying the	
+6:46		distance between two points means the	
+6:48		horizontal distance if the points are at	
+6:51		different elevations the distance is the	
+6:53		horizontal length between the two	
+6:55		vertical lines of the points the	
+6:58		horizontal distance that relates to the	
+7:01		slope distance OC is Oh a measured to	
+7:05		the vertical line AC there are several	
+7:09		different methods of measuring	
+7:11		horizontal distances these methods	
+7:13		include pacing odometer readings optical	
+7:17		rangefinders tacheometry better known	
+7:21		here as stadia sub tents bars taping	
+7:25		an electronic distance measurement will	
+7:28		discuss taping and EDM measurements in	
+7:30		detail in a few minutes let's briefly	
+7:34		discuss the others now pacing distances	
+7:38		are sufficiently accurate for many	
+7:40		purposes in survey determining the	
+7:43		general location of a monument from a	
+7:45		found monument is a common example once	
+7:48		you're in the general area of the	
+7:49		monument you can use a metal detector or	
+7:51		similar device to actually locate the	
+7:54		monument pacing can also be used to	
+7:57		detect blunders and tape distances	
+7:59		pacing is simply counting the number of	
+8:02		steps or paces in a required distance	
+8:04		before this is done you must determine	
+8:08		the length of your pace or the number of	
+8:10		paces per a certain distance like 100	
+8:13		feet by walking with natural steps back	
+8:16		and forth several times over a level	
+8:19		measured course with practice you should	
+8:23		be able to pace within a foot over a	
+8:25		distance of a hundred feet if the	
+8:27		terrain is open and reasonably level an	
+8:30		odometer converts the number of	
+8:33		revolutions of a wheel of known	
+8:35		circumference to a distance the odometer	
+8:38		in your car is suitable for some	
+8:40		preliminary work in route location work	
+8:42		more common is the measuring wheel that	
+8:46		is pushed by hand and the distance then	
+8:48		read on the Adamo Terr connected to the	
+8:50		wheel accuracy with this type of device	
+8:53		on level ground is approximately 2 feet	
+8:56		00 feet optical range finders operate	
+9:00		on the same principle as the rangefinder	
+9:02		in your single lens reflex camera the	
+9:05		operator looks through the lens and	
+9:07		adjust the focus until a distance object	
+9:10		viewed is focused in coincidence	
+9:13		whereupon a distance reading is obtained	
+9:16		accuracy is about 2 feet per 100 feet up	
+9:19		to a distance of 1,000 feet beyond this	
+9:22		distance the accuracy drops rapidly	
+9:26		tacheometry or stadia as it's more	
+9:29		commonly known is a surveying method	
+9:31		used to quickly determine the horizontal	
+9:33		distance to and the elevation of a point	
+9:37		Stadium measurements are obtained by	
+9:39		sighting through a telescope it were	
+9:41		equipped with two or more horizontal	
+9:43		crosshairs commonly called stadia hairs	
+9:46		set at a known spacing in the United	
+9:50		States the crosshairs are usually set at	
+9:52		a ratio of one to a hundred	
+9:54		when looking at a leveling rod held	
+9:57		vertically at a distance of 100 feet	
+9:59		from the instrument the distance between	
+0:02		the two stadia here crosshairs will be	
+0:05		one foot when the distance between the	
+0:08		two stadia hairs is 1.5 9 feet the rod	
+0:12		is a hundred and fifty nine feet away	
+0:14		stadia is still used in many parts of	
+0:17		the United States for doing topographic	
+0:19		surveying our field crews at tsoumas are	
+0:22		all trained in stadia just in case one	
+0:25		of their electronic total stations fails	
+0:28		on a critical topo job that is far away	
+0:31		from the office in the if this should	
+0:33		happen they can use the back up the ahta	
+0:36		light they carry and use stadia to	
+0:39		continue until a replacement instrument	
+0:41		arrives stadia is accurate to one foot	
+0:45		in 500 feet for horizontal measurement	
+0:49		the substance bar can be used along with	
+0:52		a precise theodolite to determine	
+0:54		distance the bar is usually made of	
+0:56		invar and targets at the end of the bar	
+0:59		are unknown distance apart usually 2	
+1:01		meters by setting the sub tenths bar on	
+1:04		a tripod at one end of a line and	
+1:07		measuring the angle subtended by the bar	
+1:09		with a theodolite at the other end of	
+1:11		the line the horizontal distance can be	
+1:14		computed by trigonometry an accuracy of	
+1:17		one foot and 3000 feet can be easily	
+1:20		obtained with this setup the sub tenths	
+1:23		bar method of distance measurement was	
+1:25		often used in the past to obtain	
+1:26		distances over inaccessible courses for	
+1:29		example over bodies of water	
+1:31		EDM devices have now almost totally	
+1:35		replaced this procedure before we get	
+1:38		into our study of tape distances let's	
+1:41		take a break here and get something cold	
+1:43		to drink I'll see you in about 10	
+1:46		minutes	
+1:52		yeah welcome back let's now discuss	
+1:56		distance measurement by taping many of	
+1:59		you may be wondering why we are	
+2:00		discussing taping when most of the	
+2:02		distance measuring we do today is done	
+2:05		with electronic distance measuring	
+2:06		devices and global positioning systems	
+2:09		this is a valid question	
+2:11		since very little taping actually is	
+2:14		done nowadays I have two reasons for	
+2:16		studying taping one is the taping for	
+2:19		distances under approximately 300 feet	
+2:22		over level ground with few obstructions	
+2:25		is still more accurate than using an EDM	
+2:28		at tsoumas we use taping to pull Street	
+2:31		intersection ties so we can actually	
+2:34		replace accurately replace centerline	
+2:37		monuments these tie distances are	
+2:40		generally under 100 feet and taping is a	
+2:42		more accurate procedure we also always	
+2:46		use a tape when making measurements that	
+2:48		involve high-rise construction high-rise	
+2:51		construction utilizes steel beams that	
+2:54		are pre-cut to plus or minus one quarter	
+2:56		of an inch the only way to guarantee	
+2:58		that the steel will fit together	
+3:00		correctly is to use a tape for	
+3:03		measurement the second reason to study	
+3:06		taping has to do with our continuing	
+3:08		study of measurements and their	
+3:10		associated errors there are several	
+3:13		taping errors that we will discuss in	
+3:15		the next few minutes for the person new	
+3:17		to surveying these errors are easier to	
+3:20		visualize than some of the errors	
+3:22		associated with angular measurement or	
+3:24		leveling this allows the student a	
+3:27		chance to further understand how errors	
+3:29		affect our measurements and how the	
+3:31		surveyor must constantly analyze his or	
+3:34		her measurements so the study of taping	
+3:36		not only introduces us to the subject it	
+3:40		also improves our understanding of the	
+3:42		basics of measurement and the effect	
+3:44		errors have on these measurements now	
+3:48		dad off my soapbox and back to the	
+3:49		subject at hand	
+3:50		taping consists of applying the known	
+3:53		length of a graduated tape directly to	
+3:56		align a number of time	
+3:58		two types of situations arise first is	
+4:02		measuring an unknown distance between	
+4:04		fixed points such as hubs in the ground	
+4:07		and the second is laying out a known or	
+4:10		required distance with only the starting	
+4:13		mark in place taping is performed in six	
+4:16		steps first is lining in or making sure	
+4:19		the surveyor at the lead end of the tape	
+4:21		is on line this is done by the rear	
+4:24		chain Minh the next is applying the	
+4:27		correct amount of tension either by	
+4:29		using a tension handle for a precise	
+4:31		measurement or by estimating the tension	
+4:34		from experience	
+4:35		next is plumbing with the plumb Bob's if	
+4:38		the tape must be held off the ground to	
+4:40		avoid obstacles on line fourth is	
+4:43		marking the tape lengths on the ground	
+4:45		and making sure the number of measured	
+4:47		tape lengths is accurately kept next is	
+4:51		reading that is the reading of the tape	
+4:53		at the end of the line by reading	
+4:57		directly if the tape is on the ground or	
+5:00		sliding the pom-pom Bob string along the	
+5:02		tape until the plumb bob is directly	
+5:05		over the point and finally recording the	
+5:08		distance correctly in your field notes	
+5:10		when using a tape a surveyor usually	
+5:13		employs procedure that result in a	
+5:16		horizontal distance being measured on	
+5:18		level ground horizontal taping is	
+5:21		relatively simple when the when the	
+5:23		ground slopes the procedure of breaking	
+5:26		tape can be employed this involves	
+5:28		measuring sections of the total line	
+5:30		usually in the downhill direction by	
+5:33		holding the end of the tape on the hub	
+5:35		and in the ground and measuring as much	
+5:37		of the 100-foot tape length as possible	
+5:40		until plumbing becomes too difficult	
+5:43		usually at shoulder height the rear	
+5:46		chain Minh then moves up to this point	
+5:47		and the next portion line is measured in	
+5:49		the same manner when breaking tape is	
+5:52		impractical a slope distance can be	
+5:55		measured and the vertical angle or	
+5:57		difference in elevation of the two	
+5:58		points can be used to calculate the	
+6:00		horizontal distance we'll talk more	
+6:03		about slope distance reduction when we	
+6:04		talk about EDM s in the United States	
+6:07		there are two basic tie	
+6:09		of tapes also called chains after the	
+6:12		historical chains that were used well	
+6:14		into the 20th century these are the ad	
+6:17		tape which is what I grew up with in	
+6:19		surveying and the graduated throughout	
+6:21		tape the AB tape is calibrated from 0 to	
+6:25		00 by four feet in one direction and	
+6:28		has an additional foot beyond the zero	
+6:31		end graduated from zero to one foot in	
+6:34		tents or more commonly in tents and	
+6:37		hundreds in the other direction	
+6:39		this makes the complete tape 101 feet	
+6:42		long when the full graduation is held by	
+6:46		the real taemin at a hub shown here as	
+6:49		being at the 81 foot graduation the	
+6:52		add-in should straddle the point being	
+6:54		measured to and the chain reads the	
+6:56		additional length again shown here is	
+6:59		six tenths of a foot the total distance	
+7:01		between the hubs is therefore 81 plus	
+7:05		six tenths of a foot for a total of 81	
+7:07		point six feet with a graduated	
+7:11		throughout tape the rear chain and	
+7:13		simply holds zero on the point being	
+7:15		measured from while the chain Minh reads	
+7:17		both the whole foot and the portion	
+7:20		thereof on our example the distance is	
+7:23		forty one point four feet many surveyors	
+7:26		prefer this type of tape because the	
+7:28		Pheo less errors are made if only one	
+7:31		person reads the tape whichever method	
+7:33		isn't used care must be exercised in	
+7:37		recording the distances in the field	
+7:38		notes one blender here can cancel many	
+7:41		hours of very precise work there are	
+7:44		three fundamental sources of error in	
+7:46		taping first is the actual tape length	
+7:49		differing from its nominal or marked	
+7:52		length due to due to defects in the	
+7:55		manufacturer of the tape this is an	
+7:58		instrumental error next is the variation	
+8:00		in tape length due to temperature wind	
+8:03		and the rate of the tape itself these	
+8:06		are natural errors finally are the	
+8:09		errors due to the chain man's ability or	
+8:12		inability to read and manipulate the	
+8:15		tape these are personal errors let's see	
+8:18		how these errors affect our measurement	
+8:20		of distances by tape	
+8:22		the first error says we will consider is	
+8:25		the incorrect length of tape this is a	
+8:28		systematic error tape manufacturers do	
+8:31		not guarantee steel tapes to be exactly	
+8:34		their nominal length for example 100	
+8:36		feet will provide a standardization	
+8:39		certificate unless requested and paid	
+8:42		for as an extra the actual length of	
+8:45		tape is determined by comparing it with	
+8:47		a tape of known length the National	
+8:50		Bureau of Standards were made such a	
+8:52		comparison for a small fee and will	
+8:55		certify the actual distance between the	
+8:57		ends of the tape under given conditions	
+8:59		of temperature tension and type of	
+9:03		support in the area where I work the	
+9:06		county of orange will do a comparison of	
+9:09		your tape to a tape that has been tested	
+9:11		at the Bureau of Standards in our office	
+9:14		we have a tape that has been	
+9:16		standardized and we keep specifically	
+9:18		for comparing with other tapes the	
+9:20		standardized tape is never sent out in	
+9:22		the field an error due to incorrect	
+9:26		length of tape occurs each time the tape	
+9:29		is used if the actual length of the tape	
+9:32		is known and is different than the	
+9:34		nominal length the correction can be	
+9:36		determined and applied from the formulas	
+9:38		shown where the correction to be applied	
+9:41		note here as C sub L is equal to the	
+9:45		actual tape length minus the nominal	
+9:48		tape length divided by the nominal tape	
+9:50		length times the measured length of line	
+9:53		this correction is then added to the	
+9:56		measured length of line to arrive at the	
+9:59		actual length of the line make sure you	
+0:02		note the algebraic sign of the	
+0:04		correction so it is applied correctly to	
+0:06		the measured distance here we see	
+0:09		graphically the situation where a tape	
+0:11		is actually shorter than the indicated	
+0:14		or nominal length by three hundredths of	
+0:16		a foot if the actual distance between	
+0:19		the hubs is 100 point zero zero feet	
+0:21		then this tape will read 100 point oh	
+0:25		three feet this can be also this can	
+0:28		also be shown by applying the correction	
+0:31		formula here the actual tape length	
+0:34		three hundreds short which equals	
+0:36		ninety-nine point nine seven feet	
+0:38		the nominal length is 100 feet and the	
+0:41		measured distance is 100 point oh three	
+0:44		feet the correction is calculated to be	
+0:47		negative zero point zero three feet and	
+0:49		when added to the measured distance	
+0:51		equals 100 feet the actual distance	
+0:55		between the hubs for the practical	
+0:58		standpoint the effect of any error in	
+1:00		taping whether it be due to temperature	
+1:02		tension sag etc which we'll talk about	
+1:06		in a minute will make the tape length	
+1:08		incorrect note that the actual distance	
+1:12		equals the measured distance plus a	
+1:14		correction and the proper algebraic sign	
+1:17		is built-in this is true for all taping	
+1:20		Corrections however you should still try	
+1:23		to reason whether a certain condition	
+1:25		makes a tape too long or too short and	
+1:27		apply the correction accordingly drawing	
+1:31		a sketch like I have here is a great	
+1:33		help in helping you reason or visualize	
+1:36		an answer one of the most common	
+1:39		Corrections made is that for temperature	
+1:41		other than the temperature at which the	
+1:42		tape was standardized stair tapes will	
+1:45		expand and contract depending on the	
+1:48		temperature of the tape at the time of	
+1:50		making the measurement the coefficient	
+1:53		of thermal expansion and contraction of	
+1:55		Steel normally used on tapes is	
+1:57		approximately six point five times ten	
+2:00		to the negative six per unit length per	
+2:03		degree Fahrenheit the actual length of a	
+2:06		line measured at a temperature other	
+2:08		than standard is equal to the measured	
+2:10		length plus the product of the	
+2:12		coefficient of the thermal expansion and	
+2:15		contraction of steel times the tape	
+2:17		temperature at the time of observation	
+2:20		minus the tape temperature the time of	
+2:22		standardization which is usually 68	
+2:25		degrees Fahrenheit times the measured	
+2:28		length of the line take some time now to	
+2:31		work the temperature correction problem	
+2:33		in your workbook let's check your	
+2:36		results I've worked the right sided	
+2:39		equation first the value for the thermal	
+2:42		expansion and contraction of steel is	
+2:44		multiplied by the sum of the difference	
+2:46		between the temperature of the tape at	
+2:48		the time of the measurement 45 degrees	
+2:51		Fahrenheit and the temperature of the	
+2:53		tape at the time of standardization	
+2:54		which was 68 degrees Fahrenheit and this	
+2:58		product is multiplied by the distance	
+3:00		measured eight hundred and fifty point	
+3:02		four four feet this equals a negative	
+3:05		zero point one two seven feet this	
+3:09		correction is then added to the measured	
+3:11		distance again 850 point four four feet	
+3:14		which equals 850 point three one three	
+3:18		feet which is then rounded to 850 point	
+3:21		three one another correction you should	
+3:25		be familiar with is the correction for	
+3:27		inconsistent poll when a steel tape is	
+3:30		pulled with a tension greater than its	
+3:32		standard the tape will stretch and be	
+3:35		longer than its standard length	
+3:37		conversely if less than standard pull is	
+3:40		used the tape will be shorter than its	
+3:42		standard length accurate tension or pull	
+3:46		is measured with a spring balance with	
+3:49		experience you will be able to play	
+3:51		within a few pounds of a specific	
+3:53		tension without the spring balance the	
+3:56		modulus of elasticity of steel of the	
+3:59		tape regulates the amount that it	
+4:01		stretches the actual length of the line	
+4:04		measured with attention other than	
+4:06		standard is equal to the measured length	
+4:08		of the line plus the difference of the	
+4:11		tension applied at the time of	
+4:13		measurement and the tension applied at	
+4:15		the time of standardization times the	
+4:18		measured length of the line divided by	
+4:21		the product of the cross-sectional area	
+4:23		of the tape and the elasticity of steel	
+4:26		which is usually 29 million pounds per	
+4:29		square inch	
+4:30		try the correction of tension problem in	
+4:33		your workbook now let's work through the	
+4:36		problem again I'll work the right side	
+4:39		of the equation first first I computed	
+4:42		the difference between the tension used	
+4:44		at the time of measurement 20 pounds and	
+4:46		the tension in which this tape was	
+4:48		standardized 12 pounds giving me a	
+4:51		result of 8 this value is then	
+4:54		multiplied by the quotient of the length	
+4:56		line measured six hundred and fifty	
+4:58		point four five feet divided by the	
+5:01		product of the cross-sectional area of	
+5:03		the tape 0.005 square inches and the	
+5:08		u.s. tissa T of Steel twenty nine	
+5:10		million pounds per square inch giving us	
+5:13		a correction of positive 0.03 six feet	
+5:17		when this correction is added to the	
+5:20		measured length of the line the actual	
+5:22		length of line is 650 point four eight	
+5:25		six feet which is rounded to 650 point	
+5:28		four nine feet the effective tension is	
+5:31		usually relatively small and is only	
+5:34		needed for the most precise measurements	
+5:37		another systematic taping error is that	
+5:39		of sag a steel tape when not supported	
+5:43		throughout sags in the form of a	
+5:45		catenary the same as the cable on a	
+5:47		suspension bridge sag shortens the	
+5:51		horizontal distance between the ends of	
+5:53		a tape say can be diminished by greater	
+5:56		tension but cannot be eliminated unless	
+5:58		the tape is supported throughout the	
+6:01		actual sag of the tape is not important	
+6:04		the reduced distance between the ends is	
+6:07		critical the formulas shown here are	
+6:10		used to compute the sag correction there	
+6:12		are two formulas because the effective	
+6:14		sag is different for a full tape length	
+6:17		as compared with a partial tape length	
+6:19		the first formula would be used for a	
+6:22		partial tape length and the second	
+6:24		formula would be used for the full tape	
+6:26		length for the partial tape length the	
+6:29		correction for sag is equal to negative	
+6:31		the weight of the tape per foot squared	
+6:34		times the length of the unsupported tape	
+6:36		cubed divided by 24 times the tension	
+6:40		applied at the time of measurement	
+6:41		squared for a full length tape length	
+6:45		the correction for sag is negative the	
+6:48		total weight of the tape squared times	
+6:51		the unsupported length of the tape	
+6:52		divided by 24 times the tension applied	
+6:55		squared the formulas are negative value	
+6:59		because the effective sag always reduces	
+7:02		the length of the tape the sum of the	
+7:04		Corrections do	
+7:06		then added to the measured line length	
+7:08		of line to give the actual length of the	
+7:11		line try the correction try the	
+7:13		correction for sag problem in your	
+7:15		workbook let's look at the results for	
+7:19		the correction for sag the correction	
+7:21		for each of the three 100-foot lengths	
+7:23		would be negative the weight of the tape	
+7:25		.5 pounds squared times the unsupported	
+7:29		tape length which is 100 feet divided by	
+7:33		4 times the tension applied being 12	
+7:36		pounds squared this equals negative zero	
+7:39		point zero 6 5 feet per 100 foot tape	
+7:43		line the effective sag for the 50 point	
+7:47		four two foot portion of the measurement	
+7:49		is equal to negative the weight of the	
+7:51		tape per foot squared the weight per	
+7:54		foot was determined by taking the total	
+7:56		weight 1.5 pounds in dividing by a	
+7:59		hundred times the length of the	
+8:01		unsupported tape cubed this being the	
+8:04		fifty point four two-foot portion	
+8:06		divided by 24 times the tension applied	
+8:09		squared the tension being 12 pounds this	
+8:13		is equal to negative zero point zero	
+8:16		zero eight feet the sum of the	
+8:19		corrections for sag is determined by	
+8:21		multiplying the correction for the full	
+8:23		tape length negative zero point zero six	
+8:26		five feet times the number of full tape	
+8:29		lengths being three and subtracting the	
+8:32		side correction for the partial tape	
+8:34		length which is zero point zero zero	
+8:37		eight feet this total correction is	
+8:40		negative zero point 203 feet which is	
+8:43		then added to the measured length of	
+8:45		line resulting in the actual length of	
+8:48		line being three hundred and fifty point	
+8:50		two two feet as you can see the effect	
+8:53		of sag can be rather large it is	
+8:56		important to note whether your tape was	
+8:57		standardized supported throughout or	
+9:00		supported at the ends only if this is	
+9:03		known then the effective sag can be	
+9:05		properly corrected the last systematic	
+9:08		error in taping that I would like to	
+9:10		discuss is the correction for poor	
+9:12		alignment if one end of a tape is off	
+9:15		line where the tape is snagged on an	
+9:17		obstruction and	
+9:19		occurs when the tape end of the tape is	
+9:22		set off line by one point four feet the	
+9:25		air and the measurement will be one	
+9:27		hundredth of a foot if the center of 100	
+9:30		foot tape is caught on brush and is one	
+9:33		foot off line the air will be two	
+9:36		hundredths of a foot in the 100 foot	
+9:38		length air is resulting from poor	
+9:42		alignment always make the recorded	
+9:44		length longer than the actual length of	
+9:46		the line with practice the rear	
+9:48		attainment should have little trouble	
+9:50		keeping the chain Minh well within a	
+9:52		foot of the correct course the failure	
+9:55		to correct for poor alignment is	
+9:57		negative the distance at tape is off	
+0:00		line squared divided by 2 times the	
+0:03		length of tape the actual length of the	
+0:06		line is equal to the measured length of	
+0:08		the line plus the sum of the individual	
+0:11		alignment Corrections try the problem	
+0:13		for correction for poor alignment in	
+0:15		your workbook now shown here is the	
+0:19		result for the problem correction for	
+0:21		poor alignment the correction for the	
+0:24		first 100 foot tape length is negative	
+0:26		the distance the tape is off line 1.2 6	
+0:29		feet squared divided by 2 times the tape	
+0:33		length which is 100 feet the answer is	
+0:36		then negative 0.008 feet the	
+0:40		calculations for the remaining 3 tape	
+0:42		links are shown with the results being	
+0:44		negative zero point zero zero five feet	
+0:47		negative zero point zero three two feet	
+0:49		and negative 0.02 seven feet the sum of	
+0:54		the Corrections is negative zero point	
+0:56		zero seven two feet and when this	
+0:58		correction is applied to the measured	
+1:01		length of line the result is 350 point	
+1:04		four nine feet for the actual length of	
+1:06		the line we've seen the results of	
+1:09		several types of errors and taping	
+1:11		remember that these errors for	
+1:13		temperature in correct tension sag and	
+1:17		poor alignment are systemic and can	
+1:20		therefore be removed from the	
+1:21		measurement either by applying certain	
+1:23		methods and techniques in the field or	
+1:26		by calculating Corrections after the	
+1:28		measurements have	
+1:28		nay all of these taping errors result in	
+1:31		the fact that a nominal 100 foot tape is	
+1:34		either longer or shorter than 100 feet	
+1:37		there are only two types of taping tasks	
+1:40		an unknown distance between two fixed	
+1:43		points can be measured or a required	
+1:46		distance can be laid out from one fixed	
+1:48		point since the tape may be too long or	
+1:51		too short for either task there are four	
+1:54		possible types of taping problems they	
+1:57		are measuring with a tape that is too	
+2:00		long measuring with a tape that is too	
+2:03		short	
+2:03		lay out with a tape that is too long and	
+2:06		laying out with a tape that is too short	
+2:09		the solution to a particular taping	
+2:12		problem is always simplified and	
+2:14		verified by drawing a sketch simply	
+2:19		measure between points a and B and later	
+2:21		find that the tape is too long in other	
+2:24		words the distance between the 0 and 100	
+2:26		foot marks on the tape is actually 100	
+2:30		point oh three feet then the first tape	
+2:32		length would extend to a point would	
+2:35		extend the point 10.0 three feet farther	
+2:39		than the actual 100 foot location the	
+2:42		next tape length would extend the point	
+2:44		two and the third to point three since	
+2:48		the distance remaining from three to B	
+2:50		is less than the correct distance from	
+2:52		the actual 300 foot location to point B	
+2:55		the length recorded in your field book	
+2:57		is too small and must be increased by a	
+3:01		correction value if the tape had been	
+3:03		too short then as a record distance	
+3:06		would be too large and the correction	
+3:08		must be subtracted in laying out a	
+3:11		required distance from one fixed point	
+3:14		the reverse is true suppose now that we	
+3:17		want to lay out point B from a known	
+3:19		point a with a tape that is too long if	
+3:22		we lay out a plan length with a tape	
+3:25		that is too long we will end up beyond	
+3:28		point B therefore we must subtract our	
+3:31		correction to set point B correctly	
+3:33		conversely the correction must be added	
+3:36		for tapes that are too short a simple	
+3:39		sketch like the one here	
+3:40		clear weather the correction shall be	
+3:42		added or subtracted for any of the four	
+3:44		cases let's notice let's now move on to	
+3:48		the final type of distance measurement	
+3:50		we're going to discuss that being	
+3:51		electronic distance measurement or EDM s	
+3:54		a major advance in surveying occurred	
+3:57		when the with the development of EDM s	
+4:00		in the 1950s and the 1960s EDM s make	
+4:04		the actual measurement of distances a	
+4:06		very simple and fast task in modern	
+4:10		idioms the measured distance is	
+4:12		automatically displayed in the digital	
+4:15		form in feet or meters on a display	
+4:17		screen on the instrument and may have	
+4:20		many have built-in microcomputers that	
+4:23		calculate both horizontal and vertical	
+4:25		components of the measured slope	
+4:27		distance EDM will now being incorporated	
+4:30		with electronic theodolites having	
+4:33		automatic angle readout capabilities to	
+4:35		create so-called total stations these	
+4:38		instruments can simultaneously and	
+4:40		automatically measure both distances and	
+4:42		angles when the total stations are	
+4:45		equipped with data collectors they can	
+4:47		record field notes electronically and	
+4:49		transmit them to computers plotters and	
+4:52		other equipment for processing these	
+4:56		so-called field to finish systems are	
+4:59		revolutionising the practice of	
+5:01		surveying let me try to explain now how	
+5:04		an EDM works in general the EDM measures	
+5:08		a distance by comparing a line of	
+5:10		unknown length to the known wave length	
+5:13		of transmitted energy the wavelength	
+5:16		shown here by the Greek letter lambda	
+5:18		this is similar to relating an unknown	
+5:21		distance to the calibrated length of the	
+5:23		of a steel tape the EDM centered over	
+5:27		the point a transmits to point B a	
+5:30		carrier signal of electronic	
+5:32		electromagnetic energy usually infrared	
+5:36		light on modern EDM s on which a	
+5:39		reference frequency has been	
+5:40		superimposed or modulated the signal is	
+5:44		returned from B to the EDM so it's	
+5:47		travel path is double the slope distance	
+5:49		of a to be this modulated electrode	
+5:53		energy is represented by a series of	
+5:55		sine waves each having the wavelength	
+5:58		lambda one for wavelength is equal to	
+6:02		60 degrees phase shift e dms operate by	
+6:07		measuring this phase shift of the	
+6:09		wavelengths of the light let's say for	
+6:12		example that the wavelength is ten feet	
+6:14		long when the light returns to the EDM	
+6:17		the instrument measures the amount of	
+6:19		phase shift of the white light wave	
+6:22		suppose the phase shift is equal to 180	
+6:25		degrees this is equal to one half of 360	
+6:29		therefore the length of that portion of	
+6:31		the wave is five point zero zero feet	
+6:34		once this distance is computed the EDM	
+6:37		changes the wavelength to 100 feet the	
+6:40		instrument then measures the phase shift	
+6:42		of this light wave the amount of this	
+6:44		phase shift would identify the number in	
+6:47		the tens column of our measurement the	
+6:49		wavelength is then changed to a thousand	
+6:52		feet and the procedure is repeated for	
+6:54		the hundreds column and so forth until	
+6:57		the entire distance is determined this	
+7:00		entire petite procedure takes a fraction	
+7:02		of a second and the entire process is	
+7:05		repeated numerous times before a value	
+7:07		the mean of all the measurements is	
+7:09		displayed on the instrument screen it is	
+7:13		important to remember that EDM always	
+7:16		measures a slope distance this distance	
+7:18		must be reduced to a horizontal distance	
+7:20		by one of two methods the most common	
+7:24		method of determining the horizontal	
+7:26		distance is to measure the zenith angle	
+7:28		from the instrument station to the	
+7:30		target at the far end of the line it	
+7:33		should be noted here that all modern	
+7:34		theodolites measure a Zenith angle	
+7:36		rather than a vertical angle as the	
+7:39		older transits did the horizontal	
+7:41		distance is then calculated by	
+7:43		multiplying the slope distance times the	
+7:46		sine of the zenith angle	
+7:47		another method is to determine the	
+7:49		difference in elevation between the	
+7:51		instrument station and the target	
+7:53		station by one of the leveling	
+7:55		procedures the horizontal distance can	
+7:58		then be calculating using mr. pythagoras	
+8:01		theorem the horizontal distance equals	
+8:04		the square	
+8:04		root of the slope distance squared minus	
+8:07		the difference in elevation squared	
+8:09		we've already discussed how the accuracy	
+8:12		of EDM distance is determined when we	
+8:15		review the error in a series let's now	
+8:18		discuss some of the error sources and	
+8:20		EDM measurements personal errors include	
+8:23		inaccurate setup over control points and	
+8:25		blunders in reading the display data	
+8:28		instrumental errors are generally very	
+8:31		small if the EDM is maintained in Top	
+8:33		repair occasionally the EDM will become	
+8:36		maladjusted this can be detected by	
+8:39		taking the EDM to a calibrated baseline	
+8:42		on a regular basis another instrumental	
+8:45		error occurs when the offset in the	
+8:47		prism is misidentified natural errors	
+8:51		relate mostly to atmospheric	
+8:53		considerations the speed of	
+8:55		electromagnetic energy wave can be	
+8:57		affected by the temperature and humidity	
+8:59		of the air most newer EDM s have micro	
+9:03		processors that allow the input of the	
+9:05		atmospheric data and this automatically	
+9:08		calibrates the instrument correctly one	
+9:11		other type of distance measuring device	
+9:13		that is being covered in another unit of	
+9:15		this video training series is Global	
+9:18		Positioning Systems or GPS this	
+9:21		technology which provides point	
+9:23		positioning by using satellites is	
+9:25		revolutionizing the way we survey much	
+9:29		the same way that EDM s did in the 1960s	
+9:31		and the 1970s before too long	
+9:34		a study of basic survey measurements	
+9:38		will be covering GPS the way we cover	
+9:40		tapes and EDM s in this session this	
+9:44		concludes our discussion of distance	
+9:46		measurement another unit of this video	
+9:49		training series is covering leveling and	
+9:51		the determination of elevations the only	
+9:54		discussion I'd like to cover here is	
+9:56		sources of error in leveling if you are	
+9:59		unfamiliar with the basic leveling	
+0:01		equipment and procedures I would suggest	
+0:03		you review that unit now the primary	
+0:07		source of error in leveling as with all	
+0:09		survey measurements is personal and	
+0:12		usually revolves around the state	
+0:14		in recording the field data in this case	
+0:17		the rod readings other personal errors	
+0:20		include not holding the rod vertical and	
+0:22		not keeping the instrument level the	
+0:25		major instrumental error the line of	
+0:28		sight not being horizontal can be	
+0:30		compensated for in the field by	
+0:33		balancing the length of the sights you	
+0:36		can see here that the area created when	
+0:38		the line of sight is not perfectly	
+0:40		horizontal indicated by the small letter	
+0:43		a is the same on both sides if the	
+0:46		length of the site is balanced when this	
+0:49		happens the air at each rod is	
+0:51		compensated for and can be ignored if	
+0:53		the sites are unbalanced as shown by the	
+0:56		rod on the far right then an error is	
+0:59		introduced to the measurements as shown	
+1:02		keeping the shots balanced while	
+1:04		leveling has always been an important	
+1:06		practice let's move on now to the study	
+1:09		of Direction determining locations of	
+1:12		points and orientation of line	
+1:14		frequently it depends on the measurement	
+1:17		of angles and directions in surveying	
+1:19		Direction is given by bearings and	
+1:22		asmath angles measured in surveying are	
+1:26		classified as horizontal shown here is	
+1:28		the angle subtended from A to B and	
+1:32		vertical shown is the angle at O	
+1:35		subtended from A to C horizontal angles	
+1:39		are the basic measurements needed for	
+1:41		determining bearings and asmath vertical	
+1:44		angles and their complement Zenith	
+1:46		angles are used in trigonometric	
+1:48		leveling stadia and for reducing soap	
+1:51		distances to horizontal distances angles	
+1:55		are most often measured directly in the	
+1:56		field by the theodolite there are three	
+2:00		basic requirements for determining a	
+2:01		horizontal angle as shown here there are	
+2:05		the reference or starting line line o a	
+2:08		the direction of turning in this case to	
+2:12		the right from a towards B and the	
+2:15		angular distance which is the value of	
+2:17		the angle vertical angles are slightly	
+2:20		different they start with the telescope	
+2:23		horizontal here the horizontal line from	
+2:25		to a the direction of turning is in the	
+2:28		vertical plane and is measured	
+2:30		positively up or negatively down and the	
+2:34		angular distance is the same as	
+2:36		measuring a horizontal angle as	
+2:39		mentioned at the beginning of this unit	
+2:41		the unit of measure for direction in the	
+2:43		United States and many other countries	
+2:45		is based on degrees minutes and seconds	
+2:48		with the last unit further divided	
+2:50		decimal e this will discuss the	
+2:54		direction of a line bearings represent	
+2:57		one system for designated the	
+2:59		designating the directions for lines by	
+3:02		means of an angle in quadrant letters	
+3:04		the bearing angle of a line is the acute	
+3:07		horizontal angle between a reference	
+3:09		Meridian and the line meridians are the	
+3:12		north-south reference line from which	
+3:15		the bearing angle is determined there	
+3:18		are several types of meridians	
+3:20		astronomical idioms are based on	
+3:22		observations of the Stars primarily	
+3:25		Polaris which are used to determine	
+3:27		astronomic or true north magnetic	
+3:30		meridians are based on the direction of	
+3:32		the needle in a compass assume meridians	
+3:36		are very common in surveying an example	
+3:39		of an assumed yridian is taking the	
+3:40		direction of a street to be north state	
+3:43		plane coordinates are based on grid	
+3:45		meridian meridians now back to bearings	
+3:48		the angle is measured from either the	
+3:51		north or south toward the east or west	
+3:54		to give a reading smaller than 90	
+3:57		degrees the popular quadrant is	
+3:59		identified by a capital letter n or S	
+4:03		preceding the angle and a capital letter	
+4:06		E or W following in our figure the	
+4:10		bearing in the northeast quadrant is	
+4:12		measured clockwise from the meridian	
+4:14		thus the line o to a has a bearing of	
+4:17		north	
+4:18		eighty-three degrees east the bearing in	
+4:21		the southeast quadrant is measured	
+4:23		counterclockwise from the meridian	
+4:25		therefore the bearing of line OB is	
+4:28		south 37 degrees east	
+4:31		similarly the bearing OC is south 50	
+4:35		degrees west	
+4:36		and the bearing OD is north 40 degrees	
+4:39		west	
+4:40		another system used to identify the	
+4:43		direction of a line is as much as once	
+4:47		our angle measured clockwise from any	
+4:49		reference Meridian in plane surveying	
+4:52		Asmus are generally measured from the	
+4:54		north but astronomers the military and	
+4:57		the National geodetic survey have used	
+5:00		south as the reference direction as	
+5:03		shown here asthma's can range from zero	
+5:05		degrees to 360 degrees and do not	
+5:08		require a letter to designate the	
+5:10		quadrant the azimuth from a to a is 65	
+5:13		degrees from o to B is 130 degrees from	
+5:18		Olie to C is two hundred and thirty six	
+5:20		degrees and from only to D is three	
+5:23		hundred and forty degrees just like	
+5:25		bearings Asmus may be based on true	
+5:28		magnetic assumed or grid meridians they	
+5:32		may also be forward or back azimuth	
+5:35		forward Asmus which are shown here are	
+5:38		converted to back azimuth and vice versa	
+5:40		by adding or subtracting 180 degrees for	
+5:44		example the azimuth from o to a is 65	
+5:47		degrees then the back azmuth or the	
+5:50		azmuth from a to O is 65 degrees plus	
+5:53		80 degrees which equals 245 degrees	
+5:57		the azmuth from A to C is 236 degrees	
+6:01		the back azmuth or the azmuth from C to	
+6:04		O is 236 degrees minus 180 degrees which	
+6:09		equals 56 degrees bearings can be	
+6:12		computed from Asmus by noting the	
+6:14		quadrant in which the azmuth falls and	
+6:16		then converting it an azmuth in	
+6:19		northeast quadrant is the same as the	
+6:21		bearing and as what the 65 degrees will	
+6:24		be a bearing of North sixty-five degrees	
+6:26		east and as with the misaki's quadrant	
+6:29		is subtracted from 180 degrees to get	
+6:32		the bearing thus the azimuth of 130	
+6:35		degrees is equal to a bearing of 180	
+6:38		degrees minus 140 degrees or south 40	
+6:42		degrees east in the southwest quadrant	
+6:45		80 degree	
+6:46		is subtracted from the asmath to	
+6:48		determine the bearing an azimuth of 236	
+6:51		degrees minus 180 degrees equals of	
+6:55		bearing of South 56 degrees west finally	
+6:58		in the northwest quadrant the as worth	
+7:01		is subtracted from 360 degrees an asthma	
+7:04		that 340 degrees is subtracted from 360	
+7:07		degrees which equals a bearing of North	
+7:09		0 degrees west many types of surveys in	
+7:13		particular those four traverses require	
+7:16		calculation of bearings or azimuth	
+7:18		traverses are covered in detail in	
+7:20		another video training session they are	
+7:23		basically a series of distances and	
+7:25		angles or distances and bearings or	
+7:28		distances and as mcc's	
+7:29		connecting successive points computation	
+7:33		of the bearing of the line is always	
+7:34		simplified by drawing a stretch similar	
+7:37		to the one shown here I'd like to take a	
+7:40		minute here to get back on my soapbox	
+7:41		again I've been teaching survey classes	
+7:44		at a local junior college in Southern	
+7:46		California for almost 10 years now I've	
+7:49		typed classes in both basic survey	
+7:51		measurements and classes are more	
+7:53		advanced survey calculations I've always	
+7:56		encouraged my students to visualize a	
+7:58		problem before they attempt to solve it	
+8:01		one of the most important tools you can	
+8:03		use in visualizing a problem is drawing	
+8:06		a simple sketch of the situation many	
+8:09		times if you can't remember a specific	
+8:11		formula you can still solve the problem	
+8:14		by drawing a sketch and then working the	
+8:16		problem out using simple mathematics	
+8:19		I've noticed over the years that the	
+8:22		students who do well in class are those	
+8:24		who take the time to draw a sketch	
+8:26		before trying to solve a problem not	
+8:29		only does it help them see the problem	
+8:31		but it gives them a sense of what order	
+8:34		to do their calculations in conversely	
+8:37		the students who have not done very well	
+8:39		seldomly draw a sketch they get the	
+8:42		problem and immediately begin trying to	
+8:45		solve it usually by trial and error	
+8:47		usually incorrectly this is something I	
+8:50		can't stress enough always draw a sketch	
+8:53		of the situation before you try and	
+8:55		solve the problem it will help you see	
+8:58		the	
+8:58		and help you solve it correctly okay	
+9:02		back to the problem at hand here's the	
+9:04		prop here the problem is to determine	
+9:06		the bearing from B to C the bearing of a	
+9:09		line a B is known and has a value of	
+9:12		North 41 degrees twenty-five minutes	
+9:14		east this means that the angle at point	
+9:17		B from the meridian to point a is 41	
+9:20		degrees twenty-five minutes when we we	
+9:23		then add the angle of 130 degrees 11	
+9:26		minutes to 41 degrees 25 minutes giving	
+9:30		us a value of 171 degrees 36 minutes and	
+9:33		also placing the line BC in the	
+9:37		northwest quadrant remember that a	
+9:39		bearing cannot exceed 90 degrees so we	
+9:42		can subtract this value from 180 degrees	
+9:45		giving us a bearing of North 8 degrees	
+9:48		4 minutes rest now let's determine the	
+9:52		determine the bearing of line CD the	
+9:55		bearing of line BC is north 8 degrees 24	
+9:58		minutes rest so the angle at sea from	
+0:01		the meridian of the line to point B is 8	
+0:04		degrees 24 minutes the angle at C from B	
+0:08		to D is 88 degrees 17 minutes which	
+0:12		faces the line in the southwest quadrant	
+0:14		since bearings in the southwest quadrant	
+0:17		are measured from the meridian going	
+0:19		south the bearing of line CD is simply	
+0:23		the value of the angle 88 degrees 17	
+0:26		minutes minus the bearing of line BC	
+0:28		which is 8 degrees 24 minutes equaling	
+0:32		the bearing of South 79 degrees 53	
+0:35		minutes west I hope you can see how a	
+0:38		sketch for this type of problem can	
+0:40		ultimately save you time and a lot of	
+0:42		frustration in determining the solution	
+0:46		determining asmath from measured angles	
+0:48		is a little easier than determining	
+0:50		bearings here we want to determine the	
+0:53		ad from asmath from B to C the asmath	
+0:57		from line A to B is 41 degrees 25	
+1:00		minutes the back asmath which equals the	
+1:04		azimuth from B to a is then 2041 degrees	
+1:07		5 minutes plus 180	
+1:10		which equals 221 degrees 25 minutes we	
+1:14		simply add the measured angle 129	
+1:18		degrees 30 minutes to this which results	
+1:20		in an azimuth from B to C of 350 degrees	
+1:25		5 minutes remember to draw your	
+1:28		sketches a special type of Direction	
+1:31		determination that is of interest to the	
+1:33		surveyor is magnetic bearings and Asmus	
+1:36		as I mentioned before magnetic bearings	
+1:39		and Asmus are based on a Meridian that	
+1:42		is determined by the direction that a	
+1:43		needle in a compass points the magnetic	
+1:47		declination is the horizontal angle from	
+1:49		a true Meridian to the magnetic meridian	
+1:52		an East declination exists when the	
+1:55		magnetic Meridian is east of True North	
+1:57		a west declination occurs if it is west	
+2:00		of True North the declination at any	
+2:03		location can be determined by	
+2:05		establishing a true Meridian by	
+2:07		astronomical observations and then	
+2:10		reading the compass while sighting along	
+2:11		this true Meridian this is what the	
+2:14		early surveyors did with their compasses	
+2:16		while they were surveying the public	
+2:18		lands today we must be able to follow	
+2:20		the township and section lines	
+2:22		established back in the late 1800s and	
+2:25		early 1900s and a knowledge of magnetic	
+2:28		bearings is essential this map of	
+2:31		California shows the magnetic	
+2:32		declination throughout the state a map	
+2:35		showing magnetic declination is called	
+2:37		an iced organic map and the lines	
+2:40		showing the declination are called	
+2:42		isogonic lines as you can see in	
+2:45		California the magnetic north is east of	
+2:48		true north	
+2:49		this was the magnetic declination in	
+2:51		985 as you are aware the magnetic pole	
+2:56		is constantly shifting which causes a	
+2:58		constant change in the magnetic	
+3:00		declination the lines on the map show	
+3:03		the rate of change and the direction	
+3:05		each year in the yellow basin where I	
+3:08		live the magnetic declination 1985 was	
+3:11		close to 14 degrees east	
+3:13		since then it has changed at a rate of 1	
+3:16		minute east per year this means that the	
+3:20		magnetic declination today in 19	
+3:23		2 is 13 degrees 7 minutes east here you	
+3:28		can see how to determine a true bearing	
+3:30		from a magnetic bearing and magnetic	
+3:32		declination the magnetic declination is	
+3:35		4 degrees 7 minutes east and the	
+3:38		magnetic bearing established from this	
+3:40		meridian is South 60 degrees 52 minutes	
+3:43		east since the magnetic Meridian extends	
+3:46		into the southwest quadrant we must	
+3:49		subtract the magnetic declination from	
+3:51		the magnetic bearing to determine the	
+3:53		true bearing which in this case is South	
+3:56		6 degrees 45 minutes east again a	
+4:00		stretch helps makes this type of problem	
+4:02		easy to calculate this brings us to our	
+4:05		final topic of discussion which is the	
+4:07		instruments used to determine direction	
+4:09		and their use the a delights are the	
+4:12		most universal survey instruments even	
+4:15		though their primary use is for	
+4:17		measuring or laying out horizontal and	
+4:19		vertical angles they are also commonly	
+4:22		used for a wide variety of other tasks	
+4:24		such as determining horizontal and	
+4:26		vertical distances by stadia prolonging	
+4:29		straight lines and occasionally lower	
+4:31		order leveling the theodolite consists	
+4:35		of a telescope with crosshairs	
+4:37		horizontal and vertical circles made of	
+4:39		glass with graduation lines and numerals	
+4:43		edged on the circle surfaces which are	
+4:46		encased within the instrument also	
+4:49		includes a reading system consisting of	
+4:51		a microscope and other optics which	
+4:53		allow detailed viewing of the glass	
+4:55		circles rotation about the vertical axis	
+4:58		on a system of precision ball bearings	
+5:01		tribe racks that allow the instrument to	
+5:03		be removed and targets attached without	
+5:06		setting up again and an optical plummet	
+5:09		that allows great accuracy in the setup	
+5:11		there are two types of the auto light	
+5:14		repeating and directional repeating	
+5:17		instruments like the wild t16 arguably	
+5:21		the most popular theodolite ever built	
+5:23		are equipped with a double vertical axis	
+5:25		that allows horizontal angles to be	
+5:28		ratite repeated any number	
+5:30		times and the results of these repeated	
+5:33		measurements can be accumulated on the	
+5:35		horizontal circle the angle is then	
+5:38		determined by dividing this accumulated	
+5:40		angle by the number of repetitions in	
+5:43		other words the angle is the mean of the	
+5:46		accumulated measurements directional	
+5:49		instruments like the wild t2 another	
+5:52		very popular instrument does not have	
+5:55		the ability to repeat angles directions	
+5:58		instead of angles are read the initial	
+6:02		direction are then subtracted from each	
+6:05		subsequent direction to determine the	
+6:07		angle directional instruments tend to be	
+6:10		more precise than the repeating	
+6:12		instruments recently the electronic	
+6:15		digital theodolite	
+6:16		has been introduced that shows the angle	
+6:19		measured directly on a display that's	
+6:21		illuminating the procedure of reading	
+6:23		the scale on the repeating and	
+6:25		directional instruments this feature	
+6:27		eliminates one of the main personal	
+6:29		error sources inherent in the mechanical	
+6:32		instruments that of interpreting	
+6:34		interpreting the value on the scale the	
+6:37		system used to automatically measure and	
+6:40		display the angles is similar to the bar	
+6:42		coding now used for automatic checkout	
+6:44		at grocery stores another advantage of	
+6:47		electronic digital theodolites	
+6:49		is the ability to be attached to data	
+6:51		collectors so that the angles can be	
+6:53		recorded electronically and thus	
+6:56		eliminating another source of personal	
+6:58		error recording the wrong value for a	
+7:00		measurement adding an EDM to the	
+7:02		electronic theodolite creates a total	
+7:04		station that we have discussed before we	
+7:08		don't have time in this training session	
+7:10		to go into detailed operation of each	
+7:12		type of it theodolite repeating	
+7:15		directional and electronic this is best	
+7:18		left for your field training when the	
+7:20		time can be spent practicing setting up	
+7:22		and operating the theodolite where we	
+7:24		will talk about here are some general	
+7:27		rules to remember when using the	
+7:29		theodolite in the field as mentioned	
+7:32		before horizontal angle should be	
+7:34		measured with each type of the Autolite	
+7:36		at least twice once with the telescope	
+7:39		in the direct position and once with the	
+7:41		telescope in the reverse	
+7:43		or plunge position again this procedure	
+7:46		eliminates all instrumental errors	
+7:48		except the one associated with the level	
+7:51		while being out of adjustment another	
+7:54		procedure that many surveyors recommend	
+7:56		is that of closing the horizon closing	
+7:59		the horizon is the process of measuring	
+8:01		the angles around a point to obtain a	
+8:04		checks on the sum which should equal 360	
+8:07		degrees as shown here if only angles a	
+8:12		and B are required angle C is also	
+8:15		measured to close the horizon and	
+8:17		provide that added check that will catch	
+8:20		a mistake in reading an angle or	
+8:22		sighting an incorrect target one of the	
+8:25		most common activities done with a	
+8:27		theodolite is prolonging a straight line	
+8:30		on route surveys straight lines may be	
+8:33		continued from one hub through several	
+8:35		others by the practice of double	
+8:38		centering to prolong a straight line	
+8:40		from a back sight the backside is	
+8:43		sighted and the telescope is then plunge	
+8:45		and a point or points are set on the	
+8:48		line if the instrument is in	
+8:50		maladjustment the point C prime will be	
+8:53		set the instrument is then rotated back	
+8:56		to the back sight once again the	
+8:59		telescope is plunged an emitter point is	
+9:01		set on line this point this time point C	
+9:05		double Prime the bisector of the line	
+9:07		between points C Prime and C double	
+9:11		prime is actually on the prolongation of	
+9:13		the line a B once again using the	
+9:17		theodolite in both the direct and plunge	
+9:19		position will eliminate most of the	
+9:22		instrumental errors another common	
+9:25		procedure that is done with a theodolite	
+9:27		is establishing a point on a line	
+9:29		between two points that are not interval	
+9:32		here it is necessary to establish point	
+9:35		X on the line between points Y and Z	
+9:38		which are not interval this is called	
+9:41		balancing in or wiggling in both points	
+9:45		X both points z y and z can be seen from	
+9:49		x trial point X prime is located as	
+9:53		close to the line as possible	
+9:55		and the instrument is setup over it	
+9:57		point why is then cited and the	
+00:00		telescope is plunged if the line of	
+00:03		sight does not pass through point Z then	
+00:06		the instrument is moved the distance of	
+00:08		X prime X estimated from the	
+00:11		proportional distance Z prime Z the	
+00:15		procedure is repeated until the	
+00:17		instrument is located correctly the	
+00:20		final adjustment is usually done by	
+00:21		moving the instrument on the tripod head	
+00:23		a small amount the modern theodolite	
+00:26		measures Zenith angles instead of	
+00:29		vertical angles as I mentioned before	
+00:31		the zenith angle is measured from the	
+00:33		zenith in other words the telescope is	
+00:36		pointed vertically when the scale reads	
+00:38		zero and is measured through 360 degrees	
+00:42		horizontal is at 90 degrees and 270	
+00:45		degrees Zenith angle should also be	
+00:49		measured in both the direct and plunge	
+00:51		position and the total of the two	
+00:53		measurement should equal 360 degrees if	
+00:56		they don't the difference between the	
+00:59		actual reading and 360 is divided by two	
+01:02		and either added to two the direct	
+01:06		reading if the total is less less than	
+01:08		60 degrees or subtracted if the total	
+01:11		is greater than 360 degrees instrumental	
+01:15		errors sources in the measurement of	
+01:17		angles are mostly related to the	
+01:19		alignment of the various axis within the	
+01:21		instrument the axis of sight must be	
+01:24		perpendicular to the horizontal axis the	
+01:27		horizontal axis must be perpendicular to	
+01:29		the vertical axis etc as I have	
+01:32		mentioned numerous times before these	
+01:34		are illuminated by sighting in both the	
+01:36		direct and plunged positions other	
+01:39		errors are caused by the level vials	
+01:41		being out of adjustment natural errors	
+01:44		include the effects of wind heat which	
+01:47		causes heat waves on hot days and also	
+01:50		affects the level while refraction and	
+01:53		the settling of the tripod as is the	
+01:56		case with all survey operations personal	
+01:59		errors account for a majority of the	
+02:01		error sources these include that setting	
+02:03		up directly over a point level bubble is	
+02:06		not	
+02:07		correctly poor focusing careless setting	
+02:10		of sites etc mistakes include setting up	
+02:14		over the wrong point recording an	
+02:17		incorrect reading one of my favorites is	
+02:19		reading the wrong circle and using poor	
+02:22		field procedures well this brings us to	
+02:25		the conclusion of unit 3 of the Cal	
+02:28		Trans LS lsit	
+02:30		video training program in conclusion I'd	
+02:33		like to discuss some exam taking	
+02:35		techniques that were suggested to me by	
+02:36		my friend and fellow surveyor Jack sands	
+02:39		of the San Diego County surveyor's	
+02:41		office these ideas worked very well for	
+02:44		me when I took the LS exam back in 1982	
+02:48		first of all don't bother studying the	
+02:50		night before the exam if you if you're	
+02:53		not ready by then it doesn't make any	
+02:55		difference make sure you know exactly	
+02:57		how to get to the exam location even if	
+03:01		this means driving to the site ahead of	
+03:03		time the last thing you want on exam day	
+03:06		is getting lost finally when you get	
+03:09		ready to go to bed the night before the	
+03:10		exam plan out exactly what you are going	
+03:14		to do from the time you get up until you	
+03:16		arrive at the test site decide what	
+03:19		you're going to wear what you're going	
+03:21		to eat for breakfast the route you're	
+03:23		going to take to the test site etc then	
+03:27		when you get up in the morning try to	
+03:29		follow your plan from the night before	
+03:31		this will do two things for you number	
+03:35		one since you have this plan in the back	
+03:37		of your mind you will be more relaxed	
+03:39		and be able to sleep better the night	
+03:41		before and by following the plan in the	
+03:44		morning you'll be sharpening your	
+03:46		concentration before the test begins and	
+03:48		you won't start cold when they pass the	
+03:51		exam out I hope these suggestions and	
+03:54		this training video will help you	
+03:56		succeed in passing the LS or lsit exam	
+04:00		and help make you a better surveyor good	
+04:02		luck	
+04:19		you	
+04:47		you	

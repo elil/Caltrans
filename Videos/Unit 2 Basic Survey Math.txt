@@ -1,0 +1,2153 @@
+00:49		welcome to Caltrans lsit Els exam	
+0:52		preparation course one aid in your	
+0:55		preparation for California licensure	
+0:57		examinations or word of caution don't	
+1:01		use this course as your only preparation	
+1:04		devise and follow a regular schedule of	
+1:07		study which begins months before the	
+1:09		test what many problems in each area not	
+1:14		just those in this courses workbook but	
+1:17		problems from other sources as well	
+1:19		this course is funded by Caltrans but	
+1:23		you and I owe a profound thanks to	
+1:26		others the courses instructors from the	
+1:29		academic community the private sector	
+1:31		other public agencies and from Caltrans	
+1:34		as well we wish you well in your study	
+1:38		toward becoming a member of California's	
+1:40		professional land surveying community	
+1:44		welcome viewers to this unit of the	
+1:47		Caltrans training videos my name is	
+1:50		edward zimmerman I work at the geometry	
+1:52		in the geometrics branch at Caltrans	
+1:55		headquarters in Sacramento in the past I	
+1:58		work for the California State Lands	
+2:00		Commission a private surveying firm in	
+2:03		the city of Sacramento I also teach	
+2:06		surveying at Sacramento City College I	
+2:09		am a licensed as a professional land	
+2:13		surveyor in California and in the state	
+2:15		of Arizona the subject I would like to	
+2:18		discuss today is understanding and most	
+2:21		importantly simplifying and working with	
+2:23		basic surveying mathematics I want to	
+2:27		emphasize that this video units	
+2:29		objective is to present basic	
+2:31		mathematical skills useful to surveyors	
+2:34		the discussion will be limited and is	
+2:37		not intended as a comprehensive	
+2:39		presentation of all surveying math	
+2:41		procedures it is taken for granted that	
+2:44		most viewers are already familiar with	
+2:47		some or most of the topics presented in	
+2:49		the beginning of this unit an	
+2:52		understanding of basic arithmetic	
+2:54		algebra geometry and trigonometry	
+2:57		calculation methods	
+2:59		is necessary to understand the more	
+3:01		complex forms of mathematics that you	
+3:04		will eventually encounter in your	
+3:05		surveying career hopefully this unit	
+3:09		will help the surveyor in the trainee to	
+3:11		develop and hone their computational	
+3:13		skills and to make correct and effective	
+3:16		use of appropriate solutions to	
+3:19		particular survey calculation problems I	
+3:22		am assuming that the viewer is	
+3:24		comfortable using and performing basic	
+3:26		arithmetic operations a review of the	
+3:29		technical math test texts in the	
+3:32		reference section of this workbook will	
+3:34		provide additional help with operations	
+3:36		and fundamental mathematical skills not	
+3:39		covered in this video in this day and	
+3:42		age electronic marvels every surveyor	
+3:44		has one or several types of computers	
+3:47		and calculators this video will present	
+3:50		various principles of math to get the	
+3:52		viewer a familiarization and a better	
+3:55		understanding of the principles involved	
+3:56		in solutions it is assumed that	
+3:59		calculator will be used to determine	
+4:01		numerical values of any given problems	
+4:05		the development of the decimal system	
+4:08		can be tracked back many centuries in	
+4:10		ancient times a small group of objects	
+4:13		were counted by comparing their number	
+4:15		with a number of fingers on ones hand	
+4:18		when larger groups of objects were	
+4:20		counted pebbles were arranged in groups	
+4:23		of 10 to keep track of the large number	
+4:26		of objects being counted the modern	
+4:29		counting system or decimal system is	
+4:31		based on the on these early beginnings	
+4:34		the whole number part of a number falls	
+4:38		on the left of the decimal point and the	
+4:40		fractional part of a number falls on the	
+4:42		right of the decimal point the chart and	
+4:45		this graphics shows the value of numbers	
+4:48		both both left and right of the decimal	
+4:50		point as shown numbers to the left our	
+4:54		hole and follow powers of 10 while	
+4:57		numbers to the right are fractional when	
+5:00		adding a group of decimal numbers	
+5:02		tabulate them so the decimal point of	
+5:05		each number is in vertical alignment up	
+5:08		down the column of numbers for example	
+5:12		add 1o 2.21	
+5:15		fourteen fifteen point five twenty one	
+5:19		point three four eight six oh eight	
+5:22		point 17 six point four one one starting	
+5:28		with a column to the right total each	
+5:29		column placing the decimal point of the	
+5:32		total in line with a decimal point above	
+5:34		when subtracting decimal numbers also	
+5:37		tabulate the numbers so each decimal	
+5:40		point is aligned vertically for example	
+5:43		subtract one three to four point four	
+5:47		six five from two one six four seven	
+5:50		point nine starting with the column to	
+5:54		the right subtract each number and then	
+5:57		place the decimal point of the	
+5:58		difference in line with the decimal	
+6:00		points above it	
+6:01		notice that zeros have been added to the	
+6:03		minuend	
+6:04		to fill out the column to multiply	
+6:07		decimal numbers determine the number of	
+6:10		decimal places in both the multiplier	
+6:12		and the multiplicand the product will	
+6:15		have the same number of decimal places	
+6:16		as total places in the two factors for	
+6:21		example multiply eight hundred and forty	
+6:23		three point 21 by fifty six point eight	
+6:26		nine three the product will be	
+6:29		forty-eight thousand zero forty eight	
+6:32		point six three five four three in the	
+6:36		second example 0.043 is multiplied by	
+6:40		zero point zero zero two one note that	
+6:44		zeros must be placed between the product	
+6:47		and the decimal point to create the	
+6:49		correct number of decimal places long	
+6:52		division of decimal numbers is set up	
+6:54		and tabulated the same as whole division	
+6:57		whole number division for example	
+6:59		divided 2467 point eighty nine by 10.45	
+7:07		move the divisors decimal point to the	
+7:10		right enough places to make it a whole	
+7:12		number move the decimal place in the	
+7:15		dividend the same number of places to	
+7:17		the right position the decimal place in	
+7:20		the quotient directly above the desk	
+7:21		point in the dividend you will generally	
+7:24		have to add zeros to the dividend to	
+7:27		attain the required numbers of decimal	
+7:29		places in your answer in the surveying	
+7:33		measurement process it is important to	
+7:36		indicate the measurement accuracy of a	
+7:38		measurement by recording the correct	
+7:40		number of significant figures the number	
+7:42		of significant figures in a quantity are	
+7:45		defined as those digits that are certain	
+7:48		or directly read plus one digit that is	
+7:51		estimated and/or uncertain significant	
+7:56		figures are sometimes confused with	
+7:58		decimal places decimal places do not	
+8:01		indicate significant figures but are	
+8:03		used to maintain the correct number of	
+8:05		significant figures some examples are	
+8:08		being shown in this graphic in surveying	
+8:11		calculations it is important that	
+8:13		calculations be consistent with the	
+8:16		measured values in addition and	
+8:19		subtraction operations answers should be	
+8:21		rounded off to show the same digit as	
+8:24		the digit expressing the least	
+8:25		significant figure in the column above	
+8:27		as shown in this graphic as shown in	
+8:32		this next graph ache and multiplication	
+8:34		or division operations the least number	
+8:36		of significant figures in the answer	
+8:38		should not exceed the least significant	
+8:40		figures in any of the factors rounding	
+8:44		off numbers is the process whereby one	
+8:47		or more digits is dropped from a number	
+8:49		so that it contains only the required	
+8:51		number of significant figures when	
+8:53		rounding off numbers to a required	
+8:55		degree of accuracy one of the following	
+8:58		methods shown on screen may be used	
+9:01		first when the digit to be dropped is	
+9:03		less than five the number remaining is	
+9:06		simply stated without the digit second	
+9:09		when the digit to be dropped is exactly	
+9:11		five the nearest even number is used for	
+9:14		the preceding digit this method	
+9:16		establishes a consistent pattern and	
+9:18		yields a better balance of results last	
+9:23		when the digit to be dropped is more	
+9:25		than five the nearest preceding digit is	
+9:27		increased by one simpler stated	
+9:30		percentage is an indication of a number	
+9:33		of hundreds to a	
+9:34		Heol if a square contains 100 smaller	
+9:37		square parts then each of the smaller	
+9:39		squares are 1/100 of the whole or 1% a	
+9:43		simple percentage problem has three	
+9:46		parts rate base and percentage in the	
+9:50		graphic rate is the percent figure the	
+9:53		base is the total quantity and the	
+9:55		percentage is the quantity of the	
+9:57		percent of the whole	
+9:58		thus when computed 10% of 120 is 12	
+10:03		note that the decimal point in the	
+10:06		percent is moved two decimal places to	
+10:08		the left to yield the correct number for	
+10:11		the percentage there are three types of	
+10:14		percentage problems we have already seen	
+10:17		how to determine the percentage when	
+10:18		given the base and rate now let's look	
+10:21		at the next one finding the percent	
+10:23		given the base in percentage in this	
+10:27		graphic let's determine what rate or	
+10:29		percent of 840 is 21 just divide 21 by	
+10:34		40 which equals point zero two five or	
+10:38		when the decimal point is moved two	
+10:40		places right 2.5 percent in this example	
+10:46		the last of our percentage problems	
+10:48		given the rate in percentage we will	
+10:50		find the base or hole as done in the	
+10:53		graphic change the rate by moving its	
+10:55		decimal point two places left and the	
+10:58		divide and divide the percentage by it	
+11:01		15 is 75 percent of what number the	
+11:05		answer being twelve hundred and twenty a	
+11:09		number squared is simply a number	
+11:12		multiplied by itself such as 8 times 8	
+11:15		equals 64 64 being the expression of 8	
+11:19		squared or the base number raised to the	
+11:22		second power a number that is cubed has	
+11:27		been multiplied twice by itself such as	
+11:30		2 cubed is 12 times 12 times 12 equals	
+11:36		728 1728 is the expression of 12 to the	
+11:42		third or 12 to the third power	
+11:45		power is also called an exponent and	
+11:48		signifies how many times a base number	
+11:50		is to be multiplied by itself if an	
+11:53		exponent is 5 this signifies a number	
+11:55		raised to the fifth power as shown in	
+11:58		the graphic 21 to the 5th equals 4	
+12:02		million 84,000 101 all handheld	
+12:07		calculators perform exponential	
+12:09		operations with simple keystrokes so we	
+12:11		will spend no further time on the topic	
+12:14		surveyors generally measure linear in	
+12:17		vertical dimensions in decimal survey	
+12:19		feed angular dimensions of in degrees	
+12:23		and units of area in acres and square	
+12:26		feet however it is often necessary to	
+12:29		convert these measurements to other	
+12:31		measurement units such as decimal feet	
+12:33		to feed in inches I will next discuss	
+12:36		conversion operations that will make	
+12:39		conversions simple and accurate	
+12:41		first let's consider the u.s. survey	
+12:44		foot and its relationship to the	
+12:46		international metre and foot the	
+12:50		official unit of length in the United	
+12:51		States is the modern international meet	
+12:54		meter defined at a world conference in	
+12:57		959 this created a new definition for	
+13:01		the foot in the United States called the	
+13:03		standard foot all surveying prior to	
+13:07		959 had been done on the old foot so it	
+13:11		was decided to retain it and rename it	
+13:13		the u.s. survey foot the graphic now on	
+13:17		screen shows the correct relationship of	
+13:20		US survey foot and the new international	
+13:22		meter any conversion operation regarding	
+13:26		meters and survey feet should carefully	
+13:28		consider the correct constants surveyors	
+13:31		normally work in feed and decimals	
+13:34		however it is sometimes necessary to	
+13:37		convert dimensions to feet and inches	
+13:39		and vice versa as shown in this graphic	
+13:44		convert 123 feet 7 and 3/4 inches to	
+13:48		decimal feet in the first step reduce 7	
+13:52		and 3/4 inches to decimal inches by	
+13:54		reducing 3/4 of an inch to its decimal	
+13:57		armed 0.75 inches in the second step	
+14:03		.75 inches is reduced to a decimal a	
+14:07		foot by dividing it by 12	
+14:09		adding the decimal foot to 123 equals	
+14:15		23 point 65 feet the reverse of foot an	
+14:21		inch to decimal or decimal two feet in	
+14:24		inches is shown in this graphic convert	
+14:28		6 point 37 feet to feet and inches	
+14:32		first take 0.37 feet and multiply it by	
+14:36		2 converting it to four point 44 inches	
+14:40		this decimal fraction reduces to 4 in 44	
+14:44		one hundreds of an inch or most nearly	
+14:46		/8 of an inch	
+14:48		adding the forty six feet back into the	
+14:51		conversion completes the operation at 46	
+14:54		feet four and three eighths of an inch	
+14:56		the number of decimal places rounded to	
+14:59		will be dictated by the accuracy	
+15:01		required for the work during colonial	
+15:05		times the most popular measuring device	
+15:07		in the United States was the Gunter's	
+15:09		chain it was 66 feet long and was	
+15:13		divided into 100 links each 7.92 inches	
+15:17		in length as can be seen in this graphic	
+15:20		it was very well-suited for surveying	
+15:22		work in English units converting feet	
+15:25		chains is accomplished dividing by	
+15:28		dividing the number of feet by 66 on the	
+15:32		graphic this operation yields 26 point	
+15:35		oh nine chains or 26 chains	
+15:38		 links in this example we are	
+15:42		converting chains to feet simply done	
+15:45		multiply the distance expressed in	
+15:47		chains and lengths by 66 feet the	
+15:50		previous graphic showed the relationship	
+15:53		of area to chain units or 10 square	
+15:56		chains equals 1 acre or 43,560 square	
+16:00		feet the bottom conversion problem on	
+16:04		the present screen converts a	
+16:06		rectangular parcel measured in chains to	
+16:09		area	
+16:11		the sexagesimal system or base 67 system	
+16:16		of angular measurement is used by	
+16:18		surveyors in the United States and in	
+16:20		many other parts of the world this	
+16:23		system is based on a complete circle	
+16:26		being divided into 360 parts or degrees	
+16:29		each degree is subdivided into 60 parts	
+16:33		or minutes with each minute divided into	
+16:35		0 seconds as shown in the graphic the	
+16:38		European system divides the circle into	
+16:41		00 parts called grads each grad is	
+16:45		subdivided into 100 parts or centigrades	
+16:48		Center grads are further divided into	
+16:50		00 parts called milligrams	
+16:53		when using degrees minutes and seconds	
+16:56		and calculations it is often necessary	
+16:58		to convert them to decimal form and vice	
+17:01		versa	
+17:01		in order to make the numbers compatible	
+17:04		with calculators being used for instance	
+17:07		is shown here 3420 135	
+17:12		- 34 point three five nine seven two	
+17:16		degrees in decimal format or 96 point	
+17:22		three nine one six seven degrees	
+17:24		converts to 96 degrees 23 minutes 30	
+17:28		seconds conversions of degrees to	
+17:31		decimal form is also shown in this	
+17:33		graphic conversion from decimal format	
+17:37		sixty three point three one seven eight	
+17:40		four degrees two degrees 63 1904 seconds	
+17:47		is shown in this graphic remember it is	
+17:50		always required to convert to decimal	
+17:52		form before using most calculators	
+17:55		unless they are pre-programmed to make	
+17:58		the degrees two decimals and vice versa	
+18:00		vice versa conversion Radian measure is	
+18:05		another definition of angular measure	
+18:07		and has proven quite convenient for	
+18:09		extensive calculations such as those	
+18:12		involving circular curves and	
+18:14		statistical analysis of sets of angles	
+18:17		the basic relationship of radians to	
+18:20		degrees is shown on this graphic	
+18:23		remember to convert	
+18:25		degrees to decimal form when converting	
+18:27		to radians the most commonly accepted	
+18:31		unit of area in land surveying is the	
+18:34		acre which contains 43,560 square feet	
+18:39		other units of area and their	
+18:41		relationship to acres in square feet is	
+18:44		shown on this graph a conversions to	
+18:47		corresponding units may be made by	
+18:49		inspection of this table in your	
+18:51		workbook this portion of the unit will	
+18:55		Center on random error I must caution	
+18:58		the viewer the time prevents a complete	
+19:01		discussion of all types a survey	
+19:03		measurement error other than random I	
+19:06		recommend additional study outside the	
+19:09		training video to completely understand	
+19:11		error in survey measurement a random	
+19:15		measurement error is defined as the	
+19:17		difference between a measured quantity	
+19:19		and its true dimension human limitations	
+19:22		limitations on the manufacturing	
+19:25		position of survey instruments and other	
+19:28		uncertainties act in concert to prevent	
+19:31		ever making a true measurement therefore	
+19:35		it can be stated that no measurement is	
+19:37		exact and will always contain some error	
+19:39		of unknown size it is impossible to	
+19:43		prevent error and it should be an	
+19:45		objective of the surveyor to recognize	
+19:48		error and control it random errors are	
+19:51		unavoidable they follow laws of	
+19:54		probability and tend to be of either	
+19:56		sign and are quite small hence they tend	
+19:59		almost but not quite cancel each other	
+20:02		out	
+20:03		making a set of measurements of the same	
+20:06		quantity and then studying the results	
+20:08		will indicate differences in value and	
+20:11		express the reliability of each	
+20:13		measurement by showing its different	
+20:15		difference from the mean of the set an	
+20:18		analysis will determine and quantify the	
+20:21		mean or most probable value of the set	
+20:24		to truth however before we explore this	
+20:28		process let's define some of the terms	
+20:30		involved in the first term shown on the	
+20:34		graphic is most probable value the most	
+20:37		probable value	
+20:38		is also the arithmetic mean or average	
+20:41		of the set the next term considered is	
+20:45		shown in this graphic it is called the	
+20:47		residual and is the difference between a	
+20:50		single measurement and the most probable	
+20:52		value residuals play a key role in the	
+20:56		analysis process that we will be looking	
+20:58		at in a minute	
+20:59		this graphic shows the next term to be	
+21:02		defined the standard error this factor	
+21:05		defines the value or accuracy of a set	
+21:08		of measurements and sets the limit	
+21:10		within which 68% of the measurements	
+21:13		will fall the probable error modifies	
+21:17		the standard error and is shown on this	
+21:19		screen it fixes the limits between which	
+21:22		0% of the measurements within a set	
+21:24		would fall other modifications are shown	
+21:27		and are known as the 90% error and the	
+21:30		5 percent error which set limits within	
+21:33		which 90% in 95 percent of the	
+21:36		measurements respectively will fall the	
+21:40		most probable value of a set of	
+21:42		measurements is the mean or average as	
+21:45		you will see the mean is derived from	
+21:47		the set so it too is subject to random	
+21:51		error the mean is awful often accepted	
+21:54		as a final result so it's dependability	
+21:57		should be quantified the equation for	
+22:01		standard error of the mean is shown on	
+22:03		this graphic the standard error of the	
+22:05		mean can be modified to reflect the 90%	
+22:08		error and the 95 percent errors also by	
+22:11		applying the same modifiers shown in the	
+22:13		last graphic to put all of our foregoing	
+22:17		discussion and equations and error	
+22:19		computation into use let's take a look	
+22:22		at the current graphic totaling totaling	
+22:26		the lengths equals the summation of six	
+22:28		thousand seven hundred and seventy seven	
+22:30		point forty two feet this divided by six	
+22:33		and number of measurements yields the	
+22:36		most probable value of one thousand one	
+22:38		hundred and twenty nine point fifty	
+22:40		seven feet determining the residuals	
+22:43		squaring them and then totaling them	
+22:46		equals a residual summation of zero	
+22:49		point zero one six	
+22:51		eight when this figure is plugged into	
+22:53		the equation for standard error of the	
+22:56		set the result is plus or minus 0.05	
+23:00		feet rounded to two places	
+23:02		this means that 68% of the measurements	
+23:06		within the set will fall between 1129	
+23:10		point 52 feet and 1129 point 62 feet the	
+23:16		standard error of the mean was found to	
+23:19		be plus or minus 0.02 feet which	
+23:23		signifies there is a 68 percent	
+23:26		probability that the true distance lies	
+23:29		somewhere in the range between 1129	
+23:32		point 55 feet and 1129 point 59 feet	
+23:40		until this point we have been discussing	
+23:42		errors affecting only a single	
+23:45		measurement random error also affects	
+23:48		measurements resulting from combining	
+23:50		two or more quantities by computational	
+23:52		processes a sum or product of separate	
+23:56		measurements each with its distinct	
+23:58		random error will have a total random	
+24:00		error influenced by a composite of the	
+24:03		individual errors	
+24:04		the first propagation of error process	
+24:07		we will look at is identifying the error	
+24:11		created in a sum of a number of several	
+24:13		measurements made under different	
+24:16		independent conditions a line has been	
+24:19		measured in four segments each segment	
+24:22		under different conditions yielding a	
+24:24		different standard error for each	
+24:25		segment in this graphic the estimated	
+24:28		standard error for the sum of the	
+24:30		measurements is determined to be plus or	
+24:33		minus 0.05 for feet next to be	
+24:39		considered is the error developed in	
+24:41		multiplication of measurements such as	
+24:43		for determining areas this graphic	
+24:47		illustrates the determination of	
+24:48		expected error in a calculated product	
+24:51		the completed calculation states the	
+24:54		product has a standard error of plus or	
+24:57		minus 3.0 - square feet	
+25:02		this error occurs when a series of	
+25:04		measurements made under the same	
+25:06		conditions are totaled up each of the	
+25:09		measurements are subject to the same	
+25:11		random error intend to cancel each other	
+25:13		out the equation for this computation is	
+25:17		shown in this graphic this process	
+25:20		states the distance 2,175 feet was	
+25:24		measured with an accuracy of plus or	
+25:27		minus 0.12 feet I would remind the	
+25:32		viewer again that random error is	
+25:35		inevitable in survey measurement live	
+25:37		with it and learn to identify and	
+25:39		control it do not waste time trying to	
+25:42		eliminate it algebra can be considered	
+25:46		an extension of arithmetic in which	
+25:48		symbols represent unknown quantities	
+25:50		related to known factors of an	
+25:52		expression all knowns and unknowns are	
+25:56		integral to operations that are	
+25:58		consistent two numbers in the expression	
+26:00		I include the following discussion to	
+26:03		develop a basic awareness in solving	
+26:06		four unknowns and to develop thus	
+26:07		whicker's skill in working with negative	
+26:10		numbers numbers in mathematics are three	
+26:15		categories positive numbers that are	
+26:18		greater than 0 negative numbers that are	
+26:21		less than 0 and 0 itself which needs no	
+26:25		explanation as shown in the sketch	
+26:28		signed numbers to the left to 0 are	
+26:31		considered negative and are always	
+26:32		preceded by a minus sign numbers to the	
+26:36		right of 0 are positive numbers and may	
+26:39		or may not be preceded by a positive	
+26:41		sign the absolute value of a number is	
+26:44		its value without reference to a sign	
+26:47		thereby positive 6 would have the same	
+26:50		absolute value as negative 6 in working	
+26:54		with sign numbers there are certain	
+26:56		guidelines to follow in avoiding	
+26:58		blunders and getting answers with	
+27:00		incorrect signs first let's consider the	
+27:03		addition of signed numbers as shown in	
+27:06		this screen the sum of two positive	
+27:09		numbers is positive 46 plus 34 equals 80	
+27:15		the sum of two negative numbers is	
+27:18		negative minus 21 plus minus 76 equals	
+27:24		minus 97 the sum of a positive and	
+27:28		negative number will be first determine	
+27:32		the difference in absolute value of	
+27:33		number of the number positive if the	
+27:37		absolute value of the positive number is	
+27:39		larger 82 plus negative 31 equals 51	
+27:44		negative if the absolute value of the	
+27:47		negative number is larger 26 plus	
+27:50		negative 67 equals negative 41 the next	
+27:55		case of sine number operations the	
+27:58		subtraction operation the rule is rather	
+28:01		uncomplicated when subtracting one	
+28:04		signed number from another simply	
+28:06		reverse the sign of the second number	
+28:08		and then add the two numbers using the	
+28:10		addition rules just discussed	
+28:13		multiplication of signed numbers is also	
+28:16		a very simple rule to follow the product	
+28:19		of two positive numbers is always	
+28:21		positive while the product of a negative	
+28:24		negative number and a positive number	
+28:26		will always be negative	
+28:28		however the product of two negative	
+28:31		numbers will always be a positive number	
+28:34		the last case of operations with sign	
+28:37		numbers concerns division the rule for	
+28:40		division is the same as multiplication	
+28:42		the quotient of two positive numbers is	
+28:45		positive while the quotient of two	
+28:48		negative numbers is also positive the	
+28:50		quotient of a negative number and a	
+28:52		positive number is always negative an	
+28:56		algebraic equation should be thought of	
+28:58		as a math statement that is balanced on	
+29:01		both sides of its equal signs or	
+29:03		quantities on the left side must equal	
+29:06		the quantities on the right side each	
+29:08		side of an equation may be modified but	
+29:11		remember to modify each side by exactly	
+29:14		the same degree and quantity or do the	
+29:16		same thing to both sides an equation is	
+29:20		used to find the value of an unknown	
+29:22		number from its relationship to the	
+29:25		known values in the equation the ability	
+29:28		to visualize	
+29:29		mathematical problem in words and then	
+29:31		form it into an equation is a valuable	
+29:33		skill for the surveyor for example in	
+29:38		this graphic unknowns are identified as	
+29:41		B or Z and then equations are formed	
+29:43		from the word statements to reach	
+29:45		solutions as shown by the two examples	
+29:50		in this graphic equations are formed	
+29:52		from conditions set by a word statement	
+29:54		a number divided by three plus the same	
+29:59		number times seven equates to be divided	
+30:03		by three plus B times seven a number	
+30:08		plus two hundred and twelve times eight	
+30:11		plus the same number divided by 34	
+30:14		equates to Z plus 212 times eight plus Z	
+30:22		divided by 34 when working with more	
+30:26		than two quantities in an algebraic	
+30:28		expression perform the indicated work in	
+30:32		the order presented in the next graphic	
+30:35		work from the left doing multiplication	
+30:37		and division work from the left again	
+30:41		doing addition and subtraction	
+30:43		operations for example twenty two	
+30:48		hundred and sixty seven times six plus	
+30:51		6 divided by four minus four times 12	
+30:55		minus nine reduces to 1602 plus twenty	
+31:02		six minus 48 minus nine equals fifteen	
+31:06		hundred and seventy-one the second	
+31:09		example 301 minus twenty-two times	
+31:13		fourteen plus 81 divided by 27 minus 76	
+31:19		reduces to 301 minus three hundred and	
+31:23		eight plus three minus 76 equals	
+31:27		negative eighty in algebra it is often	
+31:32		necessary to group terms and consider a	
+31:34		whole group of several groups as a	
+31:36		single term grouping is indicated by	
+31:40		parentheses brackets	
+31:42		braces the plus or minus sign in front	
+31:46		of each group applies to each term in	
+31:49		the group rules for removing parentheses	
+31:52		are presented in this graphic	
+31:54		if parentheses are preceded by a	
+31:58		positive sign they can be removed	
+32:01		without changing the signs of terms	
+32:03		inside if preceded by a negative sign	
+32:07		remove the parentheses by changing the	
+32:10		sign of every term within the group it	
+32:13		is much like multiplying a group by +1	
+32:16		or by negative 1 first 5x plus 3y minus	
+32:23		z equals 5x plus 3y minus 4z second 5x	
+32:32		minus 3y minus 4z	
+32:35		is reduced to 5x minus 3y plus 4z	
+32:40		oftentimes there are several groups in	
+32:43		one problem in this case remove the	
+32:46		intercept first and then the outer set	
+32:48		and so on following the prior stated	
+32:50		rules an algebraic equation contains	
+32:54		signs for sum of all the four	
+32:57		mathematical operations add subtract	
+33:00		multiply or divide and also letters that	
+33:04		are substitutes for numbers these	
+33:06		letters are called variables and when	
+33:09		replaced by actual number values through	
+33:11		substitution the equation is simplified	
+33:14		when simplifying an equation simply plug	
+33:18		assigned numbers into the variables and	
+33:20		then combine the terms following the	
+33:23		rules of order of operations as shown in	
+33:26		this graphic make the following	
+33:28		substitutions let a equal 12 B equals 6	
+33:33		and x equals 7 X plus a times B minus B	
+33:41		equals 7 plus 12 times 6 minus 6 or 7	
+33:48		plus 72 minus 6 equals 73 solving	
+33:54		equations	
+33:55		equations are generally solved by	
+33:57		picking out one of the unknowns	
+33:59		isolating it and then solving for it	
+34:01		something to keep in mind it is much	
+34:04		easier to manipulate the variables and	
+34:06		reach a formulated solution prior to	
+34:10		substituting actual numerical values for	
+34:14		example let's solve this equation for R	
+34:16		assuming we already know the value of a	
+34:19		let's follow the solution on the graphic	
+34:22		keeping in mind to do the same thing to	
+34:25		both sides of the equation area of a	
+34:28		circle is a equals pi times radius	
+34:31		squared solve for radius let a equal	
+34:36		,500 3 square feet rearrange R squared	
+34:42		equals area divided by pi extract the	
+34:47		square root R equals the square root of	
+34:50		area divided by pi up to this point	
+34:55		equations and the processes discussed	
+34:58		have been elementary first power	
+35:00		equations in many problems squares cubes	
+35:03		and higher powers will occur a quadratic	
+35:07		equation is a function which contains	
+35:09		the second power of one unknown a	
+35:12		quadratic equation useful for surveying	
+35:15		computations is generally written as ax	
+35:19		squared plus BX plus C equals 0 a B and	
+35:25		C are generally numbers with X remaining	
+35:29		as a value SOT for ease of solution the	
+35:32		quadratic equation is reduced to the	
+35:35		quadratic formula shown in this graphic	
+35:38		there is a plus or minus sign in front	
+35:41		of the square root sign this will yield	
+35:43		two different answers when solving a	
+35:45		quadratic you must determine by a	
+35:48		careful analysis of the problem which is	
+35:51		the correct answer	
+35:53		familiar familiarity with algebra gives	
+35:56		the surveyor	
+35:57		the ability and tools to reduce a	
+35:59		problem to a logical solution by	
+36:02		arriving at and correctly setting up an	
+36:04		albert algebraic formula it is much	
+36:07		easier to work with	
+36:09		equations before they have the numbers	
+36:11		plugged in when the solution has been	
+36:14		found in the equation set up then and	
+36:16		only then should the numbers come into	
+36:18		play I highly recommend keeping your	
+36:21		calculations as simple as possible don't	
+36:24		add any unnecessary steps an extra set	
+36:28		an extra step just increases your	
+36:31		chances of making any blunder or	
+36:32		calculation error geometry is as old as	
+36:37		civilization we know the Sumerians and	
+36:40		the Egyptians had the knowledge of and	
+36:42		applied the principles of geometry in	
+36:44		fact a translation of the Greek word	
+36:47		geometry means earth measurement	
+36:50		geometrical facts figures and formulas	
+36:52		are essential to understanding and	
+36:55		applying mathematical processes to	
+36:58		survey the following definitions will	
+37:01		provide a brief review of geometric	
+37:03		principles we will start our discussion	
+37:05		with some of the basic corollaries or	
+37:08		laws of geometry let's first talk about	
+37:12		lines as shown in example number one of	
+37:15		this graph eight straight lines extend	
+37:17		to infinity in both directions example	
+37:20		number two shows that a straight lines	
+37:23		in the same plane meet they are	
+37:25		intersecting lines and share a common	
+37:27		point example number three proves that	
+37:31		if two straight lines have no common	
+37:33		point they are parallel lines a line	
+37:37		extending to infinity from a defined	
+37:39		starting point as a half line as shown	
+37:42		in Figure number four as shown in Figure	
+37:46		number five a line starting from a	
+37:48		defined starting point and ending at	
+37:51		another defined point as a line segment	
+37:55		angles are formed when two half lines or	
+37:59		segments are drawn from the same	
+38:00		starting point you can also form an	
+38:03		angle by rotating a half line about its	
+38:06		starting point which is also the vertex	
+38:09		of the angle formed the dimension of the	
+38:12		angle formed is measured and stated in	
+38:14		degrees or radians this graphic shows	
+38:18		the different types of angles in their	
+38:20		definition	
+38:21		as shown angles are classified as acute	
+38:25		less than 90 degrees right exactly 90	
+38:29		degrees	
+38:29		obtuse between 90 and 180 degrees	
+38:33		straight exactly 180 degrees reflux	
+38:38		between 180 and 360 degrees a pair of	
+38:44		angles the total 90 degrees are called	
+38:47		complementary angles	
+38:48		this means that 37 degrees would be the	
+38:51		complement to 53 degrees two angles that	
+38:56		total up to 180 degrees are defined as	
+38:59		supplementary angles	
+39:00		in other words 68 degrees would be the	
+39:04		supplement to 112 degrees in geometry	
+39:08		certain basic theorems or statements	
+39:11		exist to serve as basic rules I am	
+39:14		presenting some of the rules in the next	
+39:16		few graphics to give you some more basic	
+39:19		geometrical concepts about lines and	
+39:21		angles proof of the theorems presented	
+39:25		has been omitted from my presentation	
+39:27		the rules are sufficient to stand on	
+39:29		their own rule number one when two lines	
+39:33		intersect angles formed opposite to each	
+39:36		other are identical	
+39:37		thus angle 1 equals angle 3 and angle 2	
+39:41		equals angle 4 rule number 2 when two	
+39:46		parallel lines are intersected by a	
+39:48		transverse line the into alternate	
+39:51		interior angles formed are the same as	
+39:54		shown angle 1 equals angle 3 and angle 2	
+39:58		equals angle 4 rule number 3 when two	
+40:03		parallel lines are intersected by a	
+40:05		transverse line the corresponding angles	
+40:08		formed are the same as shown angle 1	
+40:11		equals angle 5 angle 2 equals angle 6	
+40:15		angle 3 equals angle 7 and angle 4	
+40:19		equals angle 8 rule number 4 two angles	
+40:24		are the same or supplement each other if	
+40:26		their corresponding sides are	
+40:27		perpendicular as shown angle 1 equals	
+40:30		angle 2 and angle 2 plus angle 4	
+40:34		equals 180 degrees almost all surveying	
+40:38		operations and computations involve	
+40:41		geometrical figures therefore I will be	
+40:44		presenting most of the basic ones	
+40:46		encountered in our work along with a	
+40:48		brief look at some of the properties and	
+40:50		rules of the figures let's start with	
+40:53		our old friend the circle this often	
+40:55		used figure is the basis of horizontal	
+40:58		curve computation and layout as	
+41:00		explained in another of the video units	
+41:02		a circle can be defined as a closed	
+41:05		curve in the same plane every point of	
+41:08		which is the same distance or radius	
+41:10		from a point within the circle called	
+41:13		the center of the circle or radius point	
+41:15		in this graphic the basic portions a	
+41:19		circle are identified if you traveled	
+41:22		entirely around circle starting at Point	
+41:25		a and return to point a you would have	
+41:28		walked the circumference of the circle	
+41:29		if you went from point A along the	
+41:32		straight line to point C which is the	
+41:35		diameter which is set bisects the circle	
+41:38		the line from the radius point to point	
+41:41		B represents the radius which is 1/2 the	
+41:44		diameter	
+41:45		back to walking around the circle again	
+41:47		the distance from point B to Point C	
+41:50		describes an arc also if a line is drawn	
+41:55		from the center of a circle line from Rp	
+41:58		to point F perpendicular to a chord it	
+42:01		bisects the chord and the arc defined by	
+42:04		the chord this important rule comes into	
+42:07		play when working with circular Highway	
+42:08		curves sector and segment are another	
+42:13		two elements of a curve that should be	
+42:15		familiar to a surveyor as they are often	
+42:18		used to calculate areas of surveys with	
+42:21		curved boundaries as shown in this	
+42:24		graphic the sector of an arc is the	
+42:26		shaded wedge-shaped figure bounded by	
+42:29		its arc and two radial lines its area is	
+42:33		determined by the formula shown in the	
+42:35		graph a sector area equals radius	
+42:39		squared times Delta expressed in radians	
+42:42		divided by two note on the graphic that	
+42:46		the radius of the	
+42:47		ARC is 139 feet in the Delta angle is 47	
+42:52		degrees 30 minutes let's stop the tape	
+42:55		at this point and work the problem okay	
+42:59		you have turned the tape back on let's	
+43:01		check your answer I get eight thousand	
+43:04		nine square feet what did you get this	
+43:08		screen shown this shows the second	
+43:10		curved element under discussion the	
+43:12		segment of arc	
+43:13		it is the shaded area and is defined as	
+43:16		bounded by its arc and the cord forts	
+43:19		are the area of a segment is calculated	
+43:23		by the method now on screen first	
+43:25		determine the area of the sector of an	
+43:27		arc o PR by the formula just discussed	
+43:33		sector area equals radius squared times	
+43:37		Delta expressed in radians divided by	
+43:39		two then determine area of triangle OPR	
+43:44		the formula for this triangle is radius	
+43:48		squared divided by 2 times sine Delta	
+43:51		when both areas are computed subtract	
+43:55		the area of the inscribed triangle from	
+43:57		the sector area there by finding the	
+43:59		area of the segment letting R equal 421	
+44:04		point 25 feet and Delta equaling 228° 31	
+44:11		minutes and 15 seconds shut the tape off	
+44:14		and compute the area of segment OAC then	
+44:18		turn the tape back on to check your	
+44:20		answer with mine okay I got 44,000 166	
+44:27		square feet for the sector area in	
+44:30		2,000 365 square feet for the inscribed	
+44:34		triangle subtracting the triangle from	
+44:37		the sector gave me the area of the	
+44:39		sector 100 1801 square feet is this what	
+44:44		you got some other formulas dealing with	
+44:48		curves are shown in this graphic they	
+44:50		are circumference equals 2 times pi	
+44:53		times radius area equals pi times radius	
+44:58		squared radius equals	
+45:02		.564 1/9 times square root of area	
+45:07		diameter equals one point one two eight	
+45:11		three eight times square root of area	
+45:14		well this pretty well finishes the	
+45:16		discussion of circles so let's move on	
+45:19		and discuss some more geometrical	
+45:21		figures that you will likely encounter	
+45:23		in your surveying and test-taking	
+45:25		activities a polygon defines any figure	
+45:30		bounded by three or more line segments a	
+45:33		polygon may have any number of sides as	
+45:36		long as they are broken that is segments	
+45:39		segmented and enclose a figure the	
+45:42		simplest polygon is the triangle having	
+45:44		the least number of sides 3 the triangle	
+45:49		is one of the most used figures in	
+45:51		surveying and survey calculation it has	
+45:54		many configurations and classification	
+45:56		let's take a look at them triangles are	
+46:00		classified in two different ways by	
+46:02		sides and by angles first we will look	
+46:05		at the triangles classified by sides the	
+46:09		first of three types of triangles	
+46:11		classified by sides are shown in S	
+46:15		figure 1 in this graphic this triangle	
+46:18		is called an isosceles triangle and is	
+46:21		distinguished by having two equal length	
+46:23		sides	
+46:24		note that the unequal side is called the	
+46:27		base and that the angle opposite the	
+46:29		base is the vertex angle the second type	
+46:33		of triangle on this classification is	
+46:35		shown in Figure 2 and is called an	
+46:37		equilateral triangle this one has all	
+46:40		three sides of equal length the third	
+46:43		and last triangle in this classification	
+46:45		is the scalene triangle and it has three	
+46:49		unequal size is shown in Figure three in	
+46:52		this graphic triangles are also	
+46:55		classified by the angles they contain	
+46:57		there are three types of triangles	
+47:00		within this classification acute obtuse	
+47:04		and right we will look at Figure one in	
+47:07		this graphic and discuss the acute	
+47:10		triangle first this type of triangle has	
+47:13		three akyuu	
+47:14		less than 90 degree angles type number	
+47:18		to figure to has one angle of the three	
+47:21		that is an obtuse triangle more than 90	
+47:24		degrees less than 180 degrees the other	
+47:28		two angles of the triangle are always Q	
+47:31		the last type in the angular	
+47:33		classification has one angle that is	
+47:36		exactly 90 degrees the other two angles	
+47:38		of the right triangle will always be a Q	
+47:41		as shown in Figure three of this graphic	
+47:44		the side opposite of the right angle	
+47:46		would be called the hypotenuse the right	
+47:49		triangle is the workhorse of survey	
+47:51		measurement in calculation and will be	
+47:54		discussed in greater detail later in	
+47:56		this video unit the next few graphics	
+47:59		show polygons other than triangles these	
+48:03		are polygons having more than three	
+48:05		sides familiar familiarity with any of	
+48:09		these polygons will prove useful to the	
+48:11		surveyor and test taker before we look	
+48:14		at any of the polygons let me state a	
+48:16		golden rule concerning interior angles	
+48:18		of any polygon the sum of the interior	
+48:22		angles of any polygon is equal to 180	
+48:25		degrees times the total number of sides	
+48:27		less to this formula provides a check of	
+48:31		interior angles measured for a closed	
+48:33		figure the first polygons to be	
+48:36		considered are the ones defined as	
+48:39		regular or having all sides and angles	
+48:41		equal as shown in these next graphics	
+48:44		polygons are named for the number of	
+48:46		sides a formula for area computation is	
+48:49		also shown in each of the graphics the	
+48:53		first regular polygons to be considered	
+48:55		is the equilateral triangle all three	
+48:57		sides the same length its area is easily	
+49:01		computed by the formula area equals 0.25	
+49:06		times n number of sides times side	
+49:11		squared times cotangent of 180 divided	
+49:14		by n also shown as the symbology for the	
+49:19		formula where we let n stand for the	
+49:21		number of sides and s for the length of	
+49:23		the sides which are identical in this	
+49:25		case	
+49:26		the next regular polygon to be discussed	
+49:29		in the series should have been the	
+49:31		four-sided square however its properties	
+49:34		are well known so let's move on to the	
+49:37		Pentagon or five sided figure this	
+49:41		graphic shows a regular pentagon five	
+49:43		equal sides and angles computation of	
+49:46		its area is also by the same formula in	
+49:49		fact this formula can be used to compute	
+49:51		the area of any regular polygon	
+49:53		regardless of the number of sides again	
+49:57		n equals number of sides and s equals	
+50:00		the length of the sides which are	
+50:02		identical in length this graphic shows a	
+50:06		regular hexagon six equal sides and	
+50:09		angles computation of its area is by the	
+50:12		same formula there is no need to look at	
+50:15		any more regular polygons as the pattern	
+50:17		of construction and area formula should	
+50:19		be very clear by now	
+50:22		surveyors should be interested in the in	
+50:25		the additional polygons discussed in the	
+50:27		next few graphics they consist of	
+50:29		various forms of quadrilaterals or	
+50:32		four-sided figures the square and	
+50:34		rectangle will not be discussed as they	
+50:36		should be very familiar to the viewer	
+50:39		the parallelogram is a quadrilateral	
+50:41		with the opposing sides equal in	
+50:44		parallel all its angles are different	
+50:47		than 90 degrees except in the case a	
+50:49		rectangle which has 90-degree angles a	
+50:53		parallelogram that is not a rectangle	
+50:55		can also be considered a rhomboid as	
+50:58		shown on the graphic the rhomboids area	
+51:01		b can be calculated by area equals a	
+51:04		times B times sine theta a and B	
+51:09		symbolize the length of their respective	
+51:11		sides this graphic shows a parallelogram	
+51:16		or rhomboid with all sides of equal	
+51:19		length this figure is a sketch of a	
+51:21		rhombus its area is computed from the	
+51:24		formula area equals b squared times sine	
+51:29		theta	
+51:30		letting B equal the link to the sides a	
+51:34		quadrilateral with only two of its sides	
+51:37		parallel is	
+51:38		named a trapezoid and is shown in this	
+51:40		graphic this configuration is one	
+51:43		heavily used for engineering design in	
+51:45		layout it's areas determined from the	
+51:48		following formula area equals H divided	
+51:52		by 2 times B plus B Prime in this	
+51:57		formula B stands for the lengths of	
+51:59		sides and H is the altitude a trap Azia	
+52:03		is defined as a quadrilateral with none	
+52:06		of its sides being parallel it's area is	
+52:09		calculated by the equation area equals D	
+52:13		times H over 2 plus B over 4 times H	
+52:18		prime plus H double prime where B equals	
+52:23		the bottom width D equals the top width	
+52:25		H the first altitude and H double Prime	
+52:29		the second altitude the irregular	
+52:32		Pentagon is the last of the plane	
+52:34		geometric figures I will discuss this	
+52:38		figure has five sides none of which are	
+52:41		parallel or equal in length also none of	
+52:45		its angles are equal its area can be	
+52:48		calculated by the equation on the	
+52:50		graphic which is the same one discussed	
+52:52		in the last graphic I have reviewed many	
+52:56		of the basic and fundamental facts found	
+52:59		in geometry time prevents a complete	
+53:02		review of a subject that takes many	
+53:04		hours of study and practice to fully	
+53:06		appreciate however the aspiring surveyor	
+53:09		and/or examinee should further pursue	
+53:12		the study of geometry as I have only	
+53:14		touched the surface of the subject there	
+53:17		are certain geometrical constructions	
+53:19		that have a great value in solutions of	
+53:21		surveying problems in calculations well	
+53:25		as much as I enjoy talking about	
+53:26		surveying math and numbers I feel that	
+53:29		perhaps this is a good time to take a	
+53:31		break when we come back we will launch	
+53:33		into a study of trigonometry welcome	
+53:40		back from Bay if you're ready we'll	
+53:42		continue our discussion of survey	
+53:44		mathematics with a look of trigonometry	
+53:47		trigonometry is the natural extension of	
+53:49		algebra and geometry and gives the	
+53:51		surveyor the tools to conveniently solve	
+53:54		problems involving	
+53:56		unknown angles and distances true we're	
+53:59		neighbors the surveyor to take advantage	
+54:01		of the relationship of angular dimension	
+54:03		to distance measurement and put the	
+54:05		principles of solving or indirect or	
+54:07		missing measurements in to use the right	
+54:11		triangle is the first and most important	
+54:13		element of trigonometry that we will	
+54:16		cover it is a simplest of triangles and	
+54:19		plays a major role in just about all the	
+54:21		measurements and computations we do a	
+54:24		right triangle has been defined earlier	
+54:27		as any triangle that includes an angle	
+54:30		of exactly 90 degrees as one of its	
+54:32		three angles it showed in this graphic	
+54:35		the longest side and any right triangle	
+54:37		is called the hypotenuse in lying	
+54:40		opposite angle C is also called side C	
+54:42		the side opposite angle a side a is	
+54:46		called the opposite side in the	
+54:48		remaining side which is opposite angle B	
+54:51		is side B or the adjacent side the	
+54:54		triangle is shown is is the standard	
+54:57		figure both in position in terminology	
+54:59		for solution of all trigonometric	
+55:02		functions and equations the Pythagorean	
+55:06		theorem applied only to right triangles	
+55:09		states that the square of the hypotenuse	
+55:12		of any right triangle is equal to the	
+55:14		sum of the squares of the opposite side	
+55:16		and adjacent side as shown in the screen	
+55:20		the equation form for this theorem is	
+55:23		side a squared plus side B squared	
+55:27		equals C squared this basic equation may	
+55:31		be rearranged to provide solutions	
+55:33		regardless of which side of the right	
+55:35		triangle the side the arrangement has	
+55:38		provided the other three equations	
+55:40		can be used to find whichever side was	
+55:42		sad as shown silane is found by solving	
+55:46		for the square root of side C squared	
+55:49		minus side B squared side B is found by	
+55:54		solving for the square root of side C	
+55:56		squared minus side a squared	
+55:59		side C is found by solving for the	
+56:02		square root of side a squared plus side	
+56:05		B squared let's try a practice solution	
+56:09		for the problem shown in the upcoming	
+56:11		graphic given the right triangle shown	
+56:15		on screen solve for side C at this point	
+56:19		pause the tape and solve the problem	
+56:22		okay now that you're finished this is	
+56:25		how I found the answer first rearranging	
+56:28		the basic equation we get C squared	
+56:31		equals a squared plus B squared which	
+56:34		reduces to finding the square root of	
+56:36		the quantity 1444 plus 7390 6 it equals	
+56:45		840 the square root of 8840 B maybe 4.0	
+56:51		 feet or the length of side C fairly	
+56:54		routine isn't it any right triangle the	
+56:59		difference in the lengths of two sides	
+57:00		determines the size of the included	
+57:02		angle therefore the ratio between the	
+57:06		lengths would determine the magnitude of	
+57:08		certain trigonometric functions or	
+57:09		ratios the names and elements of the	
+57:13		first three ratios of different sides	
+57:15		and the right triangle to each other are	
+57:17		shown in this next screen note that the	
+57:21		ratios are defined in terms assigned to	
+57:23		sides and angles of the standard right	
+57:25		triangle we have already discussed in	
+57:27		was shown a few graphics ago remember	
+57:30		that the size of the triangles does not	
+57:32		affect the magnitude of the functions	
+57:34		they are determined solely from the	
+57:36		differences in two lines being compared	
+57:39		this graphic shows sine equals sine a	
+57:43		equals side a over side C equals	
+57:47		opposite side over	
+57:49		newse cosine equals cosine a equals side	
+57:54		B over side C equals adjacent side over	
+57:58		hypotenuse tangent equals tangent a	
+58:01		equals side a over side B equals	
+58:06		opposite side over adjacent side the	
+58:10		other three trig functions are shown in	
+58:12		this graphic in our cotangent equals	
+58:15		cotangent a equals adjacent side over	
+58:19		opposite side secant equals suki na	
+58:23		equals hypotenuse over adjacent side and	
+58:27		cosecant equals cosecant a equals	
+58:32		hypotenuse over opposite side formulas	
+58:36		for ratio of functions are made to be	
+58:38		rearranged to satisfy specific needs or	
+58:41		required so ssin since functions are	
+58:44		derived from sides of triangles the	
+58:47		functions can be used to determine	
+58:49		lengths of missing sides all that is	
+58:51		needed is one given side and a given	
+58:54		angle to solve for missing side missing	
+58:58		sides of right triangles can be solved	
+59:00		by the application of one of the	
+59:02		rearranged equations shown in the next	
+59:05		two graphics selection of which function	
+59:08		to apply depends on which side or angle	
+59:10		you want to solve for and what elements	
+59:13		of the triangle are already known as	
+59:17		shown on this screen all the function	
+59:19		ratios have been rearranged to provide a	
+59:22		specific formula to solve for a	
+59:24		particular problem these are the first	
+59:26		three to be discussed side a equals side	
+59:31		C times sine of a or equals side B times	
+59:37		tangent of a side B equals side C times	
+59:42		cosine a or side a times cotangent a	
+59:47		side C equals side a divided by sine a	
+59:53		or side B divided by cosine a this	
+59:59		graphic shows level three sets of really	
+60:01		trig functions for solving like	
+60:03		triangles side a equals side C times	
+60:08		cosine B or side B times cotangent b	
+60:13		side b equals side C times sine B equals	
+60:18		side a times tangent B side C equals	
+60:23		side a over sine B equals side B over	
+60:30		cosine B inspection of a problem and	
+60:33		then a correct choice of function always	
+60:36		yields the correct solution providing	
+60:38		the simple math like multiplication and	
+60:40		division is done correctly there are two	
+60:44		distinct operations when working with	
+60:46		trig functions one is to determine the	
+60:48		numerical function for a given angle the	
+60:52		other is to determine interval from a	
+60:55		given numerical function electronic	
+60:57		calculators provide a quick and accurate	
+61:00		method for finding functions in art	
+61:02		functions all calculators have keys	
+61:05		marked sine cosine and tangent simply	
+61:09		enter the angle generally in decimal of	
+61:12		degrees for map for most handheld	
+61:14		calculators and press the key designated	
+61:17		for the function inside such a	
+61:19		calculator to read out to the nearest	
+61:21		six decimal places in order to provide	
+61:24		the act the correct accuracy to be	
+61:27		consistent with today's surveying	
+61:28		instruments for example in this graphic	
+61:32		what is the value of the cosine function	
+61:34		for 33 degrees six minutes 23 seconds it	
+61:39		is zero point seven three zero zero	
+61:42		eight six the second operation is what	
+61:46		what is the arc function value of a	
+61:48		given numerical trig function what is	
+61:51		the arc sine value of zero point zero	
+61:54		four	
+61:55		eight nine three it is two degrees 24	
+62:00		minutes in six seconds let's talk about	
+62:04		finding missing elements of a triangle	
+62:07		by using trig for our presentation the	
+62:10		missing elements will fall into two	
+62:12		categories	
+62:13		solving for missing angle with two sides	
+62:15		known and solving for missing side with	
+62:18		one side and angle now remember that	
+62:22		sine cosine and tangent values are	
+62:24		unique to a particular bearing or angle	
+62:27		all the triangle equations can be	
+62:31		manipulated to find any of the missing	
+62:33		values as long as any two of the	
+62:36		triangles other values are known let's	
+62:39		solve for missing angle when using given	
+62:43		data from a triangle we want to solve	
+62:46		for angle a given side be inside a as	
+62:51		shown on this graphic side a equals one	
+62:55		hundred nine point seven to eight feet	
+62:57		inside B equals six hundred and seven	
+63:00		one point forty two feet select an	
+63:03		equation to fit the conditions in this	
+63:05		case tangent a equals a divided by B	
+63:09		please pause the tape at this point now	
+63:13		plug the given quantities into the	
+63:15		equation and perform the operation	
+63:18		unpause the tape when you're finished we	
+63:21		will compare answers okay you're back	
+63:24		did you work the problem this way 109	
+63:28		point 78 feet divided by 671 point 32	
+63:32		feet equals arctangent 0.163 505 which	
+63:38		equals nine degrees 17 minutes and 10	
+63:41		seconds is this what you got the next	
+63:46		example that we are going to work is	
+63:48		solving for an unknown side application	
+63:51		of the appropriate function from a given	
+63:53		angle and side of our triangle and then	
+63:56		computing the length of the missing side	
+63:58		is the basic operation selection of the	
+64:01		proper function to use is	
+64:03		made easier if you make a quick sketch	
+64:04		of the triangle showing given values and	
+64:08		checking the relationship of the side	
+64:09		side to these given values after	
+64:12		choosing the best equation to use	
+64:15		determine the mathematical correct	
+64:17		numerical function for the given angle	
+64:19		and then profound the appropriate math	
+64:21		operations with the given sides selected	
+64:24		to determine the missin value use 6	
+64:27		decimal places for all the miracle trig	
+64:29		functions that you use in the process	
+64:31		then after your final answer to usually	
+64:34		two decimal places let's try a missing	
+64:37		side example as will be shown in the	
+64:40		upcoming graphic we want to find side a	
+64:42		information given is side B equals three	
+64:46		hundred and twelve points up forty seven	
+64:48		feet in angle a equals 21 degrees 37	
+64:52		minutes and five seconds on your sketch	
+64:56		note that only the given set the only	
+64:59		given side is B and the only given angle	
+65:01		is a that means your equation will have	
+65:04		to be one that contains these elements	
+65:06		for inspection of the equations it	
+65:09		appears that the best trace would be	
+65:11		side a equals side B times T ingenuity	
+65:15		if you agree pause the tape now and	
+65:19		complete your solution and then come	
+65:20		back on to check my solution now that	
+65:24		you're back	
+65:25		let's review my solution three hundred	
+65:27		and twelve point four seven side B times	
+65:31		zero two point three nine six two nine	
+65:33		three tangent a equals 123 point 83 feet	
+65:39		this is the same thing that you came up	
+65:41		with let's do one more solution before	
+65:45		leaving this topic given side C equals	
+65:48		six hundred and thirty six point O two	
+65:50		feet in email a equals thirty four	
+65:53		degrees	
+65:54		fifty-six minutes and 35 seconds solve	
+65:57		this triangle for side B after looking	
+66:01		this stretch over I decided to leave the	
+66:03		selection of a best equation to use for	
+66:06		you one more time if you want to pause	
+66:09		the tape and solve this example you have	
+66:12		your	
+66:13		so resume the tape and we can compare	
+66:15		our notes I use side B in course side C	
+66:20		times cosine a this reduces to 630 6.02	
+66:25		fee times zero point seven or seven	
+66:29		eight oh nine equals 550 point eighteen	
+66:33		feet this time check your answer by the	
+66:37		Pythagorean theorem by finding side a	
+66:40		and then adding the squares of sides a	
+66:42		and B for a check i computed side a as	
+66:47		four hundred and forty nine point twenty	
+66:49		nine feet this was the last of our like	
+66:52		triangle problems not all triangles	
+66:55		encountered in surveying or right	
+66:57		triangles	
+66:58		so let's now move on and take a look at	
+67:00		dealing with oblique triangles and put	
+67:02		more of our trigonometric scales to live	
+67:05		as described earlier when a blue	
+67:07		triangle is one that has no right angles	
+67:10		in no sides equal to each other	
+67:12		this makes the solution of obliques a	
+67:15		bit more complex than the right triangle	
+67:17		the available solutions for blue	
+67:19		triangles can be grouped into four cases	
+67:22		case number one given two eagles in the	
+67:25		side opposite case number two given two	
+67:29		sides and the included angle case number	
+67:33		three given all three sides case number	
+67:37		four given two sides in the opposite	
+67:40		angle generally two formulas are used to	
+67:44		solve oblique triangles the law of sines	
+67:46		in the law of cosines the law of sines	
+67:50		states that in any triangle the sides	
+67:52		are proportional to the sine of the	
+67:54		opposite angle the law of cosines states	
+67:58		that in any triangle the square of any	
+68:00		side is equal to the sum of the squares	
+68:03		of the other two sides minus twice the	
+68:06		product of those two sides multiplied by	
+68:09		the cosine of their included angle the	
+68:12		law of sines equation for oblique	
+68:14		triangles is shown on the top part	
+68:16		portion of this graphic as shown side a	
+68:20		over sine a	
+68:22		the same as side B over sine B equals	
+68:27		side C over sine C equations based on	
+68:31		the cosine law are also shown a squared	
+68:34		equals B squared plus c squared minus	
+68:37		bc times cosine a squared equals a	
+68:44		squared plus c squared minus 2ac times	
+68:48		cosine b sin squared equals a squared	
+68:52		plus b squared minus 2a B times cosine C	
+68:57		in the following discussion of solutions	
+69:01		for oblique triangles only basic	
+69:03		equations will be addressed the farmer	
+69:06		took some of the cases most likely to	
+69:08		occur in surveying you briefly explore	
+69:10		the equation for them this graphic shows	
+69:14		the configuration and notation for the	
+69:16		oblique triangle solutions along with	
+69:18		the first general equation we will be	
+69:20		discussing when given angle a and angle	
+69:23		B along the side a you can solve for the	
+69:27		following angle C equals 180 degrees	
+69:32		minus a plus b side b equals side a	
+69:37		divided by sine a times sine b or side C	
+69:43		equals side a divided by sine a times	
+69:48		sine C the next solution occurs when	
+69:55		angle a side B inside C are given as	
+69:59		shown in this graphic the equation takes	
+70:02		this form to solve for a a squared	
+70:06		equals b squared plus c squared minus	
+70:09		bc	
+70:11		times cosine a the last general equation	
+70:15		for blue triangles is for solving for	
+70:19		angle a when only with three sides of	
+70:22		the triangle given in this case knowing	
+70:25		is forgiven but our three sides are the	
+70:28		equation to solve for angle a	
+70:32		is cosine a equals quantity B squared	
+70:36		plus C squared minus a squared over to	
+70:40		BC remember that all elements of an	
+70:47		oblique triangle can be rotated around	
+70:49		the triangle to fit given conditions as	
+70:52		long as they are kept in the same order	
+70:53		to each other angles and directions are	
+70:58		a basic element of survey you should be	
+71:00		familiar with the relationship of	
+71:02		horizontal angles to the bearing and as	
+71:04		in the systems of angular definition	
+71:07		bearings are azimuth azimuth of survey	
+71:10		lines must be referred to send their	
+71:13		south meridian in order to maintain	
+71:15		consistency in adherence to horizontal	
+71:18		reference system a horizontal datum most	
+71:22		horizontal systems are oriented to true	
+71:25		north which is aligned on the surface of	
+71:28		the earth that joins the North and South	
+71:30		Poles however some systems are	
+71:33		referenced to magnetic north	
+71:36		a local assume north or whig north	
+71:39		regardless of the system's origin	
+71:41		bearings as honest and horizontal angles	
+71:44		all relate to each other in the same	
+71:46		manner in proportion for the purposes of	
+71:50		discussion all direct calculations in	
+71:52		this presentation are assumed to be	
+71:55		referred to true or Geographic north	
+71:58		let's first discuss the bearing system	
+72:01		of Direction bearings our method of	
+72:04		stating the direction of a survey line	
+72:06		by indicating the angle of the line from	
+72:08		its north-south meridian and also	
+72:11		stating which quadrant the line falls in	
+72:14		bearings are always measured to the east	
+72:16		or west from the north-south Meridian	
+72:18		line and their values are always need	
+72:20		agrees or less fabric nook notation is	
+72:24		indicated by N or s preceding a	
+72:27		numerical value with E or W following	
+72:30		you numbers for instance if the bearing	
+72:33		of a line of a line was	
+72:35		measured 36 degrees 45 minutes east of	
+72:38		North its direction is written as north	
+72:42		6 35 east the north and east	
+72:47		designation is just as vital as the	
+72:49		numerical value for bearings are shown	
+72:53		in this sketch to each live in different	
+72:56		quadrants and are identified as follows	
+72:58		line Oh a equals north 36 degrees 45	
+73:03		minutes east line OB equals South 20	
+73:08		degrees 14 minutes east line Oh C equals	
+73:13		South 46 11 minutes west line Oh D	
+73:19		equals north 40 million degrees 37	
+73:22		minutes west	
+73:23		note that measurement of bearings in the	
+73:26		northeast quadrant starts at north and	
+73:29		rotates in a clockwise direction to the	
+73:31		east while bearings in the northwest	
+73:33		quadrant also started north they are	
+73:36		measured in a counterclockwise rotation	
+73:38		to the rest bearings in the southeast	
+73:41		quadrant started south and are rotated	
+73:44		in the counterclockwise direction to the	
+73:46		east bearings in the southwest quadrant	
+73:49		also started south and are measured in a	
+73:51		clockwise rotation to the rest any	
+73:55		survey line actually has two directions	
+73:58		forward in the direction that a survey	
+74:00		is progressing or back as in looking	
+74:03		back to see where you have been	
+74:05		normally bearing designation follows a	
+74:09		consistent direction of travel around	
+74:11		the figure for computational purposes it	
+74:14		is often necessary to reverse the	
+74:16		bearings easily done as shown in the	
+74:20		sketch simply reverse the quadric	
+74:22		designators to turn the bearing around	
+74:24		by	
+74:24		needy degrees in this line in this the	
+74:28		line L - M has a third Bay of South 71	
+74:33		over East reversing the bone the same	
+74:37		line has a backbone of North 71 or 4	
+74:41		rest when computing inverse from	
+74:44		adjacent bearings the surveyor must	
+74:46		routinely reverse bearings as	
+74:48		computations proceed around and Alanna	
+74:51		figure the azimuth system as a number is	
+74:55		another method of measuring the angular	
+74:58		dimension of a survey line azimuth	
+75:02		measurement will originates at the north	
+75:04		end of a Meridian 0 degrees and rotates	
+75:07		in a clockwise direction all the way	
+75:09		around the circle back to north again or	
+75:12		60 degrees azimuth values fall in a	
+75:16		range from 0 degrees to 360 degrees	
+75:20		in this sketch the line into s is the	
+75:24		meridian line o2a has an azimuth of 44	
+75:29		degrees line o to be has an azimuth of	
+75:33		35 degrees line o to C has azimuth of	
+75:38		58 degrees in line o to D has an	
+75:42		azimuth 335 degrees as in the bearing	
+75:47		system every survey line has two azimuth	
+75:50		a forward azimuth and O back or reverse	
+75:53		azimuth when the azimuth of a line is	
+75:57		designated it is assumed that the	
+75:59		angular value of a line is from the	
+76:01		beginning of the line as one faces the	
+76:03		endpoint of the line frequently for	
+76:07		computational purposes the surveyor must	
+76:10		determine back azimuth of lines again	
+76:13		very simply done just add or subtract	
+76:17		80 degrees from the floor as enough of	
+76:19		a line in the graphic now on screen the	
+76:23		farad azimuth of line D to e is 49	
+76:25		degree	
+76:26		in minutes based on the angle measured	
+76:28		from north and the direction of travel	
+76:31		reversing the direction of travel	
+76:33		adding 180 degrees determines the back	
+76:37		azimuth of the same line as 229 degrees	
+76:41		1 minutes in review bearings are	
+76:45		reversed by switching the letters of	
+76:47		quadrants azimuth are reversed by adding	
+76:50		or subtracting 180 degrees since they	
+76:54		both originate at the same point	
+76:55		bearings and azimuth sorry zhilie	
+76:58		interchanged azimuth directions are more	
+77:01		convenient for computing directions and	
+77:03		angles while most maps in survey	
+77:05		tradition dictate the use of bearings	
+77:08		therefore surveyors should be ready to	
+77:10		make azimuth bearing conversions let's	
+77:13		take a look at the next graphic well I	
+77:15		discussed this process a little further	
+77:17		this graphic shows the angular	
+77:20		relationship of azimuth to bearings in	
+77:22		each of the four quadrants for instance	
+77:25		look at the northeast quadrant lion-o a	
+77:28		has a bearing of North 83 degrees o	
+77:31		seven minutes east	
+77:33		since azimuth and vary both started	
+77:36		north and rotate clockwise they will be	
+77:38		identical in this quadrant next we go to	
+77:41		the southeast quadrant and take a look	
+77:43		at line OB	
+77:44		its bearing is south 33 11 east remember	
+77:49		south east bearings originate from south	
+77:52		and rotate counterclockwise while	
+77:54		azimuth rotate clockwise an angle from	
+77:57		north around the south is 180 degrees	
+78:01		therefore subtract the south east	
+78:03		bearing from 180 which equals 156 39	
+78:09		diaz Ameth applying OB in the southwest	
+78:14		quadrant	
+78:15		just to add 180 degrees to the bearing	
+78:17		value to obtain azimuth or subtract 180	
+78:21		degrees from the azimuth value to obtain	
+78:23		the value of a Southwest bearing this	
+78:26		should be routine by now so most of you	
+78:28		have already figured out	
+78:30		that you subtract a Northwest bearing in	
+78:32		60 degrees to obtain asthma or subtract	
+78:36		as enough from 360 degrees to obtain the	
+78:39		value of the Northwest bearing in review	
+78:43		to do bearing two azimuth the conversion	
+78:46		if it is a northeast bearing it is the	
+78:49		same as azimuth considering a southeast	
+78:52		very subtract bearing from 180 degrees	
+78:55		to find azimuth considering the	
+78:58		southwest bearing at 180 degrees to	
+79:01		Barry to get to asthma considering a	
+79:04		Northwest bearing subtract bearing from	
+79:07		60 degrees to get azimuth to do an	
+79:11		azimuth to burying conversion if it's in	
+79:14		northeast azimuth is the same as the	
+79:17		Northeast bearing if it's in the	
+79:20		southeast quadrant subtract as a month	
+79:22		from 180 degrees to get a southeast	
+79:25		bearing if any southwest quadrant add	
+79:28		80 degrees to bearing to get to azimuth	
+79:32		if it's in a Northwest bearing subtract	
+79:35		azimuth from 360 degrees to get	
+79:38		Northwest bearing most surveyors require	
+79:42		that surveyors compute English from sets	
+79:45		of grid and bearings or determining goes	
+79:48		from horizontal angles or combining both	
+79:50		operations in the course of computing	
+79:52		let's take another look at this next	
+79:55		graphic and let's explore the process	
+79:58		given a bearing and include an angle to	
+80:00		a second survey line determine the	
+80:03		bearing of the second line at this point	
+80:05		let me express how importantly sketch is	
+80:08		to the eagle and burn calculation	
+80:10		process it is it almost makes the	
+80:14		problem assess it makes the problem	
+80:16		solving if you draw a sketch that the	
+80:19		one on screen notice that all data is	
+80:22		shown on the sketch alone with an X for	
+80:24		the missing value in this case the	
+80:26		bearing angle for	
+80:27		Oh to Jay from inspection of a sketch x	
+80:31		equals the very angle of 9oj therefore x	
+80:36		equals 103 degrees 31 minutes minus 58	
+80:41		degrees 39 minutes equals 35 degrees 52	
+80:45		minutes or north 34 degrees 52 minutes	
+80:49		west	
+80:49		in this graphic the example presented	
+80:53		and sketched is finding the included	
+80:56		angle X between lines A to C north 31 36	
+81:01		rest and Oh to a South 56:11 West with	
+81:07		the problem over then pause the tape	
+81:09		solve the problem and then get back on	
+81:12		the tape as we will compare answers okay	
+81:16		this is what I did and this is the	
+81:18		answer I got x equals 180 degrees minus	
+81:23		6 degrees 11 minutes plus 31 degrees 36	
+81:27		minutes which equals 92 degrees 13	
+81:31		minutes how did you do with this one	
+81:34		like I said earlier one sketch is worth	
+81:37		a lot of work this graphic shows the	
+81:41		last of the bearing angle examples in is	
+81:44		an azimuth question but in the sketch	
+81:46		that we are looking for X the included	
+81:48		angle between the two eyes of us once	
+81:51		again pause the tape solve for X and get	
+81:54		back to me with an answer	
+81:56		welcome back I found by using my sketch	
+81:59		and the information plotted on it that x	
+82:01		equals 135 degrees 35 minutes how did I	
+82:05		with this answer by subtracting 146	
+82:09		degrees 11 minutes from 281 degrees 46	
+82:12		minutes you will be confronted with an	
+82:17		almost limitless number of angle bearing	
+82:20		azimuth problems on a daily basis any	
+82:23		test you take is assuredly going to have	
+82:26		this type problem in it however if you	
+82:29		draw a sketch the correct position of	
+82:32		all lines in all the knowns and unknowns	
+82:34		any angle barring azimuth problem can be	
+82:37		almost self-solving points located by	
+82:42		surveys are referenced to a known point	
+82:45		in one of two ways by polar relocation	
+82:48		or by rectangular court by rectangular	
+82:51		location header location ties a found	
+82:55		point to a known reference location by a	
+82:58		bearing and distance measurement as	
+83:00		shown in this graphic note that point L	
+83:03		is referenced to point K by a line of	
+83:06		north 76 degrees 23 minutes east 611	
+83:11		point 21 feet rectangular location ties	
+83:16		a found point to a known location by two	
+83:18		distances that are perpendicular to each	
+83:21		other and usually aligned north and east	
+83:23		as shown in this graphic note the	
+83:26		printer L is referenced to point K by ad	
+83:29		parallel easting the 594 from both three	
+83:32		feet in a nerving or latitude of 143	
+83:36		point 89 feet nor these and eastings are	
+83:39		also called Delta Y and Delta X	
+83:41		respectively Y and X are the standard	
+83:44		designators for north and east distances	
+83:47		in our terminal metric calculation	
+83:49		procedures after looking at the two	
+83:52		preceding graphics we can see that a	
+83:54		player measurement bearing and distance	
+83:56		in a rectangular measurement Delta Y and	
+83:59		Delta X are functions of each other in	
+84:02		fact it can be said that every line	
+84:04		measured by bearing in distance also has	
+84:07		a corresponding Delta X Delta Y and	
+84:10		Delta X which can also be called	
+84:13		latitude and departure as shown in this	
+84:16		graphic the latitude is a distance	
+84:18		measured in north-south direction while	
+84:21		departures are measured in the east-west	
+84:23		dimension latitudes are positive value	
+84:26		when measured to the north	
+84:28		measured south likewise departures are	
+84:32		positive and measure to the east and	
+84:34		negative are measured to the west	
+84:36		therefore when computing latitudes and	
+84:38		departures remember to assign the proper	
+84:40		algebraic sign to these to distinguish	
+84:43		which quadrant they fall into after	
+84:46		living with the last couple of graphics	
+84:48		it is evident that the player or bearing	
+84:51		and distance dimension in the latitude	
+84:53		in departure dimension when superimposed	
+84:55		formulate triangle this is what	
+84:59		calculation and latitudes and departures	
+85:01		from a survey learning is based on the	
+85:03		process is almost identical to right	
+85:05		triangle formulas almost identical	
+85:08		because instead of dealing with angle a	
+85:11		as we did earlier in the video we are	
+85:13		now going to use the bearing or azimuth	
+85:15		angle instead do not confuse the two in	
+85:19		your computing process because the	
+85:21		latitude and departure will be reversed	
+85:24		if angle a is used to calculate a	
+85:27		latitude of departure of the survey	
+85:29		course simply multiply the length of the	
+85:31		course by the cosine of the bearing or	
+85:34		azimuth to determine latitude multiply	
+85:37		length by the sine of the bearing or	
+85:39		azimuth to find that aperture this	
+85:42		graphic shows the equation format for	
+85:45		latitude and aperture computations	
+85:47		when using bearings it is necessary to	
+85:50		select and assign the proper algebraic	
+85:52		sign to the latitudes and the poachers	
+85:54		when using azimuth the adverb lyric	
+85:57		signs of the sine cosine functions will	
+86:00		produce the correct algebraic signs for	
+86:02		the computed latitudes and departures	
+86:05		let's try a determination of latitude	
+86:08		and departure is shown in the sketch	
+86:10		first find sine and cosine of the	
+86:13		bearing sine equals zero point 8 4 9 to	
+86:18		/8 and cosine equals 0.5 to a row 4	
+86:23		three then multiply the length 549 point	
+86:27		1 feet are the functions the sequence a	
+86:31		latitude of +2 9 0.32 feet in the	
+86:36		departure of plus four hundred sixty six	
+86:38		point nine you run feet because it is a	
+86:42		northeast bearing both latitude and	
+86:44		departure would have positive signs	
+86:46		let's try the one shown in this sketch	
+86:49		the course bearing is south 36 degrees	
+86:53		1 minutes 57 seconds rest in distance	
+86:57		is 576 point 33 feet what is the	
+87:01		latitude and departure stop the tape	
+87:04		calculate the values and then get back	
+87:06		to me hello again if you did the same	
+87:11		work idea we would have gotten a lotta	
+87:13		tude negative three hundred and ninety	
+87:16		eight point 91 feet any departure of	
+87:19		negative 451 point ninety seven feet	
+87:22		note that both values are negative since	
+87:25		the course lies in the southwesterly	
+87:27		direction the éclairs travelers survey	
+87:31		begins and ends at the same point	
+87:33		forming a geometric polygon	
+87:36		therefore when algebraically summarized	
+87:38		the latitudes and departures should	
+87:41		cancel each other out both sounds	
+87:44		algebraically total totalling to zero	
+87:46		for the followers this graphic shows a	
+87:49		summary table for the travelers note the	
+87:52		algebraic signs and the totals would	
+87:54		indicate miss Clara here as I mentioned	
+87:57		earlier the terrorists should always be	
+87:59		zero but really are due to the random	
+88:02		they are always present in any and all	
+88:04		survey measurements	
+88:05		remember this graphic and compare it to	
+88:08		the next one which is a sketch of a	
+88:09		traverse with the latitudes and	
+88:12		departures shown plotted around the	
+88:14		course on this sketch notice the	
+88:18		Traverse forming a closed five sided	
+88:22		polygon that should but really will ever	
+88:24		close perfectly note how the latitudes	
+88:27		and departures show around the track	
+88:29		appear to form rectangle after they were	
+88:32		algebraically summarized as shown in the	
+88:35		last graphic the area of closure is	
+88:37		defined the process of travellish	
+88:40		closure and adjustment and also the	
+88:42		computation of area by double reading	
+88:44		distance method would be fully addressed	
+88:47		later in another room of the series of	
+88:49		videos when the latitude and departure	
+88:53		between two unconnected survey points	
+88:55		are known they can be used to determine	
+88:58		the unknown vary in distance between the	
+89:00		points this operation is called the	
+89:03		inverse process and is based on the	
+89:06		formulas shown in the next graphic note	
+89:09		that in the inverse process latitude and	
+89:12		departure will be called that's arrive	
+89:14		for latitude Delta X for the poacher the	
+89:18		equations shown are used to determine	
+89:20		the bearing in wisdom's of the missing	
+89:22		course first the bearing a be tangent	
+89:26		bearing or azimuth a B equals Delta X a	
+89:33		B divided by Delta Y a be the distance	
+89:37		ay B is determined by the second	
+89:40		equation distance ay B equals Delta X a	
+89:44		B divided by sine of bearing a B the	
+89:49		results of the computation can be	
+89:51		checked by application of the	
+89:52		Pythagorean theorem distance ay B equals	
+89:56		the square root of Delta Y a B squared	
+90:02		plus Delta X a B squared	
+90:06		before leaving latitudes and departures	
+90:09		or Delta Y and Delta X as I like to call	
+90:12		them let's do an inverse problem from	
+90:15		the data shown on this graphic we want	
+90:17		to solve for the missing information for	
+90:20		line r2s to calculate the azimuth in	
+90:23		line length of line RS use Delta y	
+90:28		equals minus 1536 point 11 feet in Delta	
+90:34		x equals 1400	
+90:36		18 feet therefore 1400 21.18 feet	
+90:43		divided by negative 1536 point 11 feet	
+90:48		equals arctangent 0.98 9 6 over 4 equals	
+90:54		34 degrees from two minutes and two	
+90:58		seconds azimuth 100 1421 point 18 feet	
+91:05		divided by the sine of the bearing sign	
+91:10		is zero point seven oh three for two	
+91:13		equals 2020 point forty four feet check	
+91:19		is the square root of negative one	
+91:22		thousand four hundred and thirty-six	
+91:24		point eleven squared plus one thousand	
+91:29		four hundred twenty-one point eighty	
+91:31		feet squared equals two thousand twenty	
+91:34		point forty four feet	
+91:35		problem solved and proven now let's move	
+91:39		on to converting that to rise and Delta	
+91:43		X's in two plane coordinates rectangular	
+91:46		coordinates locate the positions of	
+91:48		survey stations onto a perpendicular	
+91:51		reference system having a single point	
+91:53		of origin this type of system is based	
+91:56		on a pair of axes at right angles to	
+91:59		each other on this sketch the line	
+92:02		labeled x-axis runs in an east-west	
+92:04		direction distances measured in the	
+92:07		easterly direction will have positive	
+92:09		values the y axis runs north-south and	
+92:12		distances measured from south to north	
+92:14		will have a plus value notice that the	
+92:17		point of origin has a coordinate value	
+92:19		of zero zero the point of origin of our	
+92:22		systems should be located far enough to	
+92:24		the west and south and assign this value	
+92:27		this assures that all points in the	
+92:30		system will be located in the northeast	
+92:32		quadrant of the system and have positive	
+92:34		coordinate values coordinate systems may	
+92:37		be a simple plane system such as we will	
+92:39		be discussing for the next few minutes	
+92:41		there can be a very complex statewide	
+92:44		system such as the California	
+92:46		coordinates	
+92:47		of 1983 that will be discussed in the	
+92:50		later video unit this graphic is	
+92:53		included to illustrate how coordinate	
+92:55		values for individual survey points are	
+92:58		located let's take a look at Point Q	
+93:01		notice that it is located 75 feet north	
+93:04		in 55 foot east of the origin therefore	
+93:08		its coordinate value or address will be	
+93:11		y equals 75 feet and x equals 55 feet	
+93:15		moving on up to the next point R we see	
+93:18		that it's Delta Y is 173 point over 4	
+93:22		feet and Delta X is 154 point 56 feet	
+93:26		it's coordinates will be y equals one	
+93:30		hundred and seventy three point oh four	
+93:31		feet and x equals one hundred and fifty	
+93:34		four point 56 feet now on the move of	
+93:37		northeasterly two point s we find with a	
+93:40		Probab a delta y of eighty three point	
+93:43		oh eight feet and a delta X of 135 from	
+93:47		eleven feet from Pulgar adding these	
+93:50		doubts as to the coordinates for point R	
+93:51		we determine that point s will have	
+93:54		coordinates of y equals 256 point twelve	
+93:57		feet and x equals 289 point sixty seven	
+94:01		feet while we are still looking at this	
+94:04		sketch also notice the relationship of	
+94:06		all points in the system to the origin	
+94:08		and the relationship of each point on	
+94:10		the system to any other point for	
+94:13		instance a quick bit of simple math	
+94:15		tells us that r is located menu 8.0 four	
+94:19		feet north in 99 point 56 feet east of Q	
+94:23		by rectangular location	
+94:25		sommore quick math assert us us that R	
+94:28		is also located north 35 degrees 26	
+94:32		minutes 26 seconds east one hundred and	
+94:35		thirty nine point eighty feet from Q	
+94:37		bi-polar location let's leave this	
+94:40		graphic and discuss this quick math in a	
+94:42		little more detail in a bit coordinates	
+94:45		for survey points are computed by	
+94:47		algebraically adding the Delta Y and	
+94:50		Delta X of each	
+94:52		seceding course to the coordinate value	
+94:55		of the starting point or the point of	
+94:57		beginning of the survey this graphic	
+95:00		illustrates the equations use to	
+95:02		calculate coordinates of survey points	
+95:04		starting from the coordinated survey	
+95:06		station assume a coordinate is given for	
+95:09		station R and given Delta Y Delta X	
+95:13		you're asked to determine coordinates	
+95:15		for station s the equations for	
+95:18		computing coordinates for station s our	
+95:21		Y of s equals y of R plus Delta Y RS x	
+95:29		of s equals x and r plus Delta X of RS	
+95:35		this next graphic presents an	
+95:38		application of equations we had just	
+95:40		looked at a short while back in the	
+95:42		presentation I showed you a graphic of	
+95:45		latitudes in the Parcher tabulation that	
+95:47		did not close very well well between the	
+95:50		scenes I adjusted the miss closure out	
+95:53		of the figure by a method you will share	
+95:55		in one of the later videos of the series	
+95:57		in the graphic now on screen notice the	
+96:01		Delta Y a be 270 point 17 has been added	
+96:05		to the starting y-coordinate for station	
+96:08		a 6000 feet making a y-coordinate for	
+96:11		station B 6270 point 17 feet the	
+96:17		x-coordinate for station B is found by	
+96:19		adding Delta X a be sixty four point	
+96:23		ninety six feet to the starting	
+96:25		x-coordinate for station a the	
+96:28		x-coordinate for B is two thousand sixty	
+96:31		four point ninety six feet the next step	
+96:34		is to determine coordinates of Point C	
+96:37		by adding vector Y BC negative 68 point	
+96:42		ninety seven feet to the y coordinate	
+96:45		for station B 6270 point seventeen feed	
+96:49		the right coordinate station y	
+96:51		coordinate for station c is found to be	
+96:54		six thousand two hundred and one point	
+96:56		twenty feet the x coordinate for station	
+96:59		c is	
+97:00		found by adding Delta X BC 197 point 97	
+97:06		feet to the x-coordinate for station B	
+97:09		the x-coordinate for C is calculated at	
+97:12		two thousand three hundred and sixty two	
+97:14		point ninety three feet repeating this	
+97:17		operation the remaining way around the	
+97:19		travelers we closed back into a the	
+97:23		starting point with a perfect closure	
+97:26		the equations just discussed very	
+97:29		appealing in a slightly different form	
+97:31		are identical with those used to	
+97:33		determine polar dimensions that we	
+97:35		discussed in detail and the latitudes in	
+97:37		departure section in this video I will	
+97:39		then finding Delta Y and Delta X by	
+97:42		subtracting the respective coordinates	
+97:43		the math is the same therefore I will	
+97:46		not present any practice problems for	
+97:48		this operation	
+97:49		rest assured though that this operation	
+97:52		will be covered in the workbook problems	
+97:55		most of today's surveys are placed on or	
+97:59		reference to either a state plane	
+98:01		coordinate system or a local arbitrary	
+98:03		system locating survey points on a	
+98:06		coordinate system have these distinct	
+98:09		advantages location of all points are	
+98:11		uniquely defined both on the ground and	
+98:14		to each other	
+98:15		the survey can easily be plotted in math	
+98:19		last or destroyed points can be easily	
+98:21		replaced data storage and retrieval is	
+98:25		much more efficient and survey	
+98:27		computations are greatly simplified in	
+98:31		this section I will extend the use of	
+98:33		coordinates to find intersection points	
+98:35		of two straight lines intersection	
+98:38		points of a straight line in an arc in	
+98:40		intersection points of two arcs these	
+98:44		type of situations are solved through	
+98:46		the use of coordinate geometry which is	
+98:48		rooted in emetic geometry this section	
+98:52		of the math video describes some of the	
+98:54		basics of coordinate geometry along with	
+98:57		some calculation examples I do not	
+99:00		intend to thoroughly explain coordinate	
+99:02		geometry	
+99:03		I only wish to familiar familiarize the	
+99:05		viewer with the operations in software	
+99:08		that was now being used to solve	
+99:10		problems by coordinate geometry the	
+99:13		coordinate geometry equations for	
+99:15		solution of missing elements are a	
+99:17		little too complex to include on this	
+99:19		video you should however that there are	
+99:22		sufficiently addressed in the workbook	
+99:25		the first in a series of intersection	
+99:27		problems in virus finding the location	
+99:30		where lines AC and BD intersect is shown	
+99:35		in the upcoming graphics ideally the	
+99:39		answers we are looking for are the	
+99:42		coordinate value of station e the	
+99:45		distance of line AE and the distance	
+99:48		applying be e the given values that we	
+99:51		work that we will work with as shown in	
+99:54		the graphic are coordinates of point a	
+99:58		coordinates of point B the bearing of	
+100:01		void AE and the bearing of line B e the	
+100:06		first step to take in the solution is to	
+100:08		examine the given data to see which case	
+100:10		the solution will fit into although we	
+100:13		have already identified this as a very	
+100:15		buried case let's look at the Givens we	
+100:19		have a burden for both lines a to e in B	
+100:22		to e in Canyon verse between a and B to	
+100:25		find over a base for the blue training a	
+100:28		solution or into the coordinates into a	
+100:30		computer program to the burden bearing	
+100:32		solution in a typical program computer	
+100:36		solution coordinate values for a and B	
+100:39		are into the RAM with the bearing avoids	
+100:41		a2 e in B to e the computer ribbon	
+100:45		process the data using the coordinate	
+100:47		geometry equations and give the	
+100:50		coordinate value of Punky along with the	
+100:53		distance of lines AE in be e to use the	
+100:58		oblique triangle solution after in	
+101:00		nursing it is then necessary to	
+101:02		determine all angles in the triangle	
+101:05		women bearings in the 1 computed use the	
+101:08		distance competed from the inverse as	
+101:10		the base point angle-angle-side solution	
+101:14		the answers is shown on this graphic are	
+101:17		the quadrant value of Station e is why	
+101:22		52 point 35 X 1240 point 83 feet the	
+101:30		distance of luring AE is 400 in 1551	
+101:35		feet the distance of line be e is 477	
+101:40		point 76 feet next in the intersection	
+101:44		of straight-line series is finding	
+101:47		location where lines k2 m and L 2 n	
+101:51		intersect as shown on this next graphic	
+101:54		again the answers we are looking for	
+101:57		include the coordinate value of station	
+102:00		o the bearing of line AE and the	
+102:03		distance of line b ET the given values	
+102:07		we will work with as shown on the	
+102:09		graphic our coordinates of point IAM	
+102:11		coordinates of point k distance of line	
+102:15		k2 l burying of loin in tow	
+102:18		let's examine the given data to see what	
+102:20		case the solution will fit into from	
+102:23		living with the given values we have a	
+102:25		bearing for learning into own in a	
+102:28		distance for Cato and can invest between	
+102:31		in and K to find either a base from the	
+102:34		blue triangle solution or enter the	
+102:36		coordinates of KL in a computer program	
+102:39		for a bearing distance solution in the	
+102:42		typical program of computer solution	
+102:44		quadrant values for N and K are entered	
+102:46		along with the bearing of lines in O in	
+102:49		the distance of 9ko	
+102:52		the computer event processed the data	
+102:54		using the coordinate geometry equations	
+102:57		the coordinate value of point O and the	
+103:00		distance for line in	
+103:01		along with the bearing of line Kol will	
+103:04		be displayed or put them with the proper	
+103:05		storage registers this time in using the	
+103:09		oblique triangle for a solution after	
+103:11		embossing it was a little more involved	
+103:12		as it is necessary to first determine	
+103:15		the interior angle at all this however	
+103:18		will complete all angles in the triangle	
+103:20		leading to an angle angle side solution	
+103:24		the answers for the bearing distance	
+103:27		problem are as shown on the screen	
+103:29		the quadrant value of station all is yy6	
+103:35		over nine point eighty seven feet x six	
+103:38		ninety five point 75 feet the distance	
+103:42		of line in O is four hundred ninety six	
+103:45		point twenty three feet the bearing of	
+103:47		Lorene KL is north twenty five degrees	
+103:51		6 minutes for four seconds East the	
+103:56		last of the intersection of	
+103:57		straight-line series is to determine	
+103:59		where the lines TV in WV intersect is	
+104:04		shown in this next graphic this time the	
+104:07		answer is being sought are the	
+104:10		coordinate value of x the value that	
+104:13		bearing of line X to V and the bearing	
+104:16		of line X to you the given values that	
+104:19		we that we will work with this time are	
+104:22		shown in the graphic as coordinates of	
+104:24		point new coordinates of point new	
+104:27		distance of line V 2 X distance of lying	
+104:31		you to X let's look at what is given to	
+104:35		decide which case this solution will fit	
+104:37		into from looking at the given values we	
+104:40		find that we have distances for both	
+104:42		line v 2x and lying u 2x we can then	
+104:47		inverse between V and u to find either a	
+104:50		base for an oblique triangle solution or	
+104:53		us into the coordinates of the	
+104:55		you very computer to solve this distance	
+104:58		distance problem for the computer	
+105:00		solution coordinate values for V and u	
+105:03		are entered along with the distance	
+105:05		distances of nines v 2x in u 2x the	
+105:09		computer will then process the data	
+105:11		using the coordinate geometry equation	
+105:14		for a distance distance solution	
+105:16		displaying the coordinate value of point	
+105:19		X and the bearings for lines v 2x in u	
+105:22		x the oblique triangle solution for	
+105:26		this problem will be based on the case	
+105:28		for three ribbon sides and can be solved	
+105:32		with a variation of the distance	
+105:33		distance solution the answers for the	
+105:37		distance distance problem are as shown	
+105:39		in this screen the coordinate value of	
+105:41		Station X is y 1650 2.57 in x 1733 point	
+105:50		5 the bearing of marine v 2x is south	
+105:54		6 21 28 west the bearing of learning	
+105:59		new 2x is north 79o 330 east the three	
+106:08		preceding intersection solutions have	
+106:11		addressed all the cases possible with	
+106:13		straight line solutions I must caution	
+106:16		you that in the distance distance case	
+106:18		there are two solutions to the problem	
+106:21		that are equally correct be sure that	
+106:24		you always draw a fairly accurate sketch	
+106:26		to guide you in choice of the solution	
+106:29		to fit your needs to other intersection	
+106:32		situations intersection of a straight	
+106:34		line and arc and intersection of two	
+106:37		arcs have not been addressed in this	
+106:39		discussion solutions for these two cases	
+106:43		are based on the same geometry and	
+106:45		selection of formulas used for straight	
+106:47		line intersection problems the viewer	
+106:50		needs only to draw a sketch of the	
+106:52		problem and the choice of solution	
+106:54		should become quite clear the discussion	
+106:58		of intersection problems has brought us	
+107:00		to the	
+107:01		this video presentation thank you for	
+107:04		your attention throughout this long	
+107:05		session I sincerely hope that I was able	
+107:08		to make basic surveying math a little	
+107:11		less formidable and a little more	
+107:13		friendlier if nothing else I offer you	
+107:16		this advice always always always draw	
+107:20		sketch keep your calculations as simple	
+107:23		as possible and be neat in meticulous in	
+107:26		your notes good luck with your surveying	
+107:29		career in general and with the land	
+107:31		surveyors examinations processes in	
+107:34		particular	
+108:19		you	

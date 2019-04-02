@@ -1,0 +1,1465 @@
+00:40		you	
+00:49		welcome to Caltrans lsit LS exam	
+00:52		preparation course one aid in your	
+00:55		preparation for California licensure	
+00:58		examinations or word of caution don't	
+01:01		use this course as your only preparation	
+01:04		devise and follow a regular schedule of	
+01:07		study which begins months before the	
+01:09		test what many problems in each area not	
+01:14		just those in this courses workbook but	
+01:17		problems from other sources as well	
+01:19		this course is funded by Caltrans but	
+01:23		you and I owe a profound thanks to	
+01:26		others the courses instructors from the	
+01:29		academic community the private sector	
+01:31		other public agencies and from Caltrans	
+01:34		as well we wish you well in your study	
+01:38		toward becoming a member of California's	
+01:40		professional land surveying community	
+01:44		welcome to today's discussion of the	
+01:47		state plane coordinate system a 1986	
+01:51		changed the public resources code of the	
+01:54		state of California created the	
+01:56		California coordinate system of 1983	
+01:59		noted as CCS 83 the implementation of	
+02:04		the system is to be phased in by January	
+02:06		st 1995 when state plane work must	
+02:11		refer to it in most cases it replaces	
+02:14		the previous system of 1927 the old	
+02:19		North American datum of 1927 developed	
+02:23		by the US Coast and geodetic survey was	
+02:26		the basis for CCS 27 that used an	
+02:30		approximation of the Earth's surface in	
+02:32		North America named Clark's Sparrow I'd	
+02:35		of 1866 as its geodetic reference	
+02:38		surface the North American datum of 1983	
+02:43		that's nad 83 developed by the National	
+02:47		geodetic survey underlies CCS 83 a new	
+02:52		ellipsoid the geodetic reference system	
+02:55		of 1980 also called grsat	
+02:59		is the basis of the new system this	
+03:02		ellipsoid is geocentric and approximates	
+03:05		the surface of the entire earth not just	
+03:08		North America because the geodetic	
+03:11		reference surfaces are different the	
+03:14		nad27 latitude and the longitude of a	
+03:16		station differ from the nad83 values for	
+03:20		the same station overlying those	
+03:23		differences are the factors that the	
+03:26		adjustment incorporated new observations	
+03:29		the adjustment used was a least squares	
+03:32		simultaneous adjustment of the entire	
+03:34		system and that blunders could be	
+03:37		isolated and called in fact the	
+03:40		variation between the two coordinate	
+03:42		systems very inconsistently making only	
+03:46		approximate transforms possible at	
+03:49		present rigorous computation of	
+03:52		coordinates is only possible by	
+03:54		returning to the original field	
+03:56		observations readjusting and recomputing	
+03:59		positions from them the designers of the	
+04:02		coordinate system limited the	
+04:04		north-south extent of each lambert grid	
+04:07		to meet certain predetermined criteria	
+04:10		therefore six zones comprise CCS	
+04:14		eighty-three zone one is at the north	
+04:17		end of the state the zone numbers	
+04:20		increased southerly until zone six	
+04:23		extends to the Mexican border each zone	
+04:26		is based upon a cone whose axis is	
+04:30		coincident with the grsat spheroid axis	
+04:33		of rotation the cone is a secant cone	
+04:38		because it intersects the surface of the	
+04:41		ellipsoid at two standard parallels	
+04:43		rather than simply resting on it this	
+04:47		minimizes distortion while projecting	
+04:50		data from the ellipsoid onto the cone as	
+04:54		enacted by the state by the state	
+04:57		legislature the new coordinate systems	
+05:00		linear units can either be meters or	
+05:02		u.s. survey feet to date NGS has	
+05:07		implemented nad83	
+05:09		as a metric system has published all si	
+05:12		csa III station data in meters state	
+05:17		plane coordinates expressed in one unit	
+05:20		can be converted to the other unit	
+05:22		simply by multiplying northing and	
+05:24		easting by the foot meter equivalency	
+05:27		this will be described later in this	
+05:30		presentation one may work the California	
+05:34		coordinate system in either feet or in	
+05:36		meters but one must be consistent not	
+05:41		only must all distances be uniformly in	
+05:43		feet or in meters but tabled constants	
+05:46		must also correspond consistently with	
+05:49		the linear unit used this discussion is	
+05:54		presented in terms of meters but the	
+05:56		accompanying written material is	
+05:58		presented both in feet and in meters the	
+06:03		NGS recommends using polynomial	
+06:05		coefficients and algebraic equations to	
+06:08		simplify calculations for state plane	
+06:11		coordinates polynomial coefficients are	
+06:14		easy to use	
+06:15		therefore they are appropriate for both	
+06:17		manual and programmed calculation	
+06:21		applications through their use	
+06:23		projection tables become unnecessary	
+06:27		they can produce millimetre millimeter	
+06:29		accuracy these in handheld calculators	
+06:32		carrying only 10 significant digits the	
+06:37		ng has developed the coefficients by	
+06:39		polynomial curve fitting of an array of	
+06:42		data points for each zone for those	
+06:45		wishing to use projection tables the	
+06:48		California land surveyors Association	
+06:50		has published a book of projection	
+06:52		tables as special publication number 55	
+06:55		/ 88 NGS is now publishing a similar	
+07:01		table please be aware if you are	
+07:05		preparing for the land surveyors	
+07:07		examination the new coordinate system	
+07:10		will be phased in through the beginning	
+07:12		of 1995 however nothing prevents the	
+07:16		State Board from asking questions about	
+07:18		the older system on future examinations	
+07:21		you need to prepare for both while this	
+07:24		presentation concentrates on the	
+07:26		California coordinate system of 1983 it	
+07:30		is broadly applicable to the system of	
+07:32		927 calculations for the older system	
+07:36		are not as sophisticated as those used	
+07:39		now therefore if you understand the	
+07:43		system of 1983 is much easier to master	
+07:47		the older system state plane coordinate	
+07:51		systems are intended to permit the	
+07:53		calculation of positions on a grid using	
+07:57		measurements made on the curving surface	
+07:59		of the earth and at different elevations	
+08:02		if those measurements are accurately	
+08:05		made and extended over a long distance	
+08:08		plane geometry calculations will yield	
+08:11		inconsistent values for the position of	
+08:14		the stations the state plane coordinate	
+08:17		systems were devised to provide a	
+08:20		calculation technique that produces	
+08:22		coordinate values that correctly relate	
+08:25		to each other even over long distances	
+08:28		and compared favorably with those	
+08:30		calculated by geometric mean by geodetic	
+08:33		means first we will look at a series of	
+08:37		pictures to help us visualize the	
+08:40		coordinate system the first set of	
+08:43		illustrations is intended to acquaint us	
+08:46		with the relationship between the	
+08:47		ellipsoid and the cone that is the basis	
+08:51		of the system we now see depicted the	
+08:55		geodetic reference system of 1980 also	
+08:59		referred to as a GRS 80 system ellipsoid	
+09:03		it approximates the shape of the planet	
+09:06		Earth like the earth it is slightly	
+09:09		flattened the polar radius is about even	
+09:12		3 miles less than the equatorial radius	
+09:15		the GRS 80 ellipsoid underlies the	
+09:20		California coordinate system of 1983 or	
+09:23		CCS 83 the National geodetic survey	
+09:29		developed the recently revised	
+09:31		coordinate system the system uses	
+09:34		information from the North American	
+09:36		datum of 1983 nattai	
+09:39		three adjusted during the period 1975	
+09:43		through 1986 we also see depicted the	
+09:48		axis of rotation of the ellipsoid that	
+09:51		is the same as our planet's earth's axis	
+09:56		we now see the addition of the equator	
+09:58		the equator is formed by the	
+10:02		intersection of the surface of the	
+10:04		ellipsoid with a plane that is at right	
+10:06		angle to the axis of rotation and	
+10:09		located midway between the poles of the	
+10:11		ellipsoid next two latitudes are	
+10:15		presented north of the equator these two	
+10:19		latitudes are defining elements for each	
+10:21		portion of the California coordinate	
+10:23		system each selected latitude is called	
+10:27		an exact scale or standard parallel	
+10:30		latitude is measured by the angle formed	
+10:33		at the intersection of the equatorial	
+10:38		plane with a line normal to the surface	
+10:41		of the ellipsoid the two latitudes are	
+10:44		called the North and South exact	
+10:46		parallels and noted as B sub N and B sub	
+10:52		s now we see a cone generated through	
+10:56		the two exact scale parallels this means	
+10:59		that it is a secant cone in other words	
+11:03		the surface of the cone is within the	
+11:05		surface of the ellipsoid between the	
+11:07		standard parallels and outside it	
+11:10		towards its apex and towards its skirt	
+11:14		the axis of the cone is coincident with	
+11:17		the axis of rotation of the ellipsoid	
+11:20		for each unique pair of standard	
+11:23		parallels a unique cone will be created	
+11:28		another parallel of latitude occurs	
+11:31		between the two standard parallels where	
+11:34		the separation between the ellipsoid	
+11:35		surface and the cone is greatest this	
+11:38		latitude is nearly midway between the	
+11:40		standard parallels and therefore it's	
+11:43		name is the central parallel its	
+11:45		notation is B sub o representing the	
+11:49		latitude of the origin	
+11:52		of the projection each zone has its own	
+11:55		central parallel a tabled constant for	
+11:58		that zone for each zone the geometry of	
+12:02		the cone fixes the distance from the	
+12:04		apex to the central parallel the	
+12:07		notation for that distance is R sub o	
+12:11		standing for the mapping radius of the	
+12:13		projection origin the angle between the	
+12:18		axis of the cone and its surface will	
+12:21		have a value that is equal to the	
+12:24		latitude of the projection origin next	
+12:29		we see a geodetic meridian of Latta the	
+12:31		longitude projected onto the cone that	
+12:34		is a true north-south line the designer	
+12:38		of the zone has selected a particular	
+12:40		Meridian to fulfill best the needs of	
+12:43		those who will use the zone it will form	
+12:46		the center of the east/west extent of	
+12:48		the zone therefore it is called the	
+12:51		central Meridian and as a tabled	
+12:53		constant at the intersection of the	
+12:56		central Meridian with the central	
+12:58		parallel is the projection origin now we	
+13:04		see the addition of another parallel of	
+13:06		latitude it is the North geodetic	
+13:09		latitude of the grid origin and it's	
+13:11		ordered at its intersection with the	
+13:13		central Meridian as the origin of the	
+13:15		grid in every zone that point is	
+13:18		assigned a northern value of 500,000	
+13:21		meters and an easting value of 2 million	
+13:24		meters the notation for the latitude of	
+13:27		the grid origin has B sub B because	
+13:30		through it will pass the baseline of the	
+13:32		grid associated with grid latitude of	
+13:36		the grid origin is a particular distance	
+13:39		from the apex of the cone this distance	
+13:42		is known as the mapping radius through	
+13:44		the grid origin noted as R sub B it is a	
+13:47		tabled constant for each zone next we	
+13:51		see the customary north-south limits of	
+13:53		the grid and the customary east-west	
+13:55		limits of the grid illustrated these	
+13:58		limits are customary only when there is	
+14:00		good reason for doing so the grid may be	
+14:03		expanded beyond them	
+14:05		before we continue to the our next	
+14:08		graphic let's look at a simple model	
+14:11		with a paper cone are presenting the	
+14:14		large cone with its apex way above the	
+14:18		North Pole of the ellipsoid on this cone	
+14:22		we can see that the geodetic meridians	
+14:25		have been projected through and they	
+14:28		form now north side north south geodetic	
+14:31		lines you'll also see that the latitude	
+14:35		line has been projected through so that	
+14:38		they form what appeared to be parallels	
+14:40		on the cone surface now the interesting	
+14:44		thing that this cone is to illustrate is	
+14:47		that when we develop this cone that is	
+14:49		when we flatten it out which we'll do	
+14:51		right now those lines that appeared to	
+14:56		be parallel become large semi circles	
+15:01		here and the lines that used to be	
+15:06		running to the apex of the zone now	
+15:09		converge at a point so the geodetic	
+15:12		meridians converge while the parallels	
+15:16		of latitude become large arts of circles	
+15:22		we will now see a series of pictures	
+15:26		portraying the developed cone that is	
+15:28		the cone once it has opened up and	
+15:30		flattened into a plane on that developed	
+15:33		cone we will see the various lines that	
+15:36		relate it and the grid that creates	
+15:39		state plane coordinate system this	
+15:43		picture shows the cone for a zone	
+15:45		developed that is opened up and	
+15:47		flattened the cone entirely encircled	
+15:50		the ellipsoid in other words it	
+15:52		represents a full 360 degrees of	
+15:55		longitude but now that it has been	
+15:57		developed the central angle at the apex	
+16:00		of the cone is considerably less than	
+16:03		60 degrees the central angle at the	
+16:07		apex of the developed cone equals 360	
+16:10		degrees times sine b sub o this gives us	
+16:14		the ratio that we can use to proportion	
+16:17		differences in lunge	
+16:18		when calculating the corresponding	
+16:21		central angle on the developed cone sine	
+16:24		B sub O is the sine of the latitude of	
+16:27		the projection origin a tabled constant	
+16:31		the latitudinal line Illustrated for are	
+16:34		developed cone is B sub o through the	
+16:37		projection origin we see that the	
+16:43		mapping radius of B sub O has been	
+16:46		labeled as R sub o is the distance from	
+16:49		the line of latitude B sub o to the apex	
+16:52		of the cone a tabled constant now added	
+16:55		as the northern axis the northern axis	
+16:58		coincides with the central Meridian	
+17:00		therefore it's longitude is the same as	
+17:03		that of the central Meridian passing	
+17:04		through the projection and grid origins	
+17:07		next we see the addition of another	
+17:10		latitudinal line and its mapping radius	
+17:13		the latitude is that of the parallel	
+17:16		passing through the grid origin its	
+17:19		latitude is noted as B sub B that is a	
+17:23		tabled constant for each zone the	
+17:26		mapping radius is labeled as R sub B it	
+17:29		is the mapping radius through the grid	
+17:31		origin and as a tabled constant next we	
+17:35		see the addition of the easting axis it	
+17:38		passes through the grid origin and is at	
+17:41		a right angle to the central meridian	
+17:45		next can be seen lines of longitude	
+17:48		approximately delineating the customary	
+17:50		east-west limits of the zone also added	
+17:54		as a segment of the latitude	
+17:56		approximately delineating the customary	
+17:59		northerly limit of zone the customary	
+18:03		southerly limit is the easting axis next	
+18:08		a meridian of longitude extends from the	
+18:10		apex of the cone to a station which	
+18:13		coincidentally is on the central	
+18:15		parallel a longitude is a true	
+18:18		north-south geodetic line a geodetic	
+18:21		meridian the notation for the west	
+18:24		geodetic longitude of a station has	
+18:26		capital L if we create a grid	
+18:31		a grid North line through the station it	
+18:34		will be parallel with the northern axis	
+18:37		the plane convergence angle is the angle	
+18:40		formed on the developed cone between the	
+18:43		central Meridian and the line of	
+18:45		longitude through the station lower case	
+18:48		gamma symbolizes the plane convergence	
+18:51		angle it can be seen on the screen that	
+18:55		the difference between grid north and	
+18:57		geodetic north at the station equals the	
+19:00		plane convergence angle at the apex of	
+19:02		the developed cone the plane convergence	
+19:05		angle is equal to the difference between	
+19:08		the longitude of the central Meridian	
+19:10		and the longitude through the station	
+19:12		multiplied times sine b sub o both the	
+19:17		longitude of the central meridian l sub	
+19:19		o and sine of b sub o are tabled	
+19:22		constants for each zone this principle	
+19:25		imposes the same proportioning	
+19:27		previously imposed upon the central	
+19:29		angle for the entire cone let's now look	
+19:34		at another set of illustrations dealing	
+19:36		with the grid it will make clear the	
+19:39		grids construction and its relationship	
+19:41		to certain elements of the cone and	
+19:43		Lipsyte on the screen we see the two	
+19:47		standard parallels of geodetic latitude	
+19:49		each California coordinate system zone	
+19:52		has two of these lines of exact scale	
+19:54		where the cone intersects the surface of	
+19:57		the GRS eighty ellipsoid the northerly	
+20:00		one is noted as B sub N and the	
+20:02		southerly as B sub s now we see the	
+20:06		circular arc of the central parallel	
+20:08		added to the illustration noted as B sub	
+20:12		o there's a parallel of latitude that is	
+20:14		approximately midway between the	
+20:16		standard parallels along this line	
+20:18		occurs the minimum scale within the zone	
+20:21		associated with the central parallel is	
+20:23		its mapping radius the distance from the	
+20:26		apex of the cone to the central parallel	
+20:28		a distance notice noted as R sub o both	
+20:33		the latitude of the central parallel	
+20:35		that's mapping radius are tabled	
+20:37		constants next we see the addition of	
+20:40		the central Meridian that is the	
+20:42		projection of a true north-south	
+20:44		geodetic line	
+20:45		noted as l sub o the central Meridian	
+20:50		also is the northing axis of the grid it	
+20:53		passes through both the projection	
+20:54		origin and the grid origin as such it's	
+20:57		notation is also e sub o by definition	
+21:02		the central meridian has an Easton value	
+21:04		of two million meters in all zones at	
+21:08		the intersection of the central parallel	
+21:10		and the central Meridian is the origin	
+21:12		of the projection this location has	
+21:15		geodetic coordinates that is latitude	
+21:17		longitude of B sub o by L sub o we now	
+21:22		see another parallel of latitude has	
+21:24		been added that it is B sub B that is	
+21:27		the projection of the geodetic latitude	
+21:29		passing through the grid origin as a	
+21:31		tabled constant it also has a particular	
+21:34		mapping radius associated with it a	
+21:36		tabled constant notice R sub being at	
+21:39		the intersection of the central meridian	
+21:41		with B sub B is the origin of the grid	
+21:45		consequently its genetic coordinates are	
+21:47		B sub B by L sub o through the grid	
+21:51		origin and at a right angle to the	
+21:53		central meridian friends the easting	
+21:55		axis of the grid it is the base line of	
+21:58		the grid noted as n sub B a northern	
+22:02		value of 500,000 meters is associated to	
+22:05		the with the easting axis therefore the	
+22:09		origin of the grid has plane coordinates	
+22:11		of 500,000 metres northing by 2 million	
+22:14		meters east team this is true for all	
+22:16		zones by definition parallel with the	
+22:19		base line of the grid and passing	
+22:21		through the projection origin is an	
+22:23		east-west grid line its northern value	
+22:26		is noted as n sub o a tabled constant	
+22:29		therefore the grid coordinates of the	
+22:32		projection origin are n sub o by e sub o	
+22:37		on the screen we see the approximate	
+22:39		customary east/west extent of the zone	
+22:42		depicted these limits are customary only	
+22:45		but is usually not necessary to extend	
+22:48		the coordinate zones too far into the	
+22:50		Pacific Ocean or into adjacent States	
+22:53		easterly of us next on the screen we see	
+22:56		the approximate north-south customer	
+22:58		limits of the grid the customary	
+23:01		southerly limit is the baseline of the	
+23:03		grid more gridlines are added parallel	
+23:07		with the northern axis each line runs	
+23:09		grid north	
+23:10		remember that geodetic meridians	
+23:13		converge toward the apex of the cone	
+23:15		while grid meridians are not parallel	
+23:18		are all parallel therefore the	
+23:21		difference between geodetic north and	
+23:23		grid north at any particular point on	
+23:25		the grid depends upon the position of	
+23:28		the point now grid lines paralleling the	
+23:31		easting axes have been added to the	
+23:33		display	
+23:34		they all run grid East and at a right	
+23:37		angle to the north/south grid lines now	
+23:41		that we understand the basic geometry of	
+23:43		the ellipsoid cone and grid we will view	
+23:46		a series of pictures illustrating the	
+23:48		geometry that allows us to convert	
+23:50		geodetic coordinates in other words	
+23:53		latitude and longitude to state plane	
+23:55		coordinates are familiar northings and	
+23:57		eastings we now see on the screen a	
+24:01		single line of latitude projected onto	
+24:06		the developed cone surface this line of	
+24:09		latitude is the central parallel of the	
+24:11		zone noted as B sub o the central	
+24:15		parallel is a tabled constant for each	
+24:17		zone we now see the central meridian a	
+24:22		geodetic north line added to the picture	
+24:25		on the screen this line is also the	
+24:28		northern axis of the grid all other grid	
+24:31		North lines will be parallel with it	
+24:33		it's each team value is 2 million meters	
+24:37		by definition that value is known as EC	
+24:40		Bo and is a tabled constant the	
+24:43		intersection of the central meridian	
+24:44		with the central parallel is the	
+24:46		projection origin now we add the easting	
+24:50		axis or base line of the grid noted as n	
+24:53		sub B this line runs at a right angle to	
+24:56		the northern axis its northern value as	
+25:00		a tabled constant and as 500,000 metres	
+25:03		by definition this northern value	
+25:06		sometimes is called its false northing	
+25:08		the intersection of the northern axis	
+25:11		with	
+25:12		easting access as the origin of the grid	
+25:14		the screen now shows a dimension line	
+25:18		extending from the apex of the cone to	
+25:20		the grid origin this distance is the	
+25:23		mapping radius through the grid origin	
+25:25		known as R sub B it is a tabled constant	
+25:29		by inspection we can see that by adding	
+25:32		together n sub B and R sub B we can	
+25:36		calculate the northing of the apex now	
+25:39		added to the display is a station at	
+25:42		which the geodetic coordinates and the	
+25:45		grid coordinates are to be equated we	
+25:48		see a parallel of latitude added through	
+25:51		the station its latitude is noted as	
+25:54		capital V next added is a geodetic	
+25:57		meridian of longitude extending from the	
+26:00		apex of the cone to the station the	
+26:02		notation for its longitude is capital L	
+26:07		now another line has been added	
+26:09		it is a line through the station	
+26:12		extended at a right angle from the	
+26:13		northing axis the latitude through the	
+26:16		station has a particular mapping radius	
+26:19		associated with it labeled as capital R	
+26:22		the length of the mapping radius through	
+26:25		the station can be measured along the	
+26:27		Meridian from the apex to the station as	
+26:31		shown on the screen now the central	
+26:33		parallel has its own particular mapping	
+26:36		radius noted as R sub o it is a tabled	
+26:40		constant the value of the mapping radius	
+26:43		R through our station will be needed for	
+26:45		converting geodetic coordinates to state	
+26:48		plane coordinates and vice versa so that	
+26:51		we can do this NGS devised a method to	
+26:55		calculate the radial distance between	
+26:57		the parallel of latitude through our	
+26:59		station and the central parallel it	
+27:03		involves the use of equations employing	
+27:05		tabled coefficients and the difference	
+27:08		in latitude between the origin of the	
+27:10		projection and the station the distance	
+27:13		obtained by this method is labeled small	
+27:15		U on the screen when they station is	
+27:19		north of the central parallel U is	
+27:21		negative when the station is south it is	
+27:24		positive	
+27:25		by inspection it is impaired it is	
+27:27		apparent that the mapping radius of our	
+27:30		station are equals the sum of the	
+27:33		mapping radius through the central	
+27:34		parallel R sub o and the radial	
+27:37		difference you remember that we	
+27:41		previously discussed that the central	
+27:44		angle of the developed cone could be	
+27:46		found by multiplying 360 degrees of	
+27:49		longitude by sine B sub o similarly an	
+27:54		angle on the grid between the central	
+27:56		Meridian and then the other geodetic	
+27:58		Meridian can be found by multiplying	
+28:00		their difference of longitude by sine B	
+28:03		sub o this angle is the plane	
+28:05		convergence angle located at the apex of	
+28:07		the cone the plane convergence angle	
+28:10		sometimes is called the mapping angle	
+28:12		its symbol is the lowercase Greek letter	
+28:15		gamma we now can see that we have	
+28:19		developed a giant right triangle the	
+28:21		conversion triangle one leg of it is the	
+28:24		mapping radius through the station when	
+28:27		angle of the triangle is the plane	
+28:29		convergence through the station using	
+28:31		classical Euclidean trigonometry we can	
+28:34		calculate the other two legs of the	
+28:36		giant triangle as noted on the screen	
+28:39		the leg along the northern axis of the	
+28:42		grid can be found by multiplying the	
+28:43		mapping radius through the station R by	
+28:47		the cosine of the plain convergence	
+28:49		angle this yields the difference in	
+28:51		northings between the apex of the cone	
+28:53		and our station remember that we	
+28:56		previously determined that adding n sub	
+28:59		B with R sub B yielded the northing of	
+29:02		the apex therefore subtracting the value	
+29:05		R cosine gamma yields the northing of	
+29:09		the station the northing is noted by the	
+29:11		small letter n next we see that the	
+29:18		remaining leg of the giant conversion	
+29:20		triangle labeled R sine gamma is shown	
+29:26		the value found by solving this	
+29:28		trigonometric equation is positive if	
+29:31		the Station is east of the northern axis	
+29:33		and negative if west we can calculate	
+29:36		the easting of our station noted	
+29:38		small e by adding the result to e sub o	
+29:42		thus we have a method to convert our	
+29:45		station's geodetic coordinates B and L	
+29:48		to it's a quick equivalent grid	
+29:51		coordinates small N and small e	
+29:54		reversing the procedure provides for the	
+29:56		inverse computation starting with plain	
+29:59		coordinates and going to geodetic	
+30:01		coordinates we will cover three broad	
+30:04		classes of calculations for state plane	
+30:06		coordinate systems in this presentation	
+30:08		they are first conversions of	
+30:11		coordinates between ellipsoid and grid	
+30:13		second manipulation of observations	
+30:16		these are adjustments applied to lengths	
+30:19		and Asmus when converting field	
+30:21		measurements to grid values and vice	
+30:23		versa	
+30:24		third transformations from zone to zone	
+30:28		we first will consider forward or direct	
+30:32		computation which is the conversion from	
+30:35		geodetic coordinates to plane	
+30:36		coordinates in other words we will	
+30:39		change latitude and longitude of a	
+30:41		station into the corresponding northing	
+30:43		and easting director forward mapping	
+30:46		equations are used to compute state	
+30:49		plane coordinates from geodetic	
+30:50		coordinates and the forward computation	
+30:53		we must find the mapping radius through	
+30:56		the station this may be done in two ways	
+30:59		the first is by using tabled polynomial	
+31:02		coefficients the method preferred by NGS	
+31:05		the coefficients are used in algebraic	
+31:08		equations to revive the missing link in	
+31:11		calculating the mapping radius through	
+31:13		the station this missing link is the	
+31:15		radial distance noted as small you	
+31:18		previously illustrated the polynomial	
+31:21		equations are straightforward although	
+31:23		the numbers are long but let us not	
+31:26		forget that the machine does the hard	
+31:28		work all that we must do is press the	
+31:31		buttons accurately another method for	
+31:34		determining the mapping radius is to	
+31:36		interpolate it from projection tables	
+31:38		this will be discussed in its proper	
+31:41		place during our discussion of forward	
+31:43		computation we begin by calculating the	
+31:46		difference of latitude between the	
+31:48		station to be converted and that of the	
+31:50		central parallel	
+31:53		this equation takes the north latitude	
+31:55		of the station noted as B and subtracts	
+31:59		the latitude of the projection origin on	
+32:01		the central parallel a tabled constant	
+32:04		noted as B sub o it yields the	
+32:07		difference in latitude between them if	
+32:09		working on a calculator computing only	
+32:11		ten significant digits such as the HP	
+32:14		forty one it is necessary when	
+32:18		subtracting latitudes to truncate tens	
+32:20		of degrees that is if the latitude is	
+32:23		thirty doing 33 degrees truncate it to	
+32:26		three degrees we can now use the	
+32:29		difference within latitude just	
+32:31		calculated to compute the value of u	
+32:34		remember that we previously saw that U	
+32:37		is the radial distance from the station	
+32:39		to the central parallel we will use L	
+32:43		polynomial coefficients for this	
+32:45		calculation these coefficients can be	
+32:48		found listed at the end of the	
+32:49		California coordinate system written	
+32:51		material each zone has its own set they	
+32:55		also different four feet or 4 meters	
+32:58		using the latitude difference just	
+33:00		obtained we enter it into an either	
+33:03		equation now displayed on the screen to	
+33:06		calculate the value of U some persons	
+33:10		feel that the second equation is easier	
+33:12		for handheld solution because it has a	
+33:14		nested form each equation takes the	
+33:17		difference in latitude or the difference	
+33:19		raised to a power and multiplies it	
+33:21		times a polynomial coefficient that is	
+33:24		tabled with the zone constants each	
+33:26		coefficient used in these equations is	
+33:29		noted with the capital L each has a sub	
+33:32		scripted number to indicate its proper	
+33:34		position within the equation beefer be	
+33:37		careful to keep track of arithmetic	
+33:39		signs the radial difference u has a	
+33:42		positive value if the station lies	
+33:45		northerly of the central parallel and a	
+33:47		negative value if it lies southerly	
+33:51		after we have calculated u the radial	
+33:54		distance from the station to the central	
+33:56		parallel we can calculate the mapping	
+33:59		radius for our station the equation now	
+34:03		displays shows that by taking the length	
+34:05		the mapping radius of the central	
+34:07		parallel R sub o and subtracting the	
+34:10		radial distance measured from the	
+34:12		station to the central parallel u we	
+34:15		calculate the mapping radius through the	
+34:18		station be careful with arithmetic signs	
+34:21		an alternative to using polynomial	
+34:24		coefficients is obtaining the mapping	
+34:26		radius from projection tables if they	
+34:29		are available the projection tables are	
+34:32		entered with the latitude of the station	
+34:34		and the mapping radius can be read in an	
+34:36		adjacent column usually projection	
+34:39		tables list latitude in whole minutes	
+34:41		there are 4 values of the mapping radius	
+34:44		for a latitude line between Oh minutes	
+34:46		must be interpolated remember from our	
+34:50		previous discussion that during a	
+34:52		forward conversion we're solving a giant	
+34:54		right triangle whether obtaining whether	
+34:58		obtained using polynomial coefficients	
+34:59		or from projection tables we now know	
+35:03		the mapping radius of our station in	
+35:06		other words we now know the length of	
+35:08		the the hypotenuse of our giant right	
+35:12		triangle the conversion triangle next we	
+35:15		must find the value of the angle of our	
+35:18		conversion triangle located at the apex	
+35:21		of the cone as we learned earlier this	
+35:24		angle is the plane convergence angle to	
+35:28		determine the plane convergence angle	
+35:30		symbolized by lowercase gamma we use the	
+35:33		equation displayed on the screen it	
+35:35		determines the difference between the	
+35:37		longitude of the central Meridian a	
+35:39		tabled constant noted as L sub o and the	
+35:42		west longitude through the station noted	
+35:45		as L it then proportions that difference	
+35:48		by sine B sub o a tabled constant this	
+35:52		is the same relationship that the	
+35:53		central angle of the developed cone has	
+35:56		to 360 degrees of longitude as	
+35:59		previously discussed if working on a	
+36:02		calculator computing only 10 significant	
+36:04		digits such as the HP forty one is	
+36:07		necessary when subtracting longitudes in	
+36:09		this equation to truncate tens and	
+36:12		hundreds of degrees that is if the	
+36:14		longitude is 117 degrees truncate it to	
+36:19		/2	
+36:20		furthermore it is necessary to carry all	
+36:23		significant digits for this calculation	
+36:26		therefore is suggested that you use	
+36:29		register or stack arithmetic now that we	
+36:33		know both the length of the hypotenuse	
+36:35		in the angle at the apex of the cone we	
+36:38		may use them to solve our conversion	
+36:40		triangle it's solution provides the	
+36:42		remaining elements needed to calculate	
+36:44		the northing and easting of our station	
+36:47		first we calculate the northing of our	
+36:50		station using the equation displayed on	
+36:52		the screen	
+36:53		it adds the mapping radius of the grid	
+36:56		origin R sub B to the northing of the	
+36:59		grid origin n sub B this gives us the	
+37:02		northing of the apex of the cone we then	
+37:05		solve our cosine gamma which is the	
+37:09		difference in northings between the apex	
+37:12		and the station this is then subtracted	
+37:14		from the northern of apex leaving only	
+37:17		the northing of the station noted as	
+37:20		small end finally we calculate the	
+37:23		easting of the station by solving our	
+37:27		sine gamma we find the easting	
+37:30		difference between the central meridian	
+37:32		and the station the value will be	
+37:34		positive if the station is east of the	
+37:36		central meridian negative if it is west	
+37:39		add the value to e sub o the easting of	
+37:42		the central meridian to obtain the	
+37:44		easting of the station noted as small e	
+37:48		we now have finished the process known	
+37:52		as direct or forward computation we	
+37:55		begin with the latitude and longitude of	
+37:57		a station its geodetic coordinates and	
+38:01		we converted them to their equivalent	
+38:03		northing and easting its plane	
+38:05		coordinates next we will study inverse	
+38:09		mapping equations which are to convert	
+38:12		plane coordinates to geodetic latitude	
+38:14		and longitude the geodetic coordinates	
+38:19		are measured on the ellipsoid of	
+38:21		reference as latitude and longitude	
+38:23		while the northing and easting is on the	
+38:25		grid either polynomial coefficients or	
+38:29		projection tables may be used in the	
+38:31		process first we must solve for the	
+38:34		plane convergence angle this equation	
+38:38		subtracts Isa both the easting of the	
+38:40		grid origin from the easting of the	
+38:43		station noted as small e this yields the	
+38:46		difference in eastings from the northing	
+38:48		axis to the station yet then divides	
+38:51		that difference by the sum of R sub B	
+38:54		the mapping radius of the grid base	
+38:56		which is the constant and n sub B the	
+38:59		northing of the grid base less the	
+39:03		northing of the station small n this	
+39:06		quantity is the difference in northings	
+39:08		from the apex of the cone to the station	
+39:10		these two quantities are the opposite	
+39:14		and adjacent legs of the large	
+39:15		conversion triangle it is necessary to	
+39:19		carry all significant digits of the	
+39:21		plane convergence angle resulting from	
+39:24		this calculation	
+39:25		therefore you should use register or	
+39:28		stack arithmetic next we proportion the	
+39:32		plane convergence angle by dividing by	
+39:35		sine b sub o this is the reverse the	
+39:39		procedure that we saw earlier when	
+39:42		learning forward computation this	
+39:46		equation is used to calculate the	
+39:48		longitude through the station remember	
+39:51		in our previous discussion we found that	
+39:53		we can proportion or scale the	
+39:55		difference in longitudes between the	
+39:57		central Meridian and a station by the	
+40:00		tabled constant sine B sub o when	
+40:03		calculating the plane convergence angle	
+40:06		this equation takes the plane	
+40:08		convergence angle symbolized by	
+40:11		lowercase gamma	
+40:12		divides it by sine B sub o they're	
+40:15		buying calculating the difference in	
+40:17		longitudes we then subtract that	
+40:20		difference from the longitude of the	
+40:22		central Meridian L sub o to calculate	
+40:26		the longitude through our station noted	
+40:28		as L if working on a calculator	
+40:31		computing only 10 significant digits	
+40:34		such as the HP 41 it is necessary when	
+40:38		subtracting longitudes in this equation	
+40:40		to truncate tens and hundreds of degrees	
+40:43		furthermore is	
+40:45		necessary to carry all significant	
+40:47		digits in this calculation	
+40:49		therefore you should use register or	
+40:52		stack arithmetic now that we have the	
+40:56		longitude of our station we are left	
+40:58		with the problem of figuring its	
+41:00		latitude similar to the direct	
+41:03		conversion we need to use the mapping	
+41:05		radius through our station while	
+41:07		calculating the latitude this	
+41:10		necessitates our use of the radial	
+41:12		difference noted as you unless	
+41:16		projection tables are available we won't	
+41:19		proceed for now as if no projection	
+41:20		tables are available first we will	
+41:24		calculate the radial difference you in	
+41:28		this equation we seek the value of the	
+41:31		radial difference between the mapping	
+41:33		radius of the central parallel and the	
+41:36		mapping radius through the station in	
+41:37		question first the difference in the	
+41:40		eastings between the station and	
+41:41		northing axis e sub o is multiplied by	
+41:45		the tangent of half the station's planed	
+41:48		convergence angle we then subtract the	
+41:51		result from the difference between the	
+41:54		northing of the station noted small N	
+41:56		and the northing of the projection	
+41:58		origin a tabled constant note is n sub o	
+42:02		giving us u next we must use the radial	
+42:06		difference to compute the latitude of	
+42:08		the station G polynomial coefficients	
+42:11		are used for inverse computation after	
+42:16		the radial distance has been calculated	
+42:18		G polynomial coefficients are used in	
+42:21		algebra algebraic equations to calculate	
+42:24		the difference between the latitude of	
+42:26		the station and that of the projection	
+42:29		origin the equation then adds the length	
+42:32		to the latitude of the projection origin	
+42:35		and thereby we we receive the latitude	
+42:39		of the station either one of these	
+42:42		equations may be used to calculate the	
+42:44		latitude of the station using the	
+42:46		previously calculated value for you and	
+42:49		multiplying it by the G polynomial	
+42:52		coefficients tabled constants for each	
+42:55		zone the various portions of the	
+42:58		solution	
+42:58		must be	
+42:59		carefully solved and then combined	
+43:01		taking care with arithmetic signs and	
+43:05		obtaining the latitude of the station if	
+43:08		working on the calculator computing only	
+43:12		0 significant digits such as the HP	
+43:14		forty one it is necessary when adding	
+43:17		latitudes to truncate tens of degrees if	
+43:22		projection tables are used the latitude	
+43:25		must be obtained by interpolation the	
+43:28		interpolation argues mapping radius	
+43:30		against latitude the mapping radius may	
+43:34		be calculated from the following	
+43:35		equation you may recognize the	
+43:40		Pythagorean theorem in this equation	
+43:42		this equation takes the square of the	
+43:45		leg of the conversion triangle comprised	
+43:48		of the difference of eastings adds to it	
+43:51		the square of the leg of the conversion	
+43:54		triangle comprised of the difference of	
+43:55		northings and then takes its square root	
+43:58		yielding the hypotenuse of the giant	
+44:01		triangle which is the mapping radius	
+44:03		through the station all terms on the	
+44:07		right side of the equation are tabled	
+44:09		zone constants except the northing and	
+44:11		easting of the station when using	
+44:15		projection tables the mapping radius	
+44:18		just calculated is used as an argument	
+44:21		against latitude the mapping radius	
+44:25		isn't interpolated to refine the	
+44:29		latitude of the station we've been at	
+44:33		this for quite a while now and we have	
+44:35		finished our discussion of inverse	
+44:37		computation so let's take a short break	
+44:48		welcome back to our discussion of state	
+44:51		plane coordinates we will begin with	
+44:54		adjustments to observations first we	
+44:57		will deal with asthma's on the screen we	
+45:01		see the central meridian or northern	
+45:03		axis running north-south is labeled a	
+45:07		sub o the notation for its easting which	
+45:10		is a constant for each zone we also see	
+45:13		the easting axis labeled n sub B which	
+45:17		is the notation of its northing also a	
+45:19		constant on the screen now a station has	
+45:24		been added now a geodetic Meridian that	
+45:28		is a geodetic North line has drawn	
+45:30		between the station and the apex of the	
+45:33		cone this meridian is the line of	
+45:36		geodetic longitude through the station	
+45:39		we now see a line running from our	
+45:42		station toward another station it is	
+45:45		easterly of us in this case the grid	
+45:50		asmath of the line to the station is	
+45:52		desired now shown as an angle labeled	
+45:57		alpha this angle identifies the geodetic	
+46:01		asmath the geodetic azimuth of the line	
+46:04		toward the second station as two	
+46:06		clockwise angle from the geodetic	
+46:08		meridian around to the line to the	
+46:12		second station for the california	
+46:16		coordinate system of 1983 geodetic	
+46:19		azmuth is reckoned from north not south	
+46:22		as previously done on the screen now a	
+46:27		grid North line through the station has	
+46:29		been added because it is grid north it	
+46:32		is parallel with the northern axis of	
+46:34		the grid now we see the plane	
+46:38		convergence angle labeled gamma at our	
+46:41		station between geodetic north and grid	
+46:44		north in this case convergence is	
+46:48		negative because the station is west of	
+46:50		the central Meridian if it had been east	
+46:53		of the central Meridian that would have	
+46:55		had a positive value be careful with	
+46:58		arithmetic signs	
+46:59		plain convergence angle as some call	
+47:02		sometimes called the mapping angle we	
+47:06		now see the addition of an angler	
+47:08		dimension small T this quantity is the	
+47:13		grid asmath of the line between our	
+47:16		station and the one easterly of it grid	
+47:20		azmuth is the clockwise angle at a	
+47:23		station between the grid meridian that	
+47:26		is grid north and the grid line to the	
+47:28		other station next we see the equation T	
+47:34		equals alpha minus gamma plus Delta	
+47:39		bearing in mind that plain convergence	
+47:42		angle and our drawing has a negative	
+47:43		value inspection of the drawing	
+47:46		demonstrates that T is equal to geodetic	
+47:50		azmuth - plane convergence the other	
+47:55		term in the general formula is neglected	
+47:57		here it is variously named often arctic	
+48:02		chord correction or second term	
+48:05		correction there's usually minut but may	
+48:08		need to be considered for high-quality	
+48:10		work over long lines this presentation	
+48:14		neglects it for CCS 83 both Judaic and	
+48:20		grid Asmus are reckoned from north in	
+48:23		verses between stations having state	
+48:25		plane coordinates give grid azmuth and	
+48:28		may be used directly for calculations on	
+48:31		the grid plane convergence angles vary	
+48:35		with longitude therefore we must specify	
+48:38		the station where the convergence was	
+48:40		determined when quoting it on a map	
+48:44		plane convergence may be determined in	
+48:47		two ways where the longitude is not	
+48:50		known without calculation plane	
+48:53		convergence can be calculated using the	
+48:55		tabled constants of the zone and the	
+48:58		plane coordinates this is the same	
+49:02		equation that we saw earlier in the	
+49:04		inverse computation ISA Bo the easting	
+49:07		of the grid origin is subtracted from	
+49:10		the easting of the station small e	
+49:12		this yields the difference in eastings	
+49:16		then dividing the eastings difference by	
+49:19		the sum of R sub B the mapping radius of	
+49:21		the grid base and n sub B the northing	
+49:25		of the grid base blessed the northing of	
+49:27		the station this is the other leg of the	
+49:32		triangle these two quantities are the	
+49:36		opposite and adjacent legs of the large	
+49:38		conversion triangle they're arctangent	
+49:41		yields the plane convergence angle if	
+49:45		plane coordinates are not known but the	
+49:48		longitude of the station is known the	
+49:53		plane convergence may be calculated	
+49:54		using the difference in longitude	
+49:56		between the central meridian and the	
+49:59		station which is a constant B sub o to	
+50:06		calculate the plane convergence angle we	
+50:10		use the equation displayed on the screen	
+50:12		it determines the difference between the	
+50:17		longitude of the central Meridian a	
+50:19		tabled constant and the west longitude	
+50:22		through the station it then proportions	
+50:26		that difference using sine B sub o a	
+50:29		tabled constant this is the same	
+50:32		relationship that the central angle of	
+50:34		the developed cone has to 360 degrees of	
+50:38		longitude as mentioned previously after	
+50:42		using the calculator having only ten	
+50:44		significant digits such as the HP forty	
+50:47		one it is necessary when subtracting	
+50:50		longitudes in this equation to truncate	
+50:52		tens and hundreds of degrees furthermore	
+50:56		it is necessary to carry all significant	
+50:59		digits for this calculation therefore	
+51:02		use register or stack arithmetic the	
+51:07		last element of grid azmuth is the	
+51:09		second term or arctic chord correction	
+51:12		the Lambert system is called conformal	
+51:15		because it is a intended that field	
+51:18		angles and grid angles should be	
+51:20		identical they nearly are the second	
+51:24		term correction is usually	
+51:26		nute thanks being neglected for most	
+51:28		courses under five miles long it is the	
+51:32		difference between the grid asmath and	
+51:34		the projected geodetic azmuth	
+51:37		it increases directly with the change of	
+51:40		eastings of a line and with the distance	
+51:43		of the occupied station from the central	
+51:45		parallel figuring it is neglected in	
+51:49		this presentation this is the equation	
+51:53		previously seen at the end of the	
+51:55		graphics presentation of Asmus it states	
+51:59		the basic relationship that grid asmath	
+52:02		that small t equals the geodetic azmuth	
+52:05		alpha - the plain convergence angle	
+52:09		gamma plus the second term correction	
+52:12		Delta we have now finished our treatment	
+52:16		of asthma so we will next consider the	
+52:20		treatment of distances converting them	
+52:23		from the ground surface where they were	
+52:25		measured to their ultimate destination	
+52:27		the plane surface of the grid this	
+52:31		product takes the this process takes the	
+52:34		distance over several surfaces it	
+52:37		originates at the ground surface the	
+52:40		process then takes it through the	
+52:42		surface of what is called the geoid the	
+52:46		geoid is a gravity surface that has an	
+52:48		equal potential this surface is	
+52:51		analogous to the idea of mean sea level	
+52:54		however unlike the common notion of mean	
+52:58		sea level as a uniform surface smoothly	
+53:05		curving like an ellipsoid the geoid	
+53:08		curves up and down or undulates these	
+53:11		changes usually occur gradually but	
+53:14		nonetheless are significant over long	
+53:16		distances the next surface involved in	
+53:20		our process is the geodetic or	
+53:22		ellipsoidal surface of the GRS 80	
+53:25		ellipsoid the separation between the	
+53:28		ellipsoid and the geoid	
+53:30		is considered for the California	
+53:32		coordinate system of 1983 this is a new	
+53:36		process the older state plane chord	
+53:40		system did not consider this separation	
+53:42		because for the most part it could not	
+53:45		be readily quantified the final surface	
+53:49		that we go to is the surface of the cone	
+53:52		which is in fact the plain surface of	
+53:55		the grid on the screen a ground surface	
+54:00		is shown for our present purposes it has	
+54:03		an elevation significantly above sea	
+54:05		level	
+54:07		now another surface is added it is the	
+54:11		surface of the geoid practically	
+54:13		speaking this is the surface that serves	
+54:16		as the datum for elevations in other	
+54:18		words mean sea level the dimension	
+54:21		between the geoid surface and our ground	
+54:24		surface is labeled H we commonly know	
+54:28		this distance is elevation next we see	
+54:33		the addition of a third surface the	
+54:35		surface of the GRS eighty ellipsoid in	
+54:38		this illustration that lies above the	
+54:41		geoid or sea level surface this is the	
+54:44		case for all 48 contiguous states the	
+54:49		distance at a station from the geoid to	
+54:51		the ellipsoid is called geoid separation	
+54:54		or geoid height and noted by capital n	
+55:00		for the contiguous 48 states geoid	
+55:03		separation has a negative value because	
+55:06		the geoid is below the ellipsoid now on	
+55:11		the screen we see another dimension has	
+55:13		been added this is a lips Idol or	
+55:16		geodetic height noted as small H it is	
+55:22		elevation using the ellipsoid for its	
+55:24		datum remembering that in our	
+55:29		illustration capital n has a negative	
+55:32		value it is apparent by inspection that	
+55:36		small h equals capital n plus large age	
+55:41		this relationship is now shown on the	
+55:44		screen now a horizontal measured	
+55:48		distance at ground level is added this	
+55:51		distance is a chord and is	
+55:53		noted as capital D lines are extended	
+55:57		normal to the surface of the ellipsoid	
+55:59		they converge towards the center of the	
+56:02		ellipsoid now on the screen we see that	
+56:06		when a ground surface chord distance is	
+56:10		reduced to a chord distance on the	
+56:12		ellipsoid surface the ellipsoidal	
+56:15		chordless differs from the chord	
+56:18		distance at ground level the notation L	
+56:21		sub C indicates ellipsoidal cordless if	
+56:26		ground length is above the ellipsoid	
+56:28		surface as in this case the ellipsoidal	
+56:31		cordless is shorter if ground surface is	
+56:34		below the ellipsoid like along the	
+56:36		Pacific Shore Death Valley and Imperial	
+56:40		Valley the ellipsoidal cordless is	
+56:42		longer than the ground length the	
+56:46		movement of the length through the geoid	
+56:48		is embedded in the equations used in	
+56:51		this example and is not a separate	
+56:54		procedure next we see the addition of	
+56:59		the geodetic surface noted s the	
+57:03		geodetic distance occurs on the geotag	
+57:05		surface that is the surface of the	
+57:08		ellipsoid it is an arc rather than a	
+57:12		chord it is the jus the geodetic length	
+57:16		is projected onto the cone the cone	
+57:19		surface is not shown in our illustration	
+57:21		but may be located either above or below	
+57:24		the ellipsoidal surface this depends on	
+57:28		whether the line is between the exact	
+57:30		scale parallels or outside them it also	
+57:34		could cost one or both of them the line	
+57:37		is projected onto the cone surface by	
+57:40		lines normal to the ellipsoid geodetic	
+57:44		lines between the exact scale parallels	
+57:46		shrink when projected onto the cone	
+57:49		while lines outside the exact scale	
+57:51		parallels get longer after the line has	
+57:55		been projected onto the cone its length	
+57:57		is a grid length that is is the distance	
+58:01		between points on the grid we begin our	
+58:05		conversion of measured distance to grid	
+58:08		distance by calculating the radius of	
+58:11		curvature of the ellipsoid because the	
+58:14		ellipsoid is flattened at its poles the	
+58:17		radius of curvature is uniform only	
+58:19		along the equator except along the	
+58:23		equator the radius of curvature will	
+58:25		vary as the azimuth of the line varies	
+58:28		and also as one travels along the line	
+58:34		because it varies with azmuth the	
+58:38		full-name is the radius of curvature in	
+58:40		the azmuth there are complex equations	
+58:44		for calculating precise values for this	
+58:46		radius an approximate radius for each	
+58:49		zone is the geometric geometric mean	
+58:52		radius of curvature at the projection	
+58:54		origin it is close enough for all but	
+58:57		the most precise work that can be	
+58:59		obtained by the following equation this	
+59:04		equation states that an approximate rays	
+59:07		of curvature in the azmuth noted as r	
+59:10		sub alpha plus or minus may be	
+59:13		calculated by dividing the geometric	
+59:16		mean radius of the ellipsoid at the	
+59:18		projection origin scaled to the grid a	
+59:21		tabled constant doted small R sub O by	
+59:26		the grid scale factor of the central	
+59:28		parallel which is small K sub o this	
+59:34		calculation yields the geometric mean	
+59:37		radius of curvature of the ellipsoid at	
+59:40		the projection origin using this	
+59:43		approximate radius of curvature of the	
+59:45		ellipsoid will we'll next calculate the	
+59:48		ellipsoidal reduction factor also known	
+59:51		as the elevation factor the value just	
+59:56		obtained for the approximate rays of	
+59:58		curvature is now used in the upper	
+60:01		equation on the screen to figure an	
+60:03		ellipsoidal reduction factor noted as R	
+60:06		sub e calculate the reduction factor by	
+60:11		dividing the approximate radius of	
+60:13		curvature by the sum of the approximate	
+60:17		radius the geodetic separation noted is	
+60:20		Capital n and the elevation to which the	
+60:23		measured line was reduced noted by	
+60:25		capital H this equation in effect	
+60:30		develops proportion between two radii	
+60:32		the first is the radius of the ellipsoid	
+60:34		at the station the other is the radius	
+60:38		at the ground elevation of the station	
+60:40		this is similar to route surveys where	
+60:44		the centerline cord lengths of a curve	
+60:46		may be scaled to an offset by using the	
+60:49		ratio of the centreline radius and the	
+60:52		offset radius the ellipsoidal cordless	
+60:57		noted L sub C can be calculated by	
+61:01		multiplying the ellipsoidal reduction	
+61:03		factor times the ground level horizontal	
+61:06		measured distance noted capital D this	
+61:11		is shown in the second the lower	
+61:12		equation on the screen this ellipsoidal	
+61:16		cordless is a straight-line distance	
+61:18		between two points on the surface of the	
+61:21		ellipsoid it is not a distance measured	
+61:24		on the surface of the lip side which	
+61:26		would be an arc length called a geodetic	
+61:29		length the elevation used for the	
+61:33		measured line is usually one of the	
+61:34		following for triangulation it is the	
+61:38		average elevation of the base line for	
+61:41		electronic distance measuring devices it	
+61:44		is the elevation to which the slope	
+61:46		length was reduced this is usually the	
+61:49		elevation of the instrument or the	
+61:51		elevation of the station mark for tape	
+61:55		lines is usually the average elevation	
+61:57		of the line each one meter air and the	
+62:02		geoid separation or elevation	
+62:04		contributes 0.16 parts per million of	
+62:08		air to the distance often geoid	
+62:10		separation can be estimated for stations	
+62:13		in the general area based upon published	
+62:16		values for nearby stations the value of	
+62:20		capital n usually does not vary greatly	
+62:23		in a given area examining the variations	
+62:27		in the proximity of your work can aid in	
+62:30		determining if anomalies exist in the	
+62:32		area	
+62:33		if precise geodetic lengths are desired	
+62:37		a correction from ellipsoidal cordless	
+62:40		to geodetic length on the ellipsoid	
+62:42		surface may be applied to lines	
+62:45		generally greater than 5 miles long	
+62:48		shorter lines and lines measured in	
+62:51		segments are essentially arcs and need	
+62:54		not be corrected the ellipsoidal	
+62:56		cordless but must be nearly nine miles	
+62:59		before the correction equals 1/100 of a	
+63:02		foot and over 19 miles before it equals	
+63:06		/10 of a foot the upper equation on the	
+63:12		screen is for calculating the chord	
+63:15		correction for lengthening the	
+63:17		ellipsoidal cordless to the geodetic	
+63:20		length remember that arcs are always	
+63:23		longer than their chords you may	
+63:26		recognize this equation from route	
+63:27		surveying the equation calculates the	
+63:31		chord correction by cubing the	
+63:34		ellipsoidal cordless and then dividing	
+63:37		it by 24 times the square of the radius	
+63:40		of curvature in the azmuth as shown by	
+63:45		the lower equation after determining the	
+63:48		chord correction the correction is added	
+63:51		to the ellipsoidal cordless yielding the	
+63:54		geodetic length noted as s once we have	
+63:59		calculated the geodetic length of the	
+64:01		line it must be projected onto the cone	
+64:04		grid length is calculated by multiplying	
+64:07		the geodetic length by a grid scale	
+64:11		factor grid scale factors an expression	
+64:14		of the amount of distortion imposed on	
+64:16		the length of a line from the ellipsoid	
+64:19		as it is projected onto the grid cone is	
+64:23		represented by the small letter K scale	
+64:27		factor is the ratio of the length of the	
+64:30		grid on the grid to the length on the	
+64:32		ellipsoid scale factor is dependent upon	
+64:35		latitude it is less than unity between	
+64:39		the standard parallels and greater than	
+64:42		unity outside them	
+64:44		scale factors can be calculated for	
+64:47		points or for lines for this	
+64:50		presentation point scale factors are	
+64:52		used exclusively if greater accuracy is	
+64:56		needed for a long line the point scale	
+64:59		factor for the midpoint may be used	
+65:02		approximate point scale factors may be	
+65:05		interpolated from projection tables a	
+65:08		method precise enough for any plane	
+65:10		coordinate work uses polynomial	
+65:13		coefficients we must first find the	
+65:16		value of the radial distance discuss	
+65:18		preview previously and noted as small U	
+65:22		if plane coordinates are known this	
+65:25		equation can be used to find the radial	
+65:29		difference this is similar to another	
+65:34		equation we saw earlier you may	
+65:37		recognize the Pythagorean theorem in	
+65:39		this equation this equation takes the	
+65:42		square of the leg of the conversion	
+65:45		triangle comprised of the difference in	
+65:47		eastings from the central meridian to	
+65:51		the station adds it to the square of the	
+65:53		leg of the giant triangle comprised of	
+65:55		difference of northings then takes the	
+65:58		square root of their sum yielding the	
+66:01		hypotenuse of the conversion triangle	
+66:03		which is the mapping radius through the	
+66:06		station that mapping radius through the	
+66:09		station is then subtracted from the map	
+66:12		mapping radius of the projection origin	
+66:14		to obtain the radial difference if	
+66:18		geodetic latitude for the line is known	
+66:21		the following equations can be used to	
+66:24		calculate the radial difference we have	
+66:27		seen them before during our discussion	
+66:29		on forward computation this equation	
+66:33		takes the north latitude of the station	
+66:36		noted as B and subtracts the latitude of	
+66:40		projection origin the central parallel a	
+66:44		tabled constant noted as B sub o it	
+66:47		yields the difference in latitude	
+66:52		if working on a calculator computing	
+66:56		only ten significant digits such as the	
+66:58		HP forty one it is necessary when	
+67:02		subtracting latitudes to turn kate tens	
+67:05		of degrees using the latitude difference	
+67:10		just obtained we enter it into either	
+67:14		equation now displayed to calculate the	
+67:16		value of u using polynomial coefficients	
+67:19		some persons feel that the second	
+67:23		equation is easier for handheld solution	
+67:25		because it has a nested form be careful	
+67:29		to keep track of arithmetic signs the	
+67:32		radial difference u has a positive value	
+67:34		if the station lies northerly of the	
+67:36		central parallel and negative value if	
+67:40		it lies southerly once we have	
+67:43		calculated the radial difference by one	
+67:46		of the equations we have just seen we	
+67:49		can use it to calculate the point scale	
+67:52		factor using polynomial coefficients the	
+68:00		value calculated above for the radial	
+68:02		distance U and the tabled F polynomial	
+68:05		coefficients can be used in the equation	
+68:07		shown on the monitor to calculate a	
+68:10		point scale factor noted as small K	
+68:14		approximate scale factors for points may	
+68:18		also be found in projection tables the	
+68:21		latitude or mapping radius through the	
+68:23		station is argued against scale factor	
+68:26		the immediate values are interpolated	
+68:30		next we use the point scale factor just	
+68:33		found to project our geodetic length	
+68:36		onto the grid this will give us its grid	
+68:39		length the grid length L sub grid is	
+68:44		calculated by multiplying the point	
+68:47		scale factor K together with the	
+68:50		geodetic length of the line small s if	
+68:54		no correction from ellipse ellipsoidal	
+68:57		cordless the geodetic length is	
+68:59		warranted and the latitude and elevation	
+69:02		differences are not great measured	
+69:05		lengths may be more	
+69:06		applied by a combined factor to	
+69:08		calculate grid lengths using a value for	
+69:11		average elevation and average latitude	
+69:15		the upper equation states that we can	
+69:18		calculate a combined factor noted CF by	
+69:22		multiplying an average lips idle	
+69:25		reduction factor r sub e by a point	
+69:28		scale factor calculated for the mid	
+69:30		latitude of survey noted small K the	
+69:36		lower equation shows that once we have	
+69:38		determined the combined factor we can	
+69:41		multiply each ground level horizontal	
+69:44		measured length noted capital D by it to	
+69:48		calculate each courses grid length grid	
+69:53		length may be converted to ground	
+69:55		lengths by reversing the above	
+69:57		procedures for measurements of similar	
+70:00		elevation latitude in short length	
+70:02		ground lengths may be calculated by	
+70:05		dividing a combined factor into the grid	
+70:08		length in dealing with areas calculated	
+70:14		on a grid the areas derived from stink	
+70:18		plane coordinates must be corrected if	
+70:21		ground level areas are desired the	
+70:25		equation shown on the screen may be used	
+70:27		to correct grid area to ground area it	
+70:31		shows that the ground level area of the	
+70:33		land may be computed by dividing the	
+70:36		grid area of the figure by the square of	
+70:39		the combined scale factor in effect this	
+70:42		applies the combined factor to both the	
+70:45		length and the width of the figure a	
+70:50		problem arrives arises in converting	
+70:53		coordinates from one zone to another to	
+70:57		convert plane coordinates in the overlap	
+70:59		of zones from one zone to another	
+71:01		convert the plane coordinates from the	
+71:04		original zone using the constants for	
+71:06		that zone to geodetic latitude and	
+71:09		longitude then using the coordinates for	
+71:12		the new zone convert the geodetic	
+71:15		latitude and longitude to the plane	
+71:17		coordinates in the new	
+71:21		as enacted by the California Legislature	
+71:26		Lennear units may be expressed either in	
+71:29		meters or in your u.s. survey feet plane	
+71:33		coordinates or distances expressed in	
+71:35		meters or feet can be converted to the	
+71:38		other unit simply by multiplying the	
+71:40		northern and eastern or the measurement	
+71:43		by the u.s. survey foot to international	
+71:46		meter equivalency shown on the screen	
+71:51		the u.s. survey foot is a length the	
+71:55		linear unit of the UN of the California	
+71:57		coordinate system is defined as one u.s.	
+72:01		survey foot equals 1,200 divided by 3937	
+72:07		international meters it is the	
+72:10		specialized foot that is used in	
+72:13		surveying when first using functions in	
+72:17		a calculator or computer to convert	
+72:19		between feet and meters you should test	
+72:22		to ensure that the correct conversion	
+72:24		factor is employed you should test you	
+72:28		should test it by using the machine's	
+72:30		functions to convert exactly 3937 feet	
+72:36		to meters the result should be exactly	
+72:40		,200 meters the reverse must also be	
+72:44		true comparing the result while	
+72:47		displaying the maximum decimal places	
+72:49		should tell you whether the conversion	
+72:51		you you are using is for us survey foot	
+72:55		one may work the California coordinate	
+72:58		system and either feet or in meters	
+73:01		however one must be consistent not only	
+73:04		must all distances and coordinates be	
+73:07		uniformly in feet or in meters	
+73:09		but tabled constants must also	
+73:11		correspond with the linear units close	
+73:14		Showzen I hope that this presentation	
+73:17		will help you in your understanding of	
+73:20		the state plane coordinate system I also	
+73:23		encourage you to study hard and prepare	
+73:25		well for your land surveying examination	
+73:27		I wish you the best of luck and success	
+73:31		thank you	

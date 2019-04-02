@@ -1,0 +1,1846 @@
+00:48		welcome to Caltrans lsi TLS exam	
+00:51		preparation course one aid in your	
+00:55		preparation for California licensure	
+00:57		examinations a word of caution don't use	
+01:01		this course as your only preparation	
+01:03		devise and follow a regular schedule of	
+01:06		study which begins months before the	
+01:09		tests work many problems in each area	
+01:12		not just those in this courses workbook	
+01:15		but problems from other sources as well	
+01:19		this course is funded by Caltrans but	
+01:22		you and I owe a profound thanks to	
+01:25		others the courses instructors from the	
+01:28		academic community the private sector	
+01:30		other public agencies and from Caltrans	
+01:34		as well we wish you well in your study	
+01:38		toward becoming a member of California's	
+01:39		professional land surveying community a	
+01:46		diligent thorough and complete search	
+01:49		for all evidence is the fundamental	
+01:52		essence of land surveying Curtis M Brown	
+01:57		welcome to the boundary determination	
+01:59		module of the Caltrans video training	
+02:02		course I am Robert Macomb I entered the	
+02:07		land surveying discipline during my	
+02:08		summer months as a student at the	
+02:11		University of California where I studied	
+02:13		physics later I became an employee at	
+02:17		private surveying firms acquiring my	
+02:19		professional license in 1977 since then	
+02:24		I have owned and operated a private	
+02:26		cadastral surveying company in a small	
+02:28		mountain community in Southern	
+02:30		California during the 80s I wrote exam	
+02:34		problems and also served as an examiner	
+02:37		today I'm going to introduce to you in	
+02:40		the form of a story the fundamentals of	
+02:43		boundaries surveying through the	
+02:45		adventures of a fictitious survey party	
+02:48		throughout my presentation I will	
+02:51		comment on their discovery process and	
+02:53		the evidence they gather their mistakes	
+02:56		will be instructive their decisions	
+02:59		issues for	
+03:00		eight surveying is not usually as	
+03:04		difficult as you will observe not	
+03:07		usually I say because sooner or later	
+03:09		every surveyor experiences a similar	
+03:11		story this lesson is not just a listing	
+03:15		of boundary principles with a picture to	
+03:17		go with each that would be less than	
+03:20		desirable you would learn little to help	
+03:22		you pass the exam and little to carry	
+03:25		forward into your career the	
+03:28		professional exam demands that you	
+03:30		demonstrate expertise the test does not	
+03:33		reward the amateurs ability to memorize	
+03:35		a list of facts the test will require	
+03:40		you to solve problems exemplary of	
+03:42		real-life the problems will require a	
+03:45		synthesis of research evidence knowledge	
+03:48		of principles and decisions which if	
+03:51		they were made in the real world would	
+03:54		make you financially liable let's	
+03:57		experience some boundary principles in	
+03:59		the surveyors true environment I will	
+04:02		begin with a series of definitions and	
+04:04		then I will proceed to the survey of the	
+04:08		Sundance ranch watch carefully	
+04:10		there will be a test later boundary	
+04:17		retracement is the essential task done	
+04:20		by surveyors a boundary is defined by a	
+04:23		deed retracing a boundary involves a	
+04:26		reconstruction of the conditions and	
+04:28		directives that originally set down the	
+04:30		legal description contained in the deed	
+04:32		a legal description is like a map	
+04:36		without lines and arrows although	
+04:38		sometimes it may refer to an actual map	
+04:41		when a map is referenced a legal	
+04:44		description may be greatly clarified to	
+04:48		illustrate these various terms consider	
+04:51		the following description of buried	
+04:52		treasure and follow it on the map shown	
+04:56		beginning at the grave then spaced due	
+05:00		west until the palm tree comes into view	
+05:03		thence go 200 paces in the direction of	
+05:06		the shipwreck to the X marked upon the	
+05:08		sand dig down 4 fathoms	
+05:13		this example has all the trappings we	
+05:16		need to demonstrate a modern boundary	
+05:18		retracement to find the buried treasure	
+05:20		we would follow the courses provided	
+05:22		using the map to help us interpret the	
+05:25		terms given this map and description is	
+05:29		fine provided the treasure has been	
+05:31		freshly buried the description is	
+05:33		recently written the map is available	
+05:35		and there is no confusion about the	
+05:38		meaning intended by the description what	
+05:41		happens over time is quite a different	
+05:43		story over time many of the terms of the	
+05:47		description will break down into	
+05:48		ambiguities for example suppose more	
+05:52		grave sites came into being the palm	
+05:55		tree cannot live forever or worse	
+05:57		another could grow near it the shipwreck	
+06:00		might never be found once it becomes	
+06:02		submerged completely and the X in the	
+06:06		sand well few things are less perpetual	
+06:10		as time goes on it will become	
+06:12		increasingly more difficult to find the	
+06:14		correct information needed to retrace	
+06:16		the description even with the map there	
+06:20		may come a day when the treasure is lost	
+06:22		forever that is why a surveyor depends	
+06:25		so much on good records the success of a	
+06:28		search is proportional to the effort of	
+06:31		the research in practice the lion's	
+06:36		share of surveying is done off the job	
+06:38		site researching and reading it would be	
+06:42		nice if the tasks were as simple as our	
+06:44		treasure hunt but surveyors do not	
+06:46		follow maps to buried treasure and X	
+06:49		never ever marks the spot	
+06:52		fortunately great progress has been made	
+06:55		since the days of treasure maps in	
+06:58		setting down ways of finding buried	
+07:00		objects or more to the point for severe	
+07:03		ways of finding a land boundary however	
+07:07		at least one basic idea of the past	
+07:09		remains the same we continue to use	
+07:12		everyday language to uniquely describe	
+07:14		the location of a boundary so that it	
+07:18		will have the best chance of being found	
+07:19		again	
+07:21		a non-ambiguous deed depends upon those	
+07:24		important words uniquely described	
+07:28		throughout history disagreements have	
+07:31		erupted over the intent of deeds that	
+07:34		were thought to be clear when written	
+07:35		but whose meanings became lost over time	
+07:38		particularly in cases were the deeds	
+07:41		physical representations the monuments	
+07:43		have disappeared with these pitfalls in	
+07:47		mind we stand before the entrance to	
+07:50		what is arguably the most involved	
+07:52		subject of land surveying boundary	
+07:55		determination which involves the use of	
+07:57		boundary principles what our boundary	
+08:01		principles they are the rules needed to	
+08:04		resolve ambiguities arising from the	
+08:07		loss of information not properly	
+08:09		perpetuated on paper or on the ground	
+08:13		many boundary principles to be discussed	
+08:16		during the next two hours were derived	
+08:18		from land disputes brought to the courts	
+08:20		for judgment among them are those cases	
+08:24		where the written terms of a deed	
+08:25		conflicted others derived from simple	
+08:30		interpretations of common and civil law	
+08:32		and matters not so much in conflict but	
+08:35		in need of a good dose of common sense	
+08:39		every professional surveyor needs a	
+08:42		personal library that includes a	
+08:44		reference section on boundary	
+08:46		determination the principles of boundary	
+08:49		determination can be found in the books	
+08:51		listed in the reference section at the	
+08:53		end of the boundary determination unit	
+08:55		of your workbook your success with the	
+08:58		exam will depend to a large extent on	
+09:01		your ability to understand and use at	
+09:04		least one of these boundary references	
+09:07		let me proceed now to the story of our	
+09:10		surveyors the setting is a project of	
+09:13		ranging complexity 1 which contains a	
+09:16		storehouse of traps and contradictions	
+09:18		which I will use to demonstrate a	
+09:20		multitude of boundary principles	
+09:28		the melodrama begins on a crisp morning	
+09:31		in the mountain community of Monument	
+09:32		Valley a fresh survey crew has occupied	
+09:36		a random point on a peak overlooking a	
+09:38		peaceful River the party chief pours hot	
+09:41		coffee from a thermos and opens his	
+09:44		research package for the first time the	
+09:47		information seems friendly enough an	
+09:49		innocent-looking subdivision on the	
+09:51		assessor's map his company has been	
+09:54		hired by the Sundance Ranch partnership	
+09:57		to survey their land known locally as	
+10:00		the Sundance ranch together with a	
+10:03		0-foot ride Road which serves the land	
+10:07		the office researcher has seen fit to	
+10:10		provide several documents that will come	
+10:13		into play at one time or another there	
+10:16		are two maps the first a subdivision map	
+10:19		recorded by an L Parker in 1920 the	
+10:23		second and unrecorded Platte signed by	
+10:25		an L Baltimore in 1905 the subdivision	
+10:31		map shows nine Lots surrounding the	
+10:33		Sundance ranch shown is a simplified	
+10:36		version of the subdivision map a little	
+10:40		more explanation is going to be helpful	
+10:41		we have the following facts the original	
+10:45		map states that all lines of the	
+10:46		subdivision Barrett right angles to each	
+10:48		other except the river in highway most	
+10:51		of the monuments set for the boundary	
+10:53		consist of 2x2 redwood Stakes or hubs if	
+10:56		you prefer the rest are iron pins	
+10:59		including the angle points along the	
+11:01		sidelines of the 60-foot road which is	
+11:04		dedicated the lot dimensions are not	
+11:07		particularly relevant and are not shown	
+11:09		this map is also a basis of a problem in	
+11:13		your companion workbook the crews work	
+11:19		seems to be cut out for them all they	
+11:22		have to do is find the original corners	
+11:23		of the ranch and the 60 foot road	
+11:26		leading to it the party chief dispatches	
+11:29		his chain Minh to the site of the	
+11:31		Sundance Ranch where they begin to make	
+11:32		an inspection for monuments nothing is	
+11:35		turned up after two hours of pacing come	
+11:38		passing and mag	
+11:39		searching and of course a great amount	
+11:43		of shoveling apparently this subdivision	
+11:46		is about as dry as they come while the	
+11:50		chain men are scratching around fence	
+11:52		corners and discovering old beer cans	
+11:54		and pieces of barbed wire the party	
+11:56		chief gets down to the basic paperwork	
+11:59		the Sundance ranch partnership deed is	
+12:02		only a few lines long he fully expects	
+12:06		the description to refer to the Sundance	
+12:08		ranch as shown on the subdivision map	
+12:11		read and weep the north easterly twelve	
+12:17		hundred and fifty feet of L Parker's	
+12:19		land in Section six	
+12:21		accepting the North 700 feet and the	
+12:25		east six hundred and sixty feet	
+12:27		containing an area of eight point four	
+12:30		five acres suddenly life has become a	
+12:35		lot more difficult surprisingly this	
+12:37		deed contains no reference to the	
+12:39		subdivision map although corners for the	
+12:41		ranch were set by the sub divider at the	
+12:44		time of the subdivision the shape and	
+12:47		location of the Sundance ranch	
+12:49		partnership land is not controlled by	
+12:51		the subdivision map but by the north and	
+12:53		east lines of Parker's land once the	
+12:57		location of Parker's land is known the	
+12:59		precise location of the Sundance ranch	
+13:01		will follow based upon the rule that	
+13:04		measurements and descriptions based upon	
+13:07		the preposition of are made at right	
+13:09		angles to the boundary specified unless	
+13:12		stated otherwise in the graphic shown	
+13:16		Parker's land is depicted ideally with	
+13:19		perpendicular north and east lines it	
+13:24		does not matter how acute the angle	
+13:26		between Parker's north and east lines	
+13:28		might actually be the right angle rule	
+13:31		will ensure that the ranch boundaries	
+13:33		distort in kind because Parker's deed is	
+13:37		called out in the deed to the Sundance	
+13:40		ranch partnership Parker's D becomes a	
+13:43		part of the Sundance ranch partnership	
+13:45		deed the partnership deed is an example	
+13:50		of a nested description one which refers	
+13:53		to a	
+13:53		least one prior deed for its full	
+13:55		wording this is typical of metes and	
+13:58		bounds descriptions where nested	
+14:01		descriptions are a fact of life our	
+14:05		party chief should consider himself	
+14:06		fortunate if Parker's deed does not	
+14:09		refer back to an even earlier deed his	
+14:12		next task is to read the parker deed the	
+14:16		competent office researcher has done her	
+14:18		homework and provided him with a copy	
+14:26		Parker's deed is a document recorded in	
+14:29		905 the grantor was an EM Cassady it	
+14:33		reads as follows all that land in	
+14:36		Section six described as follows	
+14:40		beginning at the old Sequoia on the hill	
+14:42		north of town thence toward the center	
+14:45		of the bridge crossing the river to an	
+14:48		intersection with the North line of said	
+14:50		section six and the true point of	
+14:52		beginning thence continuing toward the	
+14:55		bridge one thousand seven hundred feet	
+14:58		and so on this is only the beginning of	
+15:03		Parker's description it continues in a	
+15:06		clockwise direction around the apparent	
+15:09		boundary of Parker's subdivision as a	
+15:13		natural Monument our party chief	
+15:15		realizes that the Sequoia tree must be	
+15:18		regarded as the irrefutable beginning of	
+15:20		the deed natural monuments are highest	
+15:23		in the hierarchy of evidence used to	
+15:25		establish lines upon the ground with the	
+15:28		exception of senior title if it is	
+15:30		contrary the bridge and the Sequoia are	
+15:34		well-known landmarks in the area still	
+15:37		how can he be sure that this is the same	
+15:41		tree in bridge that existed at the time	
+15:43		of the deeds execution locating the	
+15:47		center of the bridge may be easier said	
+15:50		than done	
+15:50		even for our intrepid crew there may be	
+15:54		some relief however in the form of the	
+15:57		second of the two maps the plat drawn by	
+15:59		El Baltimore in 1905 which was not	
+16:03		recorded	
+16:06		Baltimore's Platt appears to show	
+16:08		certain land ownerships that existed at	
+16:11		the time of his survey by the way the	
+16:15		companion workbook involves parties	
+16:17		Smith and Jones in a difficulty	
+16:19		involving simultaneous conveyances like	
+16:23		all problems in the workbook this is	
+16:25		typical of test questions found on the	
+16:27		professional exam unlike the subdivision	
+16:32		map this plat is not a simplified	
+16:34		version everything is shown that the	
+16:37		party chief sees this means that	
+16:40		although monument symbols may be	
+16:41		apparent	
+16:42		none of them are described in a legend	
+16:44		or labeled on the original map the party	
+16:48		chief notices a monument symbol on the	
+16:51		bridge possibly at the center of the	
+16:53		bridge as it was mentioned in Parker's	
+16:55		deed the apparent midpoint of the bridge	
+17:00		appears to be obvious when intersecting	
+17:02		it's symmetrical head walls these head	
+17:05		walls are old and appear to be the	
+17:07		original workings of the bridge however	
+17:10		the chain man's magnetic locator	
+17:12		indicates a distinct signal about nine	
+17:15		feet off the bridges Center as placed by	
+17:17		these head walls after an hour of	
+17:20		chipping through deep asphalt the party	
+17:23		Chiefs curiosity is satisfied a six inch	
+17:26		square iron plate bearing the	
+17:28		inscription Baltimore 1905 is uncovered	
+17:34		let's ponder this discovery for a moment	
+17:38		the obvious question is this does the	
+17:42		existence of Baltimore's plat with its	
+17:45		monument symbol at the bridge force us	
+17:48		to accept this monument as the center of	
+17:50		the bridge the party chief realizes that	
+17:54		this question carries with it a bundle	
+17:57		of liability he wisely chooses to pit	
+18:00		the situation against the following	
+18:02		important criterion a map must be called	
+18:06		for in a legal description to become a	
+18:09		legal part of the description	
+18:14		he therefore concludes that the 6-inch	
+18:16		plate cannot be taken as a point of	
+18:19		Parker's deed I would like to further	
+18:21		emphasize this criterion by saying that	
+18:24		even if Baltimore's disk were to bear	
+18:26		the inscription quote this point lies on	
+18:29		the subtly prolongation of the East line	
+18:32		of the parker deed unquote it would	
+18:35		still have to be rejected as the written	
+18:37		intent of the deed the language of a	
+18:40		deed is controlled by its written terms	
+18:42		and all terms of the deed are assumed to	
+18:45		be present on the other hand how certain	
+18:50		can anyone be that the center of the	
+18:52		bridge is defined by its four	
+18:54		symmetrical head walls for all we know	
+18:57		the original parties who transacted the	
+19:00		deed may have stood at the old Sequoia	
+19:02		tree impaired at the bridge through a	
+19:04		transit splitting the two northerly head	
+19:07		walls does this possibility make the	
+19:11		meaning of the term center of the bridge	
+19:13		ambiguous when may a surveyor suppose	
+19:17		that an ambiguity exists and when may he	
+19:21		not I'll return to this feisty question	
+19:24		a little later under the topic of intent	
+19:27		as to a decision regarding the bridge	
+19:31		our party chief chooses wisely by	
+19:34		adopting the center derived by all four	
+19:36		head walls with the East line under	
+19:43		their belt our illustrious crew turns	
+19:45		its attention to Parker's North line the	
+19:48		other line needed to survey the Sundance	
+19:50		Ranch partnership Dean Parker's North	
+19:53		Line is the North line of Section six	
+19:56		but this is not just any section six	
+19:59		this one abuts a standard parallel the	
+20:04		party chief recalls from his knowledge	
+20:05		of Township surveys that the sections	
+20:08		north and south of a standard parallel	
+20:10		are shifted east or west of each other	
+20:12		depending on the relative location of	
+20:14		the meridian this shift causes separate	
+20:18		monuments four sections north and south	
+20:20		of the parallel	
+20:23		to get started he looks among his	
+20:26		research materials for a map showing how	
+20:28		the standard parallel was monumental	
+20:30		this map turns out to be a US GL o	
+20:34		dependent resurvey plat from 1912	
+20:37		although not shown the government	
+20:40		surveyor in 1912 set the South line of	
+20:43		section 31 along a curved line of	
+20:46		latitude which is the correct procedure	
+20:48		for any parallel whether it's a standard	
+20:51		one or not that being the case the south	
+20:55		quarter corner of section 31 would be	
+20:58		expected to lie a little to the south of	
+21:00		the line connecting the southwest in	
+21:02		southeast section corners next he looks	
+21:07		at a 1915 u.s. GL o dependent resurvey	
+21:12		plat showing how corners were set for	
+21:15		Section six to the south he notes that	
+21:18		this plot shows unusual monuments called	
+21:21		closing corners at the northwest and	
+21:23		northeast corners of section 6	
+21:26		he and his diligent crew attempt to	
+21:29		recover these various corners along the	
+21:32		standard parallel the crew splits up to	
+21:36		accelerate the search the chain man's	
+21:40		failure to find the north quarter corner	
+21:42		of section six is not surprising North	
+21:45		quarter corners usually were not set for	
+21:47		section south of and abutting standard	
+21:49		parallels the chain person has better	
+21:53		success with two of the corners of	
+21:55		section 31 the south quarter corner and	
+21:57		the southeast corner unfortunately the	
+22:00		northeast corner of section six is most	
+22:03		certainly lost as the party chief is	
+22:07		scratching around for the northeast	
+22:09		corner of section six a local resident	
+22:12		approaches him holding an	
+22:13		official-looking monument in his hand	
+22:17		the cap on the monument bears the USG	
+22:21		ello stamp date in section designation	
+22:24		the resident explains that a few years	
+22:27		ago he witnessed a blade operator	
+22:29		hitting this monument he points to an	
+22:32		old tree trunk against which he says the	
+22:35		original corner once stood	
+22:36		the party chief no longer considers the	
+22:39		original closing corner to be lost but	
+22:42		merely obliterated an obliterated corner	
+22:47		is defined as the corner that may be	
+22:49		reestablished by some form of evidence	
+22:53		accurately indicating its original	
+22:56		location other than the original map or	
+23:00		plat a lost corner is one lacking any	
+23:03		such evidence original government	
+23:07		corners may be restored at the spot	
+23:09		indicated by a resident who saw the	
+23:11		original corner and knows where its	
+23:14		former location was as long as the	
+23:17		knowledge is firsthand the term	
+23:20		obliterated is generally not used for	
+23:22		monuments other than government corners	
+23:25		but the same rules of evidence apply for	
+23:28		non-government corners as well in this	
+23:32		lesson the term obliterated can apply to	
+23:35		any monument intended to define a	
+23:37		boundary obliterated corners can be	
+23:42		restored by several means the most	
+23:44		common is by using other monuments whose	
+23:47		relative locations to the obliterated	
+23:49		corner are shown unacceptable plots such	
+23:52		as recorded Maps unrecorded plots of	
+23:56		surveyors and in rare cases the plots of	
+23:59		lay persons may be used as Testaments to	
+24:02		the locations of original corners always	
+24:06		scrutinize such sources carefully	
+24:09		because a surveyor may accept the work	
+24:13		or a plat of another surveyor as	
+24:15		evidence for the re-establishment of an	
+24:18		obliterated corner but he must accept	
+24:20		the liability for errors and omissions	
+24:22		in the work of others he chooses to use	
+24:26		obliterated corners may also be	
+24:29		recovered by accepting existing	
+24:31		monuments that appear to be replacements	
+24:33		of originals these should be thoroughly	
+24:37		verified by contacting the surveyor	
+24:39		whose registration mark appears on the	
+24:41		monument should there be no registration	
+24:44		mark as is often the case with old or	
+24:47		damaged monuments there may be no	
+24:50		recourse	
+24:50		but rejection certification of an	
+24:53		unidentifiable monument carries risks	
+24:56		that are potentially damaging there are	
+25:00		other even more tenuous means of	
+25:02		recovering obliterated monuments for	
+25:06		instance an improvement built at the	
+25:08		time the original monument was known to	
+25:10		exist is acceptable if you can prove the	
+25:13		original monument control the	
+25:15		improvement lines of possession such as	
+25:19		fences are particularly controversial be	
+25:22		especially careful here your evidence	
+25:26		will need to be strong and may come	
+25:28		under very close scrutiny by other	
+25:30		surveyors or by the court	
+25:33		this method of recovering obliterated	
+25:36		monuments has been greatly abused and is	
+25:38		often challenged only the courts may	
+25:43		decide upon land ownership this is the	
+25:48		fundamental limitation of the land	
+25:50		surveyor a surveyor locates boundaries	
+25:54		according to legal descriptions the	
+25:56		courts and only the courts decide	
+25:58		ownership and property rights issues	
+26:02		unwritten rules of title may apply in	
+26:05		similar situations such as adverse	
+26:08		possession defined by lines of	
+26:10		possession here the surveyors obligation	
+26:14		to the client is one of disclosure a	
+26:17		surveyors duty is to map the location of	
+26:20		encroachments such as fences and	
+26:22		structures that fall across deed lines	
+26:24		and inform his client in writing as to	
+26:28		the facts having taken the residents	
+26:32		testimony our party chief perpetuates	
+26:35		the location of the original closing	
+26:37		corner in accordance with the land	
+26:39		surveyors act by setting his own durable	
+26:41		monument for example a 2-inch iron pipe	
+26:44		with brass discs burying his	
+26:46		registration number that same resident	
+26:50		also mentions that he is aware of the	
+26:52		location of the lost north quarter	
+26:54		corner of Section six premises knowledge	
+26:57		on information given to him by his	
+26:59		grandfather his offer to help is decline	
+27:03		it is explained to him that third party	
+27:06		testimony is considered hearsay and	
+27:08		cannot be used to restore monuments	
+27:11		anytime there is hearsay concerning	
+27:14		evidence in a survey it must be rejected	
+27:16		not as a possible fact but as a legal	
+27:19		fact as a possible fact it may beg	
+27:23		further investigation focusing on the	
+27:27		North line of the section the cruise	
+27:28		ties to the three available monuments	
+27:31		along the standard parallel reveal a	
+27:33		discrepancy in their expected alignment	
+27:36		the Northeast closing corner of section	
+27:39		six is a little over four feet south of	
+27:42		the standard parallel does this cause an	
+27:45		angle point in the standard parallel for	
+27:49		the answer to this our party chief	
+27:51		checks directly with the manual of	
+27:53		instructions in it he reads a closing	
+27:56		corner not actually located on the line	
+27:59		that was closed upon will determine the	
+28:01		direction of the closing line but not	
+28:03		it's legal terminus the correct position	
+28:06		is at the true point of intersection of	
+28:08		the two lines incidentally you shouldn't	
+28:13		be going to the test without the manual	
+28:15		of instructions know it thoroughly	
+28:18		several questions in the workbook will	
+28:20		test your ability to navigate for	
+28:22		answers deep within the waters of the	
+28:24		manual our party chief thinks the	
+28:28		recovered northeast corner of section	
+28:30		six might control Parker's East line as	
+28:33		well as his north line he knows that	
+28:37		Parker's deed is not controlled by the	
+28:39		section corner but by the tree bridge	
+28:41		line however he sees a puzzling	
+28:44		coincidence	
+28:47		Baltimore splat shows a distance of	
+28:49		exactly 660 feet from the tree bridge	
+28:52		line to the northeast corner of Section	
+28:55		six this is a familiar distance exactly	
+28:58		one eighth of a mile and an incredible	
+29:01		coincidence the party chief suspects	
+29:05		there may be a problem with Parker's	
+29:08		deed his next step is to verify the	
+29:12		suspicious 660 feet by looking at a	
+29:15		certain deed	
+29:16		which he happens to have among his	
+29:18		research materials	
+29:19		the year was 1895 the grantee and M	
+29:24		Cassidy who later passed title to Parker	
+29:29		Cassidy's ownership is shown in the	
+29:31		graphic and reads as follows all of	
+29:34		Section six except the East one eighth	
+29:38		also excepting the West one half also	
+29:41		excepting the South one half what	
+29:44		remains after the three exceptions is	
+29:46		simply a portion of the Northeast	
+29:48		quarter of section six now shown in	
+29:51		relation to the river and ranch the	
+29:53		North line of the east one eighth would	
+29:55		in theory measure six hundred and sixty	
+29:58		feet next our party chief measures a	
+30:02		distance of seven hundred and ten point	
+30:04		five feet from the tree bridge line to	
+30:07		the northeast section corner it is now	
+30:10		distinctly possible that Parker did not	
+30:13		receive all that Cassidy intended to	
+30:15		convey to him Cassidy may still retain	
+30:19		title to that portion of section six	
+30:21		between the tree bridge line and the	
+30:24		West line of the East one eighth a gap	
+30:26		about 50 feet wide to confirm this gap	
+30:31		the true breadth of the east one eighth	
+30:33		of the section needs to be determined	
+30:36		losing sleep over the matter our	
+30:38		tenacious crew decides to recover the	
+30:41		entire North line of Section six after	
+30:44		considerable effort because the terrain	
+30:47		is nasty	
+30:48		they eventually come up with the	
+30:49		northwest corner of the section well	
+30:52		almost	
+30:53		what they actually find our two original	
+30:56		bearing trees both still standing they	
+30:59		find an oak with its blaze still intact	
+31:01		and a dead Sycamore near a stream each	
+31:05		of these witnessed the original position	
+31:07		of the 1915 closing corner which was	
+31:10		originally a brass cap in a four-foot	
+31:13		diameter stone mound the brass cap is	
+31:16		gone and so is the mound but this corner	
+31:20		is only partially lost the accessory	
+31:22		bearing trees are defined as an integral	
+31:25		part of the original monument enabling	
+31:28		the closing corner position to be	
+31:30		established from the bearing and	
+31:31		distance ties provided in the 1915 field	
+31:34		notes shown in the graphic like its	
+31:38		northeast counterpart this corner of	
+31:40		section 6 is defined as a closing corner	
+31:43		because it is subordinate to the	
+31:45		standard parallel it controls the	
+31:48		direction of the west line of the	
+31:49		section but not its northerly terminus	
+31:54		supposing that the closing corner at the	
+31:57		northwest corner of the section is as	
+31:59		close to the standard parallel as was	
+32:02		the closing corner at the northeast	
+32:04		corner of the section the measured	
+32:06		distance between the two closing corners	
+32:08		will give the crew enough information to	
+32:10		set up an approximate East 1/8 of the	
+32:13		section true yes no maybe the subject of	
+32:25		land surveying is full of options and	
+32:27		possibilities whether the answer is true	
+32:30		or false or something in between is	
+32:32		embodied in the legal definition of the	
+32:35		east one-eighth of the section certainly	
+32:38		we can divide the measured distance by	
+32:40		eight but does the result give us the	
+32:43		legal definition of the east one-eighth	
+32:46		also we have to deal with the fact that	
+32:48		we are working in Section six	
+32:50		everybody's favorite section a typical	
+32:54		section six whether it abuts a standard	
+32:57		parallel or not is subdivided on the	
+33:00		government plat into Lots	
+33:01		each lot being given a numbered	
+33:03		designation these Lots were never	
+33:07		expected to contain exactly forty acres	
+33:10		because they include the excess or	
+33:12		deficiency of land in laying out the	
+33:14		township the government plat will show	
+33:17		acreages for these Lots based upon the	
+33:19		field measurements of the original	
+33:21		surveyors as they closed in to the north	
+33:23		and west lines of the township these	
+33:28		closing measurements constitute the	
+33:30		fractional parts of the section the	
+33:32		acreage is we see on the plat to day	
+33:34		were originally computed from these	
+33:37		fractional parts typically lot one might	
+33:41		contain forty two point one acres lakh	
+33:44		to forty four point six acres and so on	
+33:46		to derive the side dimensions a reverse	
+33:49		calculation must be done starting with	
+33:52		the areas in this case all of this boils	
+33:57		down to saying that the north quarter	
+33:59		corner should be established at forty	
+34:01		chains proportional to the overall	
+34:03		length of the section line so what does	
+34:07		all of this neat section six stuff have	
+34:09		to do with the east one-eighth of the	
+34:10		section nothing probably to understand	
+34:14		this we need to know how to define the	
+34:17		terms of this legal description and for	
+34:20		that we need to know whether to apply	
+34:22		the distinction between subdividing	
+34:24		sections under rules set by the federal	
+34:27		manuals or use the criteria of	
+34:30		subdivisions under state law	
+34:33		this is a complicated area of boundary	
+34:36		determination often subject to legal	
+34:38		opinion and speculation suffice it to	
+34:41		say that most situations will be covered	
+34:44		by the general viewpoint that for	
+34:46		government patents containing	
+34:48		descriptions of lot one lot - or 1/16	
+34:52		portions in larger such as the Northeast	
+34:55		quarter of the Northeast quarter and the	
+34:58		south half the original government plat	
+35:01		controls the proportioning of side	
+35:03		dimensions to create adequate parts 1/8	
+35:08		corners are not unheard of as government	
+35:11		monuments however since there is	
+35:13		probably no east 1/8 of a section to be	
+35:16		found in the context of government plots	
+35:18		such a portion might be considered a	
+35:21		subdivision under state law if that is	
+35:24		the case the description east 1/8 under	
+35:27		california law would probably refer to	
+35:30		an area rather than an eloquent part to	
+35:35		be absolutely sure of oddly described	
+35:37		section designations never hesitate to	
+35:40		search back to the original patent deeds	
+35:42		that conveyed the land from the federal	
+35:44		government actually in our section 6	
+35:47		situation the federal government deeded	
+35:50		the entire section as a whole in 1875 to	
+35:53		a railroad the term east 1/8 was	
+35:57		invented by private parties later in the	
+36:02		final analysis our patient field crew	
+36:04		does not need to know the precise extent	
+36:06		of the east 1/8 however they should pay	
+36:10		attention to the possible theoretical	
+36:12		overlap of Parker's subdivision into	
+36:15		Cassidy's original land this raises the	
+36:18		question as to the ownership of the	
+36:21		overlap a subdivide er cannot convey	
+36:24		land he does not own none of the	
+36:28		property within this 50-foot overlap or	
+36:31		gap depending upon your point of view	
+36:33		was actually subdivided or conveyed with	
+36:37		the filing of the subdivision map the	
+36:39		strip remains in the estate of cassidy	
+36:41		long-dead and only his heirs or	
+36:44		successors may pass	
+36:45		now to this area this does not mean that	
+36:49		unwritten means of title transfer have	
+36:51		not taken effect but only the courts can	
+36:55		say for sure the subdivision lines four	
+36:59		Lots three and four that run west to	
+37:01		east should be terminated at the east	
+37:03		line of Parker's original ownership	
+37:05		defined by the tree bridge line the crew	
+37:13		is finally ready to lay out the land	
+37:15		described in the Sundance Ranch	
+37:17		partnership Dean refreshing our memories	
+37:20		that deed describes the north easterly	
+37:23		twelve hundred and fifty feet of	
+37:24		Parker's land excepting the North seven	
+37:27		hundred feet and the east six hundred	
+37:30		and sixty feet as you might recall the	
+37:33		wording in that deed ended with the	
+37:35		extra phrase containing an area of eight	
+37:39		point four five acres drawing his	
+37:43		calculator from its holster the party	
+37:46		chief assumes roughly perpendicular	
+37:47		sides for the ranch and proceeds to take	
+37:50		the product of the sides five hundred	
+37:53		and fifty feet and five hundred and	
+37:54		ninety feet this yields an area of seven	
+37:58		point four or five acres exactly one	
+38:00		acre less than stated in the deed a	
+38:03		typographical error our party chief	
+38:05		surmises or is it mistakes and surveying	
+38:11		work if located with certainty should be	
+38:14		corrected at the place of their	
+38:15		occurrence so they do not adversely	
+38:17		influence other portions of the work but	
+38:21		where is the mistake is it the acreage	
+38:25		or one of the footages the party chief	
+38:29		now considers the fact that the footages	
+38:31		are given as whole numbers whereas the	
+38:34		acreage appears to be the result	
+38:35		erroneous or not of a calculation based	
+38:39		upon the footages a general intent	
+38:42		yields to a particular intent if there	
+38:45		is inconsistency between them if we	
+38:49		accept the footages as the particular	
+38:51		terms because they are stated as whole	
+38:54		numbers then the area quoted might	
+38:56		become the general term because	
+38:58		it is derived from computation finally	
+39:02		the party chief may settle on what is	
+39:04		the most definitive possibility calls	
+39:07		for area unless expressly intended are	
+39:11		the least important element when	
+39:13		considering conflicting elements in a	
+39:15		description lacking a clearly stated	
+39:18		intention the general problem faced by	
+39:21		the surveyor is to decide if there are	
+39:23		other possibilities hidden in the	
+39:25		wording of descriptions an acceptable	
+39:28		solution can be supported by any number	
+39:30		of existing facts but may be refuted by	
+39:33		only one a surveyors liability may be	
+39:36		avoided by eliminating all possibilities	
+39:39		that refute a solution our party chief	
+39:43		considers the area called out in the	
+39:45		deed to be soundly refuted excepting the	
+39:49		footages as the proper terms of the	
+39:51		Sundance ranch partnership deed he	
+39:54		realizes he is now in a position to	
+39:56		search for the corners while he muses	
+40:01		over this his chain Minh reminds him	
+40:03		that nothing was recovered during the	
+40:05		earlier cursory search for monuments	
+40:07		within the subdivision he suggests that	
+40:10		Parker's deed which probably corresponds	
+40:12		to the boundary of the subdivision might	
+40:15		be retraced and searched for original	
+40:18		subdivision corners on its boundary then	
+40:21		the chain Minh suggests that from these	
+40:24		corners on the boundary the corners	
+40:27		inside the subdivision might be found	
+40:31		this reasoning convinces the party chief	
+40:34		to run out the rest of Parker's Dee	
+40:37		unfortunately as we will all realize	
+40:40		later this reasoning should have been	
+40:42		considered more carefully before we	
+40:45		fully explore the dastardly deed of	
+40:48		Parker let's take a break I'll resume	
+40:51		the saga of the Sundance Ranch after	
+40:53		these important words from our sponsor	
+41:03		welcome back to monument valley where	
+41:06		the perils of boundary retracement	
+41:08		lurked in every corner as our story	
+41:11		continues we find our noteworthy crew at	
+41:14		a point in the park erdene along the	
+41:16		tree bridge line 1,700 feet subtly from	
+41:20		the north line of section 6 this is the	
+41:24		end of the first leg of the parker deed	
+41:27		the graphic will refresh our memory and	
+41:30		help us reorient to the parker	
+41:31		description from here	
+41:35		Parker's deed turns to the west on a new	
+41:38		heading reading from Parker's deed the	
+41:41		next instruction is vents south 89 30	
+41:45		west 660 feet as displayed in the	
+41:52		graphic the description is in route to a	
+41:54		certain gauging station to our party	
+41:58		chief getting there appears to be	
+41:59		straightforward once he gets pointed in	
+42:01		the right direction	
+42:02		and what is the right direction this is	
+42:06		the first mention of a bearing in	
+42:08		Parker's description although the word	
+42:10		southerly was used earlier along the	
+42:13		tree bridge line this term is too	
+42:15		general to properly orient the deed the	
+42:19		chain person notices something	
+42:20		interesting however here is what she	
+42:24		discovers the subdivision map partially	
+42:28		shown indicates the bearing north	
+42:30		:30 west for its east line further we	
+42:35		recall that the lines of the subdivision	
+42:37		bear at right angles to each other and	
+42:40		since the present course of Parker's	
+42:42		deed runs along a bearing of South 89 30	
+42:46		west this puts us exactly at right	
+42:50		angles to the subdivision map a	
+42:53		brilliant piece of detective work the	
+42:55		chain person has found a bearing	
+42:58		correlation between Parker's subdivision	
+43:00		map and his deed with this correlation	
+43:05		why can't we assume that the basis of	
+43:08		bearing in Parker's deed was meant to be	
+43:11		his East line as shown on his	
+43:13		subdivision map	
+43:14		or vice-versa bearing in mind the	
+43:17		subdivision map was recorded 15 years	
+43:20		after his deed to answer this we must	
+43:24		remind ourselves of the fundamental	
+43:26		premise of deed interpretation that the	
+43:29		language of a deed is controlled by its	
+43:31		written terms in all terms of the deed	
+43:33		are assumed to be present if Parker's	
+43:38		description had called out the bearing	
+43:40		shown on his subdivision map for the	
+43:42		tree bridge line we would base the	
+43:44		consecutive courses upon that bearing	
+43:46		and this would preserve a right angle	
+43:49		where the deed turns to the west but we	
+43:53		are always required to base the bearings	
+43:55		upon the first course where a particular	
+43:58		bearing is given if this first course	
+44:01		falls along a monument in line its	
+44:04		direction would be dictated by found	
+44:06		monuments controlling the deed without	
+44:09		monuments the assumed direction of the	
+44:12		second course south 89 30 west is based	
+44:16		upon astronomic north in the event that	
+44:21		a basis of bearings is not stated or	
+44:23		otherwise implied in a deed astronomic	
+44:27		bearings should be assumed the field	
+44:30		crew performs a solar observation to	
+44:32		provide the needed basis of bearing once	
+44:37		a basis of bearing has been adopted it	
+44:39		applies to all courses following unless	
+44:42		a new basis of bearings is stated or	
+44:44		implied there for Parker's next two	
+44:48		courses are based upon astronomic north	
+44:50		the actual deed instructions are as	
+44:53		follows	
+44:55		Vence south 0 30 East 300 feet Vence	
+45:01		South 89 30 West 900 feet to Logan's	
+45:06		gauging station the phrase to Logan's	
+45:10		gauging station begins with one of the	
+45:13		most important words in land surveying	
+45:15		it's a little word but it demands a lot	
+45:18		to requires that both the bearing and	
+45:21		the distance given beforehand in this	
+45:24		case South 89th 30 West 900 feet	
+45:28		yield to the object described in a deed	
+45:33		objects called out are the same as	
+45:35		monuments monuments whether they are	
+45:38		natural objects or artificial ones such	
+45:40		as iron pipes always take precedence	
+45:43		over mathematical information therefore	
+45:47		the cruise next pursuit will be defined	
+45:49		the gauging station when they find it	
+45:52		the center of the station will be taken	
+45:55		as the deep position since no other	
+45:57		intent is specified in the wording their	
+46:01		ground search reveals suspect remains a	
+46:04		cylindrical shaft suspended in the air	
+46:07		supported by a set of metal brackets	
+46:09		affixed to a large rock in the clip	
+46:13		shown in part is Baltimore's plat drawn	
+46:17		in 1905 the same year as Parker's deed	
+46:20		showing a tie to a gauging station in	
+46:23		existence at that time Baltimore does	
+46:27		not refer to it as Logan's gauging	
+46:29		station as stated in Parker's deed is	
+46:34		Baltimore's ankle tie	
+46:36		sufficient to relocate the gauging	
+46:37		station he shows on his map remember	
+46:41		that an obliterated corner may be	
+46:43		reestablished using an acceptable map or	
+46:46		plat if it depicts and indicates by	
+46:49		measurement the original location of the	
+46:52		corner there is no apparent reason to	
+46:56		reject Baltimore's plat as an acceptable	
+46:58		map although this does not mean it	
+47:01		should not be heavily scrutinized all	
+47:04		maps and records even if they are modern	
+47:07		and seem reliable should be thoroughly	
+47:09		examined in all parts a sources	
+47:13		reliability and a surveyors liability	
+47:16		are forever interlocked noting these	
+47:21		warnings our party chief decides to tie	
+47:23		the cylindrical shaft held by the metal	
+47:26		braces and compare this position to the	
+47:28		right angle tie shown on Baltimore's map	
+47:32		his measurement corroborates Baltimore's	
+47:35		tie line to within two feet evidently	
+47:38		Baltimore's gauging station coincides	
+47:40		with	
+47:41		remains are these remains then the same	
+47:45		as Logan's gauging station described in	
+47:48		Parker's deed it is possible to	
+47:52		corroborate this further by computing	
+47:55		the position of the station itself using	
+47:57		the course information contained in the	
+47:59		parker description itself when this is	
+48:04		done a 45-foot discrepancy results in	
+48:06		this case it would be a good idea to	
+48:10		solicit testimony from area residents	
+48:11		that the cliff remains are indeed those	
+48:14		of a unique gauging station that existed	
+48:18		in this area of the river around 1905	
+48:23		unlike the earlier principle that	
+48:25		refuted Baltimore's monument on the	
+48:27		bridge because it was not called for in	
+48:30		the description here there exists no	
+48:33		boundary principle based upon the	
+48:35		available evidence that requires the	
+48:38		cliff remains to be refuted as the	
+48:40		gauging station backed into this corner	
+48:43		the party chief cannot escape a dilemma	
+48:46		are these the remains of the station or	
+48:49		aren't they the jury inside his head	
+48:54		takes a few moments to deliberate he	
+48:58		accepts Baltimore's plat as	
+49:00		corroborating evidence for the	
+49:02		obliterated gauging station he accepts	
+49:05		the visible remains as primary evidence	
+49:08		he can find none of the area residents	
+49:12		to assert otherwise the next course of	
+49:16		the Parker deed is not as easy to	
+49:18		retrace it reads vents along the top of	
+49:25		the left bank of the river north 46:30	
+49:29		west 200 feet in the graphic shown this	
+49:34		course is seen leaving the gauging	
+49:36		station coming to an angle point which	
+49:39		then turns the Parker boundary to the	
+49:41		west moving to the next graphic we see a	
+49:45		detail of the area near the terminus of	
+49:48		this course here the chain Minh finds	
+49:51		the tail end of a retaining wall	
+49:53		overlooking the river	
+49:54		the wall bears to date 1935 scribed on	
+49:59		its top next to the date is a brass plug	
+50:02		set in concrete bearing the stamp city	
+50:05		engineer the crew suspects that the wall	
+50:10		is a public works project and where	
+50:12		there are public works there are public	
+50:15		survey notes the chain person is	
+50:18		dispatched to the country store where	
+50:20		she begins a telephone search for more	
+50:22		information during her research the	
+50:26		chain Minh who has remained at the site	
+50:29		discovers three more monuments near the	
+50:32		city engineers disk a three-quarter inch	
+50:35		iron pipe with a brass disk that is	
+50:38		partially obscured an open two inch iron	
+50:42		pipe and a two by two wooden stake	
+50:47		examining the subdivision map in the	
+50:50		vicinity of this point the chief notes	
+50:53		that a two by two redwood stake was	
+50:56		originally set here for the subdivision	
+50:59		his first guess is that this found two	
+51:02		by two stake is the original he	
+51:05		carefully removes the stake from the	
+51:07		ground replacing it with a nail to hold	
+51:09		its position inspecting the stake	
+51:12		carefully he notes it's deteriorated	
+51:15		condition at that moment the chain	
+51:18		person returns with a map from the city	
+51:20		engineer's office which was sent via the	
+51:22		general stores fax machine isn't	
+51:25		technology wonderful a detail of the	
+51:29		city engineer's map shows clearly the	
+51:32		replacement of the original subdivision	
+51:34		corner drawn by the city engineer there	
+51:37		appears to be little to dispute except	
+51:39		for the other monuments so what do we	
+51:44		have one a city engineers disk thought	
+51:48		to be the replacement of an original	
+51:49		subdivision monument but in conflict	
+51:52		with to a redwood stake suggestive of	
+51:56		being very old together with three an	
+52:00		open two inch iron pipe that for all we	
+52:03		know might be a sleeve to hold a real	
+52:06		estate sign	
+52:07		and for a 3/4 inch iron pipe set by an	
+52:11		unknown engineer the situation of	
+52:14		multiple monuments is a fairly common	
+52:16		occurrence conflicts between monuments	
+52:20		should be resolved by using the one that	
+52:22		best satisfies written intents and or	
+52:26		can best be linked with the original	
+52:28		using corroborated evidence in the	
+52:32		absence of identifiable original corners	
+52:35		corners such as those in the present	
+52:37		story are near the bottom of the list as	
+52:39		acceptable controlling evidence what is	
+52:42		the least acceptable evidence that	
+52:45		evidence left by improvements built soon	
+52:48		after the original monumentation what do	
+52:53		we do if by these standards two	
+52:55		monuments have equal credentials as a	
+52:58		corner the monument and best agreement	
+53:01		with record angle distance or area	
+53:04		should be used when deciding between	
+53:06		conflicting monuments of otherwise equal	
+53:09		status however this is not a case of	
+53:13		choosing between monuments in a	
+53:14		subdivision what is being retraced is	
+53:18		Parker's deed not the subdivision	
+53:21		although the two appear to represent the	
+53:24		same piece of land one cannot be used to	
+53:28		reestablish the other why because a	
+53:32		subdivision creates lots that are	
+53:34		conveyed by action of a survey defined	
+53:36		by monuments subdivision monuments are	
+53:39		set to subdivide a piece of land within	
+53:42		and ownership they do not control the	
+53:45		original conveyance that created the	
+53:47		land being subdivided although the city	
+53:52		engineer's disk might be used to control	
+53:54		this particular corner of the	
+53:56		subdivision where do we place the	
+53:59		corresponding corner of the park or deed	
+54:02		we are permitted to use the written	
+54:04		terms of the deed only therefore	
+54:09		following the deed literally the party	
+54:11		chief calculates a traverse from the	
+54:14		remains of the gauging station along the	
+54:16		course north 4630 west 200 feet	
+54:21		using the basis of bearing established	
+54:23		by the solar observation he finds this	
+54:26		position on the ground and compares it	
+54:28		to the four monuments in question	
+54:32		unfortunately the point falls short of	
+54:35		the wall and into the river we note that	
+54:38		the point does not fall on the quote top	
+54:41		of the left bank of the river unquote as	
+54:43		stated in the Parker deed are we bound	
+54:47		to the top of the bank as a natural	
+54:49		monument called for would this lead us	
+54:52		to consider one of the other points as	
+54:54		better evidence the bank of the river is	
+54:58		presumed to be ephemeral subject to	
+55:01		alteration by floodwaters and erosion	
+55:03		if the sudden loss of part of the bank	
+55:06		known as avulsion were to occur it would	
+55:10		not constitute a change in the original	
+55:13		deed boundary and avulsion does not	
+55:15		change boundaries local residents and	
+55:21		records in the County Historical Society	
+55:23		Museum confirm that floods occurring in	
+55:26		910 wreaked havoc on the banks of the	
+55:29		river and that the retaining wall built	
+55:31		in 1935 was the last of a series of	
+55:34		public works designed to bring the river	
+55:36		under control therefore the bearing and	
+55:40		the distance from the gauging station	
+55:42		remains the best evidence of the	
+55:44		location of the bank of the river before	
+55:46		the flood let's continue now with	
+55:50		Parker's next course we go thence south	
+55:55		9 30 west to the cliff road that's	
+56:00		along the cliff road I need to interrupt	
+56:03		the description here in mid-sentence	
+56:05		just for a moment these courses bring	
+56:08		our field surveyors to and along the	
+56:11		cliff road the bearings continue to be	
+56:14		astronomic this part of the river is	
+56:17		characterized by a deep 100-foot chasm	
+56:20		through solid rock the road runs along	
+56:23		the top of the cliff and is clearly the	
+56:26		only road that has ever existed along	
+56:28		the cliff in the absence of modifiers to	
+56:32		clarify the intent such as	
+56:35		the first edge of the road and so on we	
+56:38		must use the center of the road bid for	
+56:40		the deed line the road may or may not	
+56:43		turn abruptly as indicated by the map	
+56:46		although the map may depict the road it	
+56:49		only serves to clarify it is not part of	
+56:53		the legal description the true shape of	
+56:55		Parker's boundary would include any	
+56:57		curves in the roads alignment the	
+57:02		wording along the cliff road which was	
+57:05		interrupted just a moment ago continues	
+57:07		now with a very important qualifying	
+57:10		phrase which reads as follows to the	
+57:15		west line of the easterly 400 feet of	
+57:18		the west half of section 6 being the	
+57:21		southeast corner of land conveyed to be	
+57:24		Ketchum by deed in the year 1900 this is	
+57:31		a double call citing both the land of a	
+57:33		certain Ketchum and the easterly 400	
+57:36		feet of the west half of the section	
+57:39		this sets the stage for possible	
+57:41		conflicting terms the call to Kachins	
+57:45		land implies that it's East line should	
+57:47		be the rest line of the easterly 400	
+57:50		feet and that's fine providing it does	
+57:53		our party chief should verify this	
+57:56		before proceeding and should not be	
+57:59		surprised to find Ketchum's land	
+58:00		described differently within the section	
+58:04		until we know more	
+58:05		Kachins land may or may not enjoy senior	
+58:08		rights	
+58:10		senior rights are those rights held by	
+58:13		land owners who obtain title earlier	
+58:16		than an adjoining party the adjourn or	
+58:19		yielding to the senior title as of the	
+58:22		junior rights between a joiners the	
+58:25		senior deed is usually the one recorded	
+58:27		first but the date of record ation is	
+58:30		not the only factor used to establish	
+58:33		senior rights the date of agreement as	
+58:38		well as the date of execution may come	
+58:40		under close inspection by title	
+58:42		companies or the court between any two	
+58:46		adjoining there is always a senior	
+58:49		and junior title except for simultaneous	
+58:51		conveniences in which case there is no	
+58:54		distinction forever on his toes the	
+58:59		party chief inspects ketchem steed and	
+59:01		finds that Ketchum's Dean actually abuts	
+59:04		the West line of the easterly 3040 feet	
+59:08		of the section	
+59:10		therefore Ketchum's East line depends	
+59:13		upon the East line of the section not	
+59:16		the north-south centerline as stated in	
+59:19		Parker's description however there is	
+59:22		always the possibility that Ketchum's	
+59:24		description is incorrect a call to an	
+59:27		adjoint does not necessarily indicate	
+59:30		senior writes a chain of title obtained	
+59:33		from a title company is necessary to	
+59:36		determine junior/senior rights if the	
+59:39		legal description in Ketchum's deed were	
+59:42		to hold up as senior in the title search	
+59:44		it will become necessary to survey the	
+59:47		east line of section 6 to retrace	
+59:49		Parker's bead for the time being	
+59:52		Ketchum's East line will need to remain	
+59:54		uncertain we do not have enough	
+59:57		information about the east line of the	
+59:59		section at this time the crew continues	
+60:02		with the next instruction in Parker's	
+60:05		deed which tells them to go thence	
+60:09		northerly along Ketchum's east line to	
+60:12		highway 10	
+60:14		they follow an old north-south fence	
+60:17		until it intersects the highway	
+60:20		right-of-way fence a specific point on	
+60:23		or in the highway to go to is not	
+60:25		expressed in this wording do we stop at	
+60:28		the side line or proceed to the center	
+60:30		line of the road to name two	
+60:32		possibilities the chain Minh combs	
+60:36		through the research package to find an	
+60:38		early highway document recorded in 1880	
+60:41		and easement to the county for highway	
+60:44		purposes along a certain highway 10	
+60:47		granted by the original landowner of all	
+60:50		of section 6 the flyer railroad company	
+60:53		calls to a road are to the centerline if	
+60:57		the Grand Tour owns the underlying fee	
+60:59		in the row	
+61:00		unless the road itself is specifically	
+61:03		excluded the term highway 10 is also	
+61:07		potentially ambiguous checking his	
+61:10		research package for other highway	
+61:12		alignments that might have been granted	
+61:14		or dedicated since the 1880 document the	
+61:17		party chief confirms for himself that	
+61:20		modern highway 10 wasn't created by deed	
+61:23		until 1930 and is therefore not relevant	
+61:26		to Parker's description	
+61:29		unfortunately the 1880 easement document	
+61:32		did not specify with or a mathematical	
+61:35		position for the highway for the sake of	
+61:38		a good story which of course this one is	
+61:42		let's pretend that neither a map nor	
+61:45		description exists for that old highway	
+61:48		then it becomes useless to belabor the	
+61:51		question where is the 1880 highway it is	
+61:55		possible that it is lost forever every	
+61:58		once in a while a road will fall through	
+62:00		the cracks not everything in the world	
+62:03		is retraceable	
+62:10		proceeding with Parker's description	
+62:12		however uncertain it may be in places it	
+62:15		next instructs the crew to go thence	
+62:18		along said Highway ten to the	
+62:21		north-south centerline of section six	
+62:24		they are brought to a line they have up	
+62:27		to now been able to avoid to determine	
+62:31		the location of the north-south	
+62:33		centerline of section six they will need	
+62:36		to establish the north and south quarter	
+62:38		corners of the section I talked earlier	
+62:42		about how to establish the north quarter	
+62:44		corner which is the northwest corner of	
+62:46		lot to the south quarter corner if	
+62:51		intact is the other point the crew needs	
+62:53		if it is gone their search will need to	
+62:57		branch out to the section corners west	
+62:59		and east of it unfortunately they cannot	
+63:03		find the south quarter corner after a	
+63:04		diligent search the chain Minh hikes off	
+63:08		to the east to look for the southeast	
+63:10		section corner finding a 19-15 brass cap	
+63:13		there meanwhile the chain person	
+63:16		explores the line to the west finding	
+63:18		another 1915 brass cap on the Range Line	
+63:22		from a single control point the party	
+63:25		chief can tie both of these section	
+63:27		corners as well as reset the south	
+63:29		quarter corner at its proportional	
+63:31		position along the 19:15 line suddenly	
+63:35		it's everybody's lucky day in land	
+63:39		surveying one gradually learns to	
+63:42		suspect that which comes too easily	
+63:44		the chief rarely inspects the 1915 usgo	
+63:49		lope lat	
+63:50		showing the south line of section 6	
+63:54		standard brass caps were set at each of	
+63:57		the corners however the situation at the	
+64:00		southeast corner is a little strange a	
+64:02		set stone and a stone mound was found	
+64:05		there in 1915 and perpetuated with a	
+64:08		brass cap	
+64:09		showing that some original monumentation	
+64:12		from the original 1870 survey was found	
+64:15		along the South line perhaps a diligent	
+64:18		search will turn up something that the	
+64:20		915 survey miss	
+64:23		the original field notes for this South	
+64:25		line of section six describe what was	
+64:28		set the southwest corner a wood stake in	
+64:34		an earth Mound would be expected to lose	
+64:36		favor with the elements rather quickly	
+64:39		the southeast corner a set stone which	
+64:42		at that time was adjacent to a tree	
+64:44		would also need very good luck to	
+64:46		survive fortunately it was found in 1915	
+64:50		and perpetuated the south quarter corner	
+64:54		holds more promise the notes call for a	
+64:56		sizeable stone with a mound as well the	
+65:00		915 USDA low dependent survey of	
+65:04		section 6 was ordered by the government	
+65:07		to quote follow in the footsteps unquote	
+65:10		of the 1870 survey not to supersede it	
+65:15		it occurs to our party chief that just	
+65:19		because the 1915 survey failed to	
+65:21		recover two out of three of the original	
+65:24		870 monuments it is not necessarily	
+65:27		true that those original monuments are	
+65:30		gone from the face of the earth while	
+65:34		the other crew members watched he scours	
+65:37		a badly Boulder Mountain heavy with	
+65:39		brush for evidence of the original 1870	
+65:42		south quarter corner and sure enough	
+65:45		discovers two possible candidates one a	
+65:49		circular ring of stones half embedded in	
+65:51		the earth with a 19 by 12 by 11 inch	
+65:55		stone lying five feet downhill the other	
+65:58		a three-foot diameter two foot high pile	
+66:01		of rocks with an iron stake driven into	
+66:04		the ground through its center these are	
+66:07		some fifty feet apart he picks through	
+66:11		the mounds carefully looking for	
+66:13		possible accessory evidence in land	
+66:17		surveying we leave no stone unturned it	
+66:21		dawns on the chain man and he passes his	
+66:23		idea along to his chief of party that	
+66:26		they might test these corners by	
+66:28		comparing them with topographic calls	
+66:30		contained in the original 1870 notes if	
+66:34		any	
+66:35		it turns out that the 1870 notes do	
+66:39		contain distance measurements to	
+66:41		topography east and west of the subject	
+66:43		quarter corner as detailed in the notes	
+66:46		the 1870 government surveyors surveying	
+66:50		from east to west started at the	
+66:52		southeast section corner encountered a	
+66:54		ridge at 30 chains very Northwest at 50	
+66:58		Jaynes they encountered a stream these	
+67:01		are too easily recognized landforms	
+67:05		using the found corners of the 1915	
+67:08		survey as an approximate guide for the	
+67:11		original 1870 line the crew finds the	
+67:14		ridge and stream to lie at distances	
+67:17		which fit the 1870 survey notes very	
+67:19		well within 10 or 20 feet the exact	
+67:24		positions for the ridge and stream are	
+67:26		difficult to locate this is typical of	
+67:28		topographic calls measurements are at	
+67:31		best within five or ten feet using the	
+67:35		topographic calls the crew can place the	
+67:38		quarter corner at the proper	
+67:40		proportional distance between the rocky	
+67:42		ridge and the stream for the south line	
+67:46		of a typical Section six the quarter	
+67:49		corner would be placed at 40 chains in	
+67:51		this case the midpoint of the rocky	
+67:54		ridge and stream the principle facts	
+67:58		favoring the northwesterly circular ring	
+68:00		of stones as the original 1870 quarter	
+68:03		corner is the proximity of the 19 by 12	
+68:06		by 11 inch stone to the circular ring	
+68:09		and its position near the midline of the	
+68:11		ridge and stream however this latter	
+68:16		condition of position need not be met	
+68:20		from the source restoration of lost or	
+68:23		obliterated corners we have the	
+68:26		following fundamental dictate for	
+68:28		sectionalized land surveys the original	
+68:31		township section and quarter section	
+68:34		corners but not closing corners must	
+68:37		stand as the true corners which they	
+68:39		were intended to represent whether in	
+68:42		the place shown by the field notes or	
+68:44		not	
+68:45		in addition to this we need a way to	
+68:49		positively identify a corner a corners	
+68:53		acceptability	
+68:53		in the absence of other evidence can be	
+68:56		based upon its likeness to the original	
+68:58		corner the manual of instructions states	
+69:01		three conditions one the character and	
+69:04		dimensions of the monument in evidence	
+69:07		should not be widely different from the	
+69:09		record and two the markings in evidence	
+69:13		should not be inconsistent with the	
+69:15		record and three the nature of the	
+69:18		accessories in evidence including size	
+69:21		position and markings should not be	
+69:24		greatly at variance with the record and	
+69:27		what if there were no topographic calls	
+69:30		and no mounds of stone in the absence of	
+69:34		all other evidence the re-establishment	
+69:37		of lost government corners must be done	
+69:40		by a mathematical method of	
+69:42		proportionate measure a lost corner is	
+69:46		restored according to the type of corner	
+69:48		it is that is standard section corner	
+69:51		quarter corner closing corner township	
+69:54		corner township corner on a curve	
+69:57		parallel beyonder corner and so on the	
+70:02		field notes govern the actual procedure	
+70:05		by which a lost corner must be replaced	
+70:07		and some of the procedures are not	
+70:10		always obvious such as three-way	
+70:12		positioning or reestablishing section	
+70:15		lines with angle points failure to	
+70:18		consult the notes when restoring a lost	
+70:21		corner by mathematical methods is risky	
+70:24		business on the exam expect unusual	
+70:28		tricky circumstances like meander	
+70:30		corners and closing corners on rancha	
+70:32		lines remember that an obliterated	
+70:36		corner is never reestablished by a	
+70:38		mathematical proportion only a lost	
+70:41		corner is a thorough surveyor will	
+70:44		exhaust every possibility that a lost	
+70:47		corner is not actually an obliterated	
+70:50		corner using proportionate measure to	
+70:53		re-establish an original corner should	
+70:56		be done only as a last resort	
+70:59		it should be stressed that the use of	
+71:02		topography requires very careful	
+71:04		consideration when used with the method	
+71:07		of proportionate measure topography may	
+71:10		not be conclusive in situations where	
+71:12		the degree of measurement certainty is	
+71:14		poor where topography calls proved	
+71:17		inconclusive proportionate measure must	
+71:20		be used in a case like this a surveyor	
+71:27		should consult with the BLM but for now	
+71:29		we will accept the quarter cornerstone	
+71:31		backed up by the topo evidence let's	
+71:35		finish out the last two courses of	
+71:37		Parker's description Vence northerly	
+71:40		along said north-south centerline to the	
+71:43		North quarter corner of section 6 thence	
+71:46		easterly to the true pointed beginning	
+71:50		having completed a full retracement of	
+71:53		Parker's D our weary crew is	
+71:55		disappointed that little evidence	
+71:57		concerning the boundary of the	
+71:59		subdivision has turned up there is scant	
+72:03		to go by to establish the interior	
+72:05		corners reconstruction of the interior	
+72:08		monuments of a subdivision from its	
+72:10		boundary monuments may not be an	
+72:12		effective strategy particularly in older	
+72:15		subdivisions subdivision corners should	
+72:18		be re-established from the closest	
+72:20		available monuments inside the	
+72:22		subdivision original interior monuments	
+72:26		will hold in all situations whereas	
+72:29		original monuments on the boundary are	
+72:31		subject to the effects of title	
+72:33		discrepancy finally reminding himself	
+72:37		that a correct survey of the sundance	
+72:40		ranch partnership deed depends solely on	
+72:43		the north and east lines of Parker's	
+72:45		deed the party chief decides to see	
+72:47		where these corners fall inside the	
+72:50		subdivision	
+72:56		recalling that great overlap which had	
+72:59		formed against the East line of the	
+73:01		subdivision our party chief suspects	
+73:04		that this overlap likewise	
+73:06		shifts the deeded location of the	
+73:08		Sundance ranch as owned by the	
+73:10		partnership 50 feet to the west relative	
+73:13		to where it is shown on the subdivision	
+73:16		map he confirms this by computing the	
+73:20		corners of the sundance ranch	
+73:21		partnership deed and placing temporary	
+73:24		ground nails	
+73:25		these nails fall in the 60-foot Road	
+73:28		west of the ranch nearly to the east	
+73:31		line of law 8 at the same time this	
+73:37		shift opens a 50-foot fissure	
+73:39		on the other side who owns the land	
+73:42		within this easterly gap subdivision lot	
+73:47		lines are not extended beyond the	
+73:49		original monuments in cases where the	
+73:51		original sub divider failed to subdivide	
+73:53		all his land title to the unsub divided	
+73:57		land is in the original sub divider the	
+74:01		land is probably still in the estate of	
+74:04		Parker who owns the land within the	
+74:08		overlap on the west side this falls in a	
+74:11		dedicated Street the land in this street	
+74:15		was not in the original title of the sub	
+74:17		divider therefore it cannot be conveyed	
+74:20		by virtue of the monumentation	
+74:21		of the subdivision consequently only the	
+74:25		West 10 feet of the 60-foot Road was	
+74:28		actually created by the subdivision map	
+74:32		this does not mean that the owners of	
+74:35		the subdivision Lots would be forbidden	
+74:37		to use this road as they may have an	
+74:40		unwritten right in the road remember	
+74:43		always that the rules of unwritten title	
+74:46		may apply upon examination by the court	
+74:50		the apparent shift in location of the	
+74:53		ranch property in relation to the	
+74:56		monument a tranche per the subdivision	
+74:58		should not deter our crew from	
+75:00		continuing their search for original	
+75:02		subdivision monuments they need the	
+75:05		subdivision monuments to define the	
+75:08		access	
+75:09		Road to the Sundance ranch as our crew	
+75:12		searches for the original monumentation	
+75:15		we'll keep track of their progress by	
+75:17		looking at graphics based upon the	
+75:20		subdivision map keep in mind that the	
+75:23		actual location of the ranch is shifted	
+75:25		0 feet to the west of its position on	
+75:28		the maps we are viewing with a measure	
+75:33		of luck the crew stumbles upon an old	
+75:35		redwood hub at the apparent northwest	
+75:38		corner of the Sundance ranch as shown on	
+75:41		the subdivision map and finding an axle	
+75:45		near the northeast corner of the ranch	
+75:47		things begin to fall into place the	
+75:51		distance and direction between this car	
+75:53		axle and the old redwood hub fits the	
+75:56		map well the chain person succeeds in	
+76:00		obtaining the help of the owners of Lots	
+76:02		three and four enabling the crew to add	
+76:05		to their list of found monuments another	
+76:08		axle at the southwest corner of the	
+76:10		ranch as well as four other original	
+76:13		monuments on the boundary of Lots 3 and	
+76:15		 all of which are redwood hubs except	
+76:18		the northwest corner of Lot three which	
+76:21		is an iron pin the owner of lot three is	
+76:25		curious about the location of his	
+76:27		southeast corner let's digress for a	
+76:31		moment and demonstrate the specific	
+76:33		manner in which the southeast corner of	
+76:35		lot 3 would be reestablished	
+76:37		assuming it is lost between the	
+76:42		subdivision map and the field	
+76:43		measurements we observe a difference of	
+76:45		.5 feet in the overall length of the	
+76:49		combined East lines of Lots 3 and 4 this	
+76:53		difference should be distributed among	
+76:55		the Lots along the line formed by the	
+76:57		found monuments in accordance with the	
+76:59		principle of proration excess or	
+77:04		deficiency in measurement of a straight	
+77:06		line between fixed monuments within a	
+77:09		subdivision is distributed among all the	
+77:12		Lots along the line in proportion to	
+77:14		their record measurements when	
+77:18		subdivision Lots are created by a map	
+77:20		all the Lots are created simultaneously	
+77:23		even though actual conveyances of the	
+77:26		Lots may occur at different times at	
+77:28		later dates there is no senior or junior	
+77:30		titled distinction since no senior	
+77:34		rights exist mathematical proration	
+77:36		becomes the only equitable way to	
+77:38		distribute excesses or deficiencies in	
+77:41		measurement lot 3 therefore receives	
+77:44		more of the excess due to its longer	
+77:46		line excess or deficiency cannot be	
+77:51		distributed beyond any original found	
+77:53		monument in a subdivision for example in	
+77:56		a typical block original monuments found	
+77:59		at a B and C enable us to set any of the	
+78:03		intermediate points between them corners	
+78:06		at D and E would not qualify for	
+78:08		proration based upon the monuments found	
+78:12		however the monuments at a and B might	
+78:15		be used to control the direction of the	
+78:18		North line of the block in this way	
+78:20		corners D and E may be partially	
+78:23		controlled by a and B monuments set	
+78:29		beyond the original title line of the	
+78:31		sub dividers property can control the	
+78:33		direction of lines within the	
+78:35		subdivision much like government closing	
+78:38		corners the direction of the South line	
+78:42		of Lot three is controlled by the	
+78:44		monument set for the southeast corner of	
+78:46		Lot three even though the true corner	
+78:48		falls on the tree bridge line therefore	
+78:51		the South line of Lot three cannot go	
+78:54		all the way to the apparent East line of	
+78:57		the subdivision map that's 50 feet past	
+79:00		the sub dividers original ownership as	
+79:04		suggested by the graphic we would expect	
+79:06		to find the original subdivision	
+79:08		monuments set about 50 feet east of the	
+79:12		tree bridge line but life is full of	
+79:15		things we least expect returning to the	
+79:20		progress of our surveyors their	
+79:22		measurements show that the subdivision	
+79:24		was in fact monument at only one point	
+79:27		five feet east of the tree bridge line	
+79:30		not 50 feet	
+79:32		the North and South lines of lots three	
+79:35		and four should be 660 feet long	
+79:38		according to the subdivision map these	
+79:41		lots are actually about 50 feet narrower	
+79:44		on the ground the party chief concludes	
+79:47		that the East line of lots 3 and 4 were	
+79:50		monumental	
+79:52		to within about 1.5 feet anyway but the	
+79:57		balance of the subdivision to the west	
+79:59		was monumental 50 feet to the east	
+80:03		regardless the original monuments within	
+80:05		the subdivision still hold for the Lots	
+80:07		they were intended to define except for	
+80:10		the senior rights of the Sundance ranch	
+80:12		of course the chain person notices that	
+80:16		the northeast corner of lot 3 has been	
+80:19		set about 4 feet past the North line of	
+80:22		Parker's deed into section 31 her first	
+80:27		inclination is to assume that the lot as	
+80:29		a monument is cut off by the section	
+80:32		line fortunately she has been studying	
+80:35		diligently for the Land Surveyors exam	
+80:38		and retains a number of obscure	
+80:40		principles in her head she points out to	
+80:43		the party chief that if Parker the	
+80:45		original sub divider also on this land	
+80:48		in section 31 at the time he filed his	
+80:51		subdivision then he would have passed	
+80:53		title through the land as monumental	
+80:55		though it might have been monumental the	
+81:00		chief of party disbelieving and somewhat	
+81:03		ruffled takes a long slow breath and	
+81:05		combs through his favorite boundary	
+81:07		surveying reference where he finds that	
+81:09		his chain person is indeed correct as it	
+81:13		turns out Parker did own the southeast	
+81:15		corner of section 31 at the time he	
+81:18		filed his subdivision so lot 3 ends up	
+81:23		with a projection on its North Line	
+81:25		which lies 4.2 feet north of the North	
+81:28		line of section 6 and a foot and a half	
+81:31		past the tree bridge line meanwhile back	
+81:36		at the ranch let's take a look at what	
+81:38		is available for locating the 60-foot	
+81:40		road access to the Sundance ranch	
+81:43		remember the road is part of the survey	
+81:46		the crew has been assigned to perform	
+81:48		and the road is defined by the	
+81:50		subdivision map the graphic shown holds	
+81:54		some promise for doing this getting	
+81:57		started the party chief examines the	
+81:59		possibilities presented by the axle at	
+82:02		the northeast corner of the ranch first	
+82:06		of all he checks the overall distance	
+82:08		between the northerly and southerly	
+82:10		controlling monuments on the east side	
+82:12		of Lots	
+82:13		 and 5 and finds that it differs from	
+82:16		the subdivision map by over 12 feet but	
+82:19		that's not unusual for older	
+82:20		subdivisions of particular interest is	
+82:23		whether the axle fits a pro-rated	
+82:25		position on this line before testing	
+82:28		this he reminds himself that the	
+82:31		position of this monument may be	
+82:32		immaterial only original lines or their	
+82:36		replacements can control original lines	
+82:39		and subdivisions in the absence of any	
+82:42		proof of occupying the same position as	
+82:45		the original corner the party chief	
+82:47		determines that the axle should not be	
+82:50		used for proration or line direction the	
+82:54		westerly lines of lots 3 and 4 in this	
+82:56		case would be controlled by the two	
+82:59		monuments known to be originals at the	
+83:01		north and south ends assuming the	
+83:05		sidelines of the 60-foot road are lost	
+83:07		re-establishing the points where they	
+83:09		intersect the east line of lots two and	
+83:12		five would fall to the method of	
+83:14		proration provided the privately-owned	
+83:17		Lots bear the full brunt of the excess	
+83:20		or deficiency why dedicated streets are	
+83:25		in the public ownership so certain	
+83:28		principles apply in the absence of	
+83:31		monumentation their widths remain as	
+83:34		stated on the map on the other hand	
+83:37		remember that monuments always control	
+83:39		the map if original Street monuments are	
+83:43		recovered they will control the width of	
+83:45		the street whether in agreement with the	
+83:47		subdivision map or not for the situation	
+83:52		at hand the factor of proration to apply	
+83:55		to the east lot lines	
+83:56		lots - and five requires that we first	
+83:59		subtract the two 60-foot Road widths to	
+84:02		leave them out of the calculation each	
+84:05		of the private Lots will receive a	
+84:07		proportional share of the excess or	
+84:10		deficiency now for an academic question	
+84:14		should the Sundance ranch which is shown	
+84:17		as not a part on the subdivision map	
+84:19		also receive a proportional share of the	
+84:23		excess along with Lots two and five I	
+84:26		will leave this brainteaser to you as a	
+84:29		workbook exercise as it is with resurvey	
+84:35		zuv sectionalized land proration of	
+84:37		subdivision Lots is the rule of last	
+84:40		resort it must always yield to the	
+84:43		discovery of original monuments no	
+84:47		sooner is this said that our field crew	
+84:49		finds an original 2x2 redwood stake next	
+84:52		to the axle this original monument	
+84:56		supersedes the prorated position with	
+84:59		renewed excitement the chain Minh digs	
+85:01		around the southeast and southwest	
+85:03		corners of the ranch at the southwest	
+85:08		corner next to the earlier found axle he	
+85:11		turns up the trace remains of an old	
+85:13		redwood stake two feet down as more	
+85:18		originals come to light	
+85:19		other factors controlling the	
+85:22		re-establishment of street lines begin	
+85:24		to develop proration may no longer be	
+85:27		tenable in instances where the	
+85:29		subdivision map shows straight or	
+85:31		parallel lines we also have the	
+85:35		statement on the subdivision map that	
+85:37		certain lines bear at right angles to	
+85:39		each other	
+85:41		considering these various options our	
+85:43		Party chief decides to reconstruct the	
+85:46		0-foot road parallel through the North	
+85:49		line of the ranch as recovered by the	
+85:51		original subdivision monuments found on	
+85:53		that line in doing this he is asserting	
+85:57		that no other monumentation exists to	
+85:59		place the road this is consistent with	
+86:02		the re-establishment of positions	
+86:04		according to the rules of evidence as	
+86:06		they apply to lost and	
+86:09		corners the evidence in this case is the	
+86:12		subdivision map itself the survey is not	
+86:17		yet completed but the hour is growing	
+86:20		late an approaching thunderstorm will	
+86:23		arrive any minute	
+86:24		our dogged crew packs the equipment into	
+86:27		the truck the maps and deeds scattered	
+86:31		everywhere	
+86:31		our stacked folded in rolled and placed	
+86:34		into the briefcase the chain person is	
+86:37		gathering loose papers from the cab when	
+86:39		she notices a small reduced Assessors	
+86:42		map lying between the seats it has	
+86:45		become detached from a title report	
+86:48		written across lot eight is a barely	
+86:51		readable reference to a record of survey	
+86:55		unfortunately this record of survey is	
+86:57		not contained among the research	
+86:59		materials the party chief races to the	
+87:03		county records center just before	
+87:04		closing and there it is a complete	
+87:08		survey of law date filed as a record of	
+87:11		survey in 1940 at that time the entire	
+87:15		boundary was recovered from original	
+87:17		monuments as explained on the record of	
+87:20		survey each found original was	
+87:23		perpetuated with a three-quarter inch	
+87:24		iron pipe with a 1/4 inch disc bearing	
+87:28		the surveyors registration the crews	
+87:32		work concerning the 60-foot road is of	
+87:34		course superseded by this evidence with	
+87:38		this map as a basis they are able to	
+87:40		reestablish the 60-foot road with	
+87:42		confidence the following week	
+87:49		the moral of this story is that the	
+87:51		harder lessons of land surveying are	
+87:53		avoided by better research and	
+87:55		organization put anymore immediately	
+87:58		relevant way successful passage to the	
+88:01		other side of the Land Surveyors exam	
+88:03		will demonstrate as effectively as any	
+88:06		tough survey your ability to perform	
+88:08		effective analysis of evidence and to	
+88:11		apply your analysis to the boundary	
+88:13		problems in an efficient organized	
+88:16		fashion you should not take the exam	
+88:19		without thoroughly knowing the BLM	
+88:21		manual and at least one of the popular	
+88:24		boundary references several of which are	
+88:26		noted in the reference section of the	
+88:28		workbook a good rule for effective exam	
+88:32		preparation is it is better to know one	
+88:35		good source thoroughly so you can find	
+88:38		what you're looking for quickly than to	
+88:40		flounder through many you haven't had	
+88:42		time to read in detail test problems	
+88:46		involving boundary principles can it can	
+88:48		appear quite complex on the surface only	
+88:51		the poorly prepared are intimidated by	
+88:54		these become thoroughly familiar with	
+88:58		your research materials before you sit	
+89:00		for the exam perform the many research	
+89:04		needed before solving each problem each	
+89:07		boundary problem is usually composed of	
+89:10		a set of smaller associated problems	
+89:13		pick the problem apart to expose its	
+89:17		inner components I would like to	
+89:19		paraphrase a surveyor of note henry	
+89:22		david thoreau whose sage advice applies	
+89:25		very well to the examinee when you find	
+89:28		yourself laboring in the complexities of	
+89:30		a test problem just remember to simplify	
+89:34		simplify simplify to this I might add	
+89:39		another principle that should make the	
+89:41		test easy to pass the last principle of	
+89:44		this lesson study study study	
+90:38		you	
