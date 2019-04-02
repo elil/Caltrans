@@ -1,4 +1,4 @@
-On page 17 where is says:
+`On page 17 where is says:
 	Dimensions by inverse:
 		A.
 		B.
@@ -7,4 +7,4 @@ It should probably say:
 	Dimensions by inverse:
 		A.
 		B.
-		C. S89º 31' **5**7" W
+		C. S89º 31' **5**7" W`
